@@ -9,9 +9,11 @@ die Daten für kreative, eigene Projekte nutzen.
 Aktuell ist dies noch der erste Wurf.  Verbesserungsvorschläge, Anregungen & Ideen
 sind herzlich willkommen.  Verwende einfach den Issue-Tracker hier auf GitHub.
 
-Den Fahrplan als JSON-Datei findest du hier in der Datei
+Die Fahrplandaten findest du in der Datei
 [sessions.json](https://wueww.github.io/fahrplan-2019/sessions.json).
-Die Daten sind [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) lizenziert --
+
+Selbstverständlich sind die Daten
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) lizenziert --
 du kannst also einfach alles damit machen :-)
 
 Das Schema ist in der Datei [fahrplan.schema.json](https://wueww.github.io/fahrplan-2019/fahrplan.schema.json) beschrieben.
