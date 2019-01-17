@@ -1,5 +1,5 @@
 {
-  "format": "0.0.1",
+  "format": "0.0.2",
   "sessions": [
     {
       "key": "WUEWW-2019-500",
@@ -573,13 +573,6 @@
       "end": "2019-04-05T16:00:00+02:00",
       "host": "Würzburger Business Coach Akademie & Agentur heldenstreich",
       "title": "Pop-up Recruiting Café"
-    },
-    {
-      "key": "WUEWW-2019-001",
-      "start": "2019-04-01T:00+02:00",
-      "end": null,
-      "host": "WueWW",
-      "title": "Eröffnungsveranstaltung"
     },
     {
       "key": "WUEWW-2019-002",

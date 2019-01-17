@@ -6,7 +6,7 @@
   "properties": {
     "format": {
       "type": "string",
-      "description": "Schema Version number, currently 0.0.1; semantic versioning applies"
+      "description": "Schema Version number, currently 0.0.2; semantic versioning applies"
     },
     "sessions": {
       "type": "array",
@@ -20,13 +20,13 @@
           },
           "start": {
             "type": "string",
-            "description": "date-time of session start"
+            "format": "date-time"
           },
           "end": {
             "anyOf": [
               {
                 "type": "string",
-                "description": "date-time of session end"
+                "format": "date-time"
               },
               { "type": "null", "description": "the session is open-ended" }
             ]
