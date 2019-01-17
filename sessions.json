@@ -1,0 +1,633 @@
+{
+  "format": "0.0.1",
+  "sessions": [
+    {
+      "key": "WUEWW-2019-500",
+      "start": "2019-04-06T09:00:00+02:00",
+      "end": "2019-04-06T18:00:00+02:00",
+      "host": "Mayflower GmbH",
+      "title": "Developer Camp",
+      "location": {
+        "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg"
+      },
+      "description": {
+        "short": "Das Developer Camp ist ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. ",
+        "long": "Bereits zum vierten Mal findet das Developer Camp statt, ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. \n\nWir coden, hacken und tauschen uns im Open-Space-Format aus und versorgen Dich mit allem, was Du für gute zwei Tage Barcamp benötigst. Ansonsten sind wir offen für alle Methoden und Technologien für eine moderne Webentwicklung. Ob PHP, NodeJS/JavaScript, Scala, Java, .NET, Mobile oder DevOps, Agile und Lean Start-up: Wir freuen uns, Entwickler aus unterschiedlichen Disziplinen zusammenzubringen."
+      }
+    },
+    {
+      "key": "WUEWW-2019-100",
+      "start": "2019-04-02T08:00:00+02:00",
+      "end": "2019-04-02T12:30:00+02:00",
+      "host": "Stadtmarketing \"Würzburg macht Spaß“ e.V.",
+      "title": "Unternehmerfrühstück: Google-Tools für KmUs",
+      "location": {
+        "name": "Maritim Hotel Würzburg"
+      },
+      "description": {
+        "short": "Suchmaschinenoptimierung ist essentiell. Autor René Kress bietet Würzburger KMUs einen Workshop rund um Google.",
+        "long": "Ein Unternehmen, welches in Google nicht auffindbar ist, existiert für viele potentielle Kunden nicht. Google-Optimierung ist daher gerade für inhabergeführte Unternehmen essentiell. Der Berater und Autor René Kress bietet im Rahmen des „Würzburg macht Spaß“-Unternehmerfrühstücks kleinen und mittelständischen Unternehmen (KMUs) einen vierstündigen Workshop rund ums Google Konto: inkl. Google My Business, Google Search Console, Google Keyword Planer und ersten Schritten in der Suchmaschinenoptimierung."
+      }
+    },
+    {
+      "key": "WUEWW-2019-101",
+      "start": "2019-04-02T09:00:00+02:00",
+      "end": "2019-04-02T12:00:00+02:00",
+      "host": "Internet von Senioren für Senioren e.V.",
+      "title": "Senioren*innen ans Netz",
+      "location": {
+        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       "
+      },
+      "description": {
+        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
+        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-102",
+      "start": "2019-04-02T10:00:00+02:00",
+      "end": "2019-04-02T12:00:00+02:00",
+      "host": "UserMind GmbH",
+      "title": "Conversion Optimierung",
+      "location": {
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-103",
+      "start": "2019-04-02T10:00:00+02:00",
+      "end": null,
+      "host": "Computy GmbH & Co. KG",
+      "title": "„Stadt Land Fluss“ für WebWorker",
+      "location": {
+        "name": "Computy GmbH & Co. KG\nAntonie-Werr-Str. 7\n97082 Würzburg"
+      },
+      "description": {
+        "short": "Web-Freaks treffen sich um Spaß zu haben und gemeinsam über alte und aktuelle Themen zu diskutieren",
+        "long": "Wenn ihr privat oder beruflich leidenschaftlich gerne Webseiten oder Webapps plant oder baut, werdet ihr euch bei uns unter Gleichgesinnten wohl fühlen. Wir unterhalten uns über längst veraltete Techniken genauso wie über ultramoderne, „geile Scheiße“. Kleine Games wie „Stadt, Land, Fluss“ - in einer Version für Web-Freaks - werden uns herausfordern und für viel Unterhaltung und interessanten Gesprächsstoff sorgen. Wer nicht gern spielt schaut zu :-). Habt Spaß und genießt das Frühstück!"
+      }
+    },
+    {
+      "key": "WUEWW-2019-104",
+      "start": "2019-04-02T12:00:00+02:00",
+      "end": "2019-04-02T17:00:00+02:00",
+      "host": "IHK Würzburg-Schweinfurt",
+      "title": "Workshop Crowdfunding &\nAlternative Finance",
+      "location": {
+        "name": "IHK Würzburg-Schweinfurt\nHaus A\nRaum A-304\nMainaustraße 33-35\n97082 Würzburg "
+      },
+      "description": {
+        "short": "In diesem Workshop bringen wir Crowdfunding als Möglichkeit zur Finanzierung unternehmerischer Entscheidungen näher.",
+        "long": "Informationen zu Veranstaltung: Crowdfunding als moderner Weg, um neue\nund innovative Geschäftsideen oder einzelne Projekte zu finanzieren,\ngewinnt zunehmend an Bedeutung. Die Idee dahinter: Mit Hilfe von\nOnline-Plattformen finden Unternehmer und Investoren zusammen, um mittels\nkleiner Beiträge einzelne konkrete Projekte zu finanzieren und diese\nRealität werden zu lassen. Wir möchten Ihnen gerne das Instrument\nCrowdfunding als Möglichkeit zur Finanzierung unternehmerischer\nEntscheidungen näherbringen und laden Sie herzlich ein zu unserem Workshop."
+      }
+    },
+    {
+      "key": "WUEWW-2019-105",
+      "start": "2019-04-02T13:00:00+02:00",
+      "end": "2019-04-02T15:00:00+02:00",
+      "host": "UserMind GmbH",
+      "title": "Webentwicklung mit WordPress",
+      "location": {
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-106",
+      "start": "2019-04-02T14:00:00+02:00",
+      "end": "2019-04-02T16:00:00+02:00",
+      "host": "Kanzlei Jun",
+      "title": "Legal Tech: Wir lösen Rechtsprobleme mit KI"
+    },
+    {
+      "key": "WUEWW-2019-107",
+      "start": "2019-04-02T14:30:00+02:00",
+      "end": null,
+      "host": "ByteConsult GmbH",
+      "title": "Smart, digital, zukunftsfähig"
+    },
+    {
+      "key": "WUEWW-2019-108",
+      "start": "2019-04-02T15:30:00+02:00",
+      "end": "2019-04-02T16:30:00+02:00",
+      "host": "Generationen-Zentrum Matthias Ehrenfried e. V.",
+      "title": "Neue Kommunikationsmittel leicht erklärt - Technik-Sprechstunde",
+      "description": {
+        "short": "Technik-Sprechstunde: Schüler helfen Ihnen im Umgang mit Smartphone, Tablet oder Laptop."
+      }
+    },
+    {
+      "key": "WUEWW-2019-109",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T20:00:00+02:00",
+      "host": "Mayflower GmbH",
+      "title": "Agile UG Special",
+      "location": {
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-110",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
+      "host": "iWelt AG",
+      "title": "IT-Sicherheit",
+      "location": {
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt\nScreenreader-Unterstützung aktiviert.\n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-111",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
+      "host": "KIM Krick Interactive Media GmbH ",
+      "title": "Online-Marketing",
+      "location": {
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt\nScreenreader-Unterstützung aktiviert.\n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-112",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
+      "host": "krick.com GmbH + Co. KG",
+      "title": "Tipps für Ihre Online-Präsenz",
+      "location": {
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt\nScreenreader-Unterstützung aktiviert.\n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-113",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
+      "host": "Vogel Communications Group",
+      "title": "Digitale Transformation im Mittelstand",
+      "location": {
+        "name": "Vogel Campus\nSchreinerei in der Vogel Gründerwerkstatt"
+      }
+    },
+    {
+      "key": "WUEWW-2019-114",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T19:00:00+02:00",
+      "host": "Lehrstuhl für BWL und Wirtschaftsinformatik der Universität Würzburg",
+      "title": "IT-gestütztes Management",
+      "location": {
+        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg"
+      },
+      "description": {
+        "short": "Erhalten Sie Einblicke in das größte Labor für betriebswirtschaftliche Software Deutschlands",
+        "long": "Erhalten Sie Einblicke in die moderne, IT-gestützte Unternehmenssteuerung und lernen Sie Unterschiede und Trends (Cloud, Open-Source, Künstliche Intelligenz) mehrerer betriebswirtschaftlicher Software-Lösungen kennen. Weitere Infos: www.erp-labs.de"
+      }
+    },
+    {
+      "key": "WUEWW-2019-115",
+      "start": "2019-04-02T17:00:00+02:00",
+      "end": "2019-04-02T21:00:00+02:00",
+      "host": "scoutbee GmbH",
+      "title": "Deep Dive into NLP with PyTorch",
+      "location": {
+        "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg"
+      },
+      "description": {
+        "short": "This workshop gives insights into recent developments in deep learning based Natural Language Processing."
+      }
+    },
+    {
+      "key": "WUEWW-2019-116",
+      "start": "2019-04-02T17:00:00+02:00",
+      "end": null,
+      "host": "FHWS ",
+      "title": "Von Bots und Robots",
+      "location": {
+        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg"
+      },
+      "description": {
+        "long": "Von Bots und Robots – das neue Level an Automatisierung.  \n\nAls Referenten sind unter anderem Prof. Dr. Eric Hilgendorf von der Forschungsstelle RobotRecht an der Uni Würzburg, Prof. Dr. Christian Bachmeir vom Forschungsprojekt „Wartungsdrohnen“ dabei. Weitere Details folgen."
+      }
+    },
+    {
+      "key": "WUEWW-2019-117",
+      "start": "2019-04-02T18:00:00+02:00",
+      "end": null,
+      "host": "Mediengruppe Main-Post",
+      "title": "Instawalk durch Druckzentrum"
+    },
+    {
+      "key": "WUEWW-2019-118",
+      "start": "2019-04-02T18:30:00+02:00",
+      "end": null,
+      "host": "VINTIN GmbH",
+      "title": "Fahrplan Digital Transformation",
+      "location": {
+        "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld"
+      },
+      "description": {
+        "short": "Fahrplan Digital Transformation: diese Schritte zählen! Am 2. April bei VINTIN, 18h30 in Schweinfurt"
+      }
+    },
+    {
+      "key": "WUEWW-2019-119",
+      "start": "2019-04-02T19:00:00+02:00",
+      "end": null,
+      "host": "Thomas-Dehler-Stiftung",
+      "title": "Digitales Vergessen - unser gutes Recht?"
+    },
+    {
+      "key": "WUEWW-2019-200",
+      "start": "2019-04-03T09:30:00+02:00",
+      "end": "2019-04-03T17:00:00+02:00",
+      "host": "IHK Würzburg-Schweinfurt",
+      "title": "Sprechtag zur Websitegestaltung, ",
+      "location": {
+        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg "
+      }
+    },
+    {
+      "key": "WUEWW-2019-201",
+      "start": "2019-04-03T09:30:00+02:00",
+      "end": "2019-04-03T12:00:00+02:00",
+      "host": "lauterbach kreativbetreuung e.K.",
+      "title": "Historygram Frühstück",
+      "location": {
+        "name": "Gaststätte Martinz\nMartinstraße 21\n97070 Würzburg"
+      },
+      "description": {
+        "short": "Wie würden Channels der Prominenz von damals heute wohl aussehen? Im Workshop finden wir's heraus!",
+        "long": "Conrad Röntgen, Balthasar Neumann, Josef Neckermann – wie würde Würzburgs Prominenz von damals Ihre Social Media Präsenz heute wohl gestalten? In unserem Workshop analysieren wir die Trends der sozialen Medien und schaffen den Influencern von früher eine Präsenz im heutigen Instagram. Schritt für Schritt kreieren wir Content und geben den Profilen eine eigene Corporate Identity. Am Beispiel der „Influencer“ wird dabei klar, wie aus einem einzelnen Channel eine Marke wird."
+      }
+    },
+    {
+      "key": "WUEWW-2019-202",
+      "start": "2019-04-03T11:00:00+02:00",
+      "end": "2019-04-03T20:00:00+02:00",
+      "host": "FLYERALARM GmbH",
+      "title": "MainXchange",
+      "location": {
+        "name": "Vogel Convention Center Würzburg\nMax-Planck-Straße 7/9\n97082 Würzburg"
+      },
+      "description": {
+        "short": "Die MainXchange ist Treffpunkt für Experten, Macher und Kreative in digitalen Technologien"
+      }
+    },
+    {
+      "key": "WUEWW-2019-203",
+      "start": "2019-04-03T13:30:00+02:00",
+      "end": "2019-04-03T16:30:00+02:00",
+      "host": "Internet von Senioren für Senioren e.V.",
+      "title": "Senioren*innen ans Netz",
+      "location": {
+        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       "
+      },
+      "description": {
+        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
+        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-204",
+      "start": "2019-04-03T14:00:00+02:00",
+      "end": "2019-04-03T16:00:00+02:00",
+      "host": "Kanzlei Jun",
+      "title": "DSGVO: War die Panik berechtigt? \n(Maßnahmen auf dem Prüfstand)"
+    },
+    {
+      "key": "WUEWW-2019-205",
+      "start": "2019-04-03T14:00:00+02:00",
+      "end": null,
+      "host": "Würzburger Medienscouts ",
+      "title": "Augmented Reality and Advantages of Being a Programmer",
+      "location": {
+        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97070 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-206",
+      "start": "2019-04-03T16:00:00+02:00",
+      "end": null,
+      "host": "hümmer kommunikation",
+      "title": "ASSOZIAL!\nOhne soziale Medien fehlt was."
+    },
+    {
+      "key": "WUEWW-2019-207",
+      "start": "2019-04-03T16:00:00+02:00",
+      "end": "2019-04-03T19:00:00+02:00",
+      "host": "Sparkasse Mainfranken Würzburg",
+      "title": "Ihre Sparkasse digital!",
+      "location": {
+        "name": "Sparkasse Mainfranken Würzburg\nHofstraße 7-9\n97070 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-208",
+      "start": "2019-04-03T17:00:00+02:00",
+      "end": "2019-04-03T19:00:00+02:00",
+      "host": "WITTENSTEIN SE",
+      "title": "<Boarding the digit@l Train>",
+      "location": {
+        "name": "WITTENSTEIN SE\nInnovationsfabrik\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen"
+      },
+      "description": {
+        "short": "Wir stellen die Weichen! Eine Reise von Design Thinking über agile Produktentwicklung bis hin zum digitalen Service.",
+        "long": "Wir stellen die Weichen für die digitale Transformation bei WITTENSTEIN. Begleiten Sie uns auf eine Reise von Design Thinking über agile Produktentwicklung bis hin zum digitalen Service. \n \nWITTENSTEIN zeigt Ihnen praxisnah an verschiedenen Stationen wie die Digitalisierung das tägliche Geschäft des Maschinenbaus in Produktentwicklung und Fertigung beeinflusst. \n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-209",
+      "start": "2019-04-02T19:00:00+02:00",
+      "end": null,
+      "host": "Dr. Tristan Behrens (AI-Guru)",
+      "title": "Deep-Learning Hands-On",
+      "location": {
+        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-300",
+      "start": "2019-04-04T09:00:00+02:00",
+      "end": "2019-04-04T17:00:00+02:00",
+      "host": "iTiZZiMO AG",
+      "title": "Create business apps with Low-Code"
+    },
+    {
+      "key": "WUEWW-2019-301",
+      "start": "2019-04-04T10:00:00+02:00",
+      "end": "2019-04-04T15:00:00+02:00",
+      "host": "Forschungsgruppe „Business Enrichment“ \nLehrstuhl für BWL und Wirtschaftsinformatik Universität Würzburg \nProf. Dr. Axel Winkelmann.",
+      "title": " Hands on Artificial Intelligence",
+      "location": {
+        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg"
+      },
+      "description": {
+        "short": "Einsatzmöglichkeiten der KI im Kontext von unternehmerischen Entscheidungen für IT-Enthusiasten",
+        "long": "Kompaktworkshop für „Nerds“ zu Methoden der Unternehmenssteuerung mittels Auswertung von Unternehmensdaten und Zeitreihenanalysen auf Basis KI-basierter, automatischer Generierung von betriebswirtschaftlichen Gestaltungsempfehlungen."
+      }
+    },
+    {
+      "key": "WUEWW-2019-302",
+      "start": "2019-04-04T10:00:00+02:00",
+      "end": "2019-04-04T12:00:00+02:00",
+      "host": "Career Centre der Universität Würzburg",
+      "title": "Medienrecht im digitalen Alltag",
+      "location": {
+        "name": "Universität Würzburg\nCampus Hubland Süd\nZentrales Hörsaal- und Seminargebäude\nRaum 0.002"
+      },
+      "description": {
+        "short": "Das Medienrecht wird in der Kommunikation immer wichtiger. Erfahrt mehr: http://go.uniwue.de/cc206",
+        "long": "Das Medienrecht wird für die private und öffentliche Information und Kommunikation in digitalen Medien immer wichtiger. Welche (neuen) Rechtsaspekte kommen mit DSGVO und Medienstaatsvertrag auf mich zu? Erfahrt mehr: http://go.uniwue.de/cc206\n\nReferent: Johannes Nehlsen, Universität Würzburg, Jurist im Rechenzentrum in der Stabsstelle IT-Recht, Lizenzmanagement, E-Procurement "
+      }
+    },
+    {
+      "key": "WUEWW-2019-303",
+      "start": "2019-04-04T10:00:00+02:00",
+      "end": null,
+      "host": "snapADDY GmbH",
+      "title": "Entwickler-Weißwurstfrühstück"
+    },
+    {
+      "key": "WUEWW-2019-304",
+      "start": "2019-04-04T13:30:00+02:00",
+      "end": "2019-04-04T16:30:00+02:00",
+      "host": "Internet von Senioren für Senioren e.V.",
+      "title": "Senioren*innen ans Netz",
+      "location": {
+        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       "
+      },
+      "description": {
+        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
+        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-305",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": null,
+      "host": "Online Rebellion",
+      "title": "Full performance customer journey ",
+      "location": {
+        "name": "Online Rebellion\n\nEichendorffstr. 14A \n97072 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-306",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": null,
+      "host": "TakeNet GmbH",
+      "title": "easy & secure mit SEPPmail"
+    },
+    {
+      "key": "WUEWW-2019-307",
+      "start": "2019-04-04T16:00:00+02:00",
+      "end": null,
+      "host": "rockenstein AG",
+      "title": "Wissen wo und wie Daten fließen",
+      "location": {
+        "name": "rockenstein AG\nOhmstraße 12\n97076 Würzburg"
+      },
+      "description": {
+        "long": "Die Fragen „Wo liegen meine Daten eigentlich?“ und „Wie fließen diese Daten überhaupt?“ werden sowohl für private Nutzer als auch Unternehmen immer relevanter.\n\nDas Recht auf informationelle Selbstbestimmung, Datenskandale wie beispielsweise um Cambridge Analytica oder die Hackerangriffe auf private E-Mailkonten von Mitgliedern des Bundestages, zeigen wie wichtig es ist, nicht nur Zugriff und Kontrolle über die eigenen Daten zu haben, sondern diese auch bestmöglich zu schützen. Bei uns erfahren Sie, welche Maßnahmen Sie ganz persönlich ergreifen können und was eine sichere Netzinfrastruktur leisten sollte.\n\nNach dem Vortrag gibt es für interessierte Teilnehmer eine Besichtigung unserer Rechenzentren.\n\nDie Teilnehmerzahl ist begrenzt. Voranmeldung erforderlich. "
+      }
+    },
+    {
+      "key": "WUEWW-2019-308",
+      "start": "2019-04-04T16:30:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "host": "IGZ Würzburg mit ZDI Mainfranken",
+      "title": "Digitalisierung im Gesundheitswesen",
+      "location": {
+        "name": "Ideenlabor des ZDI"
+      }
+    },
+    {
+      "key": "WUEWW-2019-309",
+      "start": "2019-04-04T16:30:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "host": "eResearchTechnology GmbH",
+      "title": "Creating a living UI/UX StyleGuide",
+      "location": {
+        "name": "eResearchTechnology GmbH,\nSieboldstrasse 3,\n97230 Estenfeld"
+      },
+      "description": {
+        "short": "The path to create a living UI StyleGuide for better UX and enabling a vibrant contributor forum.",
+        "long": "As our web application landscape grew over time, the need of a company wide, unified UI arose quickly. Our objectives were a convergent visual language, reusability and a central place for extensible information: A Style Guide. In this session we will give you an overview, what decisions were taken, how we started, outline pros and cons of a Style Guide, share experiences while rebranding and talk about our vision: a distributed project, where every team can contribute to a living Style Guide."
+      }
+    },
+    {
+      "key": "WUEWW-2019-310",
+      "start": "2019-04-04T17:00:00+02:00",
+      "end": null,
+      "host": "IHK Würzburg-Schweinfurt",
+      "title": "Keine Angst beim Gründen",
+      "location": {
+        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg "
+      }
+    },
+    {
+      "key": "WUEWW-2019-311",
+      "start": "2019-04-04T17:00:00+02:00",
+      "end": "2019-04-04T20:00:00+02:00",
+      "host": "FHWS + krick.com GmbH + Co. KG",
+      "title": "Homepage-Battle ",
+      "location": {
+        "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)\nMünzstraße 12\n97070 Würzburg"
+      }
+    },
+    {
+      "key": "WUEWW-2019-312",
+      "start": "2019-04-04T17:00:00+02:00",
+      "end": "2019-04-04T18:30:00+02:00",
+      "host": "lauterbach kreativbetreuung e.K.",
+      "title": "Wie tickt Würzburg auf Insta?",
+      "location": {
+        "name": "lauterbach kreativbetreuung e.K.\nBeethoven-Center 8.Stock\nBeethovenstraße 1a\n97080 Würzburg"
+      },
+      "description": {
+        "short": "WueHappy - Insights & Hintergründe zu einem der größten Würzburger Channels",
+        "long": "Je mehr Follower, desto besser – oder? Auf Instagram geht es um so viel mehr als die Zahl oben im Profil. Es geht um Aufmerksamkeit, Effektivität und Reichweite. Es geht darum, den Content, auf die angestrebte Zielgruppe anzupassen. Vor allem geht es darum, einen Mehrwert zu schaffen ohne die Ästhetik aus den Augen zu verlieren. Hier erfahren Sie Insights & Hintergründe zu einem der größten Würzburger Channels: WueHappy. Ein Kasten Feierabendbier steht bereit – Anmeldung erforderlich."
+      }
+    },
+    {
+      "key": "WUEWW-2019-313",
+      "start": "2019-04-04T17:30:00+02:00",
+      "end": null,
+      "host": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees",
+      "title": "Erfolg durch Personal Branding"
+    },
+    {
+      "key": "WUEWW-2019-314",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": null,
+      "host": "Andreas Pabst",
+      "title": "Digitalisierung, Effizienz & Faulheit"
+    },
+    {
+      "key": "WUEWW-2019-315",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": "2019-04-04T20:00:00+02:00",
+      "host": "eResearchTechnology GmbH",
+      "title": "Introducing DevOps for a Microservice Platform",
+      "location": {
+        "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld"
+      },
+      "description": {
+        "short": "Introducing DevOps and Test Automation when transforming a monolith to a microservice platform.",
+        "long": "With ERT’s transition from waterfall to agile in the regulated environment of clinical trials, we also started with a (micro-)service based architecture. Continuous integration/delivery, test automation, the idea of “cloud ready” mandate an approach for DevOps to have all aspects of the software dev cycle being automated (including documentation). This session shows the iterative approach to achieve this goal and the challenges we face to coordinate releases and handling dependencies."
+      }
+    },
+    {
+      "key": "WUEWW-2019-316",
+      "start": "2019-04-04T18:30:00+02:00",
+      "end": null,
+      "host": "VINTIN GmbH",
+      "title": "Data Management & Intelligence",
+      "location": {
+        "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld"
+      },
+      "description": {
+        "short": "Data Management & Intelligence: Einblicke in die Welt der Daten; bei VINTIN am 4. April 2018 ab 18h30"
+      }
+    },
+    {
+      "key": "WUEWW-2019-400",
+      "start": "2019-04-05T09:00:00+02:00",
+      "end": "2019-04-05T14:30:00+02:00",
+      "host": "FHWS ",
+      "title": "gründen.digital@fiw",
+      "location": {
+        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg"
+      },
+      "description": {
+        "long": "In der dritten Auflage dieser Veranstaltung werden wieder bis zu sieben aktuelle Gründungen aus unserer Fakultät durch die „Founder“ vorgestellt.\n\nSie erzählen unter anderem:\n\nwarum und wie, wann und mit wem, mit welchem Thema und mit welchen Kunden sie sich selbstständig gemacht haben,\nwas sie rückblickend genauso wieder bzw. anders machen würden,\nwelche Tipps sie den Studenten und Gründungsinteressierten mit auf dem Weg geben.\nSelbstverständlich stehen sie auch für Fragen zur Verfügung."
+      }
+    },
+    {
+      "key": "WUEWW-2019-401",
+      "start": "2019-04-05T09:00:00+02:00",
+      "end": "2019-04-05T22:00:00+02:00",
+      "host": "Mayflower GmbH",
+      "title": "Developer Camp",
+      "location": {
+        "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg"
+      },
+      "description": {
+        "short": "Das Developer Camp ist ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. ",
+        "long": "Bereits zum vierten Mal findet das Developer Camp statt, ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. \n\nWir coden, hacken und tauschen uns im Open-Space-Format aus und versorgen Dich mit allem, was Du für gute zwei Tage Barcamp benötigst. Ansonsten sind wir offen für alle Methoden und Technologien für eine moderne Webentwicklung. Ob PHP, NodeJS/JavaScript, Scala, Java, .NET, Mobile oder DevOps, Agile und Lean Start-up: Wir freuen uns, Entwickler aus unterschiedlichen Disziplinen zusammenzubringen."
+      }
+    },
+    {
+      "key": "WUEWW-2019-402",
+      "start": "2019-04-05T10:00:00+02:00",
+      "end": "2019-04-05T13:00:00+02:00",
+      "host": "Career Centre der Universität Würzburg",
+      "title": "Digital auf Jobsuche",
+      "location": {
+        "name": "Universität Würzburg, Campus Nord, Didaktik- und Sprachenzentrum, Raum 01.037"
+      },
+      "description": {
+        "short": "Wie nutze ich das Web optimal für Bewerbungen? Antworten gibt es in diesem Workshop. ",
+        "long": "Wie betreibe ich mein persönliches Bewerbungsmanagement und wie trete ich proaktiv mit meinem potentiellen Arbeitgeber online in Kontakt? Wie nutze ich das Web optimal für das Thema Bewerbung? \n\nDiese Fragen werdet ihr am Ende des Workshops ganz sicher beantworten können. Wir beleuchten, wie ihr aus Bewerbersicht Jobportale richtig und erfolgreich nutzen könnt, was es auf Xing, Monster, Stepstone und Absolventa alles zu beachten gilt, wie ihr Lebenslaufdatenbanken bedient und was es eigentlich mit Metajobbörsen so auf sich hat.\n\nBitte bringt bei Interesse euren eigenen Laptop mit. Wir werden gemeinsam auf Xing unterwegs sein und das Networken und die Jobsuche auf diesem Business Portal anschaulich erklären."
+      }
+    },
+    {
+      "key": "WUEWW-2019-403",
+      "start": "2019-04-05T14:00:00+02:00",
+      "end": "2019-04-05T16:00:00+02:00",
+      "host": "Würzburger Business Coach Akademie & Agentur heldenstreich",
+      "title": "Pop-up Recruiting Café"
+    },
+    {
+      "key": "WUEWW-2019-001",
+      "start": "2019-04-01T:00+02:00",
+      "end": null,
+      "host": "WueWW",
+      "title": "Eröffnungsveranstaltung"
+    },
+    {
+      "key": "WUEWW-2019-002",
+      "start": "2019-04-01T16:00:00+02:00",
+      "end": "2019-04-01T18:00:00+02:00",
+      "host": "Stadtbücherei",
+      "title": "Makerspace ",
+      "location": {
+        "name": "Falkenhaus"
+      }
+    },
+    {
+      "key": "WUEWW-2019-600",
+      "start": "2019-04-07T14:00:00+02:00",
+      "end": null,
+      "host": "Stadtbücherei (Hubland)",
+      "title": "Instawalk neue Stadtteilbücherei am Hubland"
+    },
+    {
+      "key": "WUEWW-2019-700",
+      "start": "2019-04-08T09:00:00+02:00",
+      "end": "2019-04-08T18:00:00+02:00",
+      "host": "ISO-Gruppe – Standort Würzburg",
+      "title": "HR Digital Barcamp",
+      "location": {
+        "name": "Gründerwerkstatt"
+      }
+    },
+    {
+      "key": "WUEWW-2019-701",
+      "start": "2019-04-08T09:30:00+02:00",
+      "end": "2019-04-08T11:00:00+02:00",
+      "host": "BFW Berufsförderungswerk Würzburg gGmbH \ngemeinsam mit rockenstein AG, Internet-Service-Provider",
+      "title": "BFWApp: Inklusive Orientierung",
+      "location": {
+        "name": "BFW Berufsförderungswerk Würzburg gGmbH\nHelen-Keller-Str. 5\n97209 Veitshöchheim"
+      },
+      "description": {
+        "short": "BFW Orientierungs-App In-Outdoor für Android-, iOS-Smartphones für Menschen mit und ohne Handicap. ",
+        "long": "Selbsterfahrung mit Schwarzbrille und BFW SmartInfo, Orientierungs-App In-Outdoor für Android- und iOS-Smartphones für Menschen mit und ohne Handicap. Die App gibt Infos (Text, Fotos, Filme, Sprachen, richtungsbezogene Angaben), sobald Sie sich einem Infopunkt nähern. Einzigartige Technologiekombination (GPS, Beacons, NFC, QR-Code) mit barrierefreier Programmierung, dadurch für behinderte Menschen ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich - inklusive App für Alle.\n\nAchtung: Die Personenzahl ist auf 12 Teilnehmer beschränkt. Eine Anmeldung ist zwingend erforderlich. "
+      }
+    },
+    {
+      "key": "WUEWW-2019-702",
+      "start": "2019-04-08T17:00:00+02:00",
+      "end": "2019-04-08T19:00:00+02:00",
+      "host": "contify GmbH",
+      "title": "Runder Tisch: SEO + Content"
+    }
+  ]
+}

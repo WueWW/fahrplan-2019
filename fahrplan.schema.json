@@ -1,0 +1,65 @@
+{
+  "$id": "https://wueww.github.io/fahrplan-2019/fahrplan.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Fahrplan",
+  "type": "object",
+  "properties": {
+    "format": {
+      "type": "string",
+      "description": "Schema Version number, currently 0.0.1; semantic versioning applies"
+    },
+    "sessions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "start", "end", "host", "title"],
+        "properties": {
+          "key": {
+            "type": "string",
+            "description": "Unique identifier of the session"
+          },
+          "start": {
+            "type": "string",
+            "description": "date-time of session start"
+          },
+          "end": {
+            "anyOf": [
+              {
+                "type": "string",
+                "description": "date-time of session end"
+              },
+              { "type": "null", "description": "the session is open-ended" }
+            ]
+          },
+          "host": { "type": "string" },
+          "title": { "type": "string" },
+          "location": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "latitude": {
+                "type": "number",
+                "minimum": -90,
+                "maximum": 90
+              },
+              "longitude": {
+                "type": "number",
+                "minimum": -180,
+                "maximum": 180
+              }
+            }
+          },
+          "description": {
+            "type": "object",
+            "properties": {
+              "short": { "type": "string" },
+              "long": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

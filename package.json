@@ -1,0 +1,12 @@
+{
+  "name": "wueww-fahrplan-2019",
+  "version": "0.0.1",
+  "description": "WueWW Fahrplan 2019",
+  "license": "MIT",
+  "dependencies": {
+    "jsonschema": "^1.2.4"
+  },
+  "scripts": {
+    "test": "node validate.js"
+  }
+}
