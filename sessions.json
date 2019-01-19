@@ -8,7 +8,9 @@
       "host": "Mayflower GmbH",
       "title": "Developer Camp",
       "location": {
-        "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg"
+        "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg",
+        "lat": 49.788017,
+        "lng": 9.935524
       },
       "description": {
         "short": "Das Developer Camp ist ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. ",
@@ -22,7 +24,9 @@
       "host": "Stadtmarketing \"Würzburg macht Spaß“ e.V.",
       "title": "Unternehmerfrühstück: Google-Tools für KmUs",
       "location": {
-        "name": "Maritim Hotel Würzburg"
+        "name": "Maritim Hotel Würzburg",
+        "lat": 49.798399,
+        "lng": 9.925958
       },
       "description": {
         "short": "Suchmaschinenoptimierung ist essentiell. Autor René Kress bietet Würzburger KMUs einen Workshop rund um Google.",
@@ -36,7 +40,9 @@
       "host": "Internet von Senioren für Senioren e.V.",
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       "
+        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
+        "lat": 49.781042,
+        "lng": 9.930396
       },
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
@@ -50,7 +56,9 @@
       "host": "UserMind GmbH",
       "title": "Conversion Optimierung",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg"
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "lat": 49.803558,
+        "lng": 9.998039
       }
     },
     {
@@ -60,7 +68,9 @@
       "host": "Computy GmbH & Co. KG",
       "title": "„Stadt Land Fluss“ für WebWorker",
       "location": {
-        "name": "Computy GmbH & Co. KG\nAntonie-Werr-Str. 7\n97082 Würzburg"
+        "name": "Computy GmbH & Co. KG\nAntonie-Werr-Str. 7\n97082 Würzburg",
+        "lat": 49.795647,
+        "lng": 9.909753
       },
       "description": {
         "short": "Web-Freaks treffen sich um Spaß zu haben und gemeinsam über alte und aktuelle Themen zu diskutieren",
@@ -74,7 +84,9 @@
       "host": "IHK Würzburg-Schweinfurt",
       "title": "Workshop Crowdfunding &\nAlternative Finance",
       "location": {
-        "name": "IHK Würzburg-Schweinfurt\nHaus A\nRaum A-304\nMainaustraße 33-35\n97082 Würzburg "
+        "name": "IHK Würzburg-Schweinfurt\nHaus A\nRaum A-304\nMainaustraße 33-35\n97082 Würzburg ",
+        "lat": 49.801331,
+        "lng": 9.909114
       },
       "description": {
         "short": "In diesem Workshop bringen wir Crowdfunding als Möglichkeit zur Finanzierung unternehmerischer Entscheidungen näher.",
@@ -88,7 +100,9 @@
       "host": "UserMind GmbH",
       "title": "Webentwicklung mit WordPress",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg"
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "lat": 49.803558,
+        "lng": 9.998039
       }
     },
     {
@@ -122,7 +136,9 @@
       "host": "Mayflower GmbH",
       "title": "Agile UG Special",
       "location": {
-        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg"
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
+        "lat": 49.787811,
+        "lng": 9.968068
       }
     },
     {
@@ -132,7 +148,9 @@
       "host": "iWelt AG",
       "title": "IT-Sicherheit",
       "location": {
-        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt\nScreenreader-Unterstützung aktiviert.\n"
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
       }
     },
     {
@@ -142,7 +160,9 @@
       "host": "KIM Krick Interactive Media GmbH ",
       "title": "Online-Marketing",
       "location": {
-        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt\nScreenreader-Unterstützung aktiviert.\n"
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
       }
     },
     {
@@ -152,7 +172,9 @@
       "host": "krick.com GmbH + Co. KG",
       "title": "Tipps für Ihre Online-Präsenz",
       "location": {
-        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt\nScreenreader-Unterstützung aktiviert.\n"
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
       }
     },
     {
@@ -162,7 +184,9 @@
       "host": "Vogel Communications Group",
       "title": "Digitale Transformation im Mittelstand",
       "location": {
-        "name": "Vogel Campus\nSchreinerei in der Vogel Gründerwerkstatt"
+        "name": "Vogel Campus\nSchreinerei in der Vogel Gründerwerkstatt",
+        "lat": 49.796415,
+        "lng": 9.900804
       }
     },
     {
@@ -172,7 +196,9 @@
       "host": "Lehrstuhl für BWL und Wirtschaftsinformatik der Universität Würzburg",
       "title": "IT-gestütztes Management",
       "location": {
-        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg"
+        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
+        "lat": 49.790173,
+        "lng": 9.935553
       },
       "description": {
         "short": "Erhalten Sie Einblicke in das größte Labor für betriebswirtschaftliche Software Deutschlands",
@@ -186,7 +212,9 @@
       "host": "scoutbee GmbH",
       "title": "Deep Dive into NLP with PyTorch",
       "location": {
-        "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg"
+        "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.796415,
+        "lng": 9.900804
       },
       "description": {
         "short": "This workshop gives insights into recent developments in deep learning based Natural Language Processing."
@@ -199,7 +227,9 @@
       "host": "FHWS ",
       "title": "Von Bots und Robots",
       "location": {
-        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg"
+        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg",
+        "lat": 49.777391,
+        "lng": 9.96224
       },
       "description": {
         "long": "Von Bots und Robots – das neue Level an Automatisierung.  \n\nAls Referenten sind unter anderem Prof. Dr. Eric Hilgendorf von der Forschungsstelle RobotRecht an der Uni Würzburg, Prof. Dr. Christian Bachmeir vom Forschungsprojekt „Wartungsdrohnen“ dabei. Weitere Details folgen."
@@ -219,7 +249,9 @@
       "host": "VINTIN GmbH",
       "title": "Fahrplan Digital Transformation",
       "location": {
-        "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld"
+        "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld",
+        "lat": 50.036605,
+        "lng": 10.243794
       },
       "description": {
         "short": "Fahrplan Digital Transformation: diese Schritte zählen! Am 2. April bei VINTIN, 18h30 in Schweinfurt"
@@ -239,7 +271,9 @@
       "host": "IHK Würzburg-Schweinfurt",
       "title": "Sprechtag zur Websitegestaltung, ",
       "location": {
-        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg "
+        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
+        "lat": 49.801331,
+        "lng": 9.909114
       }
     },
     {
@@ -249,7 +283,9 @@
       "host": "lauterbach kreativbetreuung e.K.",
       "title": "Historygram Frühstück",
       "location": {
-        "name": "Gaststätte Martinz\nMartinstraße 21\n97070 Würzburg"
+        "name": "Gaststätte Martinz\nMartinstraße 21\n97070 Würzburg",
+        "lat": 49.79435,
+        "lng": 9.93207
       },
       "description": {
         "short": "Wie würden Channels der Prominenz von damals heute wohl aussehen? Im Workshop finden wir's heraus!",
@@ -263,7 +299,9 @@
       "host": "FLYERALARM GmbH",
       "title": "MainXchange",
       "location": {
-        "name": "Vogel Convention Center Würzburg\nMax-Planck-Straße 7/9\n97082 Würzburg"
+        "name": "Vogel Convention Center Würzburg\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.796415,
+        "lng": 9.900804
       },
       "description": {
         "short": "Die MainXchange ist Treffpunkt für Experten, Macher und Kreative in digitalen Technologien"
@@ -276,7 +314,9 @@
       "host": "Internet von Senioren für Senioren e.V.",
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       "
+        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
+        "lat": 49.78104,
+        "lng": 9.930396
       },
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
@@ -297,7 +337,9 @@
       "host": "Würzburger Medienscouts ",
       "title": "Augmented Reality and Advantages of Being a Programmer",
       "location": {
-        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97070 Würzburg"
+        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97070 Würzburg",
+        "lat": 49.797576,
+        "lng": 9.949834
       }
     },
     {
@@ -314,7 +356,9 @@
       "host": "Sparkasse Mainfranken Würzburg",
       "title": "Ihre Sparkasse digital!",
       "location": {
-        "name": "Sparkasse Mainfranken Würzburg\nHofstraße 7-9\n97070 Würzburg"
+        "name": "Sparkasse Mainfranken Würzburg\nHofstraße 7-9\n97070 Würzburg",
+        "lat": 49.793766,
+        "lng": 9.932792
       }
     },
     {
@@ -324,7 +368,9 @@
       "host": "WITTENSTEIN SE",
       "title": "<Boarding the digit@l Train>",
       "location": {
-        "name": "WITTENSTEIN SE\nInnovationsfabrik\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen"
+        "name": "WITTENSTEIN SE\nInnovationsfabrik\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen",
+        "lat": 49.5341,
+        "lng": 9.856375
       },
       "description": {
         "short": "Wir stellen die Weichen! Eine Reise von Design Thinking über agile Produktentwicklung bis hin zum digitalen Service.",
@@ -338,7 +384,9 @@
       "host": "Dr. Tristan Behrens (AI-Guru)",
       "title": "Deep-Learning Hands-On",
       "location": {
-        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg"
+        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
+        "lat": 49.790381,
+        "lng": 9.968659
       }
     },
     {
@@ -355,7 +403,9 @@
       "host": "Forschungsgruppe „Business Enrichment“ \nLehrstuhl für BWL und Wirtschaftsinformatik Universität Würzburg \nProf. Dr. Axel Winkelmann.",
       "title": " Hands on Artificial Intelligence",
       "location": {
-        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg"
+        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
+        "lat": 49.790173,
+        "lng": 9.935553
       },
       "description": {
         "short": "Einsatzmöglichkeiten der KI im Kontext von unternehmerischen Entscheidungen für IT-Enthusiasten",
@@ -390,7 +440,9 @@
       "host": "Internet von Senioren für Senioren e.V.",
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       "
+        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
+        "lat": 49.78104,
+        "lng": 9.930396
       },
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
@@ -404,7 +456,9 @@
       "host": "Online Rebellion",
       "title": "Full performance customer journey ",
       "location": {
-        "name": "Online Rebellion\n\nEichendorffstr. 14A \n97072 Würzburg"
+        "name": "Online Rebellion\n\nEichendorffstr. 14A \n97072 Würzburg",
+        "lat": 49.78332,
+        "lng": 9.930081
       }
     },
     {
@@ -421,7 +475,9 @@
       "host": "rockenstein AG",
       "title": "Wissen wo und wie Daten fließen",
       "location": {
-        "name": "rockenstein AG\nOhmstraße 12\n97076 Würzburg"
+        "name": "rockenstein AG\nOhmstraße 12\n97076 Würzburg",
+        "lat": 49.801491,
+        "lng": 9.975955
       },
       "description": {
         "long": "Die Fragen „Wo liegen meine Daten eigentlich?“ und „Wie fließen diese Daten überhaupt?“ werden sowohl für private Nutzer als auch Unternehmen immer relevanter.\n\nDas Recht auf informationelle Selbstbestimmung, Datenskandale wie beispielsweise um Cambridge Analytica oder die Hackerangriffe auf private E-Mailkonten von Mitgliedern des Bundestages, zeigen wie wichtig es ist, nicht nur Zugriff und Kontrolle über die eigenen Daten zu haben, sondern diese auch bestmöglich zu schützen. Bei uns erfahren Sie, welche Maßnahmen Sie ganz persönlich ergreifen können und was eine sichere Netzinfrastruktur leisten sollte.\n\nNach dem Vortrag gibt es für interessierte Teilnehmer eine Besichtigung unserer Rechenzentren.\n\nDie Teilnehmerzahl ist begrenzt. Voranmeldung erforderlich. "
@@ -434,7 +490,9 @@
       "host": "IGZ Würzburg mit ZDI Mainfranken",
       "title": "Digitalisierung im Gesundheitswesen",
       "location": {
-        "name": "Ideenlabor des ZDI"
+        "name": "Ideenlabor des ZDI",
+        "lat": 49.790381,
+        "lng": 9.968659
       }
     },
     {
@@ -444,7 +502,9 @@
       "host": "eResearchTechnology GmbH",
       "title": "Creating a living UI/UX StyleGuide",
       "location": {
-        "name": "eResearchTechnology GmbH,\nSieboldstrasse 3,\n97230 Estenfeld"
+        "name": "eResearchTechnology GmbH,\nSieboldstrasse 3,\n97230 Estenfeld",
+        "lat": 49.8378,
+        "lng": 10.008323
       },
       "description": {
         "short": "The path to create a living UI StyleGuide for better UX and enabling a vibrant contributor forum.",
@@ -458,7 +518,9 @@
       "host": "IHK Würzburg-Schweinfurt",
       "title": "Keine Angst beim Gründen",
       "location": {
-        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg "
+        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
+        "lat": 49.801331,
+        "lng": 9.909114
       }
     },
     {
@@ -468,7 +530,9 @@
       "host": "FHWS + krick.com GmbH + Co. KG",
       "title": "Homepage-Battle ",
       "location": {
-        "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)\nMünzstraße 12\n97070 Würzburg"
+        "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)\nMünzstraße 12\n97070 Würzburg",
+        "lat": 49.78753,
+        "lng": 9.93262
       }
     },
     {
@@ -478,7 +542,9 @@
       "host": "lauterbach kreativbetreuung e.K.",
       "title": "Wie tickt Würzburg auf Insta?",
       "location": {
-        "name": "lauterbach kreativbetreuung e.K.\nBeethoven-Center 8.Stock\nBeethovenstraße 1a\n97080 Würzburg"
+        "name": "lauterbach kreativbetreuung e.K.\nBeethoven-Center 8.Stock\nBeethovenstraße 1a\n97080 Würzburg",
+        "lat": 49.797763,
+        "lng": 9.944532
       },
       "description": {
         "short": "WueHappy - Insights & Hintergründe zu einem der größten Würzburger Channels",
@@ -506,7 +572,9 @@
       "host": "eResearchTechnology GmbH",
       "title": "Introducing DevOps for a Microservice Platform",
       "location": {
-        "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld"
+        "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld",
+        "lat": 49.8378,
+        "lng": 10.008323
       },
       "description": {
         "short": "Introducing DevOps and Test Automation when transforming a monolith to a microservice platform.",
@@ -520,7 +588,9 @@
       "host": "VINTIN GmbH",
       "title": "Data Management & Intelligence",
       "location": {
-        "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld"
+        "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld",
+        "lat": 50.036606,
+        "lng": 10.243794
       },
       "description": {
         "short": "Data Management & Intelligence: Einblicke in die Welt der Daten; bei VINTIN am 4. April 2018 ab 18h30"
@@ -533,7 +603,9 @@
       "host": "FHWS ",
       "title": "gründen.digital@fiw",
       "location": {
-        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg"
+        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg",
+        "lat": 49.777391,
+        "lng": 9.96224
       },
       "description": {
         "long": "In der dritten Auflage dieser Veranstaltung werden wieder bis zu sieben aktuelle Gründungen aus unserer Fakultät durch die „Founder“ vorgestellt.\n\nSie erzählen unter anderem:\n\nwarum und wie, wann und mit wem, mit welchem Thema und mit welchen Kunden sie sich selbstständig gemacht haben,\nwas sie rückblickend genauso wieder bzw. anders machen würden,\nwelche Tipps sie den Studenten und Gründungsinteressierten mit auf dem Weg geben.\nSelbstverständlich stehen sie auch für Fragen zur Verfügung."
@@ -546,7 +618,9 @@
       "host": "Mayflower GmbH",
       "title": "Developer Camp",
       "location": {
-        "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg"
+        "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg",
+        "lat": 49.788017,
+        "lng": 9.935524
       },
       "description": {
         "short": "Das Developer Camp ist ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. ",
@@ -560,7 +634,9 @@
       "host": "Career Centre der Universität Würzburg",
       "title": "Digital auf Jobsuche",
       "location": {
-        "name": "Universität Würzburg, Campus Nord, Didaktik- und Sprachenzentrum, Raum 01.037"
+        "name": "Universität Würzburg\nZentrales Hörsaal- und Seminargebäude (Z6)\nRaum 1.013\nAm Hubland\n97074 Würzburg",
+        "lat": 49.78158,
+        "lng": 9.97079
       },
       "description": {
         "short": "Wie nutze ich das Web optimal für Bewerbungen? Antworten gibt es in diesem Workshop. ",
@@ -575,13 +651,47 @@
       "title": "Pop-up Recruiting Café"
     },
     {
+      "key": "WUEWW-2019-404",
+      "start": "2019-04-05T16:00:00+02:00",
+      "end": "2019-04-05T19:00:00+02:00",
+      "host": "webfellows UG",
+      "title": "Warum ein CRM im Onlinehandel?",
+      "location": {
+        "name": "webfellows UG\nPetrinistraße 14-16\n97080 Würzburg",
+        "lat": 49.80178,
+        "lng": 9.94736
+      },
+      "description": {
+        "short": "In diesem Workshop lernen Sie unter anderem, wie Sie bei Ihren Kundenkontakten den Überblick behalten, Daten nutzen sowie Ihren Service verbessern können.",
+        "long": "Als Onlinehändler kennen Sie das: Im täglichen Geschäft fallen ständig eine Vielzahl von Kundenkontakten an. Kunden bzw. potenzielle Kunden erkundigen sich nach Produkteigenschaften, Kompatibilität und Verfügbarkeit. Diese Interaktionen erfolgen meist als Chat, Telefonat oder E-Mail. Doch was passiert mit diesen Kontakten und Daten? Wie kann ein Onlinehändler auch später noch davon profitieren? Wie können sie allen Mitarbeitern im Unternehmen verfügbar gemacht werden? Ein CRM bietet hier viele Lösungen für Sie, um den Überblick zu behalten, Daten zu nutzen und zu analysieren sowie Ihren Service zu verbessern.\n\n"
+      }
+    },
+    {
       "key": "WUEWW-2019-002",
       "start": "2019-04-01T16:00:00+02:00",
       "end": "2019-04-01T18:00:00+02:00",
       "host": "Stadtbücherei",
       "title": "Makerspace ",
       "location": {
-        "name": "Falkenhaus"
+        "name": "Falkenhaus",
+        "lat": 49.795067,
+        "lng": 9.93
+      }
+    },
+    {
+      "key": "WUEWW-2019-003",
+      "start": "2019-04-01T17:00:00+02:00",
+      "end": "2019-04-01T18:30:00+02:00",
+      "host": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
+      "title": "Unterfrankens größter Marktplatz",
+      "location": {
+        "name": "Deutscher Landwirtschaftsverlag\ntechnikboerse.com\nBerliner Platz 9\n97080 Würzburg",
+        "lat": 50,
+        "lng": 10
+      },
+      "description": {
+        "short": "Gewinne einen Einblick in die Aufgaben der Mitarbeiter von Unterfrankens größtem Online-Marktplatz",
+        "long": "Auch traditionelle Branchen wie Landwirtschaft und Landtechnikhandel setzen auf E-Commerce. Der Handel von Landtechnik über digitale Marktplätze wie technikboerse.com ist bereits seit 20 Jahren ein lohnendes Geschäft. Erfahren Sie mehr darüber, welche Aufgaben anfallen, um einen der größten Online-Marktplätze mit tausenden Händlern und Millionen Nachfragern zu betreiben. Mitarbeiter aus den verschiedensten Bereichen der technikboerse geben einen Einblick in ihren abwechslungsreichen Arbeitstag.\n\n"
       }
     },
     {
@@ -608,7 +718,9 @@
       "host": "BFW Berufsförderungswerk Würzburg gGmbH \ngemeinsam mit rockenstein AG, Internet-Service-Provider",
       "title": "BFWApp: Inklusive Orientierung",
       "location": {
-        "name": "BFW Berufsförderungswerk Würzburg gGmbH\nHelen-Keller-Str. 5\n97209 Veitshöchheim"
+        "name": "BFW Berufsförderungswerk Würzburg gGmbH\nHelen-Keller-Str. 5\n97209 Veitshöchheim",
+        "lat": 49.832519,
+        "lng": 9.888282
       },
       "description": {
         "short": "BFW Orientierungs-App In-Outdoor für Android-, iOS-Smartphones für Menschen mit und ohne Handicap. ",
@@ -621,6 +733,22 @@
       "end": "2019-04-08T19:00:00+02:00",
       "host": "contify GmbH",
       "title": "Runder Tisch: SEO + Content"
+    },
+    {
+      "key": "WUEWW-2019-703",
+      "start": "2019-04-08T17:00:00+02:00",
+      "end": "2019-04-08T18:30:00+02:00",
+      "host": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
+      "title": "CI mit Jenkins in der Cloud",
+      "location": {
+        "name": "Deutscher Landwirtschaftsverlag\ntechnikboerse.com\nBerliner Platz 9\n97080 Würzburg",
+        "lat": 49.79975,
+        "lng": 9.94295
+      },
+      "description": {
+        "short": "Wir zeigen, wie unser Continuous Integration System funktioniert und was wir dadurch gelernt haben.",
+        "long": "In der modernen Softwareentwicklung werden mehr und mehr Routineaufgaben automatisiert. So auch diverse Analysen und Tests von bestehenden und neuen Programmfunktionen. Ein komplexes System wie der Online-Marktplatz technikboerse.com profitiert davon enorm. Wir zeigen, wie wir unser Continuous Integration System auf Jenkins-Basis in der Cloud aufgebaut haben, wie wir es verwalten, welche Probleme wir zu lösen hatten und welchen Nutzen wir daraus ziehen."
+      }
     }
   ]
 }
