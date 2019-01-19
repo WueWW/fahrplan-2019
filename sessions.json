@@ -1,11 +1,14 @@
 {
-  "format": "0.0.2",
+  "format": "0.1.0",
   "sessions": [
     {
       "key": "WUEWW-2019-500",
       "start": "2019-04-06T09:00:00+02:00",
       "end": "2019-04-06T18:00:00+02:00",
-      "host": "Mayflower GmbH",
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
       "title": "Developer Camp",
       "location": {
         "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg",
@@ -21,7 +24,10 @@
       "key": "WUEWW-2019-100",
       "start": "2019-04-02T08:00:00+02:00",
       "end": "2019-04-02T12:30:00+02:00",
-      "host": "Stadtmarketing \"Würzburg macht Spaß“ e.V.",
+      "host": {
+        "name": "Stadtmarketing \"Würzburg macht Spaß“ e.V.",
+        "infotext": "Das Stadtmarketing „Würzburg macht Spaß“ ist der starke Partner für Unternehmen: Wir vertreten deren Interessen, organisieren überregional bekannte Events wie Stadtfest oder Mantelsonntag und steigern mit unseren Projekten Bekanntheit und Sympathiewerte Würzburg"
+      },
       "title": "Unternehmerfrühstück: Google-Tools für KmUs",
       "location": {
         "name": "Maritim Hotel Würzburg",
@@ -37,7 +43,10 @@
       "key": "WUEWW-2019-101",
       "start": "2019-04-02T09:00:00+02:00",
       "end": "2019-04-02T12:00:00+02:00",
-      "host": "Internet von Senioren für Senioren e.V.",
+      "host": {
+        "name": "Internet von Senioren für Senioren e.V.",
+        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+      },
       "title": "Senioren*innen ans Netz",
       "location": {
         "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
@@ -53,7 +62,9 @@
       "key": "WUEWW-2019-102",
       "start": "2019-04-02T10:00:00+02:00",
       "end": "2019-04-02T12:00:00+02:00",
-      "host": "UserMind GmbH",
+      "host": {
+        "name": "UserMind GmbH"
+      },
       "title": "Conversion Optimierung",
       "location": {
         "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
@@ -65,7 +76,10 @@
       "key": "WUEWW-2019-103",
       "start": "2019-04-02T10:00:00+02:00",
       "end": null,
-      "host": "Computy GmbH & Co. KG",
+      "host": {
+        "name": "Computy GmbH & Co. KG",
+        "infotext": "Die Computy GmbH & Co. KG entwickelt seit über 15 Jahren Software für individuelle Anforderungen. Die Lösungen werden in enger Zusammenarbeit mit dem Kunden analysiert, definiert und umgesetzt: individuell, durchdacht, innovativ und sicher."
+      },
       "title": "„Stadt Land Fluss“ für WebWorker",
       "location": {
         "name": "Computy GmbH & Co. KG\nAntonie-Werr-Str. 7\n97082 Würzburg",
@@ -81,7 +95,10 @@
       "key": "WUEWW-2019-104",
       "start": "2019-04-02T12:00:00+02:00",
       "end": "2019-04-02T17:00:00+02:00",
-      "host": "IHK Würzburg-Schweinfurt",
+      "host": {
+        "name": "IHK Würzburg-Schweinfurt",
+        "infotext": "Die IHK Würzburg-Schweinfurt ist Erstansprechpartner für Existenzgründer und Start-ups und bietet zahlreiche Unterstützungsangebote (Beratung, Qualifizierung, Mentorenprogramme, Netzwerkplattformen, Stellungnahmen etc.)."
+      },
       "title": "Workshop Crowdfunding &\nAlternative Finance",
       "location": {
         "name": "IHK Würzburg-Schweinfurt\nHaus A\nRaum A-304\nMainaustraße 33-35\n97082 Würzburg ",
@@ -97,7 +114,9 @@
       "key": "WUEWW-2019-105",
       "start": "2019-04-02T13:00:00+02:00",
       "end": "2019-04-02T15:00:00+02:00",
-      "host": "UserMind GmbH",
+      "host": {
+        "name": "UserMind GmbH"
+      },
       "title": "Webentwicklung mit WordPress",
       "location": {
         "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
@@ -109,21 +128,27 @@
       "key": "WUEWW-2019-106",
       "start": "2019-04-02T14:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
-      "host": "Kanzlei Jun",
+      "host": {
+        "name": "Kanzlei Jun"
+      },
       "title": "Legal Tech: Wir lösen Rechtsprobleme mit KI"
     },
     {
       "key": "WUEWW-2019-107",
       "start": "2019-04-02T14:30:00+02:00",
       "end": null,
-      "host": "ByteConsult GmbH",
+      "host": {
+        "name": "ByteConsult GmbH"
+      },
       "title": "Smart, digital, zukunftsfähig"
     },
     {
       "key": "WUEWW-2019-108",
       "start": "2019-04-02T15:30:00+02:00",
       "end": "2019-04-02T16:30:00+02:00",
-      "host": "Generationen-Zentrum Matthias Ehrenfried e. V.",
+      "host": {
+        "name": "Generationen-Zentrum Matthias Ehrenfried e. V."
+      },
       "title": "Neue Kommunikationsmittel leicht erklärt - Technik-Sprechstunde",
       "description": {
         "short": "Technik-Sprechstunde: Schüler helfen Ihnen im Umgang mit Smartphone, Tablet oder Laptop."
@@ -133,7 +158,9 @@
       "key": "WUEWW-2019-109",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T20:00:00+02:00",
-      "host": "Mayflower GmbH",
+      "host": {
+        "name": "Mayflower GmbH"
+      },
       "title": "Agile UG Special",
       "location": {
         "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
@@ -145,7 +172,9 @@
       "key": "WUEWW-2019-110",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
-      "host": "iWelt AG",
+      "host": {
+        "name": "iWelt AG"
+      },
       "title": "IT-Sicherheit",
       "location": {
         "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
@@ -157,7 +186,9 @@
       "key": "WUEWW-2019-111",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
-      "host": "KIM Krick Interactive Media GmbH ",
+      "host": {
+        "name": "KIM Krick Interactive Media GmbH "
+      },
       "title": "Online-Marketing",
       "location": {
         "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
@@ -169,7 +200,9 @@
       "key": "WUEWW-2019-112",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
-      "host": "krick.com GmbH + Co. KG",
+      "host": {
+        "name": "krick.com GmbH + Co. KG"
+      },
       "title": "Tipps für Ihre Online-Präsenz",
       "location": {
         "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
@@ -181,7 +214,9 @@
       "key": "WUEWW-2019-113",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
-      "host": "Vogel Communications Group",
+      "host": {
+        "name": "Vogel Communications Group"
+      },
       "title": "Digitale Transformation im Mittelstand",
       "location": {
         "name": "Vogel Campus\nSchreinerei in der Vogel Gründerwerkstatt",
@@ -193,7 +228,10 @@
       "key": "WUEWW-2019-114",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T19:00:00+02:00",
-      "host": "Lehrstuhl für BWL und Wirtschaftsinformatik der Universität Würzburg",
+      "host": {
+        "name": "Lehrstuhl für BWL und Wirtschaftsinformatik der Universität Würzburg",
+        "infotext": "Prof. Winkelmann ist international anerkannter Experte für ERP-Systeme und Betreiber des größten Podcasts über Unternehmenssoftware www.erp-podcast.de. Dieser Workshop wird im Rahmen des EU-geförderten Forschungstransferprojekts Prompt@NET angeboten."
+      },
       "title": "IT-gestütztes Management",
       "location": {
         "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
@@ -209,7 +247,9 @@
       "key": "WUEWW-2019-115",
       "start": "2019-04-02T17:00:00+02:00",
       "end": "2019-04-02T21:00:00+02:00",
-      "host": "scoutbee GmbH",
+      "host": {
+        "name": "scoutbee GmbH"
+      },
       "title": "Deep Dive into NLP with PyTorch",
       "location": {
         "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg",
@@ -224,7 +264,9 @@
       "key": "WUEWW-2019-116",
       "start": "2019-04-02T17:00:00+02:00",
       "end": null,
-      "host": "FHWS ",
+      "host": {
+        "name": "FHWS "
+      },
       "title": "Von Bots und Robots",
       "location": {
         "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg",
@@ -239,14 +281,18 @@
       "key": "WUEWW-2019-117",
       "start": "2019-04-02T18:00:00+02:00",
       "end": null,
-      "host": "Mediengruppe Main-Post",
+      "host": {
+        "name": "Mediengruppe Main-Post"
+      },
       "title": "Instawalk durch Druckzentrum"
     },
     {
       "key": "WUEWW-2019-118",
       "start": "2019-04-02T18:30:00+02:00",
       "end": null,
-      "host": "VINTIN GmbH",
+      "host": {
+        "name": "VINTIN GmbH"
+      },
       "title": "Fahrplan Digital Transformation",
       "location": {
         "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld",
@@ -261,14 +307,18 @@
       "key": "WUEWW-2019-119",
       "start": "2019-04-02T19:00:00+02:00",
       "end": null,
-      "host": "Thomas-Dehler-Stiftung",
+      "host": {
+        "name": "Thomas-Dehler-Stiftung"
+      },
       "title": "Digitales Vergessen - unser gutes Recht?"
     },
     {
       "key": "WUEWW-2019-200",
       "start": "2019-04-03T09:30:00+02:00",
       "end": "2019-04-03T17:00:00+02:00",
-      "host": "IHK Würzburg-Schweinfurt",
+      "host": {
+        "name": "IHK Würzburg-Schweinfurt"
+      },
       "title": "Sprechtag zur Websitegestaltung, ",
       "location": {
         "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
@@ -280,7 +330,10 @@
       "key": "WUEWW-2019-201",
       "start": "2019-04-03T09:30:00+02:00",
       "end": "2019-04-03T12:00:00+02:00",
-      "host": "lauterbach kreativbetreuung e.K.",
+      "host": {
+        "name": "lauterbach kreativbetreuung e.K.",
+        "infotext": "Die lauterbach kreativbetreuung e.K. ist eine Marketingagentur für auffällige, authentische Kommunikation. Ihr Leistungsspektrum vereint Design, Strategie und Events unter einem Dach. So kann jedes Detail perfekt aufeinander abgestimmt werden."
+      },
       "title": "Historygram Frühstück",
       "location": {
         "name": "Gaststätte Martinz\nMartinstraße 21\n97070 Würzburg",
@@ -296,7 +349,9 @@
       "key": "WUEWW-2019-202",
       "start": "2019-04-03T11:00:00+02:00",
       "end": "2019-04-03T20:00:00+02:00",
-      "host": "FLYERALARM GmbH",
+      "host": {
+        "name": "FLYERALARM GmbH"
+      },
       "title": "MainXchange",
       "location": {
         "name": "Vogel Convention Center Würzburg\nMax-Planck-Straße 7/9\n97082 Würzburg",
@@ -311,7 +366,10 @@
       "key": "WUEWW-2019-203",
       "start": "2019-04-03T13:30:00+02:00",
       "end": "2019-04-03T16:30:00+02:00",
-      "host": "Internet von Senioren für Senioren e.V.",
+      "host": {
+        "name": "Internet von Senioren für Senioren e.V.",
+        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+      },
       "title": "Senioren*innen ans Netz",
       "location": {
         "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
@@ -327,14 +385,18 @@
       "key": "WUEWW-2019-204",
       "start": "2019-04-03T14:00:00+02:00",
       "end": "2019-04-03T16:00:00+02:00",
-      "host": "Kanzlei Jun",
+      "host": {
+        "name": "Kanzlei Jun"
+      },
       "title": "DSGVO: War die Panik berechtigt? \n(Maßnahmen auf dem Prüfstand)"
     },
     {
       "key": "WUEWW-2019-205",
       "start": "2019-04-03T14:00:00+02:00",
       "end": null,
-      "host": "Würzburger Medienscouts ",
+      "host": {
+        "name": "Würzburger Medienscouts "
+      },
       "title": "Augmented Reality and Advantages of Being a Programmer",
       "location": {
         "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97070 Würzburg",
@@ -346,14 +408,18 @@
       "key": "WUEWW-2019-206",
       "start": "2019-04-03T16:00:00+02:00",
       "end": null,
-      "host": "hümmer kommunikation",
+      "host": {
+        "name": "hümmer kommunikation"
+      },
       "title": "ASSOZIAL!\nOhne soziale Medien fehlt was."
     },
     {
       "key": "WUEWW-2019-207",
       "start": "2019-04-03T16:00:00+02:00",
       "end": "2019-04-03T19:00:00+02:00",
-      "host": "Sparkasse Mainfranken Würzburg",
+      "host": {
+        "name": "Sparkasse Mainfranken Würzburg"
+      },
       "title": "Ihre Sparkasse digital!",
       "location": {
         "name": "Sparkasse Mainfranken Würzburg\nHofstraße 7-9\n97070 Würzburg",
@@ -365,7 +431,10 @@
       "key": "WUEWW-2019-208",
       "start": "2019-04-03T17:00:00+02:00",
       "end": "2019-04-03T19:00:00+02:00",
-      "host": "WITTENSTEIN SE",
+      "host": {
+        "name": "WITTENSTEIN SE",
+        "infotext": "Die WITTENSTEIN SE entwickelt kundenspezifische Produkte, Systeme und Lösungen für hochdynamische Bewegung, präziseste Positionierung und intelligente Vernetzung in der mechatronischen Antriebstechnik. \n \nIm Zentrum unserer Forschungs- und Entwicklungsaktivitäten steht die digitale Transformation, die Entwicklung von smarten Produkten und Services und einer smarten Produktion mit Hilfe von Softwareentwicklung, Datenanalyse und Sensorik.\n"
+      },
       "title": "<Boarding the digit@l Train>",
       "location": {
         "name": "WITTENSTEIN SE\nInnovationsfabrik\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen",
@@ -381,7 +450,9 @@
       "key": "WUEWW-2019-209",
       "start": "2019-04-02T19:00:00+02:00",
       "end": null,
-      "host": "Dr. Tristan Behrens (AI-Guru)",
+      "host": {
+        "name": "Dr. Tristan Behrens (AI-Guru)"
+      },
       "title": "Deep-Learning Hands-On",
       "location": {
         "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
@@ -393,14 +464,19 @@
       "key": "WUEWW-2019-300",
       "start": "2019-04-04T09:00:00+02:00",
       "end": "2019-04-04T17:00:00+02:00",
-      "host": "iTiZZiMO AG",
+      "host": {
+        "name": "iTiZZiMO AG"
+      },
       "title": "Create business apps with Low-Code"
     },
     {
       "key": "WUEWW-2019-301",
       "start": "2019-04-04T10:00:00+02:00",
       "end": "2019-04-04T15:00:00+02:00",
-      "host": "Forschungsgruppe „Business Enrichment“ \nLehrstuhl für BWL und Wirtschaftsinformatik Universität Würzburg \nProf. Dr. Axel Winkelmann.",
+      "host": {
+        "name": "Forschungsgruppe „Business Enrichment“ \nLehrstuhl für BWL und Wirtschaftsinformatik Universität Würzburg \nProf. Dr. Axel Winkelmann.",
+        "infotext": "Wir revolutionieren die BWL in Unternehmenssoftware, automatisieren die Unternehmensberatung und verbessern fundamental die operative Entscheidungsfindung in Unternehmen mit Hilfe von modernen Technologien im Kontext von Big Data und KI."
+      },
       "title": " Hands on Artificial Intelligence",
       "location": {
         "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
@@ -416,7 +492,10 @@
       "key": "WUEWW-2019-302",
       "start": "2019-04-04T10:00:00+02:00",
       "end": "2019-04-04T12:00:00+02:00",
-      "host": "Career Centre der Universität Würzburg",
+      "host": {
+        "name": "Career Centre der Universität Würzburg",
+        "infotext": "Das Career Centre der Universität Würzburg ist die Schnittstelle zwischen Uni und Berufswelt und unterstützt alle Studierenden bei der Vorbereitung auf den Berufeinstieg mit Beratungen, Vorträgen und Seminaren zu verschiedensten Schlüsselkompetenzen.\n\nwww.uni-wuerzburg.de/career"
+      },
       "title": "Medienrecht im digitalen Alltag",
       "location": {
         "name": "Universität Würzburg\nCampus Hubland Süd\nZentrales Hörsaal- und Seminargebäude\nRaum 0.002"
@@ -430,14 +509,19 @@
       "key": "WUEWW-2019-303",
       "start": "2019-04-04T10:00:00+02:00",
       "end": null,
-      "host": "snapADDY GmbH",
+      "host": {
+        "name": "snapADDY GmbH"
+      },
       "title": "Entwickler-Weißwurstfrühstück"
     },
     {
       "key": "WUEWW-2019-304",
       "start": "2019-04-04T13:30:00+02:00",
       "end": "2019-04-04T16:30:00+02:00",
-      "host": "Internet von Senioren für Senioren e.V.",
+      "host": {
+        "name": "Internet von Senioren für Senioren e.V.",
+        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+      },
       "title": "Senioren*innen ans Netz",
       "location": {
         "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
@@ -453,7 +537,9 @@
       "key": "WUEWW-2019-305",
       "start": "2019-04-04T14:00:00+02:00",
       "end": null,
-      "host": "Online Rebellion",
+      "host": {
+        "name": "Online Rebellion"
+      },
       "title": "Full performance customer journey ",
       "location": {
         "name": "Online Rebellion\n\nEichendorffstr. 14A \n97072 Würzburg",
@@ -465,14 +551,18 @@
       "key": "WUEWW-2019-306",
       "start": "2019-04-04T14:00:00+02:00",
       "end": null,
-      "host": "TakeNet GmbH",
+      "host": {
+        "name": "TakeNet GmbH"
+      },
       "title": "easy & secure mit SEPPmail"
     },
     {
       "key": "WUEWW-2019-307",
       "start": "2019-04-04T16:00:00+02:00",
       "end": null,
-      "host": "rockenstein AG",
+      "host": {
+        "name": "rockenstein AG"
+      },
       "title": "Wissen wo und wie Daten fließen",
       "location": {
         "name": "rockenstein AG\nOhmstraße 12\n97076 Würzburg",
@@ -487,7 +577,9 @@
       "key": "WUEWW-2019-308",
       "start": "2019-04-04T16:30:00+02:00",
       "end": "2019-04-04T18:00:00+02:00",
-      "host": "IGZ Würzburg mit ZDI Mainfranken",
+      "host": {
+        "name": "IGZ Würzburg mit ZDI Mainfranken"
+      },
       "title": "Digitalisierung im Gesundheitswesen",
       "location": {
         "name": "Ideenlabor des ZDI",
@@ -499,7 +591,10 @@
       "key": "WUEWW-2019-309",
       "start": "2019-04-04T16:30:00+02:00",
       "end": "2019-04-04T18:00:00+02:00",
-      "host": "eResearchTechnology GmbH",
+      "host": {
+        "name": "eResearchTechnology GmbH",
+        "infotext": "ERT is a global data and technology company that minimizes risk and uncertainty in clinical trials, so that the customers can move ahead quickly – and with confidence. We have nearly 50 years of combined clinical, therapeutic and regulatory experience as well as modern technology, design and process‑related insights."
+      },
       "title": "Creating a living UI/UX StyleGuide",
       "location": {
         "name": "eResearchTechnology GmbH,\nSieboldstrasse 3,\n97230 Estenfeld",
@@ -515,7 +610,9 @@
       "key": "WUEWW-2019-310",
       "start": "2019-04-04T17:00:00+02:00",
       "end": null,
-      "host": "IHK Würzburg-Schweinfurt",
+      "host": {
+        "name": "IHK Würzburg-Schweinfurt"
+      },
       "title": "Keine Angst beim Gründen",
       "location": {
         "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
@@ -527,7 +624,9 @@
       "key": "WUEWW-2019-311",
       "start": "2019-04-04T17:00:00+02:00",
       "end": "2019-04-04T20:00:00+02:00",
-      "host": "FHWS + krick.com GmbH + Co. KG",
+      "host": {
+        "name": "FHWS + krick.com GmbH + Co. KG"
+      },
       "title": "Homepage-Battle ",
       "location": {
         "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)\nMünzstraße 12\n97070 Würzburg",
@@ -539,7 +638,10 @@
       "key": "WUEWW-2019-312",
       "start": "2019-04-04T17:00:00+02:00",
       "end": "2019-04-04T18:30:00+02:00",
-      "host": "lauterbach kreativbetreuung e.K.",
+      "host": {
+        "name": "lauterbach kreativbetreuung e.K.",
+        "infotext": "Die lauterbach kreativbetreuung e.K. ist eine Marketingagentur für auffällige, authentische Kommunikation. Ihr Leistungsspektrum vereint Design, Strategie und Events unter einem Dach. So kann jedes Detail perfekt aufeinander abgestimmt werden."
+      },
       "title": "Wie tickt Würzburg auf Insta?",
       "location": {
         "name": "lauterbach kreativbetreuung e.K.\nBeethoven-Center 8.Stock\nBeethovenstraße 1a\n97080 Würzburg",
@@ -555,21 +657,28 @@
       "key": "WUEWW-2019-313",
       "start": "2019-04-04T17:30:00+02:00",
       "end": null,
-      "host": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees",
+      "host": {
+        "name": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees"
+      },
       "title": "Erfolg durch Personal Branding"
     },
     {
       "key": "WUEWW-2019-314",
       "start": "2019-04-04T18:00:00+02:00",
       "end": null,
-      "host": "Andreas Pabst",
+      "host": {
+        "name": "Andreas Pabst"
+      },
       "title": "Digitalisierung, Effizienz & Faulheit"
     },
     {
       "key": "WUEWW-2019-315",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T20:00:00+02:00",
-      "host": "eResearchTechnology GmbH",
+      "host": {
+        "name": "eResearchTechnology GmbH",
+        "infotext": "ERT is a global data and technology company that minimizes risk and uncertainty in clinical trials, so that the customers can move ahead quickly – and with confidence. We have nearly 50 years of combined clinical, therapeutic and regulatory experience as well as modern technology, design and process‑related insights."
+      },
       "title": "Introducing DevOps for a Microservice Platform",
       "location": {
         "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld",
@@ -585,7 +694,9 @@
       "key": "WUEWW-2019-316",
       "start": "2019-04-04T18:30:00+02:00",
       "end": null,
-      "host": "VINTIN GmbH",
+      "host": {
+        "name": "VINTIN GmbH"
+      },
       "title": "Data Management & Intelligence",
       "location": {
         "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld",
@@ -600,7 +711,9 @@
       "key": "WUEWW-2019-400",
       "start": "2019-04-05T09:00:00+02:00",
       "end": "2019-04-05T14:30:00+02:00",
-      "host": "FHWS ",
+      "host": {
+        "name": "FHWS "
+      },
       "title": "gründen.digital@fiw",
       "location": {
         "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg",
@@ -615,7 +728,10 @@
       "key": "WUEWW-2019-401",
       "start": "2019-04-05T09:00:00+02:00",
       "end": "2019-04-05T22:00:00+02:00",
-      "host": "Mayflower GmbH",
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
       "title": "Developer Camp",
       "location": {
         "name": "Neue Universität Würzburg\nSanderring 2\n97070 Würzburg",
@@ -631,7 +747,9 @@
       "key": "WUEWW-2019-402",
       "start": "2019-04-05T10:00:00+02:00",
       "end": "2019-04-05T13:00:00+02:00",
-      "host": "Career Centre der Universität Würzburg",
+      "host": {
+        "name": "Career Centre der Universität Würzburg"
+      },
       "title": "Digital auf Jobsuche",
       "location": {
         "name": "Universität Würzburg\nZentrales Hörsaal- und Seminargebäude (Z6)\nRaum 1.013\nAm Hubland\n97074 Würzburg",
@@ -647,14 +765,19 @@
       "key": "WUEWW-2019-403",
       "start": "2019-04-05T14:00:00+02:00",
       "end": "2019-04-05T16:00:00+02:00",
-      "host": "Würzburger Business Coach Akademie & Agentur heldenstreich",
+      "host": {
+        "name": "Würzburger Business Coach Akademie & Agentur heldenstreich"
+      },
       "title": "Pop-up Recruiting Café"
     },
     {
       "key": "WUEWW-2019-404",
       "start": "2019-04-05T16:00:00+02:00",
       "end": "2019-04-05T19:00:00+02:00",
-      "host": "webfellows UG",
+      "host": {
+        "name": "webfellows UG",
+        "infotext": "webfellows ist eine auf Shopware und HubSpot spezialisierte Multimedia-Agentur der ersten Stunde mit dem Schwerpunkt auf Konzeption, Realisierung und Weiterentwicklung von Onlineshops sowie deren Vermarktung und Marketing."
+      },
       "title": "Warum ein CRM im Onlinehandel?",
       "location": {
         "name": "webfellows UG\nPetrinistraße 14-16\n97080 Würzburg",
@@ -670,7 +793,9 @@
       "key": "WUEWW-2019-002",
       "start": "2019-04-01T16:00:00+02:00",
       "end": "2019-04-01T18:00:00+02:00",
-      "host": "Stadtbücherei",
+      "host": {
+        "name": "Stadtbücherei"
+      },
       "title": "Makerspace ",
       "location": {
         "name": "Falkenhaus",
@@ -682,7 +807,10 @@
       "key": "WUEWW-2019-003",
       "start": "2019-04-01T17:00:00+02:00",
       "end": "2019-04-01T18:30:00+02:00",
-      "host": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
+      "host": {
+        "name": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
+        "infotext": "technikboerse.com ist ein Online-Marktplatz für Nutzmaschinen aus Landtechnik, Forsttechnik, Kommunaltechnik uvm. 1995 als Faxservice gegründet entwickelte sich technikboerse zu Europas reichweitenstärksten Marktplatz für gebrauchte Nutzmaschinen. Über 2.000 Händler aus 19 europäischen Ländern vertreiben über technikboerse.com einen Bestand mit einem Wert von über 4 Mrd. Euro"
+      },
       "title": "Unterfrankens größter Marktplatz",
       "location": {
         "name": "Deutscher Landwirtschaftsverlag\ntechnikboerse.com\nBerliner Platz 9\n97080 Würzburg",
@@ -698,14 +826,18 @@
       "key": "WUEWW-2019-600",
       "start": "2019-04-07T14:00:00+02:00",
       "end": null,
-      "host": "Stadtbücherei (Hubland)",
+      "host": {
+        "name": "Stadtbücherei (Hubland)"
+      },
       "title": "Instawalk neue Stadtteilbücherei am Hubland"
     },
     {
       "key": "WUEWW-2019-700",
       "start": "2019-04-08T09:00:00+02:00",
       "end": "2019-04-08T18:00:00+02:00",
-      "host": "ISO-Gruppe – Standort Würzburg",
+      "host": {
+        "name": "ISO-Gruppe – Standort Würzburg"
+      },
       "title": "HR Digital Barcamp",
       "location": {
         "name": "Gründerwerkstatt"
@@ -715,7 +847,10 @@
       "key": "WUEWW-2019-701",
       "start": "2019-04-08T09:30:00+02:00",
       "end": "2019-04-08T11:00:00+02:00",
-      "host": "BFW Berufsförderungswerk Würzburg gGmbH \ngemeinsam mit rockenstein AG, Internet-Service-Provider",
+      "host": {
+        "name": "BFW Berufsförderungswerk Würzburg gGmbH \ngemeinsam mit rockenstein AG, Internet-Service-Provider",
+        "infotext": "Das BFW Würzburg ist ein überregionales Bildungszentrum, spezialisiert auf die berufliche Rehabilitation Erwachsener blinder und sehbehinderter Menschen, lt. §51 SGB IX. Die Umschulungen enden nach zwei Jahren mit qualifizierten Abschlüssen und werden zunehmend von Menschen mit anderen gesundheitlichen Einschränkungen, wie z.B. psychischen Erkrankungen, erfolgreich genutzt. Ziel ist die umfassende Teilhabe und zeitnahe Wiedereingliederung der Teilnehmer in das berufliche, soziale und gesellschaftliche Leben."
+      },
       "title": "BFWApp: Inklusive Orientierung",
       "location": {
         "name": "BFW Berufsförderungswerk Würzburg gGmbH\nHelen-Keller-Str. 5\n97209 Veitshöchheim",
@@ -731,14 +866,19 @@
       "key": "WUEWW-2019-702",
       "start": "2019-04-08T17:00:00+02:00",
       "end": "2019-04-08T19:00:00+02:00",
-      "host": "contify GmbH",
+      "host": {
+        "name": "contify GmbH"
+      },
       "title": "Runder Tisch: SEO + Content"
     },
     {
       "key": "WUEWW-2019-703",
       "start": "2019-04-08T17:00:00+02:00",
       "end": "2019-04-08T18:30:00+02:00",
-      "host": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
+      "host": {
+        "name": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
+        "infotext": "technikboerse.com ist ein Online-Marktplatz für Nutzmaschinen aus Landtechnik, Forsttechnik, Kommunaltechnik uvm. 1995 als Faxservice gegründet entwickelte sich technikboerse zu Europas reichweitenstärksten Marktplatz für gebrauchte Nutzmaschinen. Über 2.000 Händler aus 19 europäischen Ländern vertreiben über technikboerse.com einen Bestand mit einem Wert von über 4 Mrd. Euro"
+      },
       "title": "CI mit Jenkins in der Cloud",
       "location": {
         "name": "Deutscher Landwirtschaftsverlag\ntechnikboerse.com\nBerliner Platz 9\n97080 Würzburg",
