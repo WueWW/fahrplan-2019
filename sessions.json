@@ -1,5 +1,5 @@
 {
-  "format": "0.1.0",
+  "format": "0.2.0",
   "sessions": [
     {
       "key": "WUEWW-2019-500",
@@ -37,7 +37,11 @@
       "description": {
         "short": "Das DevCamp.create ist ein Barcamp von kreativen Köpfen für kreative Köpfe, das Usability, User Experience und das Design in den Mittelpunkt stellt.",
         "long": "DevCamp.create ist ein Barcamp von kreativen Köpfen für kreative Köpfe, die komplexe Projekte in einem kreativen Umfeld umsetzen und dabei die Usability, User Experience und das Design in den Mittelpunkt stellen wollen. Es findet im Rahmen des Developer Camps statt, einem Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern."
-      }
+      },
+      "tags": [
+        "Software Development",
+        "UX/UI"
+      ]
     },
     {
       "key": "WUEWW-2019-100",
@@ -56,7 +60,10 @@
       "description": {
         "short": "Suchmaschinenoptimierung ist essentiell. Autor René Kress bietet Würzburger KMUs einen Workshop rund um Google.",
         "long": "Ein Unternehmen, welches in Google nicht auffindbar ist, existiert für viele potenzielle Kunden nicht. Google-Optimierung ist daher gerade für inhabergeführte Unternehmen esseziell. Der Berater und Autor René Kress bietet im Rahmen des „Würzburg macht Spaß“-Unternehmerfrühstücks kleinen und mittelständischen Unternehmen (KMUs) einen vierstündigen Workshop rund ums Google Konto: inkl. Google My Business, Google Search Console, Google Keyword Planer und ersten Schritten in der Suchmaschinenoptimierung."
-      }
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-101",
@@ -75,7 +82,10 @@
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
         "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
-      }
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-102",
@@ -150,7 +160,10 @@
       "description": {
         "short": "Phillip Groschup lädt Sie ein, den neuen Gutenberg-Editor kennenzulernen, welche Funktionen es gibt und wie Sie diesen auf Ihrer Website einsetzen können.",
         "long": "Editierst du noch, oder Gutenbergst du schon?\n\nNutzen Sie WordPress für Ihre Website? Dann haben Sie sicherlich schon auf WordPress 5.0 aktualisiert und den neuen „Gutenberg Editor“ gesehen.\nPhillip Groschup lädt Sie ein, den neuen Gutenberg Editor kennenzulernen und darüber zu diskutieren. Wir zeigen Ihnen die neuen Funktionen, was der neue Gutenberg gegenüber dem alten Editor anders macht und wie Sie diesen auf Ihrer Website einsetzen können.\n\nPhillip Groschup hat 2018 das WordCamp in Würzburg (Co-)Organisiert und ist seitdem aktiv in der WordPress-Community. Außerdem ist er Lehrbeauftragter für WordPress an der Fachhochschule Würzburg-Schweinfurt."
-      }
+      },
+      "tags": [
+        "WordPress"
+      ]
     },
     {
       "key": "WUEWW-2019-106",
@@ -165,7 +178,10 @@
         "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
         "lat": 49.791984,
         "lng": 9.953852
-      }
+      },
+      "tags": [
+        "KI"
+      ]
     },
     {
       "key": "WUEWW-2019-107",
@@ -193,7 +209,10 @@
       "description": {
         "short": "Technik-Sprechstunde: Schüler helfen Ihnen im Umgang mit Smartphone, Tablet oder Laptop.",
         "long": "Schüler helfen Ihnen im Umgang mit Smartphone, Tablet oder Laptop. Sie zeigen, wie man Ordnung am PC schafft, z. B. Dateien speichert, Verzeichnisse anlegt, beantworten Fragen zum Schreiben und Verschönern eines Dokuments, etwa eines Briefs, Einladung mit einem Textverarbeitungsprogramm, und helfen dabei, sich im Internet zu orientieren und E-Mails zu verschicken.\n\nSie haben ein neues Mobiltelefon und haben zur Nutzung mehr Fragen als Antworten? Ganz egal, ob Sie Fragen zur Anwendung oder einfach nur zu den vielen verschiedenen Funktionen der Handys oder Smartphones haben, wir helfen Ihnen gerne weiter und erklären Ihnen Schritt für Schritt Ihr Handy, Smartphone, Digitalkamera oder Navigationsgerät.\n\nAnsprechpartner: SchülerInnen des Riemenschneider Gymnasiums Würzburg\n\nTeilnahme kostenfrei – Spende erbeten! / Anmeldung erforderlich!"
-      }
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-109",
@@ -208,7 +227,10 @@
         "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
         "lat": 49.787811,
         "lng": 9.968068
-      }
+      },
+      "tags": [
+        "Agil"
+      ]
     },
     {
       "key": "WUEWW-2019-110",
@@ -309,7 +331,10 @@
       "description": {
         "short": "This workshop gives insights into recent developments in deep learning based Natural Language Processing.",
         "long": "In this tutorial, we will move a little bit beyond the standard topics and try to give you some deeper insights into recent developments in the field of deep learning based Natural Language Processing.\n\nThe first part of the workshop will be an introduction into the dynamic deep learning library PyTorch. We will point out the advantages and explain the key steps for building a basic model. In the second part, we will present and implement a select, more advanced architecture and apply it to a real-world data set.\n\nRequirements:\nThe participants are not required to be familiar with PyTorch, but a good knowledge of NLP and Python is recommended. We will provide access to a server with notebooks containing the model code, so only a laptop is needed. The course will be in English."
-      }
+      },
+      "tags": [
+        "KI"
+      ]
     },
     {
       "key": "WUEWW-2019-116",
@@ -356,7 +381,10 @@
       "description": {
         "short": "Fahrplan Digital Transformation: diese Schritte zählen! Am 2. April bei VINTIN, 18h30 in Schweinfurt",
         "long": "VINTIN CTO Christoph Waschkau und Digital Transformation Strategist Jakob Rinkewitz stellen den aus 5 Säulen bestehenden VINTIN-Fahrplan für Digitalisierungsprojekte vor – eine exklusive Überraschung steht für alle Teilnehmer bereit!"
-      }
+      },
+      "tags": [
+        "Digitale Transformation"
+      ]
     },
     {
       "key": "WUEWW-2019-119",
@@ -422,7 +450,12 @@
       "description": {
         "short": "Die MainXchange ist Treffpunkt für Experten, Macher und Kreative in digitalen Technologien",
         "long": "Die MainXchange ist Treffpunkt für Experten, Macher und Kreative in digitalen Technologien – ein Rahmen zur Diskussion über die neuesten Trends und deren Anwendung. Hier treffen sich Digitalpioniere, um die Welt von morgen zu gestalten. Es gibt wieder vier Tracks: E-Commerce, Business 4.0, Software Engineering, DevOps."
-      }
+      },
+      "tags": [
+        "DevOps",
+        "E-Commerce",
+        "Software Development"
+      ]
     },
     {
       "key": "WUEWW-2019-203",
@@ -441,7 +474,10 @@
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
         "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
-      }
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-204",
@@ -495,7 +531,10 @@
       },
       "description": {
         "short": "Navigation im Internet mit Smartphone & Tablet."
-      }
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-206",
@@ -508,7 +547,10 @@
       "title": "ASSOZIAL!\nOhne soziale Medien fehlt was.",
       "description": {
         "short": "ASSOZIAL! Ohne soziale Medien fehlt was."
-      }
+      },
+      "tags": [
+        "Social Media"
+      ]
     },
     {
       "key": "WUEWW-2019-207",
@@ -527,7 +569,10 @@
       "description": {
         "short": "Wie verändert sich eine Bank bzw. die Beratung in der Bank im Zeitalter der Digitalisierung?",
         "long": "Wie verändert sich eine Bank bzw. die Beratung in der Bank im Zeitalter der Digitalisierung? Welche neuen Medien nutzen wir und unsere Kunden, um die Finanzgeschäfte zu erledigen, und welchen Einfluss hat dies auf das Arbeiten in der Sparkasse? Antworten gibt’s am 03.04.2019 in der Sparkasse Mainfranken Würzburg!"
-      }
+      },
+      "tags": [
+        "Digitalisierung"
+      ]
     },
     {
       "key": "WUEWW-2019-208",
@@ -546,7 +591,13 @@
       "description": {
         "short": "Wir stellen die Weichen! Eine Reise von Design Thinking über agile Produktentwicklung bis hin zum digitalen Service.",
         "long": "Wir stellen die Weichen für die digitale Transformation bei WITTENSTEIN. Begleiten Sie uns auf eine Reise von Design Thinking über agile Produktentwicklung bis hin zum digitalen Service. \n \nWITTENSTEIN zeigt Ihnen praxisnah an verschiedenen Stationen wie die Digitalisierung das tägliche Geschäft des Maschinenbaus in Produktentwicklung und Fertigung beeinflusst. \n"
-      }
+      },
+      "tags": [
+        "AI",
+        "Digitale Transformation",
+        "Digitalisierung",
+        "Software Development"
+      ]
     },
     {
       "key": "WUEWW-2019-209",
@@ -564,7 +615,10 @@
       },
       "description": {
         "short": "Wir bieten Deep-Learning Hands-On auf euren eigenen Rechnern. \n\n"
-      }
+      },
+      "tags": [
+        "KI"
+      ]
     },
     {
       "key": "WUEWW-2019-300",
@@ -602,7 +656,10 @@
       "description": {
         "short": "Einsatzmöglichkeiten der KI im Kontext von unternehmerischen Entscheidungen für IT-Enthusiasten",
         "long": "Kompaktworkshop für „Nerds“ zu Methoden der Unternehmenssteuerung mittels Auswertung von Unternehmensdaten und Zeitreihenanalysen auf Basis KI-basierter, automatischer Generierung von betriebswirtschaftlichen Gestaltungsempfehlungen."
-      }
+      },
+      "tags": [
+        "KI"
+      ]
     },
     {
       "key": "WUEWW-2019-302",
@@ -653,7 +710,10 @@
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
         "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
-      }
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-305",
@@ -705,7 +765,12 @@
       "description": {
         "short": "Bei uns erfahren Sie, welche Maßnahmen Sie in Sachen Datenschutz persönlich ergreifen können und was eine sichere Netzinfrastruktur leisten sollte.",
         "long": "Die Fragen „Wo liegen meine Daten eigentlich?“ und „Wie fließen diese Daten überhaupt?“ werden sowohl für private Nutzer als auch Unternehmen immer relevanter.\n\nDas Recht auf informationelle Selbstbestimmung, Datenskandale wie beispielsweise um Cambridge Analytica oder die Hackerangriffe auf private E-Mailkonten von Mitgliedern des Bundestages, zeigen wie wichtig es ist, nicht nur Zugriff und Kontrolle über die eigenen Daten zu haben, sondern diese auch bestmöglich zu schützen. Bei uns erfahren Sie, welche Maßnahmen Sie ganz persönlich ergreifen können und was eine sichere Netzinfrastruktur leisten sollte.\n\nNach dem Vortrag gibt es für interessierte Teilnehmer eine Besichtigung unserer Rechenzentren.\n\nDie Teilnehmerzahl ist begrenzt. Voranmeldung erforderlich. "
-      }
+      },
+      "tags": [
+        "Datenschutz",
+        "Digitalisierung",
+        "Netzinfrastruktur"
+      ]
     },
     {
       "key": "WUEWW-2019-308",
@@ -722,7 +787,10 @@
       },
       "description": {
         "long": "Das IGZ bietet in Kooperation mit dem ZDI Mainfranken eine Veranstaltung mit dem Thema \"Digitalisierung im Gesundheitswesen\" an."
-      }
+      },
+      "tags": [
+        "Digitalisierung"
+      ]
     },
     {
       "key": "WUEWW-2019-309",
@@ -741,7 +809,10 @@
       "description": {
         "short": "The path to create a living UI style guide for better UX and enabling a vibrant contributor forum.",
         "long": "As our web application landscape grew over time, the need of a company-wide, unified UI arose quickly. Our objectives were a convergent visual language, reusability and a central place for extensible information: A style guide. In this session we will give you an overview, what decisions were taken, how we started, outline pros and cons of a style guide, share experiences while rebranding and talk about our vision: a distributed project, where every team can contribute to a living style guide."
-      }
+      },
+      "tags": [
+        "UX/UI"
+      ]
     },
     {
       "key": "WUEWW-2019-310",
@@ -756,7 +827,10 @@
         "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
         "lat": 49.801331,
         "lng": 9.909114
-      }
+      },
+      "tags": [
+        "Start-up"
+      ]
     },
     {
       "key": "WUEWW-2019-311",
@@ -794,7 +868,10 @@
       "description": {
         "short": "WueHappy - Insights & Hintergründe zu einem der größten Würzburger Channels",
         "long": "Je mehr Follower, desto besser – oder? Auf Instagram geht es um so viel mehr als die Zahl oben im Profil. Es geht um Aufmerksamkeit, Effektivität und Reichweite. Es geht darum, den Content, auf die angestrebte Zielgruppe anzupassen. Vor allem geht es darum, einen Mehrwert zu schaffen, ohne die Ästhetik aus den Augen zu verlieren. Hier erfahren Sie Insights & Hintergründe zu einem der größten Würzburger Channels: WueHappy. Ein Kasten Feierabendbier steht bereit – Anmeldung erforderlich."
-      }
+      },
+      "tags": [
+        "Social Media"
+      ]
     },
     {
       "key": "WUEWW-2019-313",
@@ -817,7 +894,10 @@
       "description": {
         "short": "Faulheit ist in ein paar Jahren nichts Schlechtes mehr, ja sogar bitter nötig! Andreas Pabst stellt vor, wie wir faule Personen jetzt zu sehen haben.",
         "long": "Faulheit ist in ein paar Jahren nichts Schlechtes mehr, ja sogar bitter nötig! Wir sind bisweilen nur mit einer falschen Definition einer „faulen“ Person behaftet, denn faul ist nicht gleich faul. Andreas Pabst stellt in seinem Buch und Vortrag dar, wie wir faule Personen jetzt zu sehen haben. Denn faul ist nicht gleich faul, oder würden wir jemanden am Schreibtisch immer noch als faul bezeichnen, wenn er gerade über ein wichtiges Problem nachdenkt oder sogar Achtsamkeit betreibt?"
-      }
+      },
+      "tags": [
+        "Digitalisierung"
+      ]
     },
     {
       "key": "WUEWW-2019-315",
@@ -836,7 +916,10 @@
       "description": {
         "short": "Introducing DevOps and Test Automation when transforming a monolith to a microservice platform.",
         "long": "With ERT’s transition from waterfall to agile in the regulated environment of clinical trials, we also started with a (micro-)service-based architecture. Continuous integration/delivery, test automation, the idea of “cloud ready” mandate an approach for DevOps to have all aspects of the software dev cycle being automated (including documentation). This session shows the iterative approach to achieve this goal and the challenges we face to coordinate releases and handling dependencies."
-      }
+      },
+      "tags": [
+        "DevOps"
+      ]
     },
     {
       "key": "WUEWW-2019-316",
@@ -874,7 +957,10 @@
       "description": {
         "short": "Bei gründend.digital@fiw stellen sieben Gründer ihr Startup und ihre Lessons learned vor.",
         "long": "In der dritten Auflage dieser Veranstaltung werden wieder bis zu sieben aktuelle Gründungen aus unserer Fakultät durch die „Founder“ vorgestellt.\n\nSie erzählen unter anderem:\n\n* warum und wie, wann und mit wem, mit welchem Thema und mit welchen Kunden sie sich selbstständig gemacht haben,\n* was sie rückblickend genauso wieder bzw. anders machen würden,\n* welche Tipps sie den Studenten und Gründungsinteressierten mit auf dem Weg geben.\n\nSelbstverständlich stehen sie auch für Fragen zur Verfügung."
-      }
+      },
+      "tags": [
+        "Start-up"
+      ]
     },
     {
       "key": "WUEWW-2019-401",
@@ -893,7 +979,12 @@
       "description": {
         "short": "Das Developer Camp ist ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. ",
         "long": "Bereits zum vierten Mal findet das Developer Camp statt, ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. \n\nWir coden, hacken und tauschen uns im Open-Space-Format aus und versorgen Dich mit allem, was Du für gute zwei Tage Barcamp benötigst. Ansonsten sind wir offen für alle Methoden und Technologien für eine moderne Webentwicklung. Ob PHP, NodeJS/JavaScript, Scala, Java, .NET, Mobile oder DevOps, Agile und Lean Start-up: Wir freuen uns, Entwickler aus unterschiedlichen Disziplinen zusammenzubringen."
-      }
+      },
+      "tags": [
+        "DevOps",
+        "Software Development",
+        "UX/UI"
+      ]
     },
     {
       "key": "WUEWW-2019-405",
@@ -912,7 +1003,11 @@
       "description": {
         "short": "Das DevCamp.create ist ein Barcamp von kreativen Köpfen für kreative Köpfe, das Usability, User Experience und das Design in den Mittelpunkt stellt.",
         "long": "DevCamp.create ist ein Barcamp von kreativen Köpfen für kreative Köpfe, die komplexe Projekte in einem kreativen Umfeld umsetzen und dabei die Usability, User Experience und das Design in den Mittelpunkt stellen wollen. Es findet im Rahmen des Developer Camps statt, einem Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern."
-      }
+      },
+      "tags": [
+        "Software Development",
+        "UX/UI"
+      ]
     },
     {
       "key": "WUEWW-2019-402",
@@ -959,7 +1054,12 @@
       "description": {
         "short": "In diesem Workshop lernen Sie unter anderem, wie Sie bei Ihren Kundenkontakten den Überblick behalten, Daten nutzen sowie Ihren Service verbessern können.",
         "long": "Als Onlinehändler kennen Sie das: Im täglichen Geschäft fallen ständig eine Vielzahl von Kundenkontakten an. Kunden bzw. potenzielle Kunden erkundigen sich nach Produkteigenschaften, Kompatibilität und Verfügbarkeit. Diese Interaktionen erfolgen meist als Chat, Telefonat oder E-Mail. Doch was passiert mit diesen Kontakten und Daten? Wie kann ein Onlinehändler auch später noch davon profitieren? Wie können sie allen Mitarbeitern im Unternehmen verfügbar gemacht werden? Ein CRM bietet hier viele Lösungen für Sie, um den Überblick zu behalten, Daten zu nutzen und zu analysieren sowie Ihren Service zu verbessern.\n\n"
-      }
+      },
+      "tags": [
+        "E-Commerce",
+        "CRM",
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-002",
@@ -993,7 +1093,10 @@
       "description": {
         "short": "Gewinne einen Einblick in die Aufgaben der Mitarbeiter von Unterfrankens größtem Online-Marktplatz",
         "long": "Auch traditionelle Branchen wie Landwirtschaft und Landtechnikhandel setzen auf E-Commerce. Der Handel von Landtechnik über digitale Marktplätze wie technikboerse.com ist bereits seit 20 Jahren ein lohnendes Geschäft. Erfahren Sie mehr darüber, welche Aufgaben anfallen, um einen der größten Online-Marktplätze mit tausenden Händlern und Millionen Nachfragern zu betreiben. Mitarbeiter aus den verschiedensten Bereichen der technikboerse geben einen Einblick in ihren abwechslungsreichen Arbeitstag.\n\n"
-      }
+      },
+      "tags": [
+        "E-Commerce"
+      ]
     },
     {
       "key": "WUEWW-2019-600",
@@ -1025,7 +1128,10 @@
         "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
-      }
+      },
+      "tags": [
+        "HR"
+      ]
     },
     {
       "key": "WUEWW-2019-701",
@@ -1073,7 +1179,10 @@
       "description": {
         "short": "Wir zeigen, wie unser Continuous Integration System funktioniert und was wir dadurch gelernt haben.",
         "long": "In der modernen Softwareentwicklung werden mehr und mehr Routineaufgaben automatisiert. So auch diverse Analysen und Tests von bestehenden und neuen Programmfunktionen. Ein komplexes System wie der Online-Marktplatz technikboerse.com profitiert davon enorm. Wir zeigen, wie wir unser Continuous Integration System auf Jenkins-Basis in der Cloud aufgebaut haben, wie wir es verwalten, welche Probleme wir zu lösen hatten und welchen Nutzen wir daraus ziehen."
-      }
+      },
+      "tags": [
+        "Software Development"
+      ]
     }
   ]
 }

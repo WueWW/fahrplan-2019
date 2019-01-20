@@ -6,7 +6,7 @@
   "properties": {
     "format": {
       "type": "string",
-      "description": "Schema Version number, currently 0.1.0; semantic versioning applies"
+      "description": "Schema Version number, currently 0.2.0; semantic versioning applies"
     },
     "sessions": {
       "type": "array",
@@ -63,6 +63,12 @@
             "properties": {
               "short": { "type": "string" },
               "long": { "type": "string" }
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
             }
           }
         }
