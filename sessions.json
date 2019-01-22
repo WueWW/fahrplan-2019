@@ -718,16 +718,16 @@
     {
       "key": "WUEWW-2019-305",
       "start": "2019-04-04T14:00:00+02:00",
-      "end": null,
+      "end": "2019-04-04T16:00:00+02:00",
       "host": {
         "name": "Online Rebellion",
         "infotext": "Die Online Rebellion ist als digitale Unternehmensberatung spezialisiert auf das umfassende Online Marketing von kleinen und mittelständischen Unternehmen im Bereich datengetriebenes Performance Marketing."
       },
       "title": "Full performance customer journey ",
       "location": {
-        "name": "Online Rebellion\n\nEichendorffstr. 14A \n97072 Würzburg",
-        "lat": 49.784116,
-        "lng": 9.929779
+        "name": "Online Rebellion\n\nSchweinfurter Str. 9\n97080 Würzburg",
+        "lat": 49.799051,
+        "lng": 9.94709
       },
       "description": {
         "short": "Online Marketing war gestern. Full performance customer journey, Digitalisierung ist heute. "
@@ -746,6 +746,25 @@
         "name": "TakeNet GmbH\nAlfred-Nobel-Str. 20\n97080 Würzburg",
         "lat": 49.811562,
         "lng": 9.889329
+      }
+    },
+    {
+      "key": "WUEWW-2019-317",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T15:30:00+02:00",
+      "host": {
+        "name": "Würzburger Netzwerk zur Förderung der Medienkompetenz\n",
+        "infotext": "Um die Digitale Teilhabe aller Bürgerinnen und Bürger von Würzburg zu fördern, haben sich mehrere Bildungsträger und soziale Einrichtungen aus Würzburg zu einen Netzwerk zusammengeschlossen. Beteiligt sind:\n\n* Stadtbücherei Würzburg\n* Volkshochschule Würzburg\n* Mehrgenerationenhaus „Matthias-Ehrenfried“\n* Rudolf-Alexander-Schröder Haus\n* Internetcafe „Von Senioren für Senioren“\n* AK 5 „Digitalisierung“ der Seniorenvertretung der Stadt Würzburg\n* Angestöpselt e.V. – Verein für Digitalkompetenz"
+      },
+      "title": "Digitaler Stammtisch für Ältere\n",
+      "location": {
+        "name": "Matthias-Ehrenfried-Haus\nKolpingstraße 11\n97070 Würzburg",
+        "lat": 49.796731,
+        "lng": 9.932841
+      },
+      "description": {
+        "short": "Digitale Assistenten: Alexa, Siri und Co. werden immer beliebter. Wie können uns diese digitalen Heinzelmännchen im Alltag wirklich nutzen?\n\n",
+        "long": "Digitale Assistenten: Alexa, Siri und Co. werden immer beliebter. Wie können uns diese digitalen Heinzelmännchen im Alltag wirklich nutzen?\n\n"
       }
     },
     {
@@ -932,8 +951,8 @@
       "title": "Data Management & Intelligence",
       "location": {
         "name": "VINTIN GmbH\nFelix-Wankel-Straße 4\n97526 Sennfeld",
-        "lat": 50.035777,
-        "lng": 10.244117
+        "lat": 50.037091,
+        "lng": 10.245086
       },
       "description": {
         "short": "Data Management & Intelligence: Einblicke in die Welt der Daten; bei VINTIN am 4. April 2018 ab 18h30",
