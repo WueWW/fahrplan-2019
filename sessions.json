@@ -893,6 +893,29 @@
       ]
     },
     {
+      "key": "WUEWW-2019-318",
+      "start": "2019-04-04T17:00:00+02:00",
+      "end": "2019-04-04T20:00:00+02:00",
+      "host": {
+        "name": "WITTENSTEIN SE\n",
+        "infotext": "Die WITTENSTEIN SE entwickelt kundenspezifische Produkte, Systeme und Lösungen für hochdynamische Bewegung, präziseste Positionierung und intelligente Vernetzung in der mechatronischen Antriebstechnik. Im Zentrum unserer Forschungs- und Entwicklungsaktivitäten steht die digitale Transformation, die Entwicklung von smarten Produkten und Services und einer smarten Produktion mit Hilfe von Softwareentwicklung, Datenanalyse und Sensorik."
+      },
+      "title": "Digitale Ausbildungswelt von Morge",
+      "location": {
+        "name": "WITTENSTEIN talent arena\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen",
+        "lat": 49.5341,
+        "lng": 9.856375
+      },
+      "description": {
+        "short": "Lernen Sie die digitale Ausbildungswelt der WITTENSTEIN SE kennen.",
+        "long": "Lernen Sie die digitale Ausbildungswelt von WITTENSTEIN im Rahmen unseres Abend der Ausbildung kennen. Sammeln Sie Informationen aus erster Hand und nutzen Sie die persönlichen Gespräche mit unseren Ausbildern, Auszubildenden und dualen Studenten für den direkten Erfahrungsaustausch."
+      },
+      "tags": [
+        "HR",
+        "Einsteiger"
+      ]
+    },
+    {
       "key": "WUEWW-2019-313",
       "start": "2019-04-04T17:30:00+02:00",
       "end": null,
