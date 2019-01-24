@@ -22,8 +22,8 @@
     },
     {
       "key": "WUEWW-2019-501",
-      "start": "2019-04-05T09:00:00+02:00",
-      "end": "2019-04-05T22:00:00+02:00",
+      "start": "2019-04-06T09:00:00+02:00",
+      "end": "2019-04-06T22:00:00+02:00",
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -900,7 +900,7 @@
         "name": "WITTENSTEIN SE\n",
         "infotext": "Die WITTENSTEIN SE entwickelt kundenspezifische Produkte, Systeme und Lösungen für hochdynamische Bewegung, präziseste Positionierung und intelligente Vernetzung in der mechatronischen Antriebstechnik. Im Zentrum unserer Forschungs- und Entwicklungsaktivitäten steht die digitale Transformation, die Entwicklung von smarten Produkten und Services und einer smarten Produktion mit Hilfe von Softwareentwicklung, Datenanalyse und Sensorik."
       },
-      "title": "Digitale Ausbildungswelt von Morge",
+      "title": "Digitale Ausbildungswelt von Morgen",
       "location": {
         "name": "WITTENSTEIN talent arena\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen",
         "lat": 49.5341,
