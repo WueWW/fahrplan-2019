@@ -102,7 +102,8 @@
         "lng": 9.998039
       },
       "description": {
-        "long": "In diesem Vortrag zeigen wir, wie man Conversion Optimierung als mächtigen Hebel für eine zielgruppenspezifische Ansprache einsetzen kann und sollte. Weitere Infos demnächst.\n\n"
+        "short": "In diesem Vortrag zeigen wir, wie man Conversion Optimierung als mächtigen Hebel für eine zielgruppenspezifische Ansprache einsetzen kann und sollte. \n\n",
+        "long": "In Zeiten der Personalisierung wird es immer wichtiger Website-Nutzer als das zu sehen, was sie sind: einzelne Individuen und nicht nur Impressionen im Analytics-Tool.\n\nDenn nur wer beim gegenüber Resonanz erzeugen kann, wird letztendlich in der Lage sein, erfolgreich zu verkaufen. \n\n🎯 Wie aber entwickelt man einen Draht zu den Nutzern auf der anderen Seite und etabliert eine Kommunikation, die diese erreichen kann? \n\n📝 Unser Fahrplan: \n✔ Zielgruppentechniken\n✔ psychologische Prinzipien \n✔ Hypothesen formulieren und priorisieren\n✔ Hypothesen umsetzten \n✔ Validierung\n✔ ein Optimierungsprozess entsteht \n\nAnmeldung über Facebook oder alternativ eine E-Mail an: events@user-mind.de. \n"
       }
     },
     {
@@ -159,7 +160,7 @@
       },
       "description": {
         "short": "Phillip Groschup lädt Sie ein, den neuen Gutenberg-Editor kennenzulernen, welche Funktionen es gibt und wie Sie diesen auf Ihrer Website einsetzen können.",
-        "long": "Editierst du noch, oder Gutenbergst du schon?\n\nNutzen Sie WordPress für Ihre Website? Dann haben Sie sicherlich schon auf WordPress 5.0 aktualisiert und den neuen „Gutenberg Editor“ gesehen.\nPhillip Groschup lädt Sie ein, den neuen Gutenberg Editor kennenzulernen und darüber zu diskutieren. Wir zeigen Ihnen die neuen Funktionen, was der neue Gutenberg gegenüber dem alten Editor anders macht und wie Sie diesen auf Ihrer Website einsetzen können.\n\nPhillip Groschup hat 2018 das WordCamp in Würzburg (Co-)Organisiert und ist seitdem aktiv in der WordPress-Community. Außerdem ist er Lehrbeauftragter für WordPress an der Fachhochschule Würzburg-Schweinfurt."
+        "long": "Editierst du noch, oder Gutenbergst du schon?\n\nNutzen Sie WordPress für Ihre Website? Dann haben Sie sicherlich schon auf WordPress 5.0 aktualisiert und den neuen „Gutenberg Editor“ gesehen.\nPhillip Groschup lädt Sie ein, den neuen Gutenberg Editor kennenzulernen und darüber zu diskutieren. Wir zeigen Ihnen die neuen Funktionen, was der neue Gutenberg gegenüber dem alten Editor anders macht und wie Sie diesen auf Ihrer Website einsetzen können.\n\nPhillip Groschup hat 2018 das WordCamp in Würzburg (Co-)Organisiert und ist seitdem aktiv in der WordPress-Community. Außerdem ist er Lehrbeauftragter für WordPress an der Fachhochschule Würzburg-Schweinfurt.\n\nAnmeldung über Facebook oder alternativ eine E-Mail an: events@user-mind.de.\n\n"
       },
       "tags": [
         "WordPress"
@@ -746,6 +747,10 @@
         "name": "TakeNet GmbH\nAlfred-Nobel-Str. 20\n97080 Würzburg",
         "lat": 49.811562,
         "lng": 9.889329
+      },
+      "description": {
+        "short": "Die Verschlüsselung und Signatur elektronischer Nachrichten ist wichtiger denn je. Wir zeigen, wie das mit SEPPmail einfach und sicher gelingt.",
+        "long": "Die Verschlüsselung und Signatur elektronischer Nachrichten ist heutzutage wichtiger denn je. Allerdings erwiesen sich bisherige Lösungen als teuer, unhandlich und aufwändig. So setzen sie beispielsweise eine spezifische Software beim externen Empfänger oder auf jedem Client-PC voraus. Dank SEPPmail gehören diese Hürden der Vergangenheit an. Das Versenden und Empfangen verschlüsselter und signierter E-Mails erfolgt in der gewohnten Mail-Umgebung. Dabei übernimmt die am Gateway installierte Secure E-Mail Appliance von SEPPmail automatisch sämtliche Aufgaben, ohne die User zu belasten. \n\nTakeNet ist IT. Mit Sicherheit!"
       }
     },
     {
@@ -1192,6 +1197,24 @@
       "description": {
         "short": "BFW Orientierungs-App In-Outdoor für Android-, iOS-Smartphones für Menschen mit und ohne Handicap. ",
         "long": "Selbsterfahrung mit Schwarzbrille und BFW SmartInfo, Orientierungs-App In-Outdoor für Android- und iOS-Smartphones für Menschen mit und ohne Handicap. Die App gibt Infos (Text, Fotos, Filme, Sprachen, richtungsbezogene Angaben), sobald Sie sich einem Infopunkt nähern. Einzigartige Technologiekombination (GPS, Beacons, NFC, QR-Code) mit barrierefreier Programmierung, dadurch für behinderte Menschen ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich - inklusive App für Alle.\n\nAchtung: Die Personenzahl ist auf 12 Teilnehmer beschränkt. Eine Anmeldung ist zwingend erforderlich. "
+      }
+    },
+    {
+      "key": "WUEWW-2019-704",
+      "start": "2019-04-08T16:00:00+02:00",
+      "end": "2019-04-08T18:00:00+02:00",
+      "host": {
+        "name": "Haas GmbH",
+        "infotext": "Haas Das Sanitätshaus ist der führende Spezialist in den Bereichen Sanitätshaus, Orthopädietechnik, Orthopädieschuhtechnik, Rehatechnik sowie Homecare.\n\n"
+      },
+      "title": "Digitalisierung im Handwerk",
+      "location": {
+        "name": "Haas GmbH\nPorschestraße 4\n97230 Estenfeld",
+        "lat": 49.839409,
+        "lng": 10.00861
+      },
+      "description": {
+        "long": "Als Traditionsunternehmen mit innovativen Lösungen für die individuellen Versorgungen und Dienstleistungen im Handwerk in der Gesundheitsbranche blicken wir seit Jahrzehnten auf eine stetige und stabile Aufwärtsentwicklung zurück.\n\nUnser Anspruch ist, Menschen zu helfen, gesund oder erkrankt, ihre Lebensqualität in Zusammenarbeit mit Ärzten, Therapeuten und Pflegekräften zu verbessern. Wir bieten jungen Menschen in unserem Unternehmen die verschiedensten Ausbildungsmöglichkeiten (siehe Homepage).\n\n"
       }
     },
     {
