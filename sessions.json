@@ -186,12 +186,22 @@
     },
     {
       "key": "WUEWW-2019-107",
-      "start": "2019-04-02T14:30:00+02:00",
-      "end": null,
+      "start": "2019-04-02T14:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
       "host": {
         "name": "ByteConsult GmbH"
       },
-      "title": "Smart, digital, zukunftsfähig"
+      "title": "Smart, digital, zukunftsfähig",
+      "location": {
+        "name": "ByteConsult GmbH\nSchweinfurter Straße 9\n97080 Würzburg",
+        "lat": 49.799218,
+        "lng": 9.948147
+      },
+      "tags": [
+        "Digitale Transformation",
+        "",
+        "Digitalisierung"
+      ]
     },
     {
       "key": "WUEWW-2019-108",
@@ -385,6 +395,28 @@
       },
       "tags": [
         "Digitale Transformation"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-120",
+      "start": "2019-04-02T18:00:00+02:00",
+      "end": "2019-04-02T20:00:00+02:00",
+      "host": {
+        "name": "Vizthink Franken",
+        "infotext": "Vizthink Franken ist ein Ableger von Vizthink, einer nicht kommerziellen Organisation, die deutschlandweit visuelles Denken und visuelle Darstellung fördern möchte."
+      },
+      "title": "Vizthink Franken: Lernsnacks",
+      "location": {
+        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
+        "lat": 49.790381,
+        "lng": 9.968659
+      },
+      "description": {
+        "short": "Lernsnacks: In kleinen Lernschritten schneller zum Ziel kommen. Wir zeigen, was sich dahinter verbirgt.",
+        "long": "In kleinen Lernschritten schneller zum Ziel.\n\nWie isst man einen Elefanten? In kleinen Portionen!\n\nViele kleine Lernportionen sind effizienter als ein Training über mehrere Stunden.\nStellt man diese „Lernsnacks“ im Netz zur Verfügung, können sie auch noch jederzeit abgerufen werden. Smartphones und Co machen es möglich, Learningnuggets selbst zu produzieren.\n\nUnd auch diesmal wird es bei unserem Meetup visuell. Also: „Bringt eure mobilen Devices aka Smartphones/Tablets/Laptops mit – wir legen los.“"
+      },
+      "tags": [
+        "Einsteiger"
       ]
     },
     {
@@ -599,6 +631,39 @@
         "Digitalisierung",
         "Software Development"
       ]
+    },
+    {
+      "key": "WUEWW-2019-211",
+      "start": "2019-04-03T17:00:00+02:00",
+      "end": "2019-04-03T20:00:00+02:00",
+      "host": {
+        "name": "prognostica GmbH\n",
+        "infotext": "Wir sind prognostica und unser Geschäft ist die Zukunft. Wir sind Experten für Predictive Analytics und Data Science. Aus Zeitreihen extrahieren wir mit Hilfe von statistischen Methoden und Machine-Learning-Verfahren relevante Strukturen, um die künftigen Entwicklungen sehr genau vorherzusagen. Der präzise Blick in die Zukunft ermöglicht unseren Kunden, ihre Planungen zu optimieren und bessere Entscheidungen zu treffen. Unsere Prognosen verschaffen jeder Branche einen wirtschaftlichen Vorteil."
+      },
+      "title": "Ihre Daten kennen die Zukunft\n",
+      "description": {
+        "short": "Begleiten Sie eine Data-Science-Idee von der methodischen Umsetzung bis hin zur Operationalisierung.",
+        "long": "Begleiten Sie uns von prognostica an diesem Abend auf dem Weg einer initialen Data-Science-Idee über ihre methodische Umsetzung mittels statistischer Verfahren und Machine Learning bis hin zur Implementierung und Operationalisierung. Im Anschluss freuen wir uns auf angeregte Diskussionen mit allen Teilnehmern.\n\nWas Sie erwartet:\n\n3 kurze Vorträge aus dem Bereich “Predictive Analytics”\nDiskussionen und Ideenaustausch\nGetränke und Snacks\n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-212",
+      "start": "2019-04-03T17:00:00+02:00",
+      "end": "2019-04-03T19:00:00+02:00",
+      "host": {
+        "name": "Würzburger Business Coach Akademie",
+        "infotext": "Die Würzburger Business Coach Akademie bildet Führungskräfte, Personaler und Unternehmer zu Business Coaches aus - nach den hohen Standards der Coaching-Fachverbände. Unsere Besonderheit: Bereits nach dem ersten Modul können unserer Teilnehmer coachen. Insgesamt geht es in 7 Modulen à 3 Tagen um ganz viel Praxis."
+      },
+      "title": "Leadership Upgrade 4.0\n",
+      "location": {
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "lat": 49.803558,
+        "lng": 9.998039
+      },
+      "description": {
+        "short": "Welche Nebenwirkungen treten bei Arbeit 4.0 auf? Worauf müssen Sie als Führungskraft achten?",
+        "long": "Die sogenannte „Arbeitswelt 4.0“ ist in aller Munde: Digitalisierung, agile Führung und virtuelle Teams sind nur einige der Themen, denen sich Unternehmen und Führungskräfte stellen müssen. Damit einhergehen Herausforderungen wie zunehmende Komplexität in Beruf und Leben, Unsicherheit und unvollständige Information in Entscheidungssituationen, Rollenveränderungen, unklare Ursache-Wirkungs-Zusammenhänge und Veränderung als Dauerzustand. Kein Wunder also, dass die schöne neue Welt auch Nebenwirkungen hat. Es ist deshalb höchste Zeit, dass Führungskräfte und andere Verantwortliche ihre Führungskompetenzen auf den nächsten Level bringen.\n\nIn diesem Seminar erfahren Sie von Christoph Schalk u. a.:\n\nWelche Nebenwirkungen im Kontext von Arbeit 4.0 auftreten\nWorauf Sie jetzt als Führungskraft, Personaler, Betriebsrat oder Mitarbeiter achten müssen\nWelche Führungskompetenzen jetzt und in Zukunft gebraucht werden\nWie Selbstführung, Mitarbeiterführung und Personalentwicklung in der Arbeitswelt 4.0 gelingen können\nWarum ein „coachender Führungsstil“ Teil der Antwort ist"
+      }
     },
     {
       "key": "WUEWW-2019-209",
@@ -822,7 +887,7 @@
       "end": "2019-04-04T18:00:00+02:00",
       "host": {
         "name": "eResearchTechnology GmbH",
-        "infotext": "ERT is a global data and technology company that minimizes risk and uncertainty in clinical trials, so that the customers can move ahead quickly – and with confidence. We have nearly 50 years of combined clinical, therapeutic and regulatory experience as well as modern technology, design and process‑related insights."
+        "infotext": "eResearchTechnology (ERT) ist ein globales Daten- und IT-Technologieunternehmen, das die forschende Pharmaindustrie im medizintechnischen Sektor bei der Durchführung klinischer Studien unterstützt. Die Schwerpunkte sind EKG, Lungenfunktion, elektronische Patiententagebücher, Webapplikationen zur Datenauswertung und Imaging. Wir minimieren Risiken und Unsicherheit für die Zulassung neuer Produkte oder Medikamente. Unser Beitrag daran, das Leben von Patienten zu verbessern motiviert uns jeden Tag!"
       },
       "title": "Creating a living UI/UX StyleGuide",
       "location": {
@@ -832,7 +897,7 @@
       },
       "description": {
         "short": "The path to create a living UI style guide for better UX and enabling a vibrant contributor forum.",
-        "long": "As our web application landscape grew over time, the need of a company-wide, unified UI arose quickly. Our objectives were a convergent visual language, reusability and a central place for extensible information: A style guide. In this session we will give you an overview, what decisions were taken, how we started, outline pros and cons of a style guide, share experiences while rebranding and talk about our vision: a distributed project, where every team can contribute to a living style guide."
+        "long": "As our web application landscape grew over time, the need of a company-wide, unified UI arose quickly. Our objectives were a convergent visual language, reusability and a central place for extensible information: A style guide. In this session we will give you an overview, what decisions were taken, how we started, outline pros and cons of a style guide, share experiences while rebranding and talk about our vision: a distributed project, where every team can contribute to a living style guide.\n\nHinweis: Session wird auf Deutsch gehalten!"
       },
       "tags": [
         "UX/UI"
@@ -952,7 +1017,7 @@
       "end": "2019-04-04T20:00:00+02:00",
       "host": {
         "name": "eResearchTechnology GmbH",
-        "infotext": "ERT is a global data and technology company that minimizes risk and uncertainty in clinical trials, so that the customers can move ahead quickly – and with confidence. We have nearly 50 years of combined clinical, therapeutic and regulatory experience as well as modern technology, design and process‑related insights."
+        "infotext": "eResearchTechnology (ERT) ist ein globales Daten- und IT-Technologieunternehmen, das die forschende Pharmaindustrie im medizintechnischen Sektor bei der Durchführung klinischer Studien unterstützt. Die Schwerpunkte sind EKG, Lungenfunktion, elektronische Patiententagebücher, Webapplikationen zur Datenauswertung und Imaging. Wir minimieren Risiken und Unsicherheit für die Zulassung neuer Produkte oder Medikamente. Unser Beitrag daran, das Leben von Patienten zu verbessern motiviert uns jeden Tag!"
       },
       "title": "DevOps for a Microservice Platform",
       "location": {
@@ -962,7 +1027,7 @@
       },
       "description": {
         "short": "Introducing DevOps and Test Automation when transforming a monolith to a microservice platform.",
-        "long": "With ERT’s transition from waterfall to agile in the regulated environment of clinical trials, we also started with a (micro-)service-based architecture. Continuous integration/delivery, test automation, the idea of “cloud ready” mandate an approach for DevOps to have all aspects of the software dev cycle being automated (including documentation). This session shows the iterative approach to achieve this goal and the challenges we face to coordinate releases and handling dependencies."
+        "long": "With ERT’s transition from waterfall to agile in the regulated environment of clinical trials, we also started with a (micro-)service based architecture. Continuous integration/delivery, test automation, the idea of “cloud ready” mandate an approach for DevOps to have all aspects of the software dev cycle being automated (including documentation). This session shows the iterative approach to achieve this goal and the challenges we face to coordinate releases and handling dependencies.\n\nSession wird auf Deutsch gehalten"
       },
       "tags": [
         "DevOps"
