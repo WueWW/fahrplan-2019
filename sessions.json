@@ -686,6 +686,25 @@
       ]
     },
     {
+      "key": "WUEWW-2019-319",
+      "start": "2019-04-04T09:00:00+02:00",
+      "end": "2019-04-04T13:30:00+02:00",
+      "host": {
+        "name": "eology GmbH",
+        "infotext": "eology ist eine auf Suchmaschinenmarketing spezialisierte Online Marketing Agentur. Mit den Kernkompetenzen Search Engine Optimization, Paid Advertising, Content Creation und Content Outreach unterstützt das Experten-Team die Kunden dabei, mit ihren Webseiten oder Onlineshops sichtbarer im Netz zu werden."
+      },
+      "title": "SEO & SEA Basics und Updates 2019",
+      "location": {
+        "name": "Hotel Melchior Park\nAm Galgenberg 49\n97074 Würzburg",
+        "lat": 49.787495,
+        "lng": 9.964215
+      },
+      "description": {
+        "short": "Wir zeigen euch echte Keyfindings im Bereich SEA und SEO, sowie die aktuellen Trends und Updates für 2019.",
+        "long": "Kurzer Einstieg in die Welt des Online Marketings sowie Vermittlung von Know How im Bereich SEO & SEA\nSEO: Wie betreibt man seriöses SEO im Jahr 2019? Und mit welchen Werkzeugen kann ich mein Ranking bei Google effektiv beeinflussen? Was funktioniert und was funktioniert (nicht) mehr? \nSEA: Tipps und Tricks zur Steigerung der Performance Ihrer SEA-Kampagnen\nInklusive: Frühstück und Mittagessen \n"
+      }
+    },
+    {
       "key": "WUEWW-2019-300",
       "start": "2019-04-04T09:00:00+02:00",
       "end": "2019-04-04T17:00:00+02:00",
@@ -736,7 +755,7 @@
       },
       "title": "Medienrecht im digitalen Alltag",
       "location": {
-        "name": "Universität Würzburg\nCampus Hubland Süd\nZentrales Hörsaal- und Seminargebäude (Z6)\nRaum 0.002\nAm Hubland\n97074 Würzburg",
+        "name": "Universität Würzburg/Career Centre\nCampus Hubland Süd\nZentrales Hörsaal- und Seminargebäude (Z6)\nRaum 0.002\nAm Hubland\n97074 Würzburg",
         "lat": 49.78385,
         "lng": 9.96864
       },
@@ -1130,7 +1149,7 @@
       },
       "title": "Digital auf Jobsuche",
       "location": {
-        "name": "Universität Würzburg\nZentrales Hörsaal- und Seminargebäude (Z6)\nRaum 1.013\nAm Hubland\n97074 Würzburg",
+        "name": "Universität Würzburg/Career Centre\nZentrales Hörsaal- und Seminargebäude (Z6)\nRaum 1.013\nAm Hubland\n97074 Würzburg",
         "lat": 49.78385,
         "lng": 9.96864
       },
@@ -1171,6 +1190,25 @@
         "CRM",
         "Einsteiger"
       ]
+    },
+    {
+      "key": "WUEWW-2019-004",
+      "start": "2019-04-01T10:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "Deutsche Rentenversicherung Bund",
+        "infotext": "An zwei Standorten in Würzburg kümmern wir uns als Datenstelle der Rentenversicherung (DSRV) mit ca. 200 Mitarbeitern seit über 40 Jahren kundenorientiert um zentrale IT-Aufgaben der Rentenversicherung. Dazu zählt neben der Vergabe der Versicherungsnummer auch die elektronische Kommunikation zwischen den Rentenversicherungsträgern untereinander sowie zu den Versicherten und anderen Behörden im In- und Ausland."
+      },
+      "title": "Digital statt Papier",
+      "location": {
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "lat": 49.803558,
+        "lng": 9.998039
+      },
+      "description": {
+        "short": "Wie stellt sich die Datenstelle der Rentenversicherung als Daten-Dienstleister dem digitalen Wandel?",
+        "long": "Die Datenstelle der Rentenversicherung ist einer der zentralen Kommunikationspartner innerhalb der Sozialversicherung. Vom Versicherten bis zu Behörden im In- und Ausland werden hier täglich Daten ausgetauscht und weitergeleitet.\n\nWie begegnet man dabei den vielfältigen gesellschaftlichen und technologischen Herausforderungen, die die Digitalisierung mit sich bringt? Mit verschiedenen aktuellen Projekten soll diese Frage beantwortet und ein Einblick in die tägliche Arbeit gegeben werden."
+      }
     },
     {
       "key": "WUEWW-2019-002",
