@@ -594,9 +594,9 @@
       },
       "title": "Ihre Sparkasse digital!",
       "location": {
-        "name": "Sparkasse Mainfranken Würzburg\nHofstraße 7-9\n97070 Würzburg",
-        "lat": 49.79319,
-        "lng": 9.9287
+        "name": "Sparkasse Mainfranken Würzburg\nBeratungscenter Domstraße\nDomstraße 1\n97070 Würzburg",
+        "lat": 49.793432,
+        "lng": 9.928857
       },
       "description": {
         "short": "Wie verändert sich eine Bank bzw. die Beratung in der Bank im Zeitalter der Digitalisierung?",
@@ -814,7 +814,8 @@
         "lng": 9.94709
       },
       "description": {
-        "short": "Online Marketing war gestern. Full performance customer journey, Digitalisierung ist heute. "
+        "short": "Online Marketing war gestern. Full performance customer journey, Digitalisierung ist heute. ",
+        "long": "In unserem kostenlosen Workshop „Full performance customer journey“ bekommst du die wichtigsten Tipps für erfolgreiches Online Marketing an die Hand. Katapultiere dein Business ganz nach oben und zieh an der Konkurrenz vorbei – es wird Zeit!\n\nDu willst 2019 richtig Gas im Online Marketing geben? Perfekt!\n\nIn unserem Workshop im Rahmen der Würzburg Web Week zeigen wir dir, wie modernes Performance Marketing funktioniert. Außerdem bekommst du einen Blick hinter die Kulissen und siehst, wie unser junges Unternehmen funktioniert, wie wir erfolgreich eigene Marken entwickeln und wie wir unser Netz aus Kooperationspartner und Kunden ständig vergrößern."
       }
     },
     {
