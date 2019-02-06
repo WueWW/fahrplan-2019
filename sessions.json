@@ -44,6 +44,20 @@
       ]
     },
     {
+      "key": "WUEWW-2019-502",
+      "start": "2019-04-06T15:00:00+02:00",
+      "end": "2019-04-06T18:00:00+02:00",
+      "host": {
+        "name": "Daniel Niemczyk",
+        "infotext": "Ich bin Informatik Student an der FHWS und vor zwei Jahren über ein paar Freunde auf das Thema Bitcoin gestoßen. Der größte Fluch und Segen meines Lebens zeitgleich, denn seitdem bin ich nicht mehr davon losgekommen und möchte aktuell versuchen, Aufklärungsarbeit in diesem Bereich zu betreiben - fernab von jeglicher Geldspekulation!"
+      },
+      "title": "Bitcoin – weit mehr als Geld\n",
+      "description": {
+        "short": "Das Phänomen Bitcoin begeistert bereits Millionen. Nun ist es an der Zeit, dass auch die restlichen 99 % der Welt davon erfahren.",
+        "long": "Mit der Erfindung von Bitcoin im Jahr 2009 wurde ein Mechanismus vorgestellt, der es Computern, verteilt auf der ganzen Welt ermöglicht, sich auf eine gemeinsame Wahrheit zu einigen – voll und ganz ohne einer zentralen Instanz. Diese Wahrheit wird in der sogenannten „Blockchain“ festgehalten. Auf der einen Seite möchte ich versuchen, den Mechanismus und die Art und Weise, wie Bitcoin und Co funktionieren und eingesetzt werden können, leicht verständlich zu erklären. Auf der anderen Seite möchte ich darüber sprechen, wie dies die Art und Weise, wie wir miteinander kommunizieren und handeln, für immer verändern wird.\n\n"
+      }
+    },
+    {
       "key": "WUEWW-2019-100",
       "start": "2019-04-02T08:00:00+02:00",
       "end": "2019-04-02T12:30:00+02:00",
@@ -71,7 +85,7 @@
       "end": "2019-04-02T12:00:00+02:00",
       "host": {
         "name": "Internet von Senioren für Senioren e.V.",
-        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+        "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
       },
       "title": "Senioren*innen ans Netz",
       "location": {
@@ -347,32 +361,23 @@
       ]
     },
     {
-      "key": "WUEWW-2019-116",
-      "start": "2019-04-02T17:00:00+02:00",
-      "end": null,
-      "host": {
-        "name": "FHWS ",
-        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
-      },
-      "title": "Von Bots und Robots",
-      "location": {
-        "name": "FHWS\nFIW\nSanderheinrichsleitenweg 20\n97074 Würzburg",
-        "lat": 49.777391,
-        "lng": 9.96224
-      },
-      "description": {
-        "long": "Von Bots und Robots – das neue Level an Automatisierung.  \n\nAls Referenten sind unter anderem Prof. Dr. Eric Hilgendorf von der Forschungsstelle RobotRecht an der Uni Würzburg, Prof. Dr. Christian Bachmeir vom Forschungsprojekt „Wartungsdrohnen“ dabei. Weitere Details folgen."
-      }
-    },
-    {
       "key": "WUEWW-2019-117",
       "start": "2019-04-02T18:00:00+02:00",
-      "end": null,
+      "end": "2019-04-02T20:00:00+02:00",
       "host": {
         "name": "Mediengruppe Main-Post",
         "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
       },
-      "title": "Instawalk Druckzentrum"
+      "title": "Insta-Walk@mainpost",
+      "location": {
+        "name": "Main-Post Verlagsgebäude\n\rBerner Straße 2\r\n97084 Würzburg",
+        "lat": 49.746418,
+        "lng": 9.95347
+      },
+      "description": {
+        "short": "Beim Insta-Walk können die Teilnehmer das Druckzentrum erkunden, nach Belieben Fotos und Stories machen - vom Papierlager bis zum Versand.",
+        "long": "Der Insta-Walk@mainpost führt mitten durch das Würzburger Druckzentrum. Stories erwünscht! Haushoch und hundert Tonnen schwer sind die Maschinen, auf denen bei der Main-Post Nacht für Nacht rund 200.000 Zeitungsexemplare gedruckt werden. Beim Insta-Walk können die Teilnehmer das Druckzentrum erkunden, nach Belieben Fotos und Stories machen – vom Papierlager bis zum Versand.\n\nTreffpunkt ist an der Pforte des Main-Post Verlagsgebäudes in der Berner Straße 2. Eine Anmeldung ist notwendig, die Plätze sind begrenzt."
+      }
     },
     {
       "key": "WUEWW-2019-118",
@@ -495,7 +500,7 @@
       "end": "2019-04-03T16:30:00+02:00",
       "host": {
         "name": "Internet von Senioren für Senioren e.V.",
-        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+        "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
       },
       "title": "Senioren*innen ans Netz",
       "location": {
@@ -537,7 +542,7 @@
         "name": "Würzburger Medienscouts ",
         "infotext": "Wir sind Software-Hersteller von Websystemen, Apps, Redaktions- und Content Management Systeme. Kunden wie Audi, Porsche, aber auch der Schweizer Kaffeemaschinenhersteller JURA, die KUKA Roboter GmbH und die STIFTUNG WARENTEST nutzen unsere Software-Lösungen."
       },
-      "title": "AR – Advantages of Being a Programmer",
+      "title": "AR & Advantages of Programmer",
       "location": {
         "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97070 Würzburg",
         "lat": 49.797576,
@@ -553,7 +558,7 @@
       "end": "2019-04-03T18:00:00+02:00",
       "host": {
         "name": "Internet von Senioren für Senioren e.V.",
-        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr"
       },
       "title": "Internet von Senioren für Senioren",
       "location": {
@@ -562,7 +567,8 @@
         "lng": 9.875907
       },
       "description": {
-        "short": "Navigation im Internet mit Smartphone & Tablet."
+        "short": "Wir Senioren bringen anderen Senioren mit angepassten Methoden den Umgang mit modernen Medien bei.",
+        "long": "Navigation im Internet mit Smartphone & Tablet. Wir (Senioren) erklären Ihnen die Wege in das Internet und wie Sie sich darin bewegen. Ihre Herausforderungen lösen wir gemeinsam an Ihre Kenntnisse angepasst. Sie wollen wissen, wo der Papierkorb ist oder wie Bilder versendet werden können. Schützen Sie sich gegen Viren? Die Handhabung der integrierten Kamera und der Galerie können wir nach einem kurzen Vortrag ab 17:00 Uhr in einem Workshop gemeinsam üben."
       },
       "tags": [
         "Einsteiger"
@@ -663,6 +669,28 @@
         "short": "Welche Nebenwirkungen treten bei Arbeit 4.0 auf? Worauf müssen Sie als Führungskraft achten?",
         "long": "Die sogenannte „Arbeitswelt 4.0“ ist in aller Munde: Digitalisierung, agile Führung und virtuelle Teams sind nur einige der Themen, denen sich Unternehmen und Führungskräfte stellen müssen. Damit einhergehen Herausforderungen wie zunehmende Komplexität in Beruf und Leben, Unsicherheit und unvollständige Information in Entscheidungssituationen, Rollenveränderungen, unklare Ursache-Wirkungs-Zusammenhänge und Veränderung als Dauerzustand. Kein Wunder also, dass die schöne neue Welt auch Nebenwirkungen hat. Es ist deshalb höchste Zeit, dass Führungskräfte und andere Verantwortliche ihre Führungskompetenzen auf den nächsten Level bringen.\n\nIn diesem Seminar erfahren Sie von Christoph Schalk u. a.:\n\nWelche Nebenwirkungen im Kontext von Arbeit 4.0 auftreten\nWorauf Sie jetzt als Führungskraft, Personaler, Betriebsrat oder Mitarbeiter achten müssen\nWelche Führungskompetenzen jetzt und in Zukunft gebraucht werden\nWie Selbstführung, Mitarbeiterführung und Personalentwicklung in der Arbeitswelt 4.0 gelingen können\nWarum ein „coachender Führungsstil“ Teil der Antwort ist"
       }
+    },
+    {
+      "key": "WUEWW-2019-213",
+      "start": "2019-04-03T18:00:00+02:00",
+      "end": "2019-04-03T20:00:00+02:00",
+      "host": {
+        "name": "Main-Post GmbH",
+        "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
+      },
+      "title": "Storytelling: das neue Erzählen\n",
+      "location": {
+        "name": "Main-Post Verlagsgebäude\nBerner Straße 2\n97084 Würzburg",
+        "lat": 49.746418,
+        "lng": 9.95347
+      },
+      "description": {
+        "short": "Wie die digitale Transformation den Journalismus verändert und was das für die Redaktionen der Main-Post bedeutet.",
+        "long": "Wie die digitale Transformation den Journalismus verändert und was das für die Redaktionen der Main-Post bedeutet. Storytelling im digitalen Zeitalter. Wie die neuen MainPostStories entstehen und ausgespielt werden. Präsentation, Diskussion und Training.\n\nTreffpunkt ist an der Pforte des Main-Post Verlagsgebäudes in der Berner Straße 2. Eine Anmeldung ist notwendig, die Plätze sind begrenzt."
+      },
+      "tags": [
+        "Digitale Transformation"
+      ]
     },
     {
       "key": "WUEWW-2019-209",
@@ -783,7 +811,7 @@
       "end": "2019-04-04T16:30:00+02:00",
       "host": {
         "name": "Internet von Senioren für Senioren e.V.",
-        "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer und Internet beizubringen."
+        "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
       },
       "title": "Senioren*innen ans Netz",
       "location": {
@@ -857,6 +885,23 @@
       }
     },
     {
+      "key": "WUEWW-2019-323",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "host": {
+        "name": ""
+      },
+      "title": "Das Bürgerbräu bei der Web Week",
+      "location": {
+        "name": "Bürgerbräu\nBox\nFrankfurter Straße 87\n97082 Würzburg",
+        "lat": 49.794177,
+        "lng": 9.894154
+      },
+      "description": {
+        "long": "Gleich eine Reihe von Innovationsunternehmen, die auf dem Würzburger Bürgerbräu Gelände ihren Sitz haben, stellen Konzepte und Lösungen im Rahmen der Web Week gemeinsam vor. Am Donnerstag, den 4.4. laden die Unternehmen ab 14 Uhr in die „Box“ ein, ein Präsentationszentrum auf dem Gelände. Die einzelnen Vorträge, Workshops und Präsentationen richten sich an Designer, die Automobilbranche und Hotellerie/Gastronomie.\n\nWeitere Details folgen demnächst.\n\nOrt: Box, Bürgebräu\nParkplätze gegenüber\nStraßenbahnhaltestelle „Bürgerbräu“ (Line 2, 4)"
+      }
+    },
+    {
       "key": "WUEWW-2019-307",
       "start": "2019-04-04T16:00:00+02:00",
       "end": null,
@@ -879,6 +924,25 @@
         "Digitalisierung",
         "Netzinfrastruktur"
       ]
+    },
+    {
+      "key": "WUEWW-2019-320",
+      "start": "2019-04-04T16:00:00+02:00",
+      "end": "2019-04-04T19:30:00+02:00",
+      "host": {
+        "name": "s.Oliver Bernd Freier GmbH und Co. KG",
+        "infotext": "Die 1969 von Bernd Freier gegründete s.Oliver Group hat sich innerhalb weniger Jahrzehnte zu einem der führenden europäischen Modeunternehmen entwickelt und begeistert Menschen rund um den Globus mit internationalem Anspruch an Mode. Als große Unternehmensfamilie vereint der Konzern unterschiedliche Lebensstile, die sich in den Marken s.Oliver RED LABEL, s.Oliver BLACK LABEL, Q/S designed by, TRIANGLE, comma, comma CI und LIEBESKIND BERLIN ausdrücken."
+      },
+      "title": "s.Oliver Group: Fashion – Tech – Transformation",
+      "location": {
+        "name": "Headquarter s.Oliver Group\ns.Oliver-Straße 1\n97228 Rottendorf",
+        "lat": 49.792751,
+        "lng": 10.034989
+      },
+      "description": {
+        "short": "Erlebe die digitale Welt der s.Oliver Group in Vorträgen und an unseren Tech-Ständen, u. a. zu Web Development, SAP, Cloud, Data Pooling und vielen mehr.",
+        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt.\n\nDas haben wir vor:\n\n16.00 Uhr\tBegrüßung\n16.05 Uhr\tKurzvorstellung der Stände\n16.30 Uhr\tCross-Plattform App-Development mit Xamarin\n17.00 Uhr\tDocker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr\tWie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr\tInnovation@s.Oliver Group\n18.00 Uhr\tDer Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr\tApple im Corporate Einsatz"
+      }
     },
     {
       "key": "WUEWW-2019-308",
@@ -1051,6 +1115,44 @@
       "tags": [
         "DevOps"
       ]
+    },
+    {
+      "key": "WUEWW-2019-321",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": "2019-04-04T18:30:00+02:00",
+      "host": {
+        "name": "schmitt kommuniziert.",
+        "infotext": "schmitt kommuniziert versteht sich als vordenkender Partner für strategische Kommunikation. Die PR-Boutique ebnet mittelständischen Unternehmen und Start-ups den Weg, wenn es um ihren Auftritt in den Medien und im Internet geht. Auf Grundlage von Content Strategien schafft schmitt kommuniziert nachhaltigen PR-Erfolg und etabliert Marken. Die Agentur positioniert KMUs in den Medien und unterstützt Vertriebsziele."
+      },
+      "title": "PR – digital und klassisch",
+      "location": {
+        "name": "VCC Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.795136,
+        "lng": 9.900767
+      },
+      "description": {
+        "short": "Klassische und digitale PR ist ein Schlüssel zum Erfolg. Wie ihr vorgeht, erfahrt ihr im Vortrag.",
+        "long": "PR ist auch im digitalen Zeitalter ein Schlüssel zum Erfolg: Eine starke Präsenz in Print- und Online-Medien macht Sie am Markt bekannt. Im Vortrag von Michael C. Schmitt, Inhaber der PR-Boutique schmitt kommuniziert, erfahren Sie kurz und kompakt: \n\n- Wie Sie Ihr Unternehmen bekannt machen und sich vom Wettbewerb abheben\n- Wie Sie mit PR Leads generieren \n- Wie PR zur Suchmaschinenoptimierung (SEO) beiträgt\n\nDer Impulsvortrag ist Teil einer Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG). "
+      }
+    },
+    {
+      "key": "WUEWW-2019-322",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": "2019-04-04T21:00:00+02:00",
+      "host": {
+        "name": "Deutsche Public Relations Gesellschaft (DPRG)\n",
+        "infotext": "Die Deutsche Public Relations Gesellschaft e.V. (DPRG) ist der Verband der Kommunikations-Professionals in Deutschland. Im Mittelpunkt stehen Networking, Knowledge-Sharing und Austausch. Die DPRG bildet die Vielfalt der Kommunikationsbranche in Deutschland ab: von freien Kommunikationsberatern bis zu Geschäftsführern namhafter Agenturen oder Kommunikationsleitern von börsennotierten Unternehmen. Die Regionalgruppe Würzburg bietet regelmäßige Veranstaltungen an."
+      },
+      "title": "Webcasts für Start-ups und Mittelstand\n",
+      "location": {
+        "name": "VCC Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.795136,
+        "lng": 9.900767
+      },
+      "description": {
+        "short": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. In dem Vortrag zeigt Alexander Mereien, wie ein Webcast produziert wird.",
+        "long": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. Mit viel Potenzial verbunden sind Web-Casts – eine Live-Übertragung ins Internet und eine besonders dynamische Form von Videos.\n\nIm Rahmen der Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG) zeigt Alexander Mereien, Experte für Projektkommunikation, wie ein Webcast produziert wird. Der Vortrag wird live ins Internet gestreamt. Als Zuschauer wirken Sie aktiv mit an der Übertragung."
+      }
     },
     {
       "key": "WUEWW-2019-316",
