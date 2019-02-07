@@ -102,6 +102,30 @@
       ]
     },
     {
+      "key": "WUEWW-2019-121",
+      "start": "2019-04-02T09:30:00+02:00",
+      "end": "2019-04-02T11:00:00+02:00",
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "Das Business Application Research Center (BARC) ist ein unabhängiges Analysten- und Beratungshaus für Unternehmenssoftware mit Fokus auf die Bereiche BI, Analytics, Big Data, CRM, ECM & ERP."
+      },
+      "title": "Effiziente Unternehmensplanung",
+      "location": {
+        "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
+        "lat": 49.799584,
+        "lng": 9.942028
+      },
+      "description": {
+        "short": "Der Vortrag zeigt die Möglichkeiten professioneller Softwarewerkzeuge für die Unternehmensplanung auf, stellt den Softwaremarkt und Markttrends vor.",
+        "long": "Effiziente Unternehmensplanung – „Exceln“ Sie noch oder planen Sie schon?\n\nDie digitale Transformation verschiebt rasant die Rahmenbedingungen der Unternehmens­steuerung. Neue Anforderungen an Geschwindigkeit, Vorausschau und Agilität bedeuten massive Herausforderungen. Unternehmen sind zunehmend auf eine schnelle, datenzentrierte und vorausschauende Planung und Steuerung angewiesen. Planungen und Forecasts müssen kurzfristiger, automatisierter sowie bei Bedarf rollierend unter Berücksichtigung treiberbasierter Ursache-Wirkungsbeziehungen erfolgen. Ein entscheidender Erfolgsfaktor hierfür ist der Einsatz professioneller Softwarelösungen.\n\nDieser Impulsvortrag gibt einen Einblick in die Möglichkeiten professioneller Softwarewerkzeuge für die Unternehmensplanung, stellt den Softwaremarkt und aktuelle Markttrends vor."
+      },
+      "tags": [
+        "Einsteiger",
+        "Digitale Transformation",
+        "Digitalisierung"
+      ]
+    },
+    {
       "key": "WUEWW-2019-102",
       "start": "2019-04-02T10:00:00+02:00",
       "end": "2019-04-02T12:00:00+02:00",
@@ -137,6 +161,23 @@
       "description": {
         "short": "Web-Freaks treffen sich, um Spaß zu haben und gemeinsam über alte und aktuelle Themen zu diskutieren",
         "long": "Wenn ihr privat oder beruflich leidenschaftlich gerne Webseiten oder Web-Apps plant oder baut, werdet ihr euch bei uns unter Gleichgesinnten wohlfühlen. Wir unterhalten uns über längst veraltete Techniken genauso wie über ultramoderne, „geile Scheiße“. Kleine Games wie „Stadt, Land, Fluss“ - in einer Version für Web-Freaks - werden uns herausfordern und für viel Unterhaltung und interessanten Gesprächsstoff sorgen. Wer nicht gern spielt, schaut zu :-). Habt Spaß und genießt das Frühstück!"
+      }
+    },
+    {
+      "key": "WUEWW-2019-122",
+      "start": "2019-04-02T11:40:00+02:00",
+      "end": "2019-04-02T18:30 Uhr:00+02:00",
+      "host": {
+        "name": "Region Mainfranken GmbH",
+        "infotext": "Als Standortagentur der sieben mainfränkischen Landkreise, der beiden kreisfreien Städte Würzburg und Schweinfurt sowie der Wirtschaftskammern bündelt die Region Mainfranken GmbH die regionalen Kräfte in Politik, Wissenschaft und Wirtschaft zur Positionierung Mainfrankens im nationalen und internationalen Standortwettbewerb. Durch zielorientiertes Standortmarketing wird Mainfranken für potenzielle Fachkräfte, Investoren und Interessenten sichtbar."
+      },
+      "title": "career tour Mainfranken",
+      "location": {
+        "name": "Bustour zu s.Oliver (Rottendorf) und iWelt AG (Eibelstadt)"
+      },
+      "description": {
+        "short": "Auf Jobsuche? Die career tour Mainfranken hilft Dir. Verantwortliche bei s.Oliver und der iWelt AG freuen sich darauf, Dich persönlich kennenzulernen.",
+        "long": "Du bist auf der Suche nach einem Arbeitsplatz in der Region? Dann melde Dich jetzt für die career tour Mainfranken an. Wir bringen Dich zu zwei potenziellen Arbeitgebern. Nutze die Möglichkeit, Personalentscheidern erste Fragen zu Deinen konkreten Karriereperspektiven zu stellen. Erfahre mehr über das Portfolio, die Kernkompetenzen und das angewandte Know-How der Betriebe. Verantwortliche bei s.Oliver und der iWelt AG freuen sich darauf, Dich persönlich kennen zu lernen. Die Teilnehmer-Anzahl ist begrenzt: first come – first serve!\n\n"
       }
     },
     {
@@ -361,6 +402,25 @@
       ]
     },
     {
+      "key": "WUEWW-2019-124",
+      "start": "2019-04-02T17:30:00+02:00",
+      "end": "2019-04-02T18:15:00+02:00",
+      "host": {
+        "name": "REDDOXX GmbH",
+        "infotext": "REDDOXX ist mit über 3.500 Installationen in Deutschland einer der führenden Hersteller für IT-Lösungen rund um die E-Mail-Kommunikation. Zu unseren Kunden zählen zahlreiche namhafte Unternehmen, Konzerne und öffentliche Institutionen.\n\n"
+      },
+      "title": "Mail-Archivierung/Verschlüsselung\n",
+      "location": {
+        "name": "REDDOXX – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt\"",
+        "lat": 49.732625,
+        "lng": 9.990641
+      },
+      "description": {
+        "short": "Postgeheimnis 2.0 – Wie E-Mail Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.",
+        "long": "Postgeheimnis 2.0 – Wie E-Mail Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.\n\nDer Vortrag liefert Antworten auf die folgenden Fragen:\n\nWie sicher sind E-Mails?\nWird E-Mail-Verschlüsselung überschätzt?\nWo liegen die Probleme?\n"
+      }
+    },
+    {
       "key": "WUEWW-2019-117",
       "start": "2019-04-02T18:00:00+02:00",
       "end": "2019-04-02T20:00:00+02:00",
@@ -378,6 +438,28 @@
         "short": "Beim Insta-Walk können die Teilnehmer das Druckzentrum erkunden, nach Belieben Fotos und Stories machen - vom Papierlager bis zum Versand.",
         "long": "Der Insta-Walk@mainpost führt mitten durch das Würzburger Druckzentrum. Stories erwünscht! Haushoch und hundert Tonnen schwer sind die Maschinen, auf denen bei der Main-Post Nacht für Nacht rund 200.000 Zeitungsexemplare gedruckt werden. Beim Insta-Walk können die Teilnehmer das Druckzentrum erkunden, nach Belieben Fotos und Stories machen – vom Papierlager bis zum Versand.\n\nTreffpunkt ist an der Pforte des Main-Post Verlagsgebäudes in der Berner Straße 2. Eine Anmeldung ist notwendig, die Plätze sind begrenzt."
       }
+    },
+    {
+      "key": "WUEWW-2019-120",
+      "start": "2019-04-02T18:00:00+02:00",
+      "end": "2019-04-02T20:00:00+02:00",
+      "host": {
+        "name": "Vizthink Franken",
+        "infotext": "Vizthink Franken ist ein Ableger von Vizthink, einer nicht kommerziellen Organisation, die deutschlandweit visuelles Denken und visuelle Darstellung fördern möchte."
+      },
+      "title": "Vizthink Franken: Lernsnacks",
+      "location": {
+        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
+        "lat": 49.790381,
+        "lng": 9.968659
+      },
+      "description": {
+        "short": "Lernsnacks: In kleinen Lernschritten schneller zum Ziel kommen. Wir zeigen, was sich dahinter verbirgt.",
+        "long": "In kleinen Lernschritten schneller zum Ziel.\n\nWie isst man einen Elefanten? In kleinen Portionen!\n\nViele kleine Lernportionen sind effizienter als ein Training über mehrere Stunden.\nStellt man diese „Lernsnacks“ im Netz zur Verfügung, können sie auch noch jederzeit abgerufen werden. Smartphones und Co machen es möglich, Learningnuggets selbst zu produzieren.\n\nUnd auch diesmal wird es bei unserem Meetup visuell. Also: „Bringt eure mobilen Devices aka Smartphones/Tablets/Laptops mit – wir legen los.“"
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-118",
@@ -402,25 +484,25 @@
       ]
     },
     {
-      "key": "WUEWW-2019-120",
-      "start": "2019-04-02T18:00:00+02:00",
-      "end": "2019-04-02T20:00:00+02:00",
+      "key": "WUEWW-2019-123",
+      "start": "2019-04-02T18:30:00+02:00",
+      "end": "2019-04-02T21:30:00+02:00",
       "host": {
-        "name": "Vizthink Franken",
-        "infotext": "Vizthink Franken ist ein Ableger von Vizthink, einer nicht kommerziellen Organisation, die deutschlandweit visuelles Denken und visuelle Darstellung fördern möchte."
+        "name": "Tradebyte Software GmbH",
+        "infotext": "The /dev/night is powered by Tradebyte: \n\nDas Tradebyte Ökosystem gibt Antworten auf die Herausforderungen der digitalen Transformation im Handel und sorgt für eine nahtlose Vernetzung von Herstellern, Händlern und Retailern im digitalen Supply Chain. Einheitliche und standardisierte Austauschformate und Übertragungswege – end-to-end durch Tradebyte betreut – sorgen für einen voll-automatischen und stets synchronen Datenflow. Auf dem modernen Ökosystem aufbauende, hochskalierbare SaaS-Lösungen liefern benötigte Funktionen out-of-the-box. Das Tradebyte Ökosystem überwindet Barrieren und schont Ressourcen bei kurzer Time-to-Market."
       },
-      "title": "Vizthink Franken: Lernsnacks",
+      "title": "#033 /dev/night - WueWW special",
       "location": {
-        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
-        "lat": 49.790381,
-        "lng": 9.968659
+        "name": "Tradebyte Software GmbH\nBahnhofsplatz 8\n91522 Ansbach",
+        "lat": 49.298972,
+        "lng": 10.579126
       },
       "description": {
-        "short": "Lernsnacks: In kleinen Lernschritten schneller zum Ziel kommen. Wir zeigen, was sich dahinter verbirgt.",
-        "long": "In kleinen Lernschritten schneller zum Ziel.\n\nWie isst man einen Elefanten? In kleinen Portionen!\n\nViele kleine Lernportionen sind effizienter als ein Training über mehrere Stunden.\nStellt man diese „Lernsnacks“ im Netz zur Verfügung, können sie auch noch jederzeit abgerufen werden. Smartphones und Co machen es möglich, Learningnuggets selbst zu produzieren.\n\nUnd auch diesmal wird es bei unserem Meetup visuell. Also: „Bringt eure mobilen Devices aka Smartphones/Tablets/Laptops mit – wir legen los.“"
+        "short": "Special der monatlich stattfindenden /dev/night, ein monatlich stattfindendes Meetup für Developer, System Operator und Tech-Interessierte aller Art in Ansbach",
+        "long": "Normalerweise findet die /dev/night jeden Monat am zweiten Dienstag statt - bis auf unser Special:\nDas tanzt am 02.04.2018 vollkommen aus der Reihe! Und auch den Ablauf von einem Talk und dann Übungen in Tandems: einfach über den Haufen geworfen. Es wird Vorträge (tba) zu spannenden Themen geben: Für Devs, für Ops und auch für alle anderen IT-Interessierten ist etwas dabei. Melde Dich an, so dass wir auch genügend Food und Mate bereitstellen können."
       },
       "tags": [
-        "Einsteiger"
+        "Software Development"
       ]
     },
     {
@@ -582,7 +664,7 @@
         "name": "hümmer kommunikation",
         "infotext": "Meine Vision ist es, nachhaltig öffentliche Aufmerksamkeit für meine Kundinnen und Kunden herzustellen. Meine Philosophie ist es, Kommunikation ehrlich zu betreiben: Nur, wenn ich wirklich hinter Projekten, Ideen, Produkten stehe, möchte und kann ich diese glaubhaft kommunizieren."
       },
-      "title": "ASSOZIAL!\nOhne soziale Medien fehlt was.",
+      "title": "ASOZIAL!\nOhne soziale Medien fehlt was.",
       "description": {
         "short": "ASSOZIAL! Ohne soziale Medien fehlt was."
       },
@@ -646,6 +728,11 @@
         "infotext": "Wir sind prognostica und unser Geschäft ist die Zukunft. Wir sind Experten für Predictive Analytics und Data Science. Aus Zeitreihen extrahieren wir mit Hilfe von statistischen Methoden und Machine-Learning-Verfahren relevante Strukturen, um die künftigen Entwicklungen sehr genau vorherzusagen. Der präzise Blick in die Zukunft ermöglicht unseren Kunden, ihre Planungen zu optimieren und bessere Entscheidungen zu treffen. Unsere Prognosen verschaffen jeder Branche einen wirtschaftlichen Vorteil."
       },
       "title": "Ihre Daten kennen die Zukunft\n",
+      "location": {
+        "name": "Mondelli Studio\nPleicherkirchplatz 15\n97070 Würzburg",
+        "lat": 49.797552,
+        "lng": 9.928199
+      },
       "description": {
         "short": "Begleiten Sie eine Data-Science-Idee von der methodischen Umsetzung bis hin zur Operationalisierung.",
         "long": "Begleiten Sie uns von prognostica an diesem Abend auf dem Weg einer initialen Data-Science-Idee über ihre methodische Umsetzung mittels statistischer Verfahren und Machine Learning bis hin zur Implementierung und Operationalisierung. Im Anschluss freuen wir uns auf angeregte Diskussionen mit allen Teilnehmern.\n\nWas Sie erwartet:\n\n3 kurze Vorträge aus dem Bereich “Predictive Analytics”\nDiskussionen und Ideenaustausch\nGetränke und Snacks\n"
@@ -759,7 +846,7 @@
         "name": "Forschungsgruppe „Business Enrichment“ \nLehrstuhl für BWL und Wirtschaftsinformatik Universität Würzburg \nProf. Dr. Axel Winkelmann.",
         "infotext": "Wir revolutionieren die BWL in Unternehmenssoftware, automatisieren die Unternehmensberatung und verbessern fundamental die operative Entscheidungsfindung in Unternehmen mit Hilfe von modernen Technologien im Kontext von Big Data und KI."
       },
-      "title": " Hands on Artificial Intelligence",
+      "title": "Hands on Artificial Intelligence",
       "location": {
         "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
         "lat": 49.790173,
@@ -795,15 +882,25 @@
     {
       "key": "WUEWW-2019-303",
       "start": "2019-04-04T10:00:00+02:00",
-      "end": null,
+      "end": "2019-04-04T13:00:00+02:00",
       "host": {
         "name": "snapADDY GmbH",
-        "infotext": "Die snapADDY GmbH ist ein SaaS-Startup, das im Jahr 2015 gegründet wurde. Das junge Würzburger Unternehmen hat sich zum Ziel gesetzt, eine Software zu entwickeln, welche die Arbeit mit Leads enorm erleichtert und verbessert. Dazu werden verschiedene Bausteine entwickelt, die bei der Zusammenstellung von Leads und Prospects Unterstützung leisten."
+        "infotext": "Die snapADDY GmbH ist ein 2015 gegründetes Technik-Startup aus Würzburg und vertreibt Software für Vertriebs- und Marketingmitarbeiter im Innen- und Außendienst. Der snapADDY Grabber unterstützt dabei den Mitarbeiter im Innendienst bei der Adresspflege, -recherche und der Kontaktübernahme in CRM-Systeme. snapADDY VisitReport ist für den Mitarbeiter im Außendienst konzipiert und ersetzt frühere Besuchsbögen."
       },
       "title": "Entwickler-Weißwurstfrühstück",
+      "location": {
+        "name": "snapADDY GmbH\nHaugerkirchgasse 7\n97070 Würzburg\nEingang durch den Hof",
+        "lat": 49.797508,
+        "lng": 9.935888
+      },
       "description": {
-        "short": "snapADDY lädt zum Entwickler-Weißwurstfrühstück."
-      }
+        "short": "snapADDY präsentiert ein geselliges Weißwurstfrühstück & Vorträge zu 4 Jahren Software-Entwicklung!",
+        "long": "Ein Software-Startup gründen – was soll da schon schief gehen?! So einiges!\n\nIn geselliger Runde bei Weißwurst, Brezn und Weißbier berichtet CTO Sebastian Metzger über lustige und interessante Anekdoten und Erfahrungen aus vier Jahren Software-Entwicklung bei snapADDY. Data Scientist Philip Dürholt gibt zudem exklusive Einblicke hinter die Kulissen der Entwicklung der hauseigenen intelligenten Adresserkennung mit Deep Learning!\n\nDie Teilnehmeranzahl ist auf 30 Anmeldungen begrenzt."
+      },
+      "tags": [
+        "Start-up",
+        "Software Development"
+      ]
     },
     {
       "key": "WUEWW-2019-304",
@@ -931,7 +1028,7 @@
       "end": "2019-04-04T19:30:00+02:00",
       "host": {
         "name": "s.Oliver Bernd Freier GmbH und Co. KG",
-        "infotext": "Die 1969 von Bernd Freier gegründete s.Oliver Group hat sich innerhalb weniger Jahrzehnte zu einem der führenden europäischen Modeunternehmen entwickelt und begeistert Menschen rund um den Globus mit internationalem Anspruch an Mode. Als große Unternehmensfamilie vereint der Konzern unterschiedliche Lebensstile, die sich in den Marken s.Oliver RED LABEL, s.Oliver BLACK LABEL, Q/S designed by, TRIANGLE, comma, comma CI und LIEBESKIND BERLIN ausdrücken."
+        "infotext": "Fashion & Tech – das ist die s.Oliver Group. Mit über 300 Tech- und Digital-Experten aus Bereichen wie SAP, DevOps, Web & Mobile Development, IT-Architektur-Management, Innovation und E-Commerce sind wir einer der wichtigsten Treiber im Bereich FashionTech.\n\nDie 1969 von Bernd Freier gegründete s.Oliver Group hat sich innerhalb weniger Jahrzehnte zu einem der führenden europäischen Modeunternehmen entwickelt und begeistert Menschen rund um den Globus mit internationalem Anspruch an Mode. Als große Unternehmensfamilie vereint der Konzern unterschiedliche Lebensstile, die sich in den Marken s.Oliver RED LABEL, s.Oliver BLACK LABEL, Q/S designed by, TRIANGLE, comma, comma CI und LIEBESKIND BERLIN ausdrücken."
       },
       "title": "s.Oliver Group: Fashion – Tech – Transformation",
       "location": {
@@ -941,7 +1038,7 @@
       },
       "description": {
         "short": "Erlebe die digitale Welt der s.Oliver Group in Vorträgen und an unseren Tech-Ständen, u. a. zu Web Development, SAP, Cloud, Data Pooling und vielen mehr.",
-        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt.\n\nDas haben wir vor:\n\n16.00 Uhr\tBegrüßung\n16.05 Uhr\tKurzvorstellung der Stände\n16.30 Uhr\tCross-Plattform App-Development mit Xamarin\n17.00 Uhr\tDocker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr\tWie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr\tInnovation@s.Oliver Group\n18.00 Uhr\tDer Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr\tApple im Corporate Einsatz"
+        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt. Themen u. a. Innovation & Start-Up-Kooperationen, Docker & Continuous Deployment für Dev & OPs, Cross-Plattform App-Development mit Xamarin, SAP, Cloud & OneDrive, Mac, Data Pooling & Machine Learning.\n\nDas haben wir vor:\n\n16.00 Uhr        Begrüßung\n16.05 Uhr        Kurzvorstellung der Stände\n16.30 Uhr        Cross-Plattform App-Development mit Xamarin\n17.00 Uhr        Docker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr        Wie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr        Innovation@s.Oliver Group\n18.00 Uhr        Der Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr        Apple im Corporate Einsatz"
       }
     },
     {
