@@ -298,36 +298,6 @@
       ]
     },
     {
-      "key": "WUEWW-2019-110",
-      "start": "2019-04-02T16:00:00+02:00",
-      "end": "2019-04-02T18:00:00+02:00",
-      "host": {
-        "name": "iWelt AG",
-        "infotext": "Als modernes Dienstleistungsunternehmen bietet die iWelt AG maßgeschneiderte und zukunftsweisende Lösungen in den Bereichen Internet- und Informationstechnologie."
-      },
-      "title": "IT-Sicherheit",
-      "location": {
-        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
-        "lat": 49.732625,
-        "lng": 9.990641
-      }
-    },
-    {
-      "key": "WUEWW-2019-111",
-      "start": "2019-04-02T16:00:00+02:00",
-      "end": "2019-04-02T18:00:00+02:00",
-      "host": {
-        "name": "KIM Krick Interactive Media GmbH ",
-        "infotext": "Lokal, digital, erfolgreich! Mit maßgeschneiderten Lösungen bringen wir unseren Kunden Kunden. Egal ob Google AdWords-Kampagnen, On- und Offline-Werbung in lokalen Verzeichnissen oder die Erstellung Ihrer Webseite."
-      },
-      "title": "Online-Marketing",
-      "location": {
-        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
-        "lat": 49.732625,
-        "lng": 9.990641
-      }
-    },
-    {
       "key": "WUEWW-2019-112",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
@@ -380,6 +350,74 @@
       }
     },
     {
+      "key": "WUEWW-2019-110",
+      "start": "2019-04-02T16:30:00+02:00",
+      "end": "2019-04-02T17:15:00+02:00",
+      "host": {
+        "name": "iWelt AG",
+        "infotext": "Als modernes Dienstleistungsunternehmen bietet die iWelt AG maßgeschneiderte und zukunftsweisende Lösungen in den Bereichen Internet- und Informationstechnologie. \n"
+      },
+      "title": "2030 – Das Ende der Websites?",
+      "location": {
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
+      },
+      "description": {
+        "short": "Was bedeutet Disruption im Bereich Websites und Onlineshops? Ein vorsichtiger Blick ins Jahr 2030.",
+        "long": "Der digitale Fortschritt verändert unsere Welt schneller, als wir es verarbeiten können. Die Disruption erfordert Umdenken in allen Branchen. In allen Branchen? Was bedeutet Disruption im Bereich Websites und Onlineshops? Ein vorsichtiger Blick ins Jahr 2030."
+      },
+      "tags": [
+        "E-Commerce"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-125",
+      "start": "2019-04-02T16:30:00+02:00",
+      "end": "2019-04-02T17:15:00+02:00",
+      "host": {
+        "name": "Creditreform Würzburg Bauer & Polyak KG",
+        "infotext": "Kurz nach Gründung der ersten Geschäftsstelle öffnete Creditreform Würzburg im Jahr 1882 die Türen und steht Ihnen seitdem als vertrauensvoller Partner zur Seite. Für unsere Kunden sind wir im Wirtschaftsleben der professionelle Partner in der Region mit zuverlässigen Wirtschaftsinformationen für qualifizierte Entscheidungen im Kreditmanagement und zur Sicherung von Geschäftsbeziehungen, mit individuellem, straffem und wirkungsvollem Forderungsmanagement für höhere und bessere Liquidität, mit umfangreichen und kompetenten Service- und Consulting-Leistungen im Risikomanagement."
+      },
+      "title": "Optimale Zahlarten im Onlineshop",
+      "location": {
+        "name": "Creditreform Würzburg – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt\"",
+        "lat": 49.732625,
+        "lng": 9.990641
+      },
+      "description": {
+        "short": "Mit CrefoPay bietet Creditreform eine Payment-Lösung, um zukünftig im Online-Handel erfolgreich zu sein. Wir zeigen Ihnen, wie es in der Praxis funktioniert.",
+        "long": "In den letzten Jahren verzeichnete der B2C-Onlinemarkt jährlich zweistellige Wachstumsraten. Für den B2B-Onlinemarkt werden für die kommenden Jahre noch höhere Zuwachsraten prognostiziert. Dabei präferieren über 89 % der privaten Onlinekonsumenten und über 95 % der Onlinegeschäftskunden den Rechnungskauf.\n\nWie begegnen Sie den Herausforderungen im Onlinehandel?\n\n- Omnichannel-Präsenz (Online über alle Devices, lokaler Handel)\n- Bonitätsgestützte Zahlartensteuerung mit Rechnungskauf im B2C und B2B\n- Betrugsprävention\n- Automatisiertes Zahlungsclearing und Mahnwesen\n- Unabhängigkeiten von großen Payment-Service-Providern und Marktplätzen\n- Transparente, selbst konfigurierbare Risikosteuerung ohne Blackbox\n\nMit CrefoPay bietet Ihnen Deutschlands größte Wirtschaftsauskunftei Creditreform eine innovative Payment-Lösung, die Sie aktiv unterstützt, auch zukünftig im Handel erfolgreich zu sein. Wir zeigen Ihnen, wie es in der Praxis funktioniert."
+      },
+      "tags": [
+        "Digitalisierung",
+        "E-Commerce"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-126",
+      "start": "2019-04-02T16:30:00+02:00",
+      "end": "2019-04-02T17:15:00+02:00",
+      "host": {
+        "name": "KIM Krick Interactive Media GmbH",
+        "infotext": "Die KIM Krick Interactive Media GmbH ist eine Full-Service-Agentur für performanceorientiertes Online-Marketing. Unser Schwerpunkt liegt dabei in den Bereichen Suchmaschinenwerbung und Suchmaschinenoptimierung.\n\nWir entwickeln für Sie leistungsorientierte Marketing-Strategien und stimmen diese auf Ihre individuellen Bedürfnisse ab. Mit erfolgsorientierten Kampagnen und Optimierungsmaßnahmen sorgen wir für Ihre optimale Platzierung bei allen relevanten Suchmaschinen, wie zum Beispiel Google, Yahoo! etc.\n\nDabei garantiert die Zugehörigkeit zur krick.com GmbH + Co. KG den KIM Kunden Beständigkeit, Zuverlässigkeit und Investitionssicherheit. Mit rund 450 Mitarbeiterinnen und Mitarbeiter im Innen- und Außendienst ist krick.com mit Sitz in Eibelstadt und Hamburg bundesweit aktiv.\n\nZusätzlich sind wir vom Bundesministerium für Wirtschaft und Energie autorisiert, im Rahmen des Projektes „go digital“ unabhängige Beratung für unsere Kunden zu leisten im Bereich der digitalen Markterschließung."
+      },
+      "title": "Googles Mobile-First-Index                       ",
+      "location": {
+        "name": "KIM Krick Interactive Media\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
+      },
+      "description": {
+        "short": "Googles Mobile-First-Index, wir gehen u. a. darauf ein, welche Maßnahmen gut funktionieren und mit welchen Entwicklungen demnächst zu rechnen ist.",
+        "long": "Googles Mobile-First-Index – gefunden wird, wer für Mobil optimiert\n\nIm letzten Jahr stellte Google seine Suchindexierung auf Mobile First um. Seitdem werden Seiten, die für Mobile optimiert sind, bei der Suche bevorzugt. Aus den Erfahrungen des Jahres lässt sich ableiten, welche Maßnahmen gut funktionieren. Wie stellen sich Websitebetreiber am besten auf die Änderung ein? Welche Innovationen und Messtechniken gibt es? Und mit welchen Entwicklungen ist demnächst zu rechnen?"
+      },
+      "tags": [
+        "E-Commerce",
+        "SEO"
+      ]
+    },
+    {
       "key": "WUEWW-2019-115",
       "start": "2019-04-02T17:00:00+02:00",
       "end": "2019-04-02T21:00:00+02:00",
@@ -407,7 +445,7 @@
       "end": "2019-04-02T18:15:00+02:00",
       "host": {
         "name": "REDDOXX GmbH",
-        "infotext": "REDDOXX ist mit über 3.500 Installationen in Deutschland einer der führenden Hersteller für IT-Lösungen rund um die E-Mail-Kommunikation. Zu unseren Kunden zählen zahlreiche namhafte Unternehmen, Konzerne und öffentliche Institutionen.\n\n"
+        "infotext": "REDDOXX ist mit über 3.500 Installationen in Deutschland einer der führenden Hersteller für IT-Lösungen rund um die E-Mail-Kommunikation. Zu unseren Kunden zählen zahlreiche namhafte Unternehmen, Konzerne und öffentliche Institutionen.\n"
       },
       "title": "Mail-Archivierung/Verschlüsselung\n",
       "location": {
@@ -416,9 +454,59 @@
         "lng": 9.990641
       },
       "description": {
-        "short": "Postgeheimnis 2.0 – Wie E-Mail Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.",
-        "long": "Postgeheimnis 2.0 – Wie E-Mail Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.\n\nDer Vortrag liefert Antworten auf die folgenden Fragen:\n\nWie sicher sind E-Mails?\nWird E-Mail-Verschlüsselung überschätzt?\nWo liegen die Probleme?\n"
-      }
+        "short": "Postgeheimnis 2.0 – Wie E-Mail-Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.",
+        "long": "Postgeheimnis 2.0 – Wie E-Mail-Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.\n\nDer Vortrag liefert Antworten auf die folgenden Fragen:\n\nWie sicher sind E-Mails?\nWird E-Mail-Verschlüsselung überschätzt?\nWo liegen die Probleme?\n"
+      },
+      "tags": [
+        "Digitalisierung",
+        "E-Commerce"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-111",
+      "start": "2019-04-02T17:30:00+02:00",
+      "end": "2019-04-02T18:15:00+02:00",
+      "host": {
+        "name": "KIM Krick Interactive Media GmbH",
+        "infotext": "Die KIM Krick Interactive Media GmbH ist eine Full-Service-Agentur für performanceorientiertes Online-Marketing. Unser Schwerpunkt liegt dabei in den Bereichen Suchmaschinenwerbung und Suchmaschinenoptimierung.\n\nWir entwickeln für Sie leistungsorientierte Marketing-Strategien und stimmen diese auf Ihre individuellen Bedürfnisse ab. Mit erfolgsorientierten Kampagnen und Optimierungsmaßnahmen sorgen wir für Ihre optimale Platzierung bei allen relevanten Suchmaschinen, wie zum Beispiel Google, Yahoo! etc.\n\nDabei garantiert die Zugehörigkeit zur krick.com GmbH + Co. KG den KIM Kunden Beständigkeit, Zuverlässigkeit und Investitionssicherheit. Mit rund 450 Mitarbeiterinnen und Mitarbeiter im Innen- und Außendienst ist krick.com mit Sitz in Eibelstadt und Hamburg bundesweit aktiv.\n\nZusätzlich sind wir vom Bundesministerium für Wirtschaft und Energie autorisiert, im Rahmen des Projektes „go digital“ unabhängige Beratung für unsere Kunden zu leisten im Bereich der digitalen Markterschließung."
+      },
+      "title": "Google is your new homepage\n",
+      "location": {
+        "name": "KIM Krick Interactive Media\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
+      },
+      "description": {
+        "short": "Für Unternehmen wird es immer wichtiger, „einen Klick früher“ also direkt bei Google & Co. vertreten zu sein. Wir zeigen, worauf es hierbei ankommt.",
+        "long": "Die Website ist ein elementarer Bestandteil der Online-Marketing-Aktivitäten von Unternehmen. Durch Angebote wie beispielsweise Google My Business wird es jedoch immer wichtiger, bereits „einen Klick früher“, direkt bei Google & Co. vertreten zu sein. Wir zeigen Ihnen, worauf es hierbei ankommt."
+      },
+      "tags": [
+        "E-Commerce",
+        "SEO"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-127",
+      "start": "2019-04-02T17:30:00+02:00",
+      "end": "2019-04-02T18:15:00+02:00",
+      "host": {
+        "name": "iWelt AG",
+        "infotext": "Als modernes Dienstleistungsunternehmen bietet die iWelt AG maßgeschneiderte und zukunftsweisende Lösungen in den Bereichen Internet- und Informationstechnologie. \n"
+      },
+      "title": "Flutter – next Generation Apps?",
+      "location": {
+        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
+        "lat": 49.732625,
+        "lng": 9.990641
+      },
+      "description": {
+        "short": "In diesem Vortrag werden wir eine kurze Einführung in den Technologie Stack von Flutter geben und live eine App für iOS und Android entwickeln.",
+        "long": "Flutter ist ein vielversprechendes Cross Plattform SDK von Google für die Entwicklung von Smartphone Apps und mehr. In diesem Vortrag werden wir eine kurze Einführung in den Technologie Stack des SDKs geben und live eine App für iOS und Android entwickeln."
+      },
+      "tags": [
+        "Mobil",
+        "Software Development"
+      ]
     },
     {
       "key": "WUEWW-2019-117",
@@ -999,6 +1087,25 @@
       }
     },
     {
+      "key": "WUEWW-2019-311",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "host": {
+        "name": "FHWS + krick.com GmbH + Co. KG",
+        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
+      },
+      "title": "Homepage-Battle ",
+      "location": {
+        "name": "FHWS\nRaum 1.03\nFriedrichstraße 17b\n97082 Würzburg",
+        "lat": 49.796476,
+        "lng": 9.91316
+      },
+      "description": {
+        "short": "Der Homepage-Battle-Workshop für Studenten bietet wieder attraktive Gewinne für die besten Teilnehmer.",
+        "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
+      }
+    },
+    {
       "key": "WUEWW-2019-307",
       "start": "2019-04-04T16:00:00+02:00",
       "end": null,
@@ -1100,25 +1207,6 @@
       "tags": [
         "Start-up"
       ]
-    },
-    {
-      "key": "WUEWW-2019-311",
-      "start": "2019-04-04T17:00:00+02:00",
-      "end": "2019-04-04T20:00:00+02:00",
-      "host": {
-        "name": "FHWS + krick.com GmbH + Co. KG",
-        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
-      },
-      "title": "Homepage-Battle ",
-      "location": {
-        "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)\nMünzstraße 12\n97070 Würzburg",
-        "lat": 49.78753,
-        "lng": 9.93262
-      },
-      "description": {
-        "short": "Der Homepage-Battle-Workshop für Studenten bietet wieder attraktive Gewinne für die besten Teilnehmer.",
-        "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
-      }
     },
     {
       "key": "WUEWW-2019-312",
