@@ -612,7 +612,7 @@
       },
       "title": "Sprechtag zur Websitegestaltung, ",
       "location": {
-        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
+        "name": "IHK Würzburg-Schweinfurt\nRaum C-102\nMainaustraße 33-35\n97082 Würzburg ",
         "lat": 49.801331,
         "lng": 9.909114
       },
@@ -1193,14 +1193,14 @@
     {
       "key": "WUEWW-2019-310",
       "start": "2019-04-04T17:00:00+02:00",
-      "end": null,
+      "end": "2019-04-04T19:15:00+02:00",
       "host": {
         "name": "IHK Würzburg-Schweinfurt",
         "infotext": "Die IHK Würzburg-Schweinfurt ist Erstansprechpartner für Existenzgründer und Start-ups und bietet zahlreiche Unterstützungsangebote (Beratung, Qualifizierung, Mentorenprogramme, Netzwerkplattformen, Stellungnahmen etc.).\n\n"
       },
       "title": "Keine Angst beim Gründen",
       "location": {
-        "name": "IHK Würzburg-Schweinfurt\nMainaustraße 33-35\n97082 Würzburg ",
+        "name": "IHK Würzburg-Schweinfurt\nRaum A-304\nMainaustraße 33-35\n97082 Würzburg ",
         "lat": 49.801331,
         "lng": 9.909114
       },
@@ -1256,11 +1256,24 @@
     {
       "key": "WUEWW-2019-313",
       "start": "2019-04-04T17:30:00+02:00",
-      "end": null,
+      "end": "2019-04-04T19:30:00+02:00",
       "host": {
-        "name": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees"
+        "name": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees",
+        "infotext": "Wir betreiben alle einen Podcast – WUEconomics, Versicherungsgeflüster Podcast sowie Würzblog-Podcast – und möchten unsere Erfahrungen gerne mit interessierten Personen teilen."
       },
-      "title": "Erfolg durch Personal Branding"
+      "title": "Erfolg durch Personal Branding",
+      "location": {
+        "name": "ZDI Gründerlabor\nCube\nRottendorfer Str. 71\n97074 Würzburg",
+        "lat": 49.790381,
+        "lng": 9.968659
+      },
+      "description": {
+        "short": "Was ist ein Podcast und wie kann man damit eine Marke aufbauen? Beispiele, Tipps und Netzwerken.",
+        "long": "Wir zeigen anhand von Beispielen, wie man mit Podcasting eine Marke aufbauen kann. Das Zauberwort heißt „Brand“ und nicht „Sales“. Am Anfang steht die Leidenschaft für ein Thema, Produkt oder eine Dienstleistung. Der Podcast ist das Medium, mit dem ihr wertbringende Informationen zur Verfügung stellen könnt – der Podcast ist euer eigener Radiosender und bietet die Chance eine Marke aufzubauen. Ihr erfahrt wie man startet, was gut funktioniert und was man lieber lässt. Wir freuen uns auf euch."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-314",
@@ -1445,6 +1458,28 @@
         "short": "Wie nutze ich das Web optimal für Bewerbungen? Antworten gibt es in diesem Workshop. ",
         "long": "Wie betreibe ich mein persönliches Bewerbungsmanagement und wie trete ich proaktiv mit meinem potenziellen Arbeitgeber online in Kontakt? Wie nutze ich das Web optimal für das Thema Bewerbung? \n\nDiese Fragen werdet ihr am Ende des Workshops ganz sicher beantworten können. Wir beleuchten, wie ihr aus Bewerbersicht Jobportale richtig und erfolgreich nutzen könnt, was es auf Xing, Monster, Stepstone und Absolventa alles zu beachten gilt, wie ihr Lebenslaufdatenbanken bedient und was es eigentlich mit Metajobbörsen so auf sich hat.\n\nBitte bringt bei Interesse euren eigenen Laptop mit. Wir werden gemeinsam auf Xing unterwegs sein und das Networken und die Jobsuche auf diesem Business Portal anschaulich erklären."
       }
+    },
+    {
+      "key": "WUEWW-2019-406",
+      "start": "2019-04-05T12:30:00+02:00",
+      "end": null,
+      "host": {
+        "name": "weXelerate & Starthouse im Spessart",
+        "infotext": "Seit 2016 machen Andreas Bachmann und Patrick Fischer mit ihrem Unternehmen weXelerate Menschen und Unternehmen fit für die Digitalisierung. Die Basis ihrer Leistungen sind fünf Jahrzehnte branchenübergreifende Erfahrung in der Unternehmensführung, in Digitalisierungsprojekten sowie in Beratung und Training."
+      },
+      "title": "Der Mensch 1.0 in der Welt 4.0",
+      "location": {
+        "name": "Starthouse im Spessart\nVorstadtstraße 12\n97816 Lohr a.Main",
+        "lat": 49.992971,
+        "lng": 9.575957
+      },
+      "description": {
+        "short": "Mensch 1.0 in der Welt 4.0 - 2 Speaker mit 70.000 Jahre alten Gehirnen starten in die digitale Zeit",
+        "long": "Das Wort „Digitalisierung\" ist in aller Munde. Doch wie gelingt es uns Menschen – mit einem 70.000 Jahre alten Gehirn – all unsere Rollen als Individuum, Kunde, Mitarbeiter oder Führungskraft auszufüllen und ganz konkret die Chancen der digitalen Zeit zu nutzen. Wir werfen einen kurzweiligen und spannenden Blick auf die unzähligen Möglichkeiten und geben Anregungen, worauf Sie achten müssen damit Digitalisierung auch für Sie zu einer Erfolgsgeschichte wird."
+      },
+      "tags": [
+        "Digitalisierung"
+      ]
     },
     {
       "key": "WUEWW-2019-403",
