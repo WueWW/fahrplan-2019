@@ -42,16 +42,17 @@
           "title": { "type": "string" },
           "location": {
             "type": "object",
+            "required": ["name"],
             "properties": {
               "name": {
                 "type": "string"
               },
-              "latitude": {
+              "lat": {
                 "type": "number",
                 "minimum": -90,
                 "maximum": 90
               },
-              "longitude": {
+              "lng": {
                 "type": "number",
                 "minimum": -180,
                 "maximum": 180
