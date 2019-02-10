@@ -1096,7 +1096,7 @@
       },
       "title": "Homepage-Battle ",
       "location": {
-        "name": "FHWS\nRaum 1.03\nFriedrichstraße 17b\n97082 Würzburg",
+        "name": "FHWS Campus in der Zellerau\nRaum F 0.11 im EG\nFriedrichstr. 17a\n97082 Würzburg",
         "lat": 49.796476,
         "lng": 9.91316
       },
@@ -1351,6 +1351,28 @@
         "short": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. In dem Vortrag zeigt Alexander Mereien, wie ein Webcast produziert wird.",
         "long": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. Mit viel Potenzial verbunden sind Web-Casts – eine Live-Übertragung ins Internet und eine besonders dynamische Form von Videos.\n\nIm Rahmen der Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG) zeigt Alexander Mereien, Experte für Projektkommunikation, wie ein Webcast produziert wird. Der Vortrag wird live ins Internet gestreamt. Als Zuschauer wirken Sie aktiv mit an der Übertragung."
       }
+    },
+    {
+      "key": "WUEWW-2019-324",
+      "start": "2019-04-04T18:15:00+02:00",
+      "end": "2019-04-04T19:30:00+02:00",
+      "host": {
+        "name": "Masterstudiengang Marken- und Medienmanagement der Hochschule Würzburg-Schweinfurt",
+        "infotext": "Marken- und Medienmanagement, kurz M3ve, ist der erfolgreichste Masterstudiengang der Hochschule Würzburg-Schweinfurt mit jährlich 250 bis 300 Bewerbern. Die 30 Studierenden pro Jahrgang erlernen auf Basis des Würzburger Marken-Management-Modells alle Feinheiten der Markenführung und des Medienmanagements. Zwei Praxisprojekte mit Unternehmen aus der Region runden das in Deutschland einzigartige Studienangebot ab.\n\n"
+      },
+      "title": "Influencer Marketing Insights\n",
+      "location": {
+        "name": "FHWS Campus in der Zellerau\nRaum F 0.11 im EG\nFriedrichstr. 17a\n97082 Würzburg",
+        "lat": 49.796476,
+        "lng": 9.91316
+      },
+      "description": {
+        "short": "Prof. Dr. Kilian verrät Ihnen die fünf Erfolgsgeheimnisse des Influencer Marketings",
+        "long": "Influencer erschließen neue Zielgruppen. Prof. Kilian erläutert die Mechanismen, mit denen Influencer ihre Follower beeinflussen können. Daneben stellt er Corporate Influencer vor, die insbesondere für regionale und B2B-Unternehmen interessant sind. Anhand der von ihm entwickelten BARDE-Dimensionen erläutert er, wie die Influencer-Auswahl optimiert werden kann. Abschließend werden notwendige Kennzeichnungspflichten vorgestellt, mit denen kooperierende Unternehmen Haftungsrisiken vermeiden können.\n\nKeine Anmeldung erforderlich, einfach vorbeikommen; bei Rückfragen bitte E-Mail an karsten.kilian@fhws.de"
+      },
+      "tags": [
+        "Social Media"
+      ]
     },
     {
       "key": "WUEWW-2019-316",
