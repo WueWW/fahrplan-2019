@@ -102,6 +102,20 @@
       ]
     },
     {
+      "key": "WUEWW-2019-128",
+      "start": "2019-04-02T09:00:00+02:00",
+      "end": "2019-04-02T16:00:00+02:00",
+      "host": {
+        "name": "Starthub²"
+      },
+      "title": "CoWorking²: Arbeiten im Starthub²",
+      "location": {
+        "name": "Starthub²\nGrombühlstraße 11\n97080 Würzburg",
+        "lat": 49.801765,
+        "lng": 9.943096
+      }
+    },
+    {
       "key": "WUEWW-2019-121",
       "start": "2019-04-02T09:30:00+02:00",
       "end": "2019-04-02T11:00:00+02:00",
@@ -173,7 +187,7 @@
       },
       "title": "career tour Mainfranken",
       "location": {
-        "name": "Bustour zu s.Oliver (Rottendorf) und iWelt AG (Eibelstadt)"
+        "name": "Bustour zu s.Oliver und der iWelt AG, Abfahrt Würzburg"
       },
       "description": {
         "short": "Auf Jobsuche? Die career tour Mainfranken hilft Dir. Verantwortliche bei s.Oliver und der iWelt AG freuen sich darauf, Dich persönlich kennenzulernen.",
@@ -248,7 +262,7 @@
       },
       "title": "Smart, digital, zukunftsfähig",
       "location": {
-        "name": "ByteConsult GmbH\nSchweinfurter Straße 9\n97080 Würzburg",
+        "name": "ByteConsult GmbH\nNOVUM Center\nSchweinfurter Straße 9\n97080 Würzburg",
         "lat": 49.799218,
         "lng": 9.948147
       },
@@ -927,28 +941,6 @@
       }
     },
     {
-      "key": "WUEWW-2019-301",
-      "start": "2019-04-04T10:00:00+02:00",
-      "end": "2019-04-04T15:00:00+02:00",
-      "host": {
-        "name": "Forschungsgruppe „Business Enrichment“ \nLehrstuhl für BWL und Wirtschaftsinformatik Universität Würzburg \nProf. Dr. Axel Winkelmann.",
-        "infotext": "Wir revolutionieren die BWL in Unternehmenssoftware, automatisieren die Unternehmensberatung und verbessern fundamental die operative Entscheidungsfindung in Unternehmen mit Hilfe von modernen Technologien im Kontext von Big Data und KI."
-      },
-      "title": "Hands on Artificial Intelligence",
-      "location": {
-        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
-        "lat": 49.790173,
-        "lng": 9.935553
-      },
-      "description": {
-        "short": "Einsatzmöglichkeiten der KI im Kontext von unternehmerischen Entscheidungen für IT-Enthusiasten",
-        "long": "Kompaktworkshop für „Nerds“ zu Methoden der Unternehmenssteuerung mittels Auswertung von Unternehmensdaten und Zeitreihenanalysen auf Basis KI-basierter, automatischer Generierung von betriebswirtschaftlichen Gestaltungsempfehlungen."
-      },
-      "tags": [
-        "KI"
-      ]
-    },
-    {
       "key": "WUEWW-2019-302",
       "start": "2019-04-04T10:00:00+02:00",
       "end": "2019-04-04T12:00:00+02:00",
@@ -1371,7 +1363,8 @@
         "long": "Influencer erschließen neue Zielgruppen. Prof. Kilian erläutert die Mechanismen, mit denen Influencer ihre Follower beeinflussen können. Daneben stellt er Corporate Influencer vor, die insbesondere für regionale und B2B-Unternehmen interessant sind. Anhand der von ihm entwickelten BARDE-Dimensionen erläutert er, wie die Influencer-Auswahl optimiert werden kann. Abschließend werden notwendige Kennzeichnungspflichten vorgestellt, mit denen kooperierende Unternehmen Haftungsrisiken vermeiden können.\n\nKeine Anmeldung erforderlich, einfach vorbeikommen; bei Rückfragen bitte E-Mail an karsten.kilian@fhws.de"
       },
       "tags": [
-        "Social Media"
+        "Social Media",
+        "E-Commerce"
       ]
     },
     {
@@ -1491,7 +1484,7 @@
       },
       "title": "Der Mensch 1.0 in der Welt 4.0",
       "location": {
-        "name": "Starthouse im Spessart\nVorstadtstraße 12\n97816 Lohr a.Main",
+        "name": "Starthouse im Spessart\nVorstadtstraße 12\n97816 Lohr a. Main",
         "lat": 49.992971,
         "lng": 9.575957
       },
@@ -1508,9 +1501,22 @@
       "start": "2019-04-05T14:00:00+02:00",
       "end": "2019-04-05T16:00:00+02:00",
       "host": {
-        "name": "Würzburger Business Coach Akademie & Agentur heldenstreich"
+        "name": "Würzburger Business Coach Akademie & Agentur heldenstreich",
+        "infotext": "Heldenstreich ist eine Agentur für Employer Branding und Unternehmenskommunikation. Die Business Coach Akademie bildet Sie zum Business Coach aus. Die beiden Unternehmen verbindet die Kooperation „Finde deine Könner“."
       },
-      "title": "Pop-up Recruiting Café"
+      "title": "Pop-up Recruiting Café",
+      "location": {
+        "name": "Bürgerbräu-Gelände\nSektkellerei Höfer GmbH\nFrankfurter Straße 87\n97082 Würzburg",
+        "lat": 49.794177,
+        "lng": 9.894154
+      },
+      "description": {
+        "short": "In unserem Stand-up-Workshop beantworten wir Fragen rund um das Thema \"Mitarbeitersuche\" und stellen ein Best-Practice-Beispiel vor.",
+        "long": "In einem Stand-up-Workshop geht es um Ihre Fragen in Sachen Mitarbeitersuche: Wie können Sie sich als Arbeitgeber-Schokoladenseite zeigen? Was hat bislang funktioniert? Was hätten Sie sich sparen können? Zu diesen Fragen tauschen wir uns aus. Wir als Experten für Employer Branding unterstützen den Austausch und geben unsere Erfahrungen dazu. Und: Wir stellen Ihnen ein Best-Practice-Beispiel vor.\n\nDas i-Tüpfelchen im Anschluss ab 16 Uhr: kleine Sekt-Verkostung (wenn wir schon in der Sektkellerei workshoppen; kostenpflichtig)"
+      },
+      "tags": [
+        "HR"
+      ]
     },
     {
       "key": "WUEWW-2019-404",
@@ -1600,9 +1606,9 @@
         "name": "Stadtbücherei (Hubland)",
         "infotext": "Die Stadtbücherei ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultur- und Bildungseinrichtung der Stadt Würzburg. Wir fördern Lese-, Informations- und Medienkompetenz auf vielseitigen Wegen. Wir stehen allen Interessierten offen."
       },
-      "title": "Instawalk neue Stadtteilbücherei am Hubland",
+      "title": "#instawalk im #treffpunkttower",
       "location": {
-        "name": "Stadtteilbücherei Hubland\nRottendorfer Straße 71\n97074 Würzburg",
+        "name": "Tower am Hubland\nRottendorfer Straße 71\n97074 Würzburg",
         "lat": 49.790381,
         "lng": 9.968659
       },
@@ -1694,6 +1700,28 @@
       },
       "tags": [
         "Software Development"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-705",
+      "start": "2019-04-08T16:00:00+02:00",
+      "end": "2019-04-08T20:00:00+02:00",
+      "host": {
+        "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH",
+        "infotext": "Das Technologie- und Gründerzentrum (TGZ) Würzburg ist die Adresse für technologieorientierte Gründer und Start-ups mit Fokus auf Automation und Industrie 4.0. Die Lage am Hubland, die hochwertige Ausstattung mit modernster Technik sowie umfassende Service- und Beratungsleistungen bieten hervorragende Voraussetzungen für Mieter, um mit Gleichgesinnten innovative Geschäftsideen zu entwickeln."
+      },
+      "title": "Start-up Night am TGZ",
+      "location": {
+        "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH\nMagdalene-Schoch-Straße 5\n97074 Würzburg",
+        "lat": 49.785109,
+        "lng": 9.968089
+      },
+      "description": {
+        "short": "Start-up Night @ TGZ: Kommt vorbei und lernt die Gründerteams in entspannter Networking-Atmosphäre persönlich kennen.",
+        "long": "Vom Building Information Modeling über intelligente Heizungssteuerungen bis zur Entwicklung von Lieferdrohnen – unter dem gemeinsamen Dach des Technologie- und Gründerzentrums (TGZ) Würzburg versammeln sich junge Unternehmen mit hochinnovativen Geschäftsideen. Bei der Start-up Night haben Besucherinnen und Besucher die seltene Gelegenheit, einen Blick hinter die Kulissen zu werfen, um die Firmen sowie dahinterstehenden Persönlichkeiten persönlich kennenzulernen. Zwischen 16:00 Uhr und 20:00 Uhr stehen die Start-ups für Gespräche und Präsentationen bereit."
+      },
+      "tags": [
+        "Start-up"
       ]
     }
   ]
