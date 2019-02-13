@@ -116,12 +116,35 @@
       }
     },
     {
+      "key": "WUEWW-2019-129",
+      "start": "2019-04-02T09:00:00+02:00",
+      "end": "2019-04-02T15:00:00+02:00",
+      "host": {
+        "name": "Handwerkskammer für Unterfranken - Bildungszentrum Schweinfurt",
+        "infotext": "Die Handwerkskammer für Unterfranken vertritt rund 18.500 Mitgliedsbetriebe mit etwa 94.000 Beschäftigten im Bezirk Unterfranken. Sie ist Partner im bundesweit ersten Forschungsprojekt, das die Digitalisierung speziell für das Handwerk untersucht. Im Bildungszentrum Schweinfurt der Handwerkskammer für Unterfranken wird das Teilprojekt „Robonet 4.0“ umgesetzt. In dessen Rahmen werden die Einsatzmöglichkeiten von Robotertechnik in kleinen und mittleren Handwerksbetrieben erforscht."
+      },
+      "title": "Digitalisierung im Handwerk",
+      "location": {
+        "name": "Bildungszentrum Schweinfurt der Handwerkskammer Unterfranken\nGalgenleite 3\n97424 Schweinfurt\n",
+        "lat": 50.054411,
+        "lng": 10.221457
+      },
+      "description": {
+        "short": "Digitalisierung mit Mehrwert fürs Handwerk. Die Handwerkskammer für Unterfranken zeigt Möglichkeiten.",
+        "long": "Um sich für die Zukunft zu rüsten, müssen Handwerksbetriebe Digitalisierung und Handwerk verknüpfen. Dabei sind frühzeitiges und besonnenes Handeln sind wichtig. Denn nur wer die Risiken kennt, kann die Chancen gefahrlos nutzen. Im Rahmen einer Vortragsreihe und einer begleitenden Ausstellung von Digitalisierungsmöglichkeiten, z. B. Einsatz von Robotern, 3D-Druck, Laser-Technik etc. zeigt die Veranstaltung „Digitalisierung im Handwerk – Wie gelingt sie“ interessante Einblicke für Unternehmer."
+      },
+      "tags": [
+        "Digitalisierung",
+        "Handwerk"
+      ]
+    },
+    {
       "key": "WUEWW-2019-121",
       "start": "2019-04-02T09:30:00+02:00",
       "end": "2019-04-02T11:00:00+02:00",
       "host": {
         "name": "BARC GmbH",
-        "infotext": "Das Business Application Research Center (BARC) ist ein unabhängiges Analysten- und Beratungshaus für Unternehmenssoftware mit Fokus auf die Bereiche BI, Analytics, Big Data, CRM, ECM & ERP."
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
       },
       "title": "Effiziente Unternehmensplanung",
       "location": {
@@ -263,8 +286,8 @@
       "title": "Smart, digital, zukunftsfähig",
       "location": {
         "name": "ByteConsult GmbH\nNOVUM Center\nSchweinfurter Straße 9\n97080 Würzburg",
-        "lat": 49.799218,
-        "lng": 9.948147
+        "lat": 49.799051,
+        "lng": 9.94709
       },
       "tags": [
         "Digitale Transformation",
@@ -551,7 +574,7 @@
       },
       "title": "Vizthink Franken: Lernsnacks",
       "location": {
-        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
+        "name": "ZDI Mainfranken\nIdeenlabor im Tower\nRottendorfer Str. 71\n97074 Würzburg",
         "lat": 49.790381,
         "lng": 9.968659
       },
@@ -767,6 +790,11 @@
         "infotext": "Meine Vision ist es, nachhaltig öffentliche Aufmerksamkeit für meine Kundinnen und Kunden herzustellen. Meine Philosophie ist es, Kommunikation ehrlich zu betreiben: Nur, wenn ich wirklich hinter Projekten, Ideen, Produkten stehe, möchte und kann ich diese glaubhaft kommunizieren."
       },
       "title": "ASOZIAL!\nOhne soziale Medien fehlt was.",
+      "location": {
+        "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
+        "lat": 49.79,
+        "lng": 9.95
+      },
       "description": {
         "short": "ASSOZIAL! Ohne soziale Medien fehlt was."
       },
@@ -891,7 +919,7 @@
       },
       "title": "Deep-Learning Hands-On",
       "location": {
-        "name": "ZDI Tower\nRottendorfer Str. 71\n97074 Würzburg",
+        "name": "ZDI Mainfranken\nIdeenlabor im Tower\nRottendorfer Str. 71\n97074 Würzburg",
         "lat": 49.790381,
         "lng": 9.968659
       },
@@ -938,6 +966,24 @@
       "description": {
         "short": "Bei diesem Hackathon möchten wir interessierten IT-Experten das Thema Low-Code und deren Einsatzmöglichkeiten näher bringen.",
         "long": "Bei diesem Hackathon möchten wir interessierten IT-Experten das Thema Low-Code und deren Einsatzmöglichkeiten näher bringen.\n\nDie Teilnehmer werden dabei in den Prozess eingebunden und erhalten erste Berührungspunkte im Umgang mit einer Low-Code-Plattform. Am Ende des Tages soll jeder Teilnehmer selbst eine App nach Vorgabe erstellt haben."
+      }
+    },
+    {
+      "key": "WUEWW-2019-325",
+      "start": "2019-04-04T09:30:00+02:00",
+      "end": "2019-04-04T11:00:00+02:00",
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
+      },
+      "title": "Customer Excellence / CRM",
+      "location": {
+        "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
+        "lat": 49.799584,
+        "lng": 9.942028
+      },
+      "description": {
+        "long": "Einsatz, Vorgehen und Trends für erfolgreiches Kundenbeziehungsmanagement. \n\nInhalte folgen in Kürze\n"
       }
     },
     {
@@ -992,7 +1038,7 @@
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
+        "name": "Caritas-Zentrum St.Thekla\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -1047,19 +1093,22 @@
       "start": "2019-04-04T14:00:00+02:00",
       "end": "2019-04-04T15:30:00+02:00",
       "host": {
-        "name": "Würzburger Netzwerk zur Förderung der Medienkompetenz\n",
-        "infotext": "Um die Digitale Teilhabe aller Bürgerinnen und Bürger von Würzburg zu fördern, haben sich mehrere Bildungsträger und soziale Einrichtungen aus Würzburg zu einen Netzwerk zusammengeschlossen. Beteiligt sind:\n\n* Stadtbücherei Würzburg\n* Volkshochschule Würzburg\n* Mehrgenerationenhaus „Matthias-Ehrenfried“\n* Rudolf-Alexander-Schröder Haus\n* Internetcafe „Von Senioren für Senioren“\n* AK 5 „Digitalisierung“ der Seniorenvertretung der Stadt Würzburg\n* Angestöpselt e.V. – Verein für Digitalkompetenz"
+        "name": "Generationen-Zentrum Matthias Ehrenfried e. V.",
+        "infotext": "Das Generationen-Zentrum Matthias Ehrenfried e. V. ist ein katholisches Bildungs- und Begegnungszentrum und gehört der Diözesan- und Landesarbeitsgemeinschaft für katholische Erwachsenenbildung an. Unser Haus im Herzen der Stadt lädt Menschen ein, die sich bilden wollen oder Räume der Begegnung suchen. Ziel ist es, dem gesellschaftlichen Trend der Vereinsamung entgegenzuwirken."
       },
-      "title": "Digitaler Stammtisch für Ältere\n",
+      "title": "Digitale Assistenten",
       "location": {
-        "name": "Matthias-Ehrenfried-Haus\nKolpingstraße 11\n97070 Würzburg",
+        "name": "Generationen-Zentrum Matthias Ehrenfried e. V.\nKolpingstraße 11\n97070 Würzburg",
         "lat": 49.796731,
         "lng": 9.932841
       },
       "description": {
-        "short": "Digitale Assistenten: Alexa, Siri und Co. werden immer beliebter. Wie können uns diese digitalen Heinzelmännchen im Alltag wirklich nutzen?\n\n",
-        "long": "Digitale Assistenten: Alexa, Siri und Co. werden immer beliebter. Wie können uns diese digitalen Heinzelmännchen im Alltag wirklich nutzen?\n\n"
-      }
+        "short": "Webinar und Digitaler Stammtisch zu Digitalen Sprachassistenten (Alexa, Siri und Co).",
+        "long": "Nutzen von Sprachassistenten im Alltag und was noch zu beachten ist. Referent: Steffen Balling, Kursleiter VHS München.\n\nDie Veranstaltung erfolgt in Kooperation mit dem Würzburger Netzwerk zur Förderung der Medienkompetenz (WueNet).\n\nDie Teilnahme kostenfrei! Eine Anmeldung für den Digitalen Stammtisch ist erforderlich."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-323",
@@ -1086,7 +1135,7 @@
         "name": "FHWS + krick.com GmbH + Co. KG",
         "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
       },
-      "title": "Homepage-Battle ",
+      "title": "Homepage-Battle für Studierende",
       "location": {
         "name": "FHWS Campus in der Zellerau\nRaum F 0.11 im EG\nFriedrichstr. 17a\n97082 Würzburg",
         "lat": 49.796476,
@@ -1096,6 +1145,28 @@
         "short": "Der Homepage-Battle-Workshop für Studenten bietet wieder attraktive Gewinne für die besten Teilnehmer.",
         "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
       }
+    },
+    {
+      "key": "WUEWW-2019-330",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T16:00:00+02:00",
+      "host": {
+        "name": "webfactor media GmbH",
+        "infotext": "webfactor media GmbH ist eine Software-Agentur aus Würzburg mit den Schwerpunkten auf App- und Web-Entwicklung sowie Digitalisierung von Prozessen in Unternehmen (Handwerk, Dienstleistung u.v.m.)."
+      },
+      "title": "Probabilistische Programmierung\n",
+      "location": {
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "lat": 49.803558,
+        "lng": 9.998039
+      },
+      "description": {
+        "short": "Einführung und Konzept der probabilistischen Programmierung (Umsetzung/Beispiele).",
+        "long": "Diese Veranstaltung soll eine Einführung in die Idee und das Konzept der probabilistischen Programmierung geben und Beispiele der Umsetzung zeigen.\n\nWir haben keinen Skill-Level angegeben, aber grundlegende Erfahrungen in der Programmierung sind für diese Veranstaltung von Vorteil. "
+      },
+      "tags": [
+        "Software Development"
+      ]
     },
     {
       "key": "WUEWW-2019-307",
@@ -1141,6 +1212,42 @@
       }
     },
     {
+      "key": "WUEWW-2019-326",
+      "start": "2019-04-04T16:00:00+02:00",
+      "end": "2019-04-04T17:30:00+02:00",
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
+      },
+      "title": "Dokumenten- & Prozessmanagement",
+      "location": {
+        "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
+        "lat": 49.799584,
+        "lng": 9.942028
+      },
+      "description": {
+        "long": "Einfach richtig arbeiten - Dokumenten- & Prozessmanagement\n\nInhalte folgen in Kürze"
+      }
+    },
+    {
+      "key": "WUEWW-2019-327",
+      "start": "2019-04-04T16:00:00+02:00",
+      "end": "2019-04-04T17:30:00+02:00",
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
+      },
+      "title": "Data Science für Controller",
+      "location": {
+        "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
+        "lat": 49.799584,
+        "lng": 9.942028
+      },
+      "description": {
+        "long": "Inhalte folgen in Kürze"
+      }
+    },
+    {
       "key": "WUEWW-2019-308",
       "start": "2019-04-04T16:30:00+02:00",
       "end": "2019-04-04T18:00:00+02:00",
@@ -1149,12 +1256,13 @@
       },
       "title": "Digitalisierung im Gesundheitswesen",
       "location": {
-        "name": "ZDI Mainfranken\nIdeenlabor\nRottendorfer Str. 71\n97074 Würzburg",
+        "name": "ZDI Mainfranken\nIdeenlabor im Tower\nRottendorfer Str. 71\n97074 Würzburg",
         "lat": 49.790381,
         "lng": 9.968659
       },
       "description": {
-        "long": "Das IGZ bietet in Kooperation mit dem ZDI Mainfranken eine Veranstaltung mit dem Thema \"Digitalisierung im Gesundheitswesen\" an."
+        "short": "Wir wollen Menschen zusammenbringen, die sich für die Digitalisierung im Gesundheitswesen („E-Health“) interessieren, inkl. einen spannenden Kurzvortrag.",
+        "long": "Wir wollen Menschen aus den unterschiedlichsten Bereichen zusammenbringen, die sich für die Digitalisierung im Gesundheitswesen („E-Health“) interessieren, sich bereits damit beschäftigen oder gerne etwas dazu beitragen wollen. \n\nIn kreativer Atmosphäre im Ideenlabor des ZDI Mainfranken starten wir nach einer kurzen Vorstellungsrunde direkt mit einem spannenden Impulsvortrag: Christian Schulz, CEO der Health Hackers e.V. Erlangen, wird uns mit einem kompakten Überblick über das Thema „Digitalisierung im Gesundheitswesen: Chancen, Risiken & Status Quo“ auf den Abend einstimmen. Nach anschließender Diskussionsrunde geht es direkt ans Netzwerken und den Austausch zwischen Wissenschaft, Wirtschaft und allen Interessierten, die das Thema E-Health weiter voranbringen möchten. \n\nEintritt frei, Anmeldung erbeten unter: anmeldung@igz.wuerzburg.de"
       },
       "tags": [
         "Digitalisierung"
@@ -1255,9 +1363,9 @@
       },
       "title": "Erfolg durch Personal Branding",
       "location": {
-        "name": "ZDI Gründerlabor\nCube\nRottendorfer Str. 71\n97074 Würzburg",
-        "lat": 49.790381,
-        "lng": 9.968659
+        "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
+        "lat": 49.79,
+        "lng": 9.95
       },
       "description": {
         "short": "Was ist ein Podcast und wie kann man damit eine Marke aufbauen? Beispiele, Tipps und Netzwerken.",
@@ -1343,6 +1451,46 @@
         "short": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. In dem Vortrag zeigt Alexander Mereien, wie ein Webcast produziert wird.",
         "long": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. Mit viel Potenzial verbunden sind Web-Casts – eine Live-Übertragung ins Internet und eine besonders dynamische Form von Videos.\n\nIm Rahmen der Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG) zeigt Alexander Mereien, Experte für Projektkommunikation, wie ein Webcast produziert wird. Der Vortrag wird live ins Internet gestreamt. Als Zuschauer wirken Sie aktiv mit an der Übertragung."
       }
+    },
+    {
+      "key": "WUEWW-2019-328",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
+      "title": "Jobs-to-be-done & Storytelling",
+      "location": {
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
+        "lat": 49.787811,
+        "lng": 9.968068
+      },
+      "description": {
+        "short": "Das Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken. Wir zeigen, wie es genau funktioniert und was man beachten soll.",
+        "long": "Die zentralen Fragen bei Jobs-to-be-done lauten: Warum kauft ein Kunde dein Produkt/deine Dienstleistung und welche Aufgabe möchte er/sie damit erfüllen?\n\nDas Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken.\n\nWarum ist das überhaupt notwendig?\n\nWir meinen zu wissen, was der Kunde braucht, aber allzu oft basieren die offensichtlichen Antworten auf falschen Annahmen. Mithilfe von sogenannten Job Stories werden die wahren Bedürfnisse des Nutzers festgehalten. Wobei Jobs als Problem oder Bedürfnis zu verstehen sind.\n\nIn diesem Kurz-Workshop werden wir mit einer kurzen Einführung hinter die Ideen und Konzepte von JTBD eintauchen, um anschließend gemeinsam an einem praktischen Beispiel Bedürfnisse und Anforderungen von Nutzern in Job Stories zu formulieren.\n\nSkill-Level: Einsteiger\nVorkenntnisse: Keine\nMin. Teilnehmer: 4\nMax. Teilnehmer: 12\n\n"
+      }
+    },
+    {
+      "key": "WUEWW-2019-329",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
+      "title": "Brutal Refactoring Game\n",
+      "location": {
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
+        "lat": 49.787811,
+        "lng": 9.968068
+      },
+      "description": {
+        "long": "Mehr Informationen demnächst"
+      },
+      "tags": [
+        "Software Development"
+      ]
     },
     {
       "key": "WUEWW-2019-324",
@@ -1456,6 +1604,24 @@
       ]
     },
     {
+      "key": "WUEWW-2019-408",
+      "start": "2019-04-05T09:30:00+02:00",
+      "end": "2019-04-05T11:00:00+02:00",
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
+      },
+      "title": "Advanced Analytics",
+      "location": {
+        "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
+        "lat": 49.799584,
+        "lng": 9.942028
+      },
+      "description": {
+        "long": "Inhalte folgen in Kürze"
+      }
+    },
+    {
       "key": "WUEWW-2019-402",
       "start": "2019-04-05T10:00:00+02:00",
       "end": "2019-04-05T13:00:00+02:00",
@@ -1473,6 +1639,28 @@
         "short": "Wie nutze ich das Web optimal für Bewerbungen? Antworten gibt es in diesem Workshop. ",
         "long": "Wie betreibe ich mein persönliches Bewerbungsmanagement und wie trete ich proaktiv mit meinem potenziellen Arbeitgeber online in Kontakt? Wie nutze ich das Web optimal für das Thema Bewerbung? \n\nDiese Fragen werdet ihr am Ende des Workshops ganz sicher beantworten können. Wir beleuchten, wie ihr aus Bewerbersicht Jobportale richtig und erfolgreich nutzen könnt, was es auf Xing, Monster, Stepstone und Absolventa alles zu beachten gilt, wie ihr Lebenslaufdatenbanken bedient und was es eigentlich mit Metajobbörsen so auf sich hat.\n\nBitte bringt bei Interesse euren eigenen Laptop mit. Wir werden gemeinsam auf Xing unterwegs sein und das Networken und die Jobsuche auf diesem Business Portal anschaulich erklären."
       }
+    },
+    {
+      "key": "WUEWW-2019-411",
+      "start": "2019-04-05T10:00:00+02:00",
+      "end": "2019-04-05T11:30:00+02:00",
+      "host": {
+        "name": "Internetcafe des Seniorenforums in Kooperation mit Nadine Lexa, MAS\n",
+        "infotext": "Das Seniorenforum ist eine Gemeinschaftsaktivität der Seniorenvertretung im Seniorenbeirat der Stadt Würzburg sowie dem Internetcafe „Von Senioren für Senioren“ in Zusammenarbeit mit der Beratungsstelle für Senioren der Stadt Würzburg und dem Kommunalunternehmen des Landkreises Würzburg, im Rahmen der Initiative „Alter schafft Neues“ und des Programms „Aktiv im Alter\". \n\nNadine Lexa, MAS ist gelernte Krankenschwester, hat viele Jahre auf einer Palliativstation gearbeitet, einen Master in Palliative Care und studiert seit drei Semestern \"Digitalisierung und Sozialstrukturwandel\" an der Hochschule Neubrandenburg."
+      },
+      "title": "Digitale Gesundheitskompetenz",
+      "location": {
+        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
+        "lat": 49.781107,
+        "lng": 9.930355
+      },
+      "description": {
+        "short": "Wir geben einen Einblick, worum es der digitalen Gesundheitskompetenz geht und wieso das Thema gerade für ältere Menschen so wichtig ist.",
+        "long": "Mehr als 50% der Bundesbürger haben eine nicht ausreichende Gesundheitskompetenz. Bei der digitalen Gesundheitskompetenz sieht es noch schlechter aus. Die Digitale Gesundheitskompetenz bezieht sich auf die Fähigkeit, das Internet für das Suchen, Finden, Verstehen und Anwenden von gesundheitsbezogenen Informationen zu verwenden. Das europäische Projekt IC-Health hat eine Online Plattform dafür entwickelt. Dort können ältere Menschen lernen, ihre Gesundheitskompetenz zu entwickeln. Der Kurs besteht aus fünf Themen:\n\n1. Einführung\n2. Finden von Informationen\n3. Verstehen von Informationen\n4. Bewerten von Informationen\n5. Verbesserung von Fähigkeiten zur Anwendung von Informationen\n\nDie Inhalte werden interaktiv vermittelt z. B. mithilfe von Videos. Der Lernfortschritt wird durch Testfragen aufgezeigt."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-406",
@@ -1543,6 +1731,61 @@
       ]
     },
     {
+      "key": "WUEWW-2019-410",
+      "start": "2019-04-05T16:30:00+02:00",
+      "end": "2019-04-05T17:30:00+02:00",
+      "host": {
+        "name": "Priotic GmbH",
+        "infotext": "Priotic GmbH steht für effiziente und zukunftsorientierte Logistik. Unser Ziel ist es, Unternehmen bei der digitalen Transformation sämtlicher Logistikprozesse zu beraten und zu begleiten. Wir setzen auf die SAP-Lösungen S/4HANA sowie das Lagerverwaltungssystem SAP EWM in Verbindung mit neuen Innovationen. Unser Hauptaugenmerk ist die professionelle und nachhaltige Beratung unserer Kunden sowie die Entwicklung maßgeschneiderter Produkte für die Logistikbranche.\n\n"
+      },
+      "title": "Alexa, erledige meine Arbeit!\n",
+      "location": {
+        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "lat": 49.803558,
+        "lng": 9.998039
+      },
+      "description": {
+        "short": "Sprachassistenten haben seit der Einführung schon viel geplappert und gewaltig viel Neues gelernt.",
+        "long": "Der nächste Schritt in der Evolution der Eingabegeräte ist nun also die Sprache. Unterstützt von künstlicher Intelligenz, die im Hintergrund das gesprochene Wort in Befehle für die Maschine umwandelt. Und wir sind mittendrin in dieser Entwicklung, in der sich problemlos das ganze Haus per Sprache fernbedienen lässt. Damit ist für den bequemen Benutzer Zuhause schon viel erledigt worden, aber was macht das Geschäft?"
+      }
+    },
+    {
+      "key": "WUEWW-2019-409",
+      "start": "2019-04-05T17:00:00+02:00",
+      "end": "2019-04-05T19:00:00+02:00",
+      "host": {
+        "name": "Brand & Partner und Würzburger Akademie 4.0 e.V."
+      },
+      "title": "Auto 4.0: Mobil & Digital",
+      "location": {
+        "name": "Vogel Gründerwerkstatt,\nMax-Planck-Str. 7-9\n97082 Würzburg ",
+        "lat": 49.795136,
+        "lng": 9.900767
+      }
+    },
+    {
+      "key": "WUEWW-2019-407",
+      "start": "2019-04-05T17:30:00+02:00",
+      "end": "2019-04-05T20:00:00+02:00",
+      "host": {
+        "name": "STARTUP TEENS mit ZDI Mainfranken & IHK Würzburg-Schweinfurt\n",
+        "infotext": "Die Non-Profit-Initiative STARTUP TEENS hat es sich zur Aufgabe gemacht, Schülerinnen und Schülern unternehmerisches Denken und Handeln beizubringen. So sollen in Zukunft mehr Gründer, Unternehmensnachfolger und Intrapreneure hervorgebracht werden. Neben Online-Training, einem großen Mentoren-Netzwerk und dem mit 7 x 10.000 Euro am höchsten dotierten Businessplan-Wettbewerb für Schülerinnen und Schüler in Deutschland, führt STARTUP TEENS auch bundesweit Events und Ideen-Camps durch. Alle Bausteine sind für die Jugendlichen kostenfrei."
+      },
+      "title": "STARTUP TEENS Event",
+      "location": {
+        "name": "Stadtteilbücherei im Tower\nRottendorfer Str. 71\n97074 Würzburg",
+        "lat": 49.790381,
+        "lng": 9.968659
+      },
+      "description": {
+        "short": "100 Teenager treffen in Würzburg beim STARTUP TEENS Event ihre unternehmerischen Vorbilder.",
+        "long": "100 Schülerinnen und Schüler aus Würzburg haben die Gelegenheit, ihre unternehmerischen Vorbilder zu treffen. Mit dabei sind die Gründer der Lernapp simpleclub, Alex Giesecke und Nico Schork sowie Caroline Trips (Trips GmbH) und Dr. Toni Wagner (vAudience). Moderation: Dr. Sascha Genders (IHK Würzburg-Schweinfurt). Ziel ist es, Jugendliche zwischen 14 und 19 Jahren für unternehmerisches Denken & Handeln zu begeistern, Einblick in verschiedene Berufsbilder zu geben und praxisnahe Tipps sowie Kontaktmöglichkeiten in das STARTUP TEENS-Netzwerk zu bekommen.\n\nEinlass ab 17:00 Uhr.\n\n"
+      },
+      "tags": [
+        "Start-up"
+      ]
+    },
+    {
       "key": "WUEWW-2019-004",
       "start": "2019-04-01T10:00:00+02:00",
       "end": null,
@@ -1562,6 +1805,48 @@
       }
     },
     {
+      "key": "WUEWW-2019-008",
+      "start": "2019-04-01T10:00:00+02:00",
+      "end": "2019-04-01T16:00:00+02:00",
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
+      "title": "React-Workshop für Einsteiger\n",
+      "location": {
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
+        "lat": 49.787811,
+        "lng": 9.968068
+      },
+      "description": {
+        "long": "Mehr Infos demnächst."
+      },
+      "tags": [
+        "Einsteiger",
+        "Entwickler",
+        "Developer"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-007",
+      "start": "2019-04-01T12:00:00+02:00",
+      "end": "2019-04-01T14:00:00+02:00",
+      "host": {
+        "name": "fusic - makes IT work",
+        "infotext": "fusic - makes IT work. IT-Lösungsdesigner / Systemhaus / Cloud und Hosting. Seit mehr als 10 Jahren in Würzburg."
+      },
+      "title": "Pizza im Maschinenraum",
+      "location": {
+        "name": "fusic\nMartin-Luther-Str. 5B\n97072 Würzburg",
+        "lat": 49.793583,
+        "lng": 9.944752
+      },
+      "description": {
+        "short": "HyperV / S2D / Hyperconverged / Linux auf Windows - schaut mit uns bei einer Pizza in den Maschinenraum unserer Hostingplattform!",
+        "long": "HyperV / S2D / Hyperconverged / Linux auf Windows: Wir laden bei einer leckeren Pizza zu einem exklusiven Blick in den Maschinenraum unserer Hostingplattform ein. Mehr als 115 Linux und Windows Maschinen laufen parallel und hochverfügbar auf einem S2D-System von DellEMC/Microsoft auf einem Dutzend Höheneinheiten.\n\nFür die Pizzabestellung freuen wir uns über eine Anmeldung!"
+      }
+    },
+    {
       "key": "WUEWW-2019-002",
       "start": "2019-04-01T16:00:00+02:00",
       "end": "2019-04-01T18:00:00+02:00",
@@ -1575,6 +1860,28 @@
         "lat": 49.795041,
         "lng": 9.930244
       }
+    },
+    {
+      "key": "WUEWW-2019-005",
+      "start": "2019-04-01T16:00:00+02:00",
+      "end": "2019-04-01T17:30:00+02:00",
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
+      },
+      "title": "Analytics & AI richtig nutzen",
+      "location": {
+        "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
+        "lat": 49.799584,
+        "lng": 9.942028
+      },
+      "description": {
+        "short": "Analytics, AI und Big Data bergen großes Potential. Der Vortrag und die Diskussion zeigen die Entwicklung und Anwendung moderner Analytics.",
+        "long": "Analytics, AI und Big Data - Daten gewinnbringend einsetzen\n\nStetiges Wachstum des Datenvolumens, technologische Trends und neue Anwendungsfälle zwingen Unternehmen zu handeln. Analytics, AI und Big Data bergen großes Potential. Vortrag und Diskussion zeigen Entwicklung und Anwendung moderner Analytics."
+      },
+      "tags": [
+        "AI"
+      ]
     },
     {
       "key": "WUEWW-2019-003",
@@ -1599,12 +1906,31 @@
       ]
     },
     {
+      "key": "WUEWW-2019-006",
+      "start": "2019-04-01T15:00:00+02:00",
+      "end": "2019-04-01T17:00:00+02:00",
+      "host": {
+        "name": "YAVEON AG",
+        "infotext": "Die YAVEON Gruppe ist ein führendes Beratungs- und IT-Dienstleistungsunternehmen für chargen- und rezepturorientierte Unternehmen aus Chemie, Pharma, Nahrungsmittel und Medizintechnik. Auf der Basis von Microsoft-Technologie entwickeln und implementieren wir Business-Lösungen, die den hohen Anforderungen der Branchen entsprechen. Durch unser umfangreiches Prozesswissen und unsere Methodik schaffen wir das Fundament einer nachhaltigen Prozessoptimierung und erhöhen so den wirtschaftlichen Erfolg unserer Kunden. YAVEON gehört zu den Top 2 % der Microsoft Partner weltweit. "
+      },
+      "title": "Digital Wandeln mit Office 365\n",
+      "location": {
+        "name": "YAVEON AG\nEingang Nord (Empfang)\nSchweinfurter Straße 9\n97080 Würzburg",
+        "lat": 49.799051,
+        "lng": 9.94709
+      },
+      "description": {
+        "short": "Office 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Mehr dazu in diesem Vortrag.",
+        "long": "Wir von YAVEON gehen mit dem dynamischen Wandel der Digitalisierung und nehmen Sie mit auf eine kleine Reise in die Welt von Office 365. Wir laden Sie herzlich ein zu einem Vortrag zum Thema „Digital Wandeln mit Office 365“. Der Vortrag ist für alle Zielgruppen interessant. Ob Sie als Student/in an Projekten arbeiten und sich dabei intensiv mit Ihren Kommilitonen austauschen müssen oder ob Sie sich als Berufstätige/r den Arbeitsalltag vereinfachen möchten.\n\nNach dem inspirierenden Vortrag stehen wir gerne für einen persönlichen Austausch bereit und beantworten Ihnen Ihre Fragen zu unserem Portfolio, unserem Unternehmen und auch gerne zu einem Einstieg ins YAVEON-Team. Wir freuen uns, Sie in unseren Räumlichkeiten begrüßen zu dürfen.\n\nWas ist Office 365 und was erläutern wir in unserem Vortrag?\n\nOffice 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Die Reise beginnt bei der Integration in Infrastruktur und Informationssicherheit und geht weiter mit der flexiblen Verfügbarkeit und eingebetteten Nutzung von künstlicher Intelligenz. Was bedeutet das für die Anwender, Organisationen und Individuen? Wie müsste eine Transformation gestaltet sein, damit sie gelingt?\n"
+      }
+    },
+    {
       "key": "WUEWW-2019-600",
       "start": "2019-04-07T14:00:00+02:00",
       "end": null,
       "host": {
-        "name": "Stadtbücherei (Hubland)",
-        "infotext": "Die Stadtbücherei ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultur- und Bildungseinrichtung der Stadt Würzburg. Wir fördern Lese-, Informations- und Medienkompetenz auf vielseitigen Wegen. Wir stehen allen Interessierten offen."
+        "name": "ZDI Mainfranken und Stadtteilbücherei Hubland",
+        "infotext": "Die Stadtbücherei ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultur- und Bildungseinrichtung der Stadt Würzburg. Wir fördern Lese-, Informations- und Medienkompetenz auf vielseitigen Wegen. Wir stehen allen Interessierten offen. Ab März 2019 gibt es auch eine Zweigstelle am Hubland.\n\nDas ZDI Mainfranken ist das neue digitale Gründerzentrum in der Region, das die Gründungsaktivität von digitalen Start-ups fördert. Gemeinsam mit seinen Kooperationspartnern, den beiden Hochschulen, der IHK und den Gründerzentren in Würzburg, Schweinfurt und Bad Kissingen entsteht ein mainfrankenweites Gründerökosystem an der Schnittstelle zwischen Wissenschaft und Wirtschaft."
       },
       "title": "#instawalk im #treffpunkttower",
       "location": {
@@ -1613,7 +1939,8 @@
         "lng": 9.968659
       },
       "description": {
-        "short": "Instawalk in der neuen Stadtteilbücherei am Hubland im Tower."
+        "short": "Fotografierend den Tower und den Cube am Hubland vom Keller bis zur Dachterrasse erkunden.",
+        "long": "Fotografierend den Tower und den Cube am Hubland vom Keller bis zur Dachterrasse erkunden. \n\nWir laden euch in die neuen Räume des Zentrums für Digitale Innovationen (ZDI) Mainfranken und der Stadtteilbücherei Hubland ein. Die Gelegenheit, bei einem #instawalk und anschließendem #instaplausch mit #instasnacks andere Instagrammer zu treffen. "
       }
     },
     {
@@ -1678,7 +2005,19 @@
         "name": "contify GmbH",
         "infotext": "Contify | einfach • besser • texten 15 Menschen, eine Leidenschaft: Das Wort. Mit dem Blick auf klare Sprache, echten Mehrwert und saubere Strukturen fertigen wir Content, der Suchmaschinen hilft Ihre Inhalte zu verstehen und User begeistert.\n\n"
       },
-      "title": "Runder Tisch: SEO + Content"
+      "title": "Runder Tisch: SEO + Content",
+      "location": {
+        "name": "contify GmbH\nFranz-Horn-Straße 2\n97082 Würzburg",
+        "lat": 49.795979,
+        "lng": 9.898827
+      },
+      "description": {
+        "short": "User vs. Google? So packe ich meine Botschaft in geilen #Content » Antworten am 8. April!",
+        "long": "Content ist King. Doch wie bei Game of Thrones, braucht der König eine „Hand“. Einen Berater, der alles im Blick hat und Strategien festlegt. Als Agentur beschäftigen wir uns täglich damit, Kundenwünsche in realistische Ziele zu verpacken – und den festgelegten Weg erfolgreich zu bestreiten.\n\nWas eigentlich hinter „Ich brauch Texte für meine Website“ steckt, wie das tägliche Doing aussieht und wie man erfolgreich im Web auftritt, besprechen wir bei der Wuerzburg Web Week am Runden Tisch."
+      },
+      "tags": [
+        "SEO"
+      ]
     },
     {
       "key": "WUEWW-2019-703",
