@@ -44,6 +44,25 @@
       ]
     },
     {
+      "key": "WUEWW-2019-503",
+      "start": "2019-04-06T14:00:00+02:00",
+      "end": "2019-04-06T15:30:00+02:00",
+      "host": {
+        "name": "FutureImmersion & Starthouse im Spessart",
+        "infotext": "Mit über 10 Jahren Erfahrung in der Konzeption und Umsetzung digitaler Werkzeuge in verschiedenen beruflichen und akademischen Feldern bringt Manuel Mühlbauer eine neue Perspektive in die Architektur. Die Entwicklung von automatisierten und teil-automatisierten Arbeitsweisen Entwurfs- und Planungsprozessen wird die Arbeit in der Architektur nicht nur erleichtern, sondern revolutionieren."
+      },
+      "title": "Architektur 4.0 – Von CAD bis KI",
+      "location": {
+        "name": "Starthouse im Spessart\nVorstadtstraße 12\n97816 Lohr a. Main",
+        "lat": 49.992971,
+        "lng": 9.575957
+      },
+      "description": {
+        "short": "Architektur 4.0 - Digitale Potentiale - Von CAD bis KI: Entwerfen und Konstruieren am Computer",
+        "long": "„Architektur 4.0 – Digitale Potentiale – Von CAD bis KI: Entwerfen und Konstruieren am Computer“ birgt eine Antwort auf die Frage der „Digitalisierung“ des Bauwesens und zeigt bewusst gegenwärtige und zukünftige Potentiale auf. Die Erstellung effizienter, stromlinienförmiger Prozesse für den Entwurf und die Abwicklung von Bauvorhaben in der Architektur ermöglicht die schnellere Entwicklung besserer Produkte in der Baubranche.\n\nBeginn ist 14:00 Uhr, Get together ab 13:30 Uhr.\n"
+      }
+    },
+    {
       "key": "WUEWW-2019-502",
       "start": "2019-04-06T15:00:00+02:00",
       "end": "2019-04-06T18:00:00+02:00",
@@ -65,7 +84,7 @@
         "name": "Stadtmarketing \"Würzburg macht Spaß“ e.V.",
         "infotext": "Das Stadtmarketing „Würzburg macht Spaß“ ist der starke Partner für Unternehmen: Wir vertreten deren Interessen, organisieren überregional bekannte Events wie Stadtfest oder Mantelsonntag und steigern mit unseren Projekten Bekanntheit und Sympathiewerte Würzburg"
       },
-      "title": "Unternehmerfrühstück: Google-Tools für KmUs",
+      "title": "Google-Tools für KmUs",
       "location": {
         "name": "Maritim Hotel Würzburg\nPleichertorstraße 5\n97070 Würzburg",
         "lat": 49.79831,
@@ -335,21 +354,6 @@
       ]
     },
     {
-      "key": "WUEWW-2019-112",
-      "start": "2019-04-02T16:00:00+02:00",
-      "end": "2019-04-02T18:00:00+02:00",
-      "host": {
-        "name": "krick.com GmbH + Co. KG",
-        "infotext": "Lokal, digital, erfolgreich! Mit maßgeschneiderten Lösungen bringen wir unseren Kunden Kunden. Egal ob Google AdWords-Kampagnen, On- und Offline-Werbung in lokalen Verzeichnissen oder die Erstellung Ihrer Webseite."
-      },
-      "title": "Tipps für Ihre Online-Präsenz",
-      "location": {
-        "name": "iWelt AG\nMainparkring 4\n97246 Eibelstadt",
-        "lat": 49.732625,
-        "lng": 9.990641
-      }
-    },
-    {
       "key": "WUEWW-2019-113",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
@@ -358,7 +362,7 @@
       },
       "title": "Digitale Transformation im Mittelstand",
       "location": {
-        "name": "Vogel Campus\nSchreinerei in der Vogel Gründerwerkstatt",
+        "name": "Gründerwerkstatt \nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg\"",
         "lat": 49.795136,
         "lng": 9.900767
       },
@@ -377,7 +381,7 @@
       },
       "title": "IT-gestütztes Management",
       "location": {
-        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 (Alte IHK)\n97070 Würzburg",
+        "name": "Pekingsaal (02.002)\nJosef-Stangl-Platz 2 \n(Alte IHK)\n97070 Würzburg\"",
         "lat": 49.790173,
         "lng": 9.935553
       },
@@ -435,7 +439,7 @@
       },
       "title": "Optimale Zahlarten im Onlineshop",
       "location": {
-        "name": "Creditreform Würzburg – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt\"",
+        "name": "Creditreform Würzburg – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt",
         "lat": 49.732625,
         "lng": 9.990641
       },
@@ -503,7 +507,7 @@
       },
       "title": "Mail-Archivierung/Verschlüsselung\n",
       "location": {
-        "name": "REDDOXX – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt\"",
+        "name": "REDDOXX – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt",
         "lat": 49.732625,
         "lng": 9.990641
       },
@@ -572,7 +576,7 @@
       },
       "title": "Insta-Walk@mainpost",
       "location": {
-        "name": "Main-Post Verlagsgebäude\n\rBerner Straße 2\r\n97084 Würzburg",
+        "name": "Main-Post Verlagsgebäude\nBerner Straße 2\n97084 Würzburg",
         "lat": 49.746418,
         "lng": 9.95347
       },
@@ -664,7 +668,7 @@
         "name": "IHK Würzburg-Schweinfurt",
         "infotext": "Die IHK Würzburg-Schweinfurt ist Erstansprechpartner für Existenzgründer und Start-ups und bietet zahlreiche Unterstützungsangebote (Beratung, Qualifizierung, Mentorenprogramme, Netzwerkplattformen, Stellungnahmen etc.)."
       },
-      "title": "Sprechtag zur Websitegestaltung, ",
+      "title": "Sprechtag zur Websitegestaltung",
       "location": {
         "name": "IHK Würzburg-Schweinfurt\nRaum C-102\nMainaustraße 33-35\n97082 Würzburg ",
         "lat": 49.801331,
