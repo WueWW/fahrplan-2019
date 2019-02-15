@@ -131,7 +131,7 @@
       },
       "description": {
         "short": "Digitalisierung mit Mehrwert fürs Handwerk. Die Handwerkskammer für Unterfranken zeigt Möglichkeiten.",
-        "long": "Um sich für die Zukunft zu rüsten, müssen Handwerksbetriebe Digitalisierung und Handwerk verknüpfen. Dabei sind frühzeitiges und besonnenes Handeln sind wichtig. Denn nur wer die Risiken kennt, kann die Chancen gefahrlos nutzen. Im Rahmen einer Vortragsreihe und einer begleitenden Ausstellung von Digitalisierungsmöglichkeiten, z. B. Einsatz von Robotern, 3D-Druck, Laser-Technik etc. zeigt die Veranstaltung „Digitalisierung im Handwerk – Wie gelingt sie“ interessante Einblicke für Unternehmer."
+        "long": "Um sich für die Zukunft zu rüsten, müssen Handwerksbetriebe Digitalisierung und Handwerk verknüpfen. Dabei sind frühzeitiges und besonnenes Handeln wichtig. Denn nur wer die Risiken kennt, kann die Chancen gefahrlos nutzen. Im Rahmen einer Vortragsreihe und einer begleitenden Ausstellung von Digitalisierungsmöglichkeiten, z. B. Einsatz von Robotern, 3D-Druck, Laser-Technik etc. zeigt die Veranstaltung „Digitalisierung im Handwerk – Wie gelingt sie“ interessante Einblicke für Unternehmer."
       },
       "tags": [
         "Digitalisierung",
@@ -295,6 +295,24 @@
       ]
     },
     {
+      "key": "WUEWW-2019-109",
+      "start": "2019-04-02T15:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
+      "title": "Agile UG Special – Agil, WTF?!",
+      "location": {
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
+        "lat": 49.787811,
+        "lng": 9.968068
+      },
+      "tags": [
+        "Agil"
+      ]
+    },
+    {
       "key": "WUEWW-2019-108",
       "start": "2019-04-02T15:30:00+02:00",
       "end": "2019-04-02T16:30:00+02:00",
@@ -314,24 +332,6 @@
       },
       "tags": [
         "Einsteiger"
-      ]
-    },
-    {
-      "key": "WUEWW-2019-109",
-      "start": "2019-04-02T16:00:00+02:00",
-      "end": "2019-04-02T20:00:00+02:00",
-      "host": {
-        "name": "Mayflower GmbH",
-        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
-      },
-      "title": "Agile UG Special",
-      "location": {
-        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
-        "lat": 49.787811,
-        "lng": 9.968068
-      },
-      "tags": [
-        "Agil"
       ]
     },
     {
@@ -384,6 +384,23 @@
       "description": {
         "short": "Erhalten Sie Einblicke in das größte Labor für betriebswirtschaftliche Software Deutschlands",
         "long": "Erhalten Sie Einblicke in die moderne, IT-gestützte Unternehmenssteuerung und lernen Sie Unterschiede und Trends (Cloud, Open-Source, Künstliche Intelligenz) mehrerer betriebswirtschaftlicher Software-Lösungen kennen. Weitere Infos: www.erp-labs.de"
+      }
+    },
+    {
+      "key": "WUEWW-2019-130",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
+      "host": {
+        "name": "ISO-Gruppe – Standort Würzburg"
+      },
+      "title": "Social-Media-Profil-Check",
+      "location": {
+        "name": "ISO-Gruppe\nSchweinfurter Straße 9\n97080 Würzburg",
+        "lat": 49.799051,
+        "lng": 9.94709
+      },
+      "description": {
+        "long": "Mehr Informationen demnächst."
       }
     },
     {
@@ -825,6 +842,26 @@
       ]
     },
     {
+      "key": "WUEWW-2019-215",
+      "start": "2019-04-03T16:00:00+02:00",
+      "end": "2019-04-03T17:30:00+02:00",
+      "host": {
+        "name": "ISO-Gruppe – Standort Würzburg"
+      },
+      "title": "Active Sourcing – Hashtag rules\n",
+      "location": {
+        "name": "ISO-Gruppe\nSchweinfurter Straße 9\n97080 Würzburg",
+        "lat": 49.799051,
+        "lng": 9.94709
+      },
+      "description": {
+        "long": "Mehr Informationen demnächst."
+      },
+      "tags": [
+        "HR"
+      ]
+    },
+    {
       "key": "WUEWW-2019-208",
       "start": "2019-04-03T17:00:00+02:00",
       "end": "2019-04-03T19:00:00+02:00",
@@ -888,6 +925,28 @@
       }
     },
     {
+      "key": "WUEWW-2019-214",
+      "start": "2019-04-03T17:00:00+02:00",
+      "end": "2019-04-03T18:00:00+02:00",
+      "host": {
+        "name": "SYSTHEMIS AG",
+        "infotext": "Als Dienstleister für die pragmatische Reorganisation und Automation von Geschäftsprozessen, für die Beratung zu IT-Strategien, für die Unterstützung bei herausfordernden IT-Projekten sowie in der Umsetzung von individuellen Softwarelösungen sind wir auf dem Gesundheitsmarkt als wertvoller Partner geschätzt."
+      },
+      "title": "RPA – Hype oder Wunderwaffe?",
+      "location": {
+        "name": "SYSTHEMIS AG\nMergentheimer Straße 76a\n97082 Würzburg",
+        "lat": 49.775647,
+        "lng": 9.927717
+      },
+      "description": {
+        "short": "Wir beleuchten den Stand der Robotic Process Automation (RPA) und ob Sie davon profitieren können.",
+        "long": "Wie viele Stunden im Monat verbringen Sie mit wiederkehrenden Aufgaben, den gleichen Entscheidungen, denselben Klicks?\n\nWie viel Zeit hätten Sie, wenn Ihnen diese Arbeiten abgenommen würden?\n\nRPA – Robotic Process Automation verspricht: Ein Stück Software übernimmt Einzelaufgaben bis hin zu komplexen Abläufen.\n\nWir beleuchten den aktuellen Stand der RPA-Technik. Erfahren Sie welche Versprechen bereits haltbar, welche Voraussetzungen notwendig sind und ob Sie bereits heute profitieren können."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
+    },
+    {
       "key": "WUEWW-2019-213",
       "start": "2019-04-03T18:00:00+02:00",
       "end": "2019-04-03T20:00:00+02:00",
@@ -911,7 +970,7 @@
     },
     {
       "key": "WUEWW-2019-209",
-      "start": "2019-04-02T19:00:00+02:00",
+      "start": "2019-04-03T19:00:00+02:00",
       "end": null,
       "host": {
         "name": "Dr. Tristan Behrens (AI-Guru)",
@@ -983,8 +1042,12 @@
         "lng": 9.942028
       },
       "description": {
-        "long": "Einsatz, Vorgehen und Trends für erfolgreiches Kundenbeziehungsmanagement. \n\nInhalte folgen in Kürze\n"
-      }
+        "short": "Gutes CRM ist die Voraussetzung für erfolgreiche Unternehmen. Wir zeigen Einsatzgebiete, Trends und Vorgehensweisen und geben einen Marktüberblick .",
+        "long": "Einsatz, Vorgehen und Trends für erfolgreiches Kundenbeziehungsmanagement\n\nGutes CRM ist die Voraussetzung für erfolgreiche Unternehmen – Kundenerwartungen verstehen und erfüllen. Dies stellt hohe Anforderungen an Organisation, Kommunikation und eingesetzte Werkzeuge. Auf der Basis langjähriger Beratungserfahrung werden Einsatzgebiete, Trends und Vorgehensweisen aufgezeigt und ein Marktüberblick gegeben. Im Anschluss bietet sich die Gelegenheit für einen lockeren Austausch. "
+      },
+      "tags": [
+        "CRM"
+      ]
     },
     {
       "key": "WUEWW-2019-302",
@@ -1027,6 +1090,20 @@
         "Start-up",
         "Software Development"
       ]
+    },
+    {
+      "key": "WUEWW-2019-333",
+      "start": "2019-04-04T13:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "Garmin"
+      },
+      "title": "Garmin Swim *track your swim",
+      "location": {
+        "name": "Eingang Sandermare\nVirchowstraße 1\n97072 Würzburg",
+        "lat": 49.78521,
+        "lng": 9.9328
+      }
     },
     {
       "key": "WUEWW-2019-304",
@@ -1226,7 +1303,8 @@
         "lng": 9.942028
       },
       "description": {
-        "long": "Einfach richtig arbeiten - Dokumenten- & Prozessmanagement\n\nInhalte folgen in Kürze"
+        "short": "Erhalten Sie Hintergründe, Tipps und Tricks zu Einsatzgebieten und Vorgehensweisen von Dokumenten- & Prozessmanagement.",
+        "long": "Einsatz, Vorgehen und Trends für erfolgreiches Kundenbeziehungsmanagement\n\nGutes CRM ist die Voraussetzung für erfolgreiche Unternehmen – Kundenerwartungen verstehen und erfüllen. Dies stellt hohe Anforderungen an Organisation, Kommunikation und eingesetzte Werkzeuge. Auf der Basis langjähriger Beratungserfahrung werden Einsatzgebiete, Trends und Vorgehensweisen aufgezeigt und ein Marktüberblick gegeben. Im Anschluss bietet sich die Gelegenheit für einen lockeren Austausch."
       }
     },
     {
@@ -1237,14 +1315,15 @@
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
       },
-      "title": "Data Science für Controller",
+      "title": "Data Science Business Analysts\n",
       "location": {
         "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
         "lat": 49.799584,
         "lng": 9.942028
       },
       "description": {
-        "long": "Inhalte folgen in Kürze"
+        "short": "Software kann Business Analysten unterstützen, es gibt aber Grenzen. Wir zeigen, welche und welche Kenntnisse Business Analysten besitzen sollten.",
+        "long": "Data Science für Business Analysten – Warum und wie Business Analysten zur Datenanalyse befähigen\n\nImmer mehr Business-Intelligence-Werkzeuge bieten fortgeschrittene Methoden der Datenanalyse sowie Funktionalitäten der Datenaufbereitung. Hinzu kommt, dass Fachanwender zunehmend in einen Dialog mit Data Scientists treten müssen, um Use Cases zu identifizieren und die Ergebnisse mathematischer Analysen zu verstehen. Dies erfordert von Anwendern ein grundlegendes Verständnis der Vorgehensweise der wichtigsten Analysekonzepte sowie die Fähigkeit, den Output fortgeschrittener Analysemethoden richtig interpretieren zu können. Software kann Business Analysten dabei unterstützen, allerdings gibt es dabei Grenzen. Der Vortrag zeigt aktuelle Ansätze der Softwareunterstützung für Business Analysten sowie welche Kenntnisse Business Analysten besitzen sollten, um effektiv in Data-Science-Projekten mitzuarbeiten."
       }
     },
     {
@@ -1376,6 +1455,23 @@
       ]
     },
     {
+      "key": "WUEWW-2019-332",
+      "start": "2019-04-04T17:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "Starthouse Spessart"
+      },
+      "title": "Digitale Trends & Geschäftsmodelle",
+      "location": {
+        "name": "Starthouse im Spessart\nVorstadtstraße 12\n97816 Lohr a. Main",
+        "lat": 49.992971,
+        "lng": 9.575957
+      },
+      "description": {
+        "long": "Mehr Informationen demnächst"
+      }
+    },
+    {
       "key": "WUEWW-2019-314",
       "start": "2019-04-04T18:00:00+02:00",
       "end": null,
@@ -1449,7 +1545,7 @@
       },
       "description": {
         "short": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. In dem Vortrag zeigt Alexander Mereien, wie ein Webcast produziert wird.",
-        "long": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. Mit viel Potenzial verbunden sind Web-Casts – eine Live-Übertragung ins Internet und eine besonders dynamische Form von Videos.\n\nIm Rahmen der Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG) zeigt Alexander Mereien, Experte für Projektkommunikation, wie ein Webcast produziert wird. Der Vortrag wird live ins Internet gestreamt. Als Zuschauer wirken Sie aktiv mit an der Übertragung."
+        "long": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. Mit viel Potenzial verbunden sind Web-Casts – eine Live-Übertragung ins Internet und eine besonders dynamische Form von Videos.\n\nIm Rahmen der Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG) zeigt Alexander Mereien, Experte für Projektkommunikation, wie ein Webcast produziert wird. Der Vortrag wird live ins Internet gestreamt. Als Zuschauer wirken Sie aktiv mit an der Übertragung.\n\nDie Teilnahme ist kostenfrei."
       }
     },
     {
@@ -1491,6 +1587,25 @@
       "tags": [
         "Software Development"
       ]
+    },
+    {
+      "key": "WUEWW-2019-331",
+      "start": "2019-04-04T18:00:00+02:00",
+      "end": "2019-04-04T20:00:00+02:00",
+      "host": {
+        "name": "Main-Post GmbH",
+        "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
+      },
+      "title": "Was die Nutzer lesen wollen\n",
+      "location": {
+        "name": "Main-Post Verlagsgebäude\nBerner Straße 2\n97084 Würzburg",
+        "lat": 49.746418,
+        "lng": 9.95347
+      },
+      "description": {
+        "short": "Wie die Zahlen aus dem Netz die Redaktion unterstützen und helfen in Echtzeit zu erkennen, was die Nutzer auf mainpost.de lesen wollen.",
+        "long": "Eine ganze Reihe von Tools helfen der Redaktion in Echtzeit zu erkennen, was die Nutzer auf mainpost.de lesen wollen. Ziel ist es, möglichst relevante Themen zu setzen. Wie die Zahlen aus dem Netz die digitale Themenfindung unterstützen. Präsentation und Diskussion.\n\nVoranmeldung notwendig.\n\n"
+      }
     },
     {
       "key": "WUEWW-2019-324",
@@ -1611,14 +1726,15 @@
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
       },
-      "title": "Advanced Analytics",
+      "title": "Data Science Prototypen",
       "location": {
         "name": "BARC GmbH\nBerliner Platz 7\n97080 Würzburg",
         "lat": 49.799584,
         "lng": 9.942028
       },
       "description": {
-        "long": "Inhalte folgen in Kürze"
+        "short": "Wie kann kreatives, exploratives Arbeiten strukturiert werden? Wir geben einen Überblick, wie man vorgeht und und welche Ergebnisse zu erwarten sind. ",
+        "long": "Data Science Prototypen – exploratives Arbeiten strukturieren\n\nData Science Projekte starten üblicherweise mit der Prototypisierung, einem sogenannten Proof of Concept. Hier werden Ideen anhand konkreter Daten erprobt und ein mathematischer Ansatz identifiziert. Die Prototypisierung ist geprägt von iterativer Suche nach Lösungsansätzen für Datenaufbereitung, Modellierung und Ergebnisdarstellung. Wie aber kann kreatives, exploratives Arbeiten strukturiert werden? In welchen Phasen geht man vor und welche Ergebnisse sind zu erwarten? Warum muss das Scheitern Proof of Concepts mit einkalkuliert werden und in welchen Zeiträumen sollte hier gedacht werden?\n\nDer Vortrag gibt einen Überblick über die folgenden Punkte:\n\n- Ablauf analytischer Projekte\n- Rollen & Interaktionen\n- Fallstricke und Ursachen des Scheiterns\n- Schritt in die Operationalisierung"
       }
     },
     {
@@ -1683,6 +1799,25 @@
       "tags": [
         "Digitalisierung"
       ]
+    },
+    {
+      "key": "WUEWW-2019-412",
+      "start": "2019-04-05T13:00:00+02:00",
+      "end": "2019-04-05T15:00:00+02:00",
+      "host": {
+        "name": "inics - daten & prozesse",
+        "infotext": "inics - daten & prozesse berät Unternehmen und Organisationen im Bereich Informationsmanagement sowie intelligenter Datenanalyse und realisiert mit modernen Technologien zukunftssichere Analytics-Lösungen."
+      },
+      "title": "Intelligent Analytics\n",
+      "location": {
+        "name": "Coworking Würzburg\nVeitshöchheimer Straße 14\n97080 Würzburg",
+        "lat": 49.8019349,
+        "lng": 9.9223838
+      },
+      "description": {
+        "short": "Wie funktioniert das mit Unternehmensdaten? Welche Chancen liegen in Entwicklungen wie Big Data, Cloud oder AI? Dies und mehr gibt es im Vortrag.",
+        "long": "Intelligent Analytics – effizientes Arbeiten mit Unternehmensdaten\n\nSuchmaschinen sind Mittel der Wahl für die Beschaffung von Informationen – einfach per Klick. Doch wie funktioniert das mit Unternehmensdaten? Wie kann ein „flexibles Reporting“ aussehen und wie bleiben wachsende Datenmengen beherrschbar? Welche Risiken gilt es zu beachten und welche Chancen liegen in Entwicklungen wie Big Data, Cloud oder AI? Darauf gibt Ralf Säugling in seinem Vortrag „Intelligent Analytics – effizientes Arbeiten mit Unternehmensdaten“ Antwort und diskutiert mit Ihnen über das zukunftskritische Thema Datenkompetenz.\n\nReferent: Ralf Säugling – Geschäftsführer der inics GmbH\n\nDie Veranstaltung richtet sich an alle Interessierten: Vom Unternehmens-Entscheider über „Datenakrobaten“ bis hin zu Studierenden. Die Teilnahme ist kostenfrei, um eine Anmeldung über info@inics.de wird gebeten."
+      }
     },
     {
       "key": "WUEWW-2019-403",
@@ -1977,6 +2112,25 @@
       "description": {
         "short": "BFW Orientierungs-App In-Outdoor für Android-, iOS-Smartphones für Menschen mit und ohne Handicap. ",
         "long": "Selbsterfahrung mit Schwarzbrille und BFW SmartInfo, Orientierungs-App In-Outdoor für Android- und iOS-Smartphones für Menschen mit und ohne Handicap. Die App gibt Infos (Text, Fotos, Filme, Sprachen, richtungsbezogene Angaben), sobald Sie sich einem Infopunkt nähern. Einzigartige Technologiekombination (GPS, Beacons, NFC, QR-Code) mit barrierefreier Programmierung, dadurch für behinderte Menschen ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich - inklusive App für Alle.\n\nAchtung: Die Personenzahl ist auf 12 Teilnehmer beschränkt. Eine Anmeldung ist zwingend erforderlich. "
+      }
+    },
+    {
+      "key": "WUEWW-2019-706",
+      "start": "2019-04-08T13:00:00+02:00",
+      "end": "2019-04-08T17:00:00+02:00",
+      "host": {
+        "name": "inics - daten & prozesse",
+        "infotext": "inics - daten & prozesse berät Unternehmen und Organisationen im Bereich Informationsmanagement sowie intelligenter Datenanalyse und realisiert mit modernen Technologien zukunftssichere Analytics-Lösungen."
+      },
+      "title": "Workshop Datenanalyse\n",
+      "location": {
+        "name": "Coworking Würzburg\nVeitshöchheimer Straße 14\n97080 Würzburg",
+        "lat": 49.8019349,
+        "lng": 9.9223838
+      },
+      "description": {
+        "short": "Im Workshop lernen Sie, Daten schnell aus verschiedenen Informationsquellen in einen flexiblen, anwenderfreundlichen Analyse-Bericht zu bringen.",
+        "long": "In unserem halbtägigen Workshop lernen Sie, wie rasch Daten aus unterschiedlichen Informationsquellen in einen flexiblen, anwenderfreundlichen Analyse-Bericht gebracht werden. Selbstständig erstellen Sie anhand eines konkreten Praxisbeispiels eine eigene Applikation und erleben so, wie schnell Sie neue Erkenntnisse aus Ihren Unternehmensdaten gewinnen und wie diese Informationen verteilt werden.\n\nDie Veranstaltung richtet sich an alle Anwender aus Controlling bzw. IT sowie Interessierte für das Thema Data Analytics. Benötigt wird ein eigener Laptop. Die Teilnahme ist kostenfrei, die Anzahl der Teilnehmer jedoch begrenzt. Wir bitten daher um eine Anmeldung über info@inics.de."
       }
     },
     {
