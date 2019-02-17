@@ -23,7 +23,7 @@
     {
       "key": "WUEWW-2019-501",
       "start": "2019-04-06T09:00:00+02:00",
-      "end": "2019-04-06T22:00:00+02:00",
+      "end": "2019-04-06T18:00:00+02:00",
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -65,7 +65,7 @@
     {
       "key": "WUEWW-2019-502",
       "start": "2019-04-06T15:00:00+02:00",
-      "end": "2019-04-06T18:00:00+02:00",
+      "end": "2019-04-06T17:00:00+02:00",
       "host": {
         "name": "Daniel Niemczyk",
         "infotext": "Ich bin Informatik Student an der FHWS und vor zwei Jahren über ein paar Freunde auf das Thema Bitcoin gestoßen. Der größte Fluch und Segen meines Lebens zeitgleich, denn seitdem bin ich nicht mehr davon losgekommen und möchte aktuell versuchen, Aufklärungsarbeit in diesem Bereich zu betreiben - fernab von jeglicher Geldspekulation!"
@@ -108,7 +108,7 @@
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla\nAm Ludwigkai 12\n97072 Würzburg       ",
+        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -191,7 +191,7 @@
       },
       "title": "Conversion Optimierung",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "name": "IGZ Würzburg\nFriedrich-Bergius-Ring 15\n97076 Würzburg",
         "lat": 49.803558,
         "lng": 9.998039
       },
@@ -265,7 +265,7 @@
       },
       "title": "WordPress: Gutenberg Editor",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "name": "IGZ Würzburg\nFriedrich-Bergius-Ring 15\n97076 Würzburg",
         "lat": 49.803558,
         "lng": 9.998039
       },
@@ -362,7 +362,7 @@
       },
       "title": "Digitale Transformation im Mittelstand",
       "location": {
-        "name": "Gründerwerkstatt \nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg\"",
+        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       },
@@ -485,7 +485,7 @@
       },
       "title": "Deep Dive into NLP with PyTorch",
       "location": {
-        "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "name": "Vogel-Gründerwerkstatt\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       },
@@ -708,7 +708,7 @@
       },
       "title": "MainXchange",
       "location": {
-        "name": "Vogel Convention Center Würzburg\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "name": "Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       },
@@ -732,7 +732,7 @@
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla, Am Ludwigkai 12, 97072 Würzburg       ",
+        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -747,12 +747,12 @@
     {
       "key": "WUEWW-2019-204",
       "start": "2019-04-03T14:00:00+02:00",
-      "end": "2019-04-03T16:00:00+02:00",
+      "end": "2019-04-03T15:00:00+02:00",
       "host": {
         "name": "Kanzlei Jun",
         "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
       },
-      "title": "DSGVO: War die Panik berechtigt? \n(Maßnahmen auf dem Prüfstand)",
+      "title": "DSGVO: War die Panik berechtigt? ",
       "location": {
         "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
         "lat": 49.791984,
@@ -772,7 +772,7 @@
       },
       "title": "AR & Advantages of Programmer",
       "location": {
-        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97070 Würzburg",
+        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97080 Würzburg",
         "lat": 49.797576,
         "lng": 9.949834
       },
@@ -803,6 +803,24 @@
       ]
     },
     {
+      "key": "WUEWW-2019-216",
+      "start": "2019-04-03T16:00:00+02:00",
+      "end": "2019-04-03T17:00:00+02:00",
+      "host": {
+        "name": "Kanzlei Jun",
+        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
+      },
+      "title": "DSGVO: War die Panik berechtigt? ",
+      "location": {
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
+        "lat": 49.791984,
+        "lng": 9.953852
+      },
+      "description": {
+        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. "
+      }
+    },
+    {
       "key": "WUEWW-2019-206",
       "start": "2019-04-03T16:00:00+02:00",
       "end": null,
@@ -810,7 +828,7 @@
         "name": "hümmer kommunikation",
         "infotext": "Meine Vision ist es, nachhaltig öffentliche Aufmerksamkeit für meine Kundinnen und Kunden herzustellen. Meine Philosophie ist es, Kommunikation ehrlich zu betreiben: Nur, wenn ich wirklich hinter Projekten, Ideen, Produkten stehe, möchte und kann ich diese glaubhaft kommunizieren."
       },
-      "title": "ASOZIAL!\nOhne soziale Medien fehlt was.",
+      "title": "Asozial! … ohne soziale Medien",
       "location": {
         "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
         "lat": 49.79,
@@ -919,7 +937,7 @@
       },
       "title": "Leadership Upgrade 4.0\n",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "name": "IGZ Würzburg\nFriedrich-Bergius-Ring 15\n97076 Würzburg",
         "lat": 49.803558,
         "lng": 9.998039
       },
@@ -1119,7 +1137,7 @@
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla\nAm Ludwigkai 12\n97072 Würzburg       ",
+        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -1141,7 +1159,7 @@
       },
       "title": "Full performance customer journey ",
       "location": {
-        "name": "Online Rebellion\n\nSchweinfurter Str. 9\n97080 Würzburg",
+        "name": "Online Rebellion\nSchweinfurter Str. 9\n97080 Würzburg",
         "lat": 49.799051,
         "lng": 9.94709
       },
@@ -1237,7 +1255,7 @@
       },
       "title": "Probabilistische Programmierung\n",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "name": "IGZ Würzburg\nFriedrich-Bergius-Ring 15\n97076 Würzburg",
         "lat": 49.803558,
         "lng": 9.998039
       },
@@ -1361,7 +1379,7 @@
       },
       "title": "Creating a living UI/UX StyleGuide",
       "location": {
-        "name": "eResearchTechnology GmbH,\nSieboldstrasse 3,\n97230 Estenfeld",
+        "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld",
         "lat": 49.8378,
         "lng": 10.008323
       },
@@ -1401,7 +1419,7 @@
       },
       "title": "Wie tickt Würzburg auf Insta?",
       "location": {
-        "name": "lauterbach kreativbetreuung e.K.\nBeethoven-Center 8.Stock\nBeethovenstraße 1a\n97080 Würzburg",
+        "name": "lauterbach kreativbetreuung e.K.\nBeethoven-Center 8. Stock\nBeethovenstraße 1a\n97080 Würzburg",
         "lat": 49.797763,
         "lng": 9.944532
       },
@@ -1444,7 +1462,7 @@
         "name": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees",
         "infotext": "Wir betreiben alle einen Podcast – WUEconomics, Versicherungsgeflüster Podcast sowie Würzblog-Podcast – und möchten unsere Erfahrungen gerne mit interessierten Personen teilen."
       },
-      "title": "Erfolg durch Personal Branding",
+      "title": "Podcast: Mit Marke zum Erfolg",
       "location": {
         "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
         "lat": 49.79,
@@ -1524,7 +1542,7 @@
       },
       "title": "PR – digital und klassisch",
       "location": {
-        "name": "VCC Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "name": "Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       },
@@ -1543,7 +1561,7 @@
       },
       "title": "Webcasts für Start-ups und Mittelstand\n",
       "location": {
-        "name": "VCC Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "name": "Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       },
@@ -1879,7 +1897,7 @@
       },
       "title": "Alexa, erledige meine Arbeit!\n",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "name": "IGZ Würzburg\nFriedrich-Bergius-Ring 15\n97076 Würzburg",
         "lat": 49.803558,
         "lng": 9.998039
       },
@@ -1897,7 +1915,7 @@
       },
       "title": "Auto 4.0: Mobil & Digital",
       "location": {
-        "name": "Vogel Gründerwerkstatt,\nMax-Planck-Str. 7-9\n97082 Würzburg ",
+        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       }
@@ -1905,7 +1923,7 @@
     {
       "key": "WUEWW-2019-407",
       "start": "2019-04-05T17:30:00+02:00",
-      "end": "2019-04-05T20:00:00+02:00",
+      "end": "2019-04-05T20:30:00+02:00",
       "host": {
         "name": "STARTUP TEENS mit ZDI Mainfranken & IHK Würzburg-Schweinfurt\n",
         "infotext": "Die Non-Profit-Initiative STARTUP TEENS hat es sich zur Aufgabe gemacht, Schülerinnen und Schülern unternehmerisches Denken und Handeln beizubringen. So sollen in Zukunft mehr Gründer, Unternehmensnachfolger und Intrapreneure hervorgebracht werden. Neben Online-Training, einem großen Mentoren-Netzwerk und dem mit 7 x 10.000 Euro am höchsten dotierten Businessplan-Wettbewerb für Schülerinnen und Schüler in Deutschland, führt STARTUP TEENS auch bundesweit Events und Ideen-Camps durch. Alle Bausteine sind für die Jugendlichen kostenfrei."
@@ -1925,6 +1943,21 @@
       ]
     },
     {
+      "key": "WUEWW-2019-001",
+      "start": "2019-04-01T15:00:00+02:00",
+      "end": "2019-04-01T19:00:00+02:00",
+      "host": {
+        "name": "WueWW",
+        "infotext": "Die Wuerzburg Web Week ist eine Dachveranstaltung, die alle gesellschaftlichen Gruppen in Mainfranken zusammenbringt, die mit dem Thema Digitalisierung zu tun haben. Dazu zählen Unternehmen und Selbstständige ebenso wie Schulen, Hochschulen, Netzwerke, Vereine und interessierte Bürger. Das Besondere: Jeder kann eine Veranstaltung anbieten und so das Programm aktiv mitgestalten."
+      },
+      "title": "Eröffnungsveranstaltung",
+      "location": {
+        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.79706,
+        "lng": 9.900713
+      }
+    },
+    {
       "key": "WUEWW-2019-004",
       "start": "2019-04-01T10:00:00+02:00",
       "end": null,
@@ -1934,7 +1967,7 @@
       },
       "title": "Digital statt Papier",
       "location": {
-        "name": "Innovations- und Gründerzentrum (IGZ) \nFriedrich-Bergius-Ring 15 \n97076 Würzburg",
+        "name": "IGZ Würzburg\nFriedrich-Bergius-Ring 15\n97076 Würzburg",
         "lat": 49.803558,
         "lng": 9.998039
       },
@@ -1986,6 +2019,25 @@
       }
     },
     {
+      "key": "WUEWW-2019-006",
+      "start": "2019-04-01T15:00:00+02:00",
+      "end": "2019-04-01T17:00:00+02:00",
+      "host": {
+        "name": "YAVEON AG",
+        "infotext": "Die YAVEON Gruppe ist ein führendes Beratungs- und IT-Dienstleistungsunternehmen für chargen- und rezepturorientierte Unternehmen aus Chemie, Pharma, Nahrungsmittel und Medizintechnik. Auf der Basis von Microsoft-Technologie entwickeln und implementieren wir Business-Lösungen, die den hohen Anforderungen der Branchen entsprechen. Durch unser umfangreiches Prozesswissen und unsere Methodik schaffen wir das Fundament einer nachhaltigen Prozessoptimierung und erhöhen so den wirtschaftlichen Erfolg unserer Kunden. YAVEON gehört zu den Top 2 % der Microsoft Partner weltweit. "
+      },
+      "title": "Digital Wandeln mit Office 365\n",
+      "location": {
+        "name": "YAVEON AG\nEingang Nord (Empfang)\nSchweinfurter Straße 9\n97080 Würzburg",
+        "lat": 49.799051,
+        "lng": 9.94709
+      },
+      "description": {
+        "short": "Office 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Mehr dazu in diesem Vortrag.",
+        "long": "Wir von YAVEON gehen mit dem dynamischen Wandel der Digitalisierung und nehmen Sie mit auf eine kleine Reise in die Welt von Office 365. Wir laden Sie herzlich ein zu einem Vortrag zum Thema „Digital Wandeln mit Office 365“. Der Vortrag ist für alle Zielgruppen interessant. Ob Sie als Student/in an Projekten arbeiten und sich dabei intensiv mit Ihren Kommilitonen austauschen müssen oder ob Sie sich als Berufstätige/r den Arbeitsalltag vereinfachen möchten.\n\nNach dem inspirierenden Vortrag stehen wir gerne für einen persönlichen Austausch bereit und beantworten Ihnen Ihre Fragen zu unserem Portfolio, unserem Unternehmen und auch gerne zu einem Einstieg ins YAVEON-Team. Wir freuen uns, Sie in unseren Räumlichkeiten begrüßen zu dürfen.\n\nWas ist Office 365 und was erläutern wir in unserem Vortrag?\n\nOffice 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Die Reise beginnt bei der Integration in Infrastruktur und Informationssicherheit und geht weiter mit der flexiblen Verfügbarkeit und eingebetteten Nutzung von künstlicher Intelligenz. Was bedeutet das für die Anwender, Organisationen und Individuen? Wie müsste eine Transformation gestaltet sein, damit sie gelingt?\n"
+      }
+    },
+    {
       "key": "WUEWW-2019-002",
       "start": "2019-04-01T16:00:00+02:00",
       "end": "2019-04-01T18:00:00+02:00",
@@ -1993,7 +2045,7 @@
         "name": "Stadtbücherei",
         "infotext": "Die Stadtbücherei ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultur- und Bildungseinrichtung der Stadt Würzburg. Wir fördern Lese-, Informations- und Medienkompetenz auf vielseitigen Wegen. Wir stehen allen Interessierten offen."
       },
-      "title": "Makerspace ",
+      "title": "Makerspace der Stadtbücherei",
       "location": {
         "name": "Stadtbücherei Würzburg\nFalkenhaus\nMarktplatz 9\n97070 Würzburg",
         "lat": 49.795041,
@@ -2043,25 +2095,6 @@
       "tags": [
         "E-Commerce"
       ]
-    },
-    {
-      "key": "WUEWW-2019-006",
-      "start": "2019-04-01T15:00:00+02:00",
-      "end": "2019-04-01T17:00:00+02:00",
-      "host": {
-        "name": "YAVEON AG",
-        "infotext": "Die YAVEON Gruppe ist ein führendes Beratungs- und IT-Dienstleistungsunternehmen für chargen- und rezepturorientierte Unternehmen aus Chemie, Pharma, Nahrungsmittel und Medizintechnik. Auf der Basis von Microsoft-Technologie entwickeln und implementieren wir Business-Lösungen, die den hohen Anforderungen der Branchen entsprechen. Durch unser umfangreiches Prozesswissen und unsere Methodik schaffen wir das Fundament einer nachhaltigen Prozessoptimierung und erhöhen so den wirtschaftlichen Erfolg unserer Kunden. YAVEON gehört zu den Top 2 % der Microsoft Partner weltweit. "
-      },
-      "title": "Digital Wandeln mit Office 365\n",
-      "location": {
-        "name": "YAVEON AG\nEingang Nord (Empfang)\nSchweinfurter Straße 9\n97080 Würzburg",
-        "lat": 49.799051,
-        "lng": 9.94709
-      },
-      "description": {
-        "short": "Office 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Mehr dazu in diesem Vortrag.",
-        "long": "Wir von YAVEON gehen mit dem dynamischen Wandel der Digitalisierung und nehmen Sie mit auf eine kleine Reise in die Welt von Office 365. Wir laden Sie herzlich ein zu einem Vortrag zum Thema „Digital Wandeln mit Office 365“. Der Vortrag ist für alle Zielgruppen interessant. Ob Sie als Student/in an Projekten arbeiten und sich dabei intensiv mit Ihren Kommilitonen austauschen müssen oder ob Sie sich als Berufstätige/r den Arbeitsalltag vereinfachen möchten.\n\nNach dem inspirierenden Vortrag stehen wir gerne für einen persönlichen Austausch bereit und beantworten Ihnen Ihre Fragen zu unserem Portfolio, unserem Unternehmen und auch gerne zu einem Einstieg ins YAVEON-Team. Wir freuen uns, Sie in unseren Räumlichkeiten begrüßen zu dürfen.\n\nWas ist Office 365 und was erläutern wir in unserem Vortrag?\n\nOffice 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Die Reise beginnt bei der Integration in Infrastruktur und Informationssicherheit und geht weiter mit der flexiblen Verfügbarkeit und eingebetteten Nutzung von künstlicher Intelligenz. Was bedeutet das für die Anwender, Organisationen und Individuen? Wie müsste eine Transformation gestaltet sein, damit sie gelingt?\n"
-      }
     },
     {
       "key": "WUEWW-2019-600",
@@ -2138,6 +2171,20 @@
       }
     },
     {
+      "key": "WUEWW-2019-707",
+      "start": "2019-04-08T15:00:00+02:00",
+      "end": "2019-04-08T16:00:00+02:00",
+      "host": {
+        "name": "Uniklinikum Würzburg"
+      },
+      "title": "Entwicklung im Klinischen Umfeld",
+      "location": {
+        "name": "Das Servicezentrum Medizin-Informatik (SMI)\nSchweinfurter Straße 4\n97080 Würzburg",
+        "lat": 49.802107,
+        "lng": 9.9547021
+      }
+    },
+    {
       "key": "WUEWW-2019-704",
       "start": "2019-04-08T16:00:00+02:00",
       "end": "2019-04-08T18:00:00+02:00",
@@ -2154,6 +2201,28 @@
       "description": {
         "long": "Als Traditionsunternehmen mit innovativen Lösungen für die individuellen Versorgungen und Dienstleistungen im Handwerk in der Gesundheitsbranche blicken wir seit Jahrzehnten auf eine stetige und stabile Aufwärtsentwicklung zurück.\n\nUnser Anspruch ist, Menschen zu helfen, gesund oder erkrankt, ihre Lebensqualität in Zusammenarbeit mit Ärzten, Therapeuten und Pflegekräften zu verbessern. Wir bieten jungen Menschen in unserem Unternehmen die verschiedensten Ausbildungsmöglichkeiten (siehe Homepage).\n\n"
       }
+    },
+    {
+      "key": "WUEWW-2019-705",
+      "start": "2019-04-08T16:00:00+02:00",
+      "end": "2019-04-08T20:00:00+02:00",
+      "host": {
+        "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH",
+        "infotext": "Das Technologie- und Gründerzentrum (TGZ) Würzburg ist die Adresse für technologieorientierte Gründer und Start-ups mit Fokus auf Automation und Industrie 4.0. Die Lage am Hubland, die hochwertige Ausstattung mit modernster Technik sowie umfassende Service- und Beratungsleistungen bieten hervorragende Voraussetzungen für Mieter, um mit Gleichgesinnten innovative Geschäftsideen zu entwickeln."
+      },
+      "title": "Start-up Night am TGZ",
+      "location": {
+        "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH\nMagdalene-Schoch-Straße 5\n97074 Würzburg",
+        "lat": 49.785109,
+        "lng": 9.968089
+      },
+      "description": {
+        "short": "Start-up Night @ TGZ: Kommt vorbei und lernt die Gründerteams in entspannter Networking-Atmosphäre persönlich kennen.",
+        "long": "Vom Building Information Modeling über intelligente Heizungssteuerungen bis zur Entwicklung von Lieferdrohnen – unter dem gemeinsamen Dach des Technologie- und Gründerzentrums (TGZ) Würzburg versammeln sich junge Unternehmen mit hochinnovativen Geschäftsideen. Bei der Start-up Night haben Besucherinnen und Besucher die seltene Gelegenheit, einen Blick hinter die Kulissen zu werfen, um die Firmen sowie dahinterstehenden Persönlichkeiten persönlich kennenzulernen. Zwischen 16:00 Uhr und 20:00 Uhr stehen die Start-ups für Gespräche und Präsentationen bereit."
+      },
+      "tags": [
+        "Start-up"
+      ]
     },
     {
       "key": "WUEWW-2019-702",
@@ -2197,28 +2266,6 @@
       },
       "tags": [
         "Software Development"
-      ]
-    },
-    {
-      "key": "WUEWW-2019-705",
-      "start": "2019-04-08T16:00:00+02:00",
-      "end": "2019-04-08T20:00:00+02:00",
-      "host": {
-        "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH",
-        "infotext": "Das Technologie- und Gründerzentrum (TGZ) Würzburg ist die Adresse für technologieorientierte Gründer und Start-ups mit Fokus auf Automation und Industrie 4.0. Die Lage am Hubland, die hochwertige Ausstattung mit modernster Technik sowie umfassende Service- und Beratungsleistungen bieten hervorragende Voraussetzungen für Mieter, um mit Gleichgesinnten innovative Geschäftsideen zu entwickeln."
-      },
-      "title": "Start-up Night am TGZ",
-      "location": {
-        "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH\nMagdalene-Schoch-Straße 5\n97074 Würzburg",
-        "lat": 49.785109,
-        "lng": 9.968089
-      },
-      "description": {
-        "short": "Start-up Night @ TGZ: Kommt vorbei und lernt die Gründerteams in entspannter Networking-Atmosphäre persönlich kennen.",
-        "long": "Vom Building Information Modeling über intelligente Heizungssteuerungen bis zur Entwicklung von Lieferdrohnen – unter dem gemeinsamen Dach des Technologie- und Gründerzentrums (TGZ) Würzburg versammeln sich junge Unternehmen mit hochinnovativen Geschäftsideen. Bei der Start-up Night haben Besucherinnen und Besucher die seltene Gelegenheit, einen Blick hinter die Kulissen zu werfen, um die Firmen sowie dahinterstehenden Persönlichkeiten persönlich kennenzulernen. Zwischen 16:00 Uhr und 20:00 Uhr stehen die Start-ups für Gespräche und Präsentationen bereit."
-      },
-      "tags": [
-        "Start-up"
       ]
     }
   ]
