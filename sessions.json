@@ -770,7 +770,7 @@
         "name": "Würzburger Medienscouts ",
         "infotext": "Wir sind Software-Hersteller von Websystemen, Apps, Redaktions- und Content Management Systeme. Kunden wie Audi, Porsche, aber auch der Schweizer Kaffeemaschinenhersteller JURA, die KUKA Roboter GmbH und die STIFTUNG WARENTEST nutzen unsere Software-Lösungen."
       },
-      "title": "AR & Advantages of Programmer",
+      "title": "AR & Advantages of Programmers",
       "location": {
         "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97080 Würzburg",
         "lat": 49.797576,
@@ -891,7 +891,7 @@
         "name": "WITTENSTEIN SE",
         "infotext": "Die WITTENSTEIN SE entwickelt kundenspezifische Produkte, Systeme und Lösungen für hochdynamische Bewegung, präziseste Positionierung und intelligente Vernetzung in der mechatronischen Antriebstechnik. \n \nIm Zentrum unserer Forschungs- und Entwicklungsaktivitäten steht die digitale Transformation, die Entwicklung von smarten Produkten und Services und einer smarten Produktion mit Hilfe von Softwareentwicklung, Datenanalyse und Sensorik.\n"
       },
-      "title": "<Boarding the digit@l Train>",
+      "title": "Boarding the digit@l Train",
       "location": {
         "name": "WITTENSTEIN SE\nInnovationsfabrik\nWalter-Wittenstein-Str. 1\n97999 Igersheim-Harthausen",
         "lat": 49.5341,
@@ -966,28 +966,6 @@
       },
       "tags": [
         "Einsteiger"
-      ]
-    },
-    {
-      "key": "WUEWW-2019-213",
-      "start": "2019-04-03T18:00:00+02:00",
-      "end": "2019-04-03T20:00:00+02:00",
-      "host": {
-        "name": "Main-Post GmbH",
-        "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
-      },
-      "title": "Storytelling: das neue Erzählen\n",
-      "location": {
-        "name": "Main-Post Verlagsgebäude\nBerner Straße 2\n97084 Würzburg",
-        "lat": 49.746418,
-        "lng": 9.95347
-      },
-      "description": {
-        "short": "Wie die digitale Transformation den Journalismus verändert und was das für die Redaktionen der Main-Post bedeutet.",
-        "long": "Wie die digitale Transformation den Journalismus verändert und was das für die Redaktionen der Main-Post bedeutet. Storytelling im digitalen Zeitalter. Wie die neuen MainPostStories entstehen und ausgespielt werden. Präsentation, Diskussion und Training.\n\nTreffpunkt ist an der Pforte des Main-Post Verlagsgebäudes in der Berner Straße 2. Eine Anmeldung ist notwendig, die Plätze sind begrenzt."
-      },
-      "tags": [
-        "Digitale Transformation"
       ]
     },
     {
@@ -1379,7 +1357,7 @@
       },
       "title": "Creating a living UI/UX StyleGuide",
       "location": {
-        "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld",
+        "name": "eResearchTechnology GmbH\nSieboldstraße 3\n97230 Estenfeld",
         "lat": 49.8378,
         "lng": 10.008323
       },
@@ -1520,7 +1498,7 @@
       },
       "title": "DevOps for a Microservice Platform",
       "location": {
-        "name": "eResearchTechnology GmbH\nSieboldstrasse 3\n97230 Estenfeld",
+        "name": "eResearchTechnology GmbH\nSieboldstraße 3\n97230 Estenfeld",
         "lat": 49.8378,
         "lng": 10.008323
       },
@@ -1943,6 +1921,28 @@
       ]
     },
     {
+      "key": "WUEWW-2019-213",
+      "start": "2019-04-05T18:00:00+02:00",
+      "end": "2019-04-05T20:00:00+02:00",
+      "host": {
+        "name": "Main-Post GmbH",
+        "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
+      },
+      "title": "Storytelling: das neue Erzählen\n",
+      "location": {
+        "name": "Main-Post Verlagsgebäude\nBerner Straße 2\n97084 Würzburg",
+        "lat": 49.746418,
+        "lng": 9.95347
+      },
+      "description": {
+        "short": "Wie die digitale Transformation den Journalismus verändert und was das für die Redaktionen der Main-Post bedeutet.",
+        "long": "Wie die digitale Transformation den Journalismus verändert und was das für die Redaktionen der Main-Post bedeutet. Storytelling im digitalen Zeitalter. Wie die neuen MainPostStories entstehen und ausgespielt werden. Präsentation, Diskussion und Training.\n\nTreffpunkt ist an der Pforte des Main-Post Verlagsgebäudes in der Berner Straße 2. Eine Anmeldung ist notwendig, die Plätze sind begrenzt."
+      },
+      "tags": [
+        "Digitale Transformation"
+      ]
+    },
+    {
       "key": "WUEWW-2019-001",
       "start": "2019-04-01T15:00:00+02:00",
       "end": "2019-04-01T19:00:00+02:00",
@@ -2124,7 +2124,7 @@
       },
       "title": "HR Digital Barcamp",
       "location": {
-        "name": "Gründerwerkstatt \nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
       },
