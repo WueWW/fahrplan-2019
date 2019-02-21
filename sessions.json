@@ -395,7 +395,8 @@
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
       "host": {
-        "name": "ISO-Gruppe – Standort Würzburg"
+        "name": "ISO-Gruppe – Standort Würzburg",
+        "infotext": "Der Standort Würzburg der ISO-Gruppe ist Digitalisierungspartner für den Mittelstand in der Region Mainfranken. Wir bieten die passenden Lösungen für die großen Herausforderungen - IT-Personal, IT-Infrastrukturen und digitale Lösungen."
       },
       "title": "Social-Media-Profil-Check",
       "location": {
@@ -404,8 +405,12 @@
         "lng": 9.94709
       },
       "description": {
-        "long": "Mehr Informationen demnächst."
-      }
+        "short": "Sie erhalten Tipps, wie Social-Media-Profile zur Jobsuche gezielt eingesetzt werden können sowie Feedback zu Ihrem aktuellen Online-Profil.",
+        "long": "In unserem Social-Media-Profil-Check gehen wir auf folgende Punkte ein:\n\n\n1. Teil: Richtiger Einsatz von Social-Media-Profilen als Bewerber\n\nWie können Social-Media-Profile bei XING, LinkedIn und Co richtig bei der Job-Suche eingesetzt werden? Der Recruiting-Spezialist Simon Klingenmaier von der ISO-Gruppe gibt wertvolle Tipps zur richtigen Gestaltung und Anwendung von Social-Media-Tools und gewährt einen interessanten Einblick, wie Unternehmen, Personaldienstleister und –vermittler Kandidaten suchen.\n\n2. Teil: Social-Media-Profil-Beratung – So trete ich als Bewerber bei XING, LinkedIn & Co richtig auf\n\nDie Recruiting-Spezialisten von der ISO-Gruppe geben wertvolle Tipps, wie Social-Media-Profile zur Jobsuche gezielt eingesetzt werden können. Lassen Sie Ihr aktuelles Auftreten im Web im Einzelgespräch von den Experten checken und holen sich Feedback und Ideen zu Ihren Online-Profilen ein. Es stehen insgesamt vier Berater zur Verfügung und nehmen sich Zeit für Ihre Fragen.\n\nAnmeldung und Fragen bitte an: Ann-Kathrin.Jacobs@iso-gruppe.com"
+      },
+      "tags": [
+        "Social Media"
+      ]
     },
     {
       "key": "WUEWW-2019-110",
@@ -723,6 +728,73 @@
       ]
     },
     {
+      "key": "WUEWW-2019-220",
+      "start": "2019-04-03T13:00:00+02:00",
+      "end": "2019-04-03T14:00:00+02:00",
+      "host": {
+        "name": "Uniklinikum Würzburg",
+        "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt."
+      },
+      "title": "Blutabnahme, Not without a trace",
+      "location": {
+        "name": "Universitätsklinikum Würzburg\nGebäude A9\nSeminarraum A9.1.21 (1. Stock)\nStraubmühlweg 2a\n97078 Würzburg",
+        "lat": 49.810172,
+        "lng": 9.957105
+      },
+      "description": {
+        "short": "Wir zeigen, wie die Entnahme diagnostischer und forschungsrelevanter Blutproben durch eine App unterstützt wird.",
+        "long": "Die Entnahme diagnostischer und forschungsrelevanter Blutproben wird durch eine mobile Applikation digital unterstützt, um die Patientensicherheit zu erhöhen und gleichzeitig die Qualität der Proben und der daraus generierten Befunde zu sichern."
+      },
+      "tags": [
+        "Digitalisierung"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-217",
+      "start": "2019-04-03T13:00:00+02:00",
+      "end": "2019-04-03T14:00:00+02:00",
+      "host": {
+        "name": "Uniklinikum Würzburg & Institut Mensch-Computer-Medien",
+        "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt.\n\nÜber das Institut Mensch-Computer Medien\n\nDas 2010 gegründete Institut Mensch-Computer Medien versteht sich als modernes, interdisziplinäres Institut an der Schnittstelle von Psychologie, Kommunikationswissenschaft und Informatik und repräsentiert in Forschung und Lehre ein breites Spektrum. Zentrale Themen sind unter anderem Online- und Mobilmedien, soziale Netzwerke, klassische Massenmedien, Marketing und Werbung, virtuelle Realitäten, soziale Roboter, interaktive Schnittstellen, Wirtschaftsjournalismus, Human Factors Design, Usability und User Experience."
+      },
+      "title": "Vitalzeichen auf Augenhöhe",
+      "location": {
+        "name": "Universitätsklinikum Würzburg\nGebäude A9\nSeminarraum A9.1.21 (1. Stock)\nStraubmühlweg 2a\n97078 Würzburg",
+        "lat": 49.810172,
+        "lng": 9.957105
+      },
+      "description": {
+        "short": "Wie Head-Mounted Displays Anästhesisten bei der Überwachung von Operationen unterstützen und ein zeitnahes Eingreifen bei Komplikationen ermöglichen.",
+        "long": "Über ein Head-Mounted Display (Smart-Glass) wird der Anästhesist bei der gleichzeitigen Überwachung einer Reihe von Operationen unterstützt, indem er Echtzeitdaten sowie Alarme über einen Miniatur-Monitor zugespielt bekommt. Die mobile Lösung befreit den überwachenden Anästhesisten von einem festen Ort und ermöglicht ein zeitnahes Eingreifen bei Komplikationen."
+      },
+      "tags": [
+        "Digitalisierung"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-218",
+      "start": "2019-04-03T13:00:00+02:00",
+      "end": "2019-04-03T14:00:00+02:00",
+      "host": {
+        "name": "Uniklinikum Würzburg & Institut Mensch-Computer-Medien",
+        "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt.\n\nÜber das Institut Mensch-Computer Medien\n\nDas 2010 gegründete Institut Mensch-Computer Medien versteht sich als modernes, interdisziplinäres Institut an der Schnittstelle von Psychologie, Kommunikationswissenschaft und Informatik und repräsentiert in Forschung und Lehre ein breites Spektrum. Zentrale Themen sind unter anderem Online- und Mobilmedien, soziale Netzwerke, klassische Massenmedien, Marketing und Werbung, virtuelle Realitäten, soziale Roboter, interaktive Schnittstellen, Wirtschaftsjournalismus, Human Factors Design, Usability und User Experience."
+      },
+      "title": "Per App zurück ins Leben",
+      "location": {
+        "name": "Universitätsklinikum Würzburg\nGebäude A9\nSeminarraum A9.1.21 (1. Stock)\nStraubmühlweg 2a\n97078 Würzburg",
+        "lat": 49.810172,
+        "lng": 9.957105
+      },
+      "description": {
+        "short": "Unsere App unterstützt die Durchführung von Wiederbelebungsmaßnahmen und gewährleistet eine standardisierte Dokumentation der Reanimation.",
+        "long": "Die mobile App unterstützt die leitlinienkonforme Durchführung von Wiederbelebungsmaßnahmen. Gleichzeitig wird eine standardisierte Dokumentation der Reanimation gewährleistet."
+      },
+      "tags": [
+        "Digitalisierung",
+        "Mobil"
+      ]
+    },
+    {
       "key": "WUEWW-2019-203",
       "start": "2019-04-03T13:30:00+02:00",
       "end": "2019-04-03T16:30:00+02:00",
@@ -739,6 +811,28 @@
       "description": {
         "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
         "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
+      },
+      "tags": [
+        "Einsteiger"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-219",
+      "start": "2019-04-03T14:00:00+02:00",
+      "end": "2019-04-03T16:30:00+02:00",
+      "host": {
+        "name": "Uniklinikum Würzburg",
+        "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt."
+      },
+      "title": "Der kälteste Ort in Würzburg",
+      "location": {
+        "name": "Universitätsklinikum Würzburg\nGebäude A9\nSeminarraum A9.1.21 (1. Stock)\nStraubmühlweg 2a\n97078 Würzburg",
+        "lat": 49.810172,
+        "lng": 9.957105
+      },
+      "description": {
+        "short": "Wir gewähren einen Einblick in die hochautomatisierte Welt unseres Verarbeitungs- und Lagerzentrums, an dem Biomaterialien bis zu -160° C lagern.",
+        "long": "Die Interdisziplinäre Biomaterial- und Datenbank Würzburg (ibdw) sammelt, verarbeitet und lagert Biomaterialien von freiwilligen Spendern für die medizinische Forschung. Die Biomaterialien werden bei ultra-tiefen Temperaturen bei bis zu -160° C gelagert. Wir gewähren Ihnen einen unmittelbaren Einblick in die hochautomatisierte Welt des Verarbeitungs- und Lagerzentrums im Universitätsklinikum."
       },
       "tags": [
         "Einsteiger"
@@ -868,7 +962,8 @@
       "start": "2019-04-03T16:00:00+02:00",
       "end": "2019-04-03T17:30:00+02:00",
       "host": {
-        "name": "ISO-Gruppe – Standort Würzburg"
+        "name": "ISO-Gruppe – Standort Würzburg",
+        "infotext": "Der Standort Würzburg der ISO-Gruppe ist Digitalisierungspartner für den Mittelstand in der Region Mainfranken. Wir bieten die passenden Lösungen für die großen Herausforderungen - IT-Personal, IT-Infrastrukturen und digitale Lösungen."
       },
       "title": "Active Sourcing – Hashtag rules\n",
       "location": {
@@ -877,7 +972,8 @@
         "lng": 9.94709
       },
       "description": {
-        "long": "Mehr Informationen demnächst."
+        "short": "Um qualifizierte Fachkräfte zu gewinnen, sind im Recruiting / Sourcing immer kreativere Wege gefragt. Wir zeigen, was heutzutage funktioniert.",
+        "long": "Um qualifizierte Fachkräfte zu gewinnen, sind im Recruiting / Sourcing immer kreativere Wege gefragt. Längst sind auch Social-Media-Kampagnen und Active-Sourcing nicht mehr das Allheilmittel. Nur der richtige Mix On- und Offline führt zum Erfolg. Basis hierfür sind Schlagworte / Hashtags.\n\nFür Rückfragen und Anmeldung wenden Sie sich bitte an: Ann-Kathrin.Jacobs@iso-gruppe.com"
       },
       "tags": [
         "HR"
@@ -983,7 +1079,8 @@
         "lng": 9.968659
       },
       "description": {
-        "short": "Wir bieten Deep-Learning Hands-On auf euren eigenen Rechnern. \n\n"
+        "short": "In diesem Hands-on Workshop machen wir zusammen Deep Learning – an deinem Laptop statt wie früher auf einem Großcomputer.\n",
+        "long": "Es war nie einfacher, KI zu betreiben. Was früher nur auf Großcomputern möglich war, geht heute auf unseren eigenen Notebooks. In diesem Hands-On-Workshop probieren wir das einfach mal aus. Bringt bitte eure eigenen Rechner und euren Google-Account mit. Wir machen dann zusammen Deep Learning!"
       },
       "tags": [
         "KI"
@@ -1103,6 +1200,9 @@
         "name": "Eingang Sandermare\nVirchowstraße 1\n97072 Würzburg",
         "lat": 49.78521,
         "lng": 9.9328
+      },
+      "description": {
+        "long": "Mehr Informationen dazu demnächst.\n\nAnmeldungen erbeten an katrin.oppel@garmin.com\n"
       }
     },
     {
@@ -2120,13 +2220,18 @@
       "start": "2019-04-08T09:00:00+02:00",
       "end": "2019-04-08T18:00:00+02:00",
       "host": {
-        "name": "ISO-Gruppe – Standort Würzburg"
+        "name": "ISO-Gruppe – Standort Würzburg",
+        "infotext": "Der Standort Würzburg der ISO-Gruppe ist Digitalisierungspartner für den Mittelstand in der Region Mainfranken. Wir bieten die passenden Lösungen für die großen Herausforderungen - IT-Personal, IT-Infrastrukturen und digitale Lösungen."
       },
       "title": "HR Digital Barcamp",
       "location": {
         "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
+      },
+      "description": {
+        "short": "Beim HR Digital Camp können sich Personaler zum Thema Digitalisierung von HR-Prozessen kreativ austauschen und gemeinsam Ideen entwickeln.",
+        "long": "Das HR Digital Barcamp im Rahmen der Webweek 2019 steht ganz unter dem Thema Digitalisierung von HR-Prozessen. Mit dem Barcamp haben Sie die einzigartige Möglichkeit, sich kreativ mit Personalern auszutauschen und zusammen Ideen zu entwickeln. Die Veranstaltung findet in den Räumlichkeiten der Vogel Communication Group statt, die mit ihrer Gründerwerkstatt den geeigneten Kreativ-Space bietet.\n\nEin Barcamp lebt von dem Fachwissen und der Kreativität der Teilnehmer. Durch die Regionalität werden wertvolle Kontakte unter Personalern aus Mainfranken gefördert und ein größtmöglicher und aktiver Wissensaustausch garantiert.\n\nThemen: HR-Prozesse │Social Media Recruiting │ HR-Tools │ Active Sourcing │Employer Branding │ Betriebliches Gesundheitsmanagement │HR Organisation │Hochschulmarketing │Bewerbungen│Portale │usw.\n\nDie Abstimmung, welche konkreten Themen in diesem Themengebiet behandelt werden, erfolgt erst am Event-Tag durch die Teilnehmer.\n\nTickets:\n\nEarly-Bird (bis zum 10.03.2019): 129 €\nNormal: 149 €\n\nEarly Bird Dienstleister / Coach / Berater – Ticket: 179 € (stark limitierte Anzahl)\n\nDienstleister / Coach / Berater – Ticket: 199 € (stark limitierte Anzahl)\n\nSichern Sie sich hier Ihr Ticket.\n\nWir freuen uns, wenn Sie dabei sind!"
       },
       "tags": [
         "HR"
@@ -2175,7 +2280,8 @@
       "start": "2019-04-08T15:00:00+02:00",
       "end": "2019-04-08T16:00:00+02:00",
       "host": {
-        "name": "Uniklinikum Würzburg"
+        "name": "Uniklinikum Würzburg",
+        "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt."
       },
       "title": "Entwicklung im Klinischen Umfeld",
       "location": {
