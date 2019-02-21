@@ -7,6 +7,7 @@
     "jsonschema": "^1.2.4"
   },
   "scripts": {
-    "test": "node validate.js"
+    "test": "node validate.js",
+    "dup-check": "grep -e 'key' sessions.json  | sort | uniq -c | awk '{ if ($1 != 1) { print $0 } }'"
   }
 }
