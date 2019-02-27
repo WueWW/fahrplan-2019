@@ -103,12 +103,12 @@
       "start": "2019-04-02T09:00:00+02:00",
       "end": "2019-04-02T12:00:00+02:00",
       "host": {
-        "name": "Internet von Senioren für Senioren e.V.",
+        "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
+        "name": "Caritas-Zentrum St. Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -282,7 +282,7 @@
       "start": "2019-04-02T14:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
       "host": {
-        "name": "Kanzlei Jun",
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
         "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
       },
       "title": "Rechtsprobleme mit KI lösen",
@@ -352,24 +352,6 @@
       "tags": [
         "Einsteiger"
       ]
-    },
-    {
-      "key": "WUEWW-2019-113",
-      "start": "2019-04-02T16:00:00+02:00",
-      "end": "2019-04-02T18:00:00+02:00",
-      "host": {
-        "name": "Vogel Communications Group"
-      },
-      "title": "Digitale Transformation im Mittelstand",
-      "location": {
-        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
-        "lat": 49.795136,
-        "lng": 9.900767
-      },
-      "description": {
-        "short": "Das Fachmedium \"Next Industry\" lädt zur Diskussion: Digitale Transformation im Mittelstand - was geht? Mit Branchenexperten und Exponanten.",
-        "long": "Das Fachmedium „Next Industry“ lädt zur Diskussion: Digitale Transformation im Mittelstand – was geht? Mit Branchenexperten und Exponanten.\n\nEintritt frei, Anmeldung erbeten unter christine.bausenwein@vogel.de"
-      }
     },
     {
       "key": "WUEWW-2019-114",
@@ -799,12 +781,12 @@
       "start": "2019-04-03T13:30:00+02:00",
       "end": "2019-04-03T16:30:00+02:00",
       "host": {
-        "name": "Internet von Senioren für Senioren e.V.",
+        "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
+        "name": "Caritas-Zentrum St. Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -843,7 +825,7 @@
       "start": "2019-04-03T14:00:00+02:00",
       "end": "2019-04-03T15:00:00+02:00",
       "host": {
-        "name": "Kanzlei Jun",
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
         "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
       },
       "title": "DSGVO: War die Panik berechtigt? ",
@@ -879,7 +861,7 @@
       "start": "2019-04-03T15:00:00+02:00",
       "end": "2019-04-03T18:00:00+02:00",
       "host": {
-        "name": "Internet von Senioren für Senioren e.V.",
+        "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr"
       },
       "title": "Internet von Senioren für Senioren",
@@ -901,7 +883,7 @@
       "start": "2019-04-03T16:00:00+02:00",
       "end": "2019-04-03T17:00:00+02:00",
       "host": {
-        "name": "Kanzlei Jun",
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
         "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
       },
       "title": "DSGVO: War die Panik berechtigt? ",
@@ -1210,12 +1192,12 @@
       "start": "2019-04-04T13:30:00+02:00",
       "end": "2019-04-04T16:30:00+02:00",
       "host": {
-        "name": "Internet von Senioren für Senioren e.V.",
+        "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
       },
       "title": "Senioren*innen ans Netz",
       "location": {
-        "name": "Caritas-Zentrum St.Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
+        "name": "Caritas-Zentrum St. Thekla\nInternetcafe von Senioren für Senioren\nAm Ludwigkai 12\n97072 Würzburg       ",
         "lat": 49.781107,
         "lng": 9.930355
       },
@@ -1309,7 +1291,7 @@
       "start": "2019-04-04T14:00:00+02:00",
       "end": "2019-04-04T18:00:00+02:00",
       "host": {
-        "name": "FHWS + krick.com GmbH + Co. KG",
+        "name": "FHWS + krick.com GmbH & Co. KG",
         "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
       },
       "title": "Homepage-Battle für Studierende",
@@ -1374,7 +1356,7 @@
       "start": "2019-04-04T16:00:00+02:00",
       "end": "2019-04-04T19:30:00+02:00",
       "host": {
-        "name": "s.Oliver Bernd Freier GmbH und Co. KG",
+        "name": "s.Oliver Bernd Freier GmbH & Co. KG",
         "infotext": "Fashion & Tech – das ist die s.Oliver Group. Mit über 300 Tech- und Digital-Experten aus Bereichen wie SAP, DevOps, Web & Mobile Development, IT-Architektur-Management, Innovation und E-Commerce sind wir einer der wichtigsten Treiber im Bereich FashionTech.\n\nDie 1969 von Bernd Freier gegründete s.Oliver Group hat sich innerhalb weniger Jahrzehnte zu einem der führenden europäischen Modeunternehmen entwickelt und begeistert Menschen rund um den Globus mit internationalem Anspruch an Mode. Als große Unternehmensfamilie vereint der Konzern unterschiedliche Lebensstile, die sich in den Marken s.Oliver RED LABEL, s.Oliver BLACK LABEL, Q/S designed by, TRIANGLE, comma, comma CI und LIEBESKIND BERLIN ausdrücken."
       },
       "title": "s.Oliver Group: Fashion – Tech – Transformation",
@@ -1838,6 +1820,25 @@
       }
     },
     {
+      "key": "WUEWW-2019-413",
+      "start": "2019-04-05T10:00:00+02:00",
+      "end": "2019-04-05T12:00:00+02:00",
+      "host": {
+        "name": "SFT der Julius-Maximilians-Universität Würzburg",
+        "infotext": "Das SFT steht für Servicezentrum Forschung und Technologietransfer. Wir sind Ihr Ansprechpartner für Fragen zu Forschungsförderung und Existenzgründung, Patentwesen und Technologietransfer an Julius-Maximilians-Universität Würzburg und Universitätsklinikum. Wir fördern den Wissenstransfer und bauen Brücken in die Wirtschaft."
+      },
+      "title": "Ethik am digitalen Arbeitsplatz",
+      "location": {
+        "name": "SFT-Lounge \nJosef-Martin-Weg 54/2\n97074 Würzburg",
+        "lat": 49.7867279,
+        "lng": 9.9721458
+      },
+      "description": {
+        "short": "Philosophie trifft Informatik: Workshop \"Ethik am digitalen Arbeitsplatz\" max 15 kostenfreie Plätze",
+        "long": "Der Arbeitsplatz hat sich mit der Digitalisierung grundsätzlich in vielen Branchen geändert. Es ist vieles Neues hinzugekommen wie Home Office oder Videokonferenzen. Man ist nicht mehr nur persönlich, sondern auch per E-Mail, Twitter, Chat usw. erreichbar. Arbeiten wir durch die Digitalisierung mehr mit- oder gegeneinander? Wie handle ich richtig unter dem Zeitdruck? Dieser und anderen Fragen widmet sich der Workshop „Ethik am digitalen Arbeitsplatz“ der Austauschplattform „Philosophie trifft“."
+      }
+    },
+    {
       "key": "WUEWW-2019-402",
       "start": "2019-04-05T10:00:00+02:00",
       "end": "2019-04-05T13:00:00+02:00",
@@ -1942,6 +1943,24 @@
       ]
     },
     {
+      "key": "WUEWW-2019-113",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T18:00:00+02:00",
+      "host": {
+        "name": "Vogel Communications Group"
+      },
+      "title": "Digitale Transformation im Mittelstand",
+      "location": {
+        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.795136,
+        "lng": 9.900767
+      },
+      "description": {
+        "short": "Das Fachmedium \"Next Industry\" lädt zur Diskussion: Digitale Transformation im Mittelstand - was geht? Mit Branchenexperten und Exponanten.",
+        "long": "Das Fachmedium „Next Industry“ lädt zur Diskussion: Digitale Transformation im Mittelstand – was geht? Mit Branchenexperten und Exponanten.\n\nEintritt frei, Anmeldung erbeten unter christine.bausenwein@vogel.de"
+      }
+    },
+    {
       "key": "WUEWW-2019-404",
       "start": "2019-04-05T16:00:00+02:00",
       "end": "2019-04-05T19:00:00+02:00",
@@ -1996,6 +2015,10 @@
         "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.795136,
         "lng": 9.900767
+      },
+      "description": {
+        "short": "Zehn Fachleute und Experten formulieren, wie Mobilität - intelligent von A nach B zu kommen - in der digitalen Zukunft aussehen wird (und kann).",
+        "long": "Auto 4.0 bedeutet, vor allem die Zukunft des Verkehrssystems neu zu denken und zu gestalten. Auch in Würzburg und Mainfranken. Alte Denkschablonen zählen nicht mehr - oder nur stark eingeschränkt. Zehn Fachleute und Experten, auch aus Würzburg und Mainfranken, aus der Automobil-Branche, der Hochschule, TESLA-, VW- oder Fahrrad-Fahrer formulieren, wie Mobilität - intelligent von A nach B zu kommen - in der digitalen Zukunft aussehen wird (und kann)."
       }
     },
     {
