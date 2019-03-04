@@ -595,6 +595,27 @@
       ]
     },
     {
+      "key": "WUEWW-2019-131",
+      "start": "2019-04-02T18:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "BARC GmbH",
+        "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
+      },
+      "title": "Meetup DATA & ANALYTICS",
+      "location": {
+        "name": "standard\nOberthürstraße 11a\n97070 Würzburg",
+        "lat": 49.7969302,
+        "lng": 9.9331496
+      },
+      "description": {
+        "long": "Inhalt und Anmeldemöglichkeit folgen in Kürze. Wenn Du informiert werden möchtest, sobald es zu dieser Veranstaltung Neuigkeiten gibt, sende eine E-Mail mit deinen Kontaktdaten und dem Betreff „Meetup Data & Analytics“ an Antje Buss, Event Manager BARC GmbH: abuss@barc.de"
+      },
+      "tags": [
+        "Analytics"
+      ]
+    },
+    {
       "key": "WUEWW-2019-118",
       "start": "2019-04-02T18:30:00+02:00",
       "end": null,
@@ -1184,7 +1205,7 @@
         "lng": 9.9328
       },
       "description": {
-        "long": "Mehr Informationen dazu demnächst.\n\nAnmeldungen erbeten an katrin.oppel@garmin.com\n"
+        "long": "Ziehen Sie mit Garmin-Uhren Ihre Bahnen im Sandermare und erleben Sie die vielfältigen Auswertemöglichkeiten. \n\nWie viel Software und Technik aus Würzburg steckt in den Produkten? Unsere Kollegen sind vor Ort und informieren Sie ausführlich. #beat yesterday.\n\nAnmeldungen erbeten an katrin.oppel@garmin.com"
       }
     },
     {
@@ -1551,6 +1572,25 @@
       },
       "description": {
         "long": "Mehr Informationen demnächst"
+      }
+    },
+    {
+      "key": "WUEWW-2019-334",
+      "start": "2019-04-04T17:30:00+02:00",
+      "end": "2019-04-04T19:00:00+02:00",
+      "host": {
+        "name": "B2B Media Group GmbH",
+        "infotext": "Branding, Display, Leads, Content, Social Media und noch viel mehr – über die Jahre hat sich die B2B Media Group europaweit einen Namen als führender B2B-Zielgruppenvermarkter gemacht. Der datengetriebene Ansatz eint unsere Produkte: Eine eigene Datenbank, eigene Technologien und eigene fachspezifische Content-Plattformen ermöglichen die exakte Ansprache hochspezialisierter spitzer B2B-Zielgruppen. Mit Büros in London, Paris, München, Würzburg und Augsburg ist die B2B Media Group europaweit vertreten. Im B2B-Markt gehört sie zu den wachstumsstärksten Unternehmen."
+      },
+      "title": "Digitaler Brückenschoppen\n",
+      "location": {
+        "name": "Alte Mainbrücke, Mitte (Patrona Franconiae)",
+        "lat": 49.7930686,
+        "lng": 9.9244135
+      },
+      "description": {
+        "short": "Erfahre, wie Daten Dein B2B-Onlinemarketing beflügeln. Komm zu digitalen Brückenschoppen!",
+        "long": "Wir freuen uns auf den ersten digitalen Brückenschoppen im Rahmen der WUEWW. Daher laden wir alle ein, die sich mit Onlinemarketing beschäftigen. Bei einem Frankenwein tauschen wir uns zu Trends im datengetriebenen Marketing aus – das Networking soll dabei nicht zu kurz kommen. Geplant ist folgender Ablauf:\n\n- Weinausschank\n- Impulsvortrag „Datengetriebenes B2B-Onlinemarketing“ (max. 10 Min)\n- Vorstellungsrunde Teilnehmer\n- Networking mit Open End\n"
       }
     },
     {
@@ -1944,8 +1984,8 @@
     },
     {
       "key": "WUEWW-2019-113",
-      "start": "2019-04-02T16:00:00+02:00",
-      "end": "2019-04-02T18:00:00+02:00",
+      "start": "2019-04-02T15:00:00+02:00",
+      "end": "2019-04-02T17:00:00+02:00",
       "host": {
         "name": "Vogel Communications Group"
       },
@@ -2078,6 +2118,9 @@
         "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
         "lat": 49.79706,
         "lng": 9.900713
+      },
+      "description": {
+        "long": "Wir möchten auch in diesem Jahr mit einer Eröffnungsveranstaltung in die Woche starten und euch die Möglichkeit bieten, euch zu vernetzen und auszutauschen.\n\nEs wird ein kleines Rahmenprogramm geben mit einer Kurzvorstellung von Meetups, derer es ja inzwischen zahlreiche gibt. Im Anschluss zeigen Kurzvorträge, was aktuell in Sachen Digitalisierung in Mainfranken passiert. Und auch die Kultur darf nicht zu kurz kommen: Daniel wird aus den Büchern \"Qualityland\" sowie \"NSA\" vorlesen.\n\nGeplanter Ablauf:\n\n15:00 Uhr\tAnkommen\n15:30 Uhr\tVorstellen der Meetups (max. 1 Minute pro Meetup)\n16:00 Uhr\tKurzvorträge\n17:30 Uhr\tLesung aus Qualityland und NSA\nBis ca. 19:00 Uhr\tAusklang und Zeit für Networking\n\n\nEinfach vorbeikommen, eine Anmeldung ist nicht notwendig."
       }
     },
     {
@@ -2114,7 +2157,8 @@
         "lng": 9.968068
       },
       "description": {
-        "long": "Mehr Infos demnächst."
+        "short": "In diesem Workshop geben wir einen Einstieg in die moderne Entwicklung von React-Komponenten und den Aufbau einer React-basierten Applikation.",
+        "long": "React ist eines der führenden Frameworks für die Entwicklung von Single-Page-Applikationen. In diesem Workshop wird ein Einstieg in die moderne Entwicklung von React-Komponenten und den Aufbau einer React-basierten Applikation gegeben.\n\nDer Workshop richtet sich an all diejenigen, die wissen wollen, wie man ohne serverseitig gerendertes HTML und ohne Helferbibliotheken wie jQuery eine interaktive, komplexe und gut zu testende Webapplikation aufbauen kann.\n\nBenötigte Vorkenntnisse: Grundwissen in JavaScript & HTML\n\nMitzubringen: ein Laptop mit einem aktuellen Web-Browser; es wird keine spezielle Software benötigt."
       },
       "tags": [
         "Einsteiger",
