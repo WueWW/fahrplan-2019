@@ -278,6 +278,29 @@
       ]
     },
     {
+      "key": "WUEWW-2019-132",
+      "start": "2019-04-02T13:00:00+02:00",
+      "end": "2019-04-02T16:00:00+02:00",
+      "host": {
+        "name": "GETECO GmbH\n",
+        "infotext": "Als Anbieter von Software für soziale Einrichtungen ist die GETECO GmbH darauf spezialisiert, Kunden bei der Digitalisierung ihrer Prozesse zu begleiten und maßgeschneiderte Lösungen bereitzustellen, die die alltägliche Arbeit erleichtern. Das Leistungsspektrum der GETECO reicht von Software für Dokumentation, Leistungsabrechnung und Buchhaltung bis hin zu Lösungen für Spendenmanagement, Dienstplanung und Controlling."
+      },
+      "title": "Einstieg in die App-Entwicklung mit C#",
+      "location": {
+        "name": "Kettelerstraße 5-11\nPavillon 7\n97222 Rimpar",
+        "lat": 49.848653,
+        "lng": 9.964855
+      },
+      "description": {
+        "short": "Im Workshop werden den Teilnehmern Grundlagen für die App-Entwicklung mit C# vermittelt.",
+        "long": "Cross-Platform-Applikationen im mobilen Bereich werden immer wichtiger: Nur wer sowohl iOS- als auch Android-Nutzer mit seinen Apps anspricht, kann auf dem Markt bestehen. Im Workshop werden die Teilnehmer an die App-Entwicklung mit Visual Studio und Xamarin herangeführt und erwerben grundlegendes Wissen in Bezug auf den Vertrieb mobiler Apps. Ein eigener Computer (Mac oder Windows) muss mitgebracht werden."
+      },
+      "tags": [
+        "Software Development",
+        "Einsteiger"
+      ]
+    },
+    {
       "key": "WUEWW-2019-106",
       "start": "2019-04-02T14:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
@@ -290,6 +313,10 @@
         "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
         "lat": 49.791984,
         "lng": 9.953852
+      },
+      "description": {
+        "short": "Legal Tech: Wir lösen Rechtsprobleme mit KI und zeigen Methoden und Techniken, die wirklich funktionieren.",
+        "long": "Wenn das Stichwort KI fällt, beginnt das Bullshit-Bingo und die Visionäre schwärmen von Robo-Autos, Robo-Flugtaxis und Robo-Lawyern. Wir überspringen den Teil, wo anhand des Schach-und Go-Computers die Überlegenheit der Algorithmen über den Menschen illustriert werden soll und erklären die Methoden und Techniken, die wirklich funktionieren. Wir erklären, warum ein regelbasiertes System wie Jura besser mit Regeln statt mit Big-Data bezwungen wird und warum dann aber Entscheidungsbäume an ihrer Komplexität scheitern und besser durch Graphen ergänzt werden."
       },
       "tags": [
         "KI"
@@ -352,6 +379,25 @@
       "tags": [
         "Einsteiger"
       ]
+    },
+    {
+      "key": "WUEWW-2019-133",
+      "start": "2019-04-02T16:00:00+02:00",
+      "end": "2019-04-02T19:00:00+02:00",
+      "host": {
+        "name": "Bundesverband für agile Unternehmenskultur (BVAGIL)",
+        "infotext": "Der Bundesverband für agile Unternehmen (BVAGIL) bietet eine Plattform zum Austausch über agile Unternehmensstrukturen und möchte Unternehmen dabei unterstützen, sich nicht nur auf Veränderungen im Markt vorzubereiten, sondern sie auch aktiv mitzugestalten. Agiles Handeln ist in der heutigen Zeit unabdingbar: Sich stetig verändernde Rahmenbedingungen und sich wandelnde Kundenwünsche erfordern Flexibilität und Engagement jedes Einzelnen."
+      },
+      "title": "Arbeit 4.0 erfordert Führung 4.0",
+      "location": {
+        "name": "Kettelerstraße 5-11\nPavillon 7\n97222 Rimpar",
+        "lat": 49.848653,
+        "lng": 9.964855
+      },
+      "description": {
+        "short": "Der BVAGIL führt die Teilnehmer an das Thema Arbeit 4.0 heran und stellt sich vor.",
+        "long": "Im Vortrag wird das Thema „Führung 4.0“ behandelt: eine neue Art der Führung, die schnell reagiert, flexibel agiert und voll auf die Denke des Internetzeitalters ausgelegt ist. Sie die Voraussetzung für eine neue Kultur in den Unternehmen, die sich ganz eng an den Markt binden und die Bedürfnisse der Kunden zu jeder Zeit im Blick haben: Die Unternehmen der Industrie 4.0. Beim anschließenden Come Together ab 17 Uhr können die Teilnehmer den BVAGIL kennenlernen und sich untereinander austauschen."
+      }
     },
     {
       "key": "WUEWW-2019-114",
@@ -669,6 +715,29 @@
       "title": "Digitales Vergessen - unser gutes Recht?"
     },
     {
+      "key": "WUEWW-2019-221",
+      "start": "2019-04-03T09:00:00+02:00",
+      "end": null,
+      "host": {
+        "name": "TOPOINEX",
+        "infotext": "TOPOINEX ist ein personendiagnostisches Verfahren, das im Recruiting, im Coaching und in der Persönlichkeitsentwicklung eingesetzt wird. TOPOINEX beantwortet Fragen zur Persönlichkeit, gibt Hinweise für eine bessere Kommunikation und zeigt die eigene Verhaltenskomfortzone auf: Welches Verhalten fällt mir leicht und für welches Verhalten muss ich Energie aufbringen? Welche Stärken und welche Schwächen resultieren daraus?"
+      },
+      "title": "Deine richtig gute digitale Bewerbung",
+      "location": {
+        "name": "Kettelerstraße 5-11\nPavillon 7\n97222 Rimpar",
+        "lat": 49.848653,
+        "lng": 9.964855
+      },
+      "description": {
+        "short": "Lerne, eine überzeugende digitale Bewerbung zu schreiben, die deine Stärken optimal hervorhebt.",
+        "long": "Im Workshop lernst du, wie du deine Stärken in deiner Bewerbung hervorheben kannst. Auf der Grundlage eines digitalen Persönlichkeitsprofils erarbeiten wir gemeinsam die Eigenschaften und Talente, die dich auszeichnen und verfassen ein überzeugendes Anschreiben, das dich als Person widerspiegelt. Das Wissen um deine Stärken kommt dir später natürlich auch im Vorstellungsgespräch zugute. Abschließend bekommst du Tipps für die Gestaltung einer ansprechenden, digitalen Bewerbung."
+      },
+      "tags": [
+        "Einsteiger",
+        "Karriere"
+      ]
+    },
+    {
       "key": "WUEWW-2019-200",
       "start": "2019-04-03T09:30:00+02:00",
       "end": "2019-04-03T17:00:00+02:00",
@@ -856,7 +925,8 @@
         "lng": 9.953852
       },
       "description": {
-        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. "
+        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. ",
+        "long": "Vor einem Jahr haben Datenschützer die Welt in Panik versetzt. Wer nicht rechtzeitig die DSGVO umsetzt, riskiert horrende Bußgelder und Abmahnungen der Mitbewerber. Infolgedessen wurden wir mit Zustimmungserklärungen und AVVs überschüttet. War das alles nötig? Wer bekam die Abmahnungen und Bußgeldbescheide oder ist es Zeit für Entwarnung? Wir werfen einen Blick auf unnötige oder umständliche Datenschutzmaßnahmen und erklären, wann man auf Zustimmungen verzichten kann."
       }
     },
     {
@@ -874,7 +944,8 @@
         "lng": 9.949834
       },
       "description": {
-        "short": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts."
+        "short": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.",
+        "long": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.\n\nAls Programmierer arbeiten wir mit an der Gestaltung der Zukunft.\n\n„The future is already here. It’s just not very evenly distributed.“ William Ford Gibson, US-amerikanischer Science-Fiction-Autor\n\nBei unserer Veranstaltung erklären wir die Technologien Augmented Reality (AR) und Virtual Reality (VR) an Hand von verschiedenen Einsatz-Beispielen. Dabei habt ihr die Gelegenheit, eine Hightech Mixed-Reality-Brille einmal selbst zu testen.\n\nUnter dem Motto „Advantages of Being a Programmer“ zeigen wir anschließend Beispiele von nützlichen und lustigen Projekten, die wir und unsere Kollegen privat umgesetzt haben.\n\nAußerdem stellen wir einfache Spiele vor, die wir entwickelt oder nachgebaut haben. In einem kurzen „Live Coding“ seht ihr dann, wie wir eine Komponente des Spieles verändern."
       }
     },
     {
@@ -914,7 +985,8 @@
         "lng": 9.953852
       },
       "description": {
-        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. "
+        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. ",
+        "long": "Vor einem Jahr haben Datenschützer die Welt in Panik versetzt. Wer nicht rechtzeitig die DSGVO umsetzt, riskiert horrende Bußgelder und Abmahnungen der Mitbewerber. Infolgedessen wurden wir mit Zustimmungserklärungen und AVVs überschüttet. War das alles nötig? Wer bekam die Abmahnungen und Bußgeldbescheide oder ist es Zeit für Entwarnung? Wir werfen einen Blick auf unnötige oder umständliche Datenschutzmaßnahmen und erklären, wann man auf Zustimmungen verzichten kann."
       }
     },
     {
@@ -1090,6 +1162,28 @@
       ]
     },
     {
+      "key": "WUEWW-2019-335",
+      "start": "2019-04-04T09:00:00+02:00",
+      "end": "2019-04-04T12:00:00+02:00",
+      "host": {
+        "name": "Bosch Rexroth",
+        "infotext": "Bosch Rexroth sorgt als ein weltweit führender Anbieter von Antriebs- und Steuerungstechnologien für effiziente, leistungsstarke und sichere Bewegung in Maschinen und Anlagen jeder Art und Größenordnung. Das Unternehmen bündelt weltweite Anwendungserfahrungen in den Marktsegmenten Mobile Anwendungen, Anlagenbau und Engineering sowie Fabrikautomation. Mit intelligenten Komponenten, maßgeschneiderten Systemlösungen sowie Dienstleistungen schafft Bosch Rexroth die Voraussetzungen für vollständig vernetzbare Anwendungen. Bosch Rexroth bietet seinen Kunden Hydraulik, Elektrische Antriebs- und Steuerungstechnik, Getriebetechnik sowie Linear- und Montagetechnik einschließlich Software und Schnittstellen ins Internet der Dinge. Mit einer Präsenz in mehr als 80 Ländern erwirtschafteten mehr als 30.500 Mitarbeiter 2017 einen Umsatz von 5,5 Milliarden Euro."
+      },
+      "title": "Web meets Automation und Industrial IoT",
+      "location": {
+        "name": "Bosch Rexroth\nRaum Marienberg\nBahnhofplatz 2 \n97070 Würzburg",
+        "lat": 49.801879,
+        "lng": 9.933674
+      },
+      "description": {
+        "short": "Wir zeigen in diesem 3-stündigen Hackathon, wie Webtechnologien Einzug in die Automatisierung halten.",
+        "long": "Hackathon@Bosch Rexroth\nWeb meets Automation und Industrial IoT – Hackathon@Bosch Rexroth\n\nDas Internet der Dinge verändert die Produktionswelt von heute. Wir zeigen in diesem 3-stündigen Hackathon, wie Webtechnologien Einzug in die Automatisierung halten. Steuern Sie mit einem Smartphone eine Maschine, verknüpfen Sie Maschinendaten mit Datenbanken und Webseiten. Erleben Sie live eine der spannendsten Veränderungen in der Industrie.\n\nEinsteiger-Level, Erfahrungen mit Webtechnologien und/oder Automatisierungstechniken von Vorteil."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
+    },
+    {
       "key": "WUEWW-2019-319",
       "start": "2019-04-04T09:00:00+02:00",
       "end": "2019-04-04T13:30:00+02:00",
@@ -1113,12 +1207,12 @@
       "start": "2019-04-04T09:00:00+02:00",
       "end": "2019-04-04T17:00:00+02:00",
       "host": {
-        "name": "iTiZZiMO AG",
-        "infotext": "Das im Jahr 2012 gegründete Softwareunternehmen iTiZZiMO AG aus Würzburg beschäftigt sich seit jeher mit der Umsetzung mobiler Applikationen für Smart Devices und deren Integration in bestehende IT-Landschaften."
+        "name": "Simplifier AG",
+        "infotext": "Als Würzburger Softwarehersteller der Low-Code Plattform Simplifier ermöglicht die Simplifier AG die nachhaltige Digitalisierung von Unternehmensprozessen. Die Kernkompetenz liegt dabei auf der konfigurativen Erstellung (Low-Code) von integrierten Unternehmensanwendungen, die auf modernen und innovativen (Web)-Technologien basieren. Dies ermöglicht integrierte Business und IoT Applikationen nachhaltig zu erstellen, um Digitalisierungsstrategien effizienter umzusetzen. Dabei können nicht nur bestehende Systemlandschaften, Maschinen und Anlagen integriert, sondern auch Applikationen geräte- und betriebssystemunabhängig ohne großen Programmieraufwand erstellt werden. Simplifier eignet sich demnach sowohl für die Digitalisierung interner Geschäftsprozesse, als auch für die Entwicklung neuer digitaler Geschäftsmodelle. Der Hauptsitz in der Universitätsstadt Würzburg ermöglicht es der Simplifier AG, Kunden und Partner aus der DACH-Region optimal zu betreuen und sichert den Zuwachs an ambitionierten Nachwuchskräften."
       },
       "title": "Create business apps with Low-Code",
       "location": {
-        "name": "iTiZZiMO AG\nNürnberger Str. 47A\n97076 Würzburg",
+        "name": "Simplifier AG\nNürnberger Str. 47A\n97076 Würzburg",
         "lat": 49.796938,
         "lng": 9.960413
       },
@@ -1165,7 +1259,7 @@
       },
       "description": {
         "short": "Das Medienrecht wird für die private und öffentliche Information und Kommunikation in digitalen Medien immer wichtiger. Was man beachten muss.",
-        "long": "Was muss ich auf Instagram als Werbung kennzeichnen und welche Vorgaben gibt es hierbei? Brauchen Let’s Player eine Rundfunklizenz?\n\nDies sind spannende Fragen zum Thema Medienrecht, das die private und öffentliche Information und Kommunikation regelt. Durch die fortschreitende Digitalisierung werden rechtliche Regelungen immer wichtiger und betreffen immer mehr Menschen. Der Vortrag berücksichtigt dabei Rechtsaspekte der neuen Datenschutzgrundverordnung und des neuen Medienstaatsvertrags und will euch einen Durchblick im digitalen Gesetzesdschungel geben. Nach dem Vortrag bleibt Zeit für eure Fragen und zum Diskutieren.\n\nReferent: Johannes Nehlsen, Universität Würzburg, Jurist im Rechenzentrum in der Stabsstelle IT-Recht, Lizenzmanagement, E-Procurement."
+        "long": "Was muss ich auf Instagram als Werbung kennzeichnen und welche Vorgaben gibt es hierbei? Brauchen Let’s Player eine Rundfunklizenz?\n\nDies sind spannende Fragen zum Thema Medienrecht, das die private und öffentliche Information und Kommunikation regelt. Durch die fortschreitende Digitalisierung werden rechtliche Regelungen immer wichtiger und betreffen immer mehr Menschen. Der Vortrag berücksichtigt dabei Rechtsaspekte der neuen Datenschutzgrundverordnung und des neuen Medienstaatsvertrags und will euch einen Durchblick im digitalen Gesetzesdschungel geben. Nach dem Vortrag bleibt Zeit für eure Fragen und zum Diskutieren.\n\nReferent: Johannes Nehlsen, Universität Würzburg, Jurist im Rechenzentrum in der Stabsstelle IT-Recht, Lizenzmanagement, E-Procurement.\n\nDer Besuch der Veranstaltung ist auch ohne Anmeldung möglich, allerdings bittet das Career Centre zur besseren Raumplanung um einen kurzen Teilnahmewunsch per E-Mail an direkt@uni-wuerzburg.de."
       }
     },
     {
@@ -1388,7 +1482,7 @@
       },
       "description": {
         "short": "Erlebe die digitale Welt der s.Oliver Group in Vorträgen und an unseren Tech-Ständen, u. a. zu Web Development, SAP, Cloud, Data Pooling und vielen mehr.",
-        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt. Themen u. a. Innovation & Start-Up-Kooperationen, Docker & Continuous Deployment für Dev & OPs, Cross-Plattform App-Development mit Xamarin, SAP, Cloud & OneDrive, Mac, Data Pooling & Machine Learning.\n\nDas haben wir vor:\n\n16.00 Uhr        Begrüßung\n16.05 Uhr        Kurzvorstellung der Stände\n16.30 Uhr        Cross-Plattform App-Development mit Xamarin\n17.00 Uhr        Docker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr        Wie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr        Innovation@s.Oliver Group\n18.00 Uhr        Der Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr        Apple im Corporate Einsatz"
+        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt. Themen u. a. Innovation & Start-Up-Kooperationen, Docker & Continuous Deployment für Dev & OPs, Cross-Plattform App-Development mit Xamarin, SAP, Cloud & OneDrive, Mac, Data Pooling & Machine Learning.\n\nDas haben wir vor:\n\n16.00 Uhr        Begrüßung\n16.05 Uhr        Kurzvorstellung der Stände\n16.30 Uhr        Cross-Plattform App-Development mit Xamarin\n17.00 Uhr        Docker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr        Wie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr        Innovation@s.Oliver Group\n18.00 Uhr        Der Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr        Apple im Corporate Einsatz\n\nAnmelden: Philipp.Werner@de.soliver.com oder über XING/Meetup:\n\nhttps://www.xing.com/events/fashion-tech-transformation-event-wurzburg-web-week-2058938\nhttps://www.meetup.com/de-DE/Fashion-Tech-Transformation/events/258701418/"
       }
     },
     {
@@ -1485,6 +1579,10 @@
         "name": "IHK Würzburg-Schweinfurt\nRaum A-304\nMainaustraße 33-35\n97082 Würzburg ",
         "lat": 49.801331,
         "lng": 9.909114
+      },
+      "description": {
+        "short": "IHK und das Zentrum für digitale Innovationen (ZDI) Mainfranken wollen die Angst vorm Gründen nehmen und zeigen, worauf es ankommt.",
+        "long": "Wer sein eigenes Unternehmen gründet, hat viele Herausforderungen zu meistern. IHK und das Zentrum für digitale Innovationen (ZDI) Mainfranken wollen die Angst vorm Gründen nehmen. Neben fachlichem Input zum Thema \"Marken- und Urheberrecht\" erwarten Sie Erfahrungsberichte von Gründern."
       },
       "tags": [
         "Start-up"
