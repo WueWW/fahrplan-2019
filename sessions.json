@@ -71,6 +71,11 @@
         "infotext": "Ich bin Informatik Student an der FHWS und vor zwei Jahren über ein paar Freunde auf das Thema Bitcoin gestoßen. Der größte Fluch und Segen meines Lebens zeitgleich, denn seitdem bin ich nicht mehr davon losgekommen und möchte aktuell versuchen, Aufklärungsarbeit in diesem Bereich zu betreiben - fernab von jeglicher Geldspekulation!"
       },
       "title": "Bitcoin – weit mehr als Geld\n",
+      "location": {
+        "name": "FHWS\nSanderheinrichsleitenweg 20\nHörsaal H 1.3\n97074 Würzburg",
+        "lat": 49.777391,
+        "lng": 9.96224
+      },
       "description": {
         "short": "Das Phänomen Bitcoin begeistert bereits Millionen. Nun ist es an der Zeit, dass auch die restlichen 99 % der Welt davon erfahren.",
         "long": "Mit der Erfindung von Bitcoin im Jahr 2009 wurde ein Mechanismus vorgestellt, der es Computern, verteilt auf der ganzen Welt ermöglicht, sich auf eine gemeinsame Wahrheit zu einigen – voll und ganz ohne einer zentralen Instanz. Diese Wahrheit wird in der sogenannten „Blockchain“ festgehalten. Auf der einen Seite möchte ich versuchen, den Mechanismus und die Art und Weise, wie Bitcoin und Co funktionieren und eingesetzt werden können, leicht verständlich zu erklären. Auf der anderen Seite möchte ich darüber sprechen, wie dies die Art und Weise, wie wir miteinander kommunizieren und handeln, für immer verändern wird.\n\n"
@@ -125,7 +130,8 @@
       "start": "2019-04-02T09:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
       "host": {
-        "name": "Starthub²"
+        "name": "Starthub²",
+        "infotext": "Mit dem Starthub² im Stadtteil Grombühl bietet die Stadt Würzburg seit 2016 einen weiteren Coworking Space an, der sich insbesondere an Jungunternehmen richtet. Start-ups sollen hier die Möglichkeit erhalten, Gründungsideen und Geschäftsmodelle zu entwickeln, ohne gleich einen Großteil des Startkapitals für langfristige Mietverträge aufwenden zu müssen. Aktuell arbeiten im StartHub² z sechs Unternehmen aus der IT-, Kreativ- und Beratungswirtschaft."
       },
       "title": "CoWorking²: Arbeiten im Starthub²",
       "location": {
@@ -706,13 +712,26 @@
       ]
     },
     {
-      "key": "WUEWW-2019-119",
+      "key": "WUEWW-2019-134",
       "start": "2019-04-02T19:00:00+02:00",
-      "end": null,
+      "end": "2019-04-02T20:30:00+02:00",
       "host": {
-        "name": "Thomas-Dehler-Stiftung"
+        "name": "@ulrike_schaefer & @moggadodde & @herrthees",
+        "infotext": "Ulrike Schäfer ist Webdesignerin und für ihre literarische Arbeit als freie Autorin u. a. mit dem Würth-Literaturpreis und dem Leonhard-Frank-Preis für Dramatik ausgezeichnet.\n\nHeidi Luger ist Bloggerin, ihre als „Moggadodde“ geschriebenen Blogbeiträge und Tweets sind auszugsweise auch in dem Buch „Zeichen der Weisheit: 140 oder mehr“ erschienen.\n\nRalf Thees bloggt seit fast 15 Jahren, neben seinem Würzblog über Würzburg führt er auch Blogs über Technik, Kochen und den Weltraum."
       },
-      "title": "Digitales Vergessen - unser gutes Recht?"
+      "title": "Trinär: Benefiz-Bloggerlesung ",
+      "location": {
+        "name": "Kunsthaus Michel\nSemmelstraße 42\n97070 Würzburg",
+        "lat": 49.797429,
+        "lng": 9.93799
+      },
+      "description": {
+        "short": "Vom Byte zum Buch und zurück: Im Rahmen der Würzburg Web Week lesen drei Blogger aus ihren digitalen und in Buchform gegossenen Texten.",
+        "long": "Vom Byte zum Buch und zurück: Im Rahmen der Würzburg Web Week lesen drei Blogger aus ihren digitalen und in Buchform gegossenen Texten.\n\nBloggerin Heidi „Moggadodde“ Luger, Autorin und Teilzeit-Nerd Ulrike Schäfer und Multi-Blogger Ralf „Würzblog“ Thees laden zur unterhaltsamen Benefizlesung und gewähren Einblick in ihre virtuellen und gedruckten Werke.\n\nDer Eintritt ist frei, Spenden für den gemeinnützigen Verein „Hand in Hand gegen Tay-Sachs und Sandhoff“ sind hochwillkommen."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
     },
     {
       "key": "WUEWW-2019-221",
@@ -1259,7 +1278,7 @@
       },
       "description": {
         "short": "Das Medienrecht wird für die private und öffentliche Information und Kommunikation in digitalen Medien immer wichtiger. Was man beachten muss.",
-        "long": "Was muss ich auf Instagram als Werbung kennzeichnen und welche Vorgaben gibt es hierbei? Brauchen Let’s Player eine Rundfunklizenz?\n\nDies sind spannende Fragen zum Thema Medienrecht, das die private und öffentliche Information und Kommunikation regelt. Durch die fortschreitende Digitalisierung werden rechtliche Regelungen immer wichtiger und betreffen immer mehr Menschen. Der Vortrag berücksichtigt dabei Rechtsaspekte der neuen Datenschutzgrundverordnung und des neuen Medienstaatsvertrags und will euch einen Durchblick im digitalen Gesetzesdschungel geben. Nach dem Vortrag bleibt Zeit für eure Fragen und zum Diskutieren.\n\nReferent: Johannes Nehlsen, Universität Würzburg, Jurist im Rechenzentrum in der Stabsstelle IT-Recht, Lizenzmanagement, E-Procurement.\n\nDer Besuch der Veranstaltung ist auch ohne Anmeldung möglich, allerdings bittet das Career Centre zur besseren Raumplanung um einen kurzen Teilnahmewunsch per E-Mail an direkt@uni-wuerzburg.de."
+        "long": "Was muss ich auf Instagram als Werbung kennzeichnen und welche Vorgaben gibt es hierbei? Brauchen Let’s Player eine Rundfunklizenz?\n\nDies sind spannende Fragen zum Thema Medienrecht, das die private und öffentliche Information und Kommunikation regelt. Durch die fortschreitende Digitalisierung werden rechtliche Regelungen immer wichtiger und betreffen immer mehr Menschen. Der Vortrag berücksichtigt dabei Rechtsaspekte der neuen Datenschutzgrundverordnung und des neuen Medienstaatsvertrags und will euch einen Durchblick im digitalen Gesetzesdschungel geben. Nach dem Vortrag bleibt Zeit für eure Fragen und zum Diskutieren.\n\nReferent: Johannes Nehlsen, Universität Würzburg, Jurist im Rechenzentrum in der Stabsstelle IT-Recht, Lizenzmanagement, E-Procurement.\n\nHinweis:\n\nDie Veranstaltung richtet sich nicht nur an Studierende der Uni Würzburg, alle Interessierten sind herzlich eingeladen.\n\nDer Besuch der Veranstaltung ist auch ohne Anmeldung möglich, allerdings bittet das Career Centre zur besseren Raumplanung um einen kurzen Teilnahmewunsch per E-Mail an direkt@uni-wuerzburg.de."
       }
     },
     {
@@ -1658,9 +1677,10 @@
     {
       "key": "WUEWW-2019-332",
       "start": "2019-04-04T17:00:00+02:00",
-      "end": null,
+      "end": "2019-04-04T19:00:00+02:00",
       "host": {
-        "name": "Starthouse Spessart"
+        "name": "Starthouse Spessart",
+        "infotext": "Um an ein Ziel zu kommen, muss man loslaufen. Doch von wo aus, wie und wohin? Bei diesen Fragen unterstützt das Starthouse Spessart. In den neu geschaffenen, modernen Räumlichkeiten finden Gründer ideale Bedingungen vor, um erste Schritte zu gehen. Das Gründerzentrum setzt auf individuelle Hilfestellung, Coaching und Innovationsmethoden. Digitale Pioniere bekommen die notwendigen Werkzeuge an die Hand und werden zusätzlich in ein starkes Netzwerk regionaler Unternehmen aufgenommen. Dadurch entsteht ein Innovations-Ökosystem, das Wirtschaft, Wissenschaft und Gesellschaft vereint."
       },
       "title": "Digitale Trends & Geschäftsmodelle",
       "location": {
@@ -1669,8 +1689,13 @@
         "lng": 9.575957
       },
       "description": {
-        "long": "Mehr Informationen demnächst"
-      }
+        "short": "Aktuelle digitale Trends, Erfolgsbeispiele sowie die notwendigen Schritte zur Gründungsidee gibt es in diesem spannenden Vortrag.",
+        "long": "Die Digitalisierung ist der Turbo des Fortschrittes. Kaum ergibt sich ein neuer Trend, ist dieser wieder überholt.\n\n- Doch welche digitalen Trends sind aktuell von Bedeutung?\n- Auf welchen Zug sollte man aufspringen?\n- Wie können diese Strömungen in tragfähige und lukrative Geschäftsmodelle überführt werden?\n\nDiese Themen werden im Vortrag aufgegriffen und durch Erfolgsbeispiele aktueller Projekte verdeutlicht.\n\nBeim anschließenden After-Work Umtrunk bleibt Zeit, die Themen gemeinsam zu vertiefen und zu diskutieren."
+      },
+      "tags": [
+        "Digitalisierung",
+        "Start-up"
+      ]
     },
     {
       "key": "WUEWW-2019-334",
@@ -1870,6 +1895,26 @@
       }
     },
     {
+      "key": "WUEWW-2019-414",
+      "start": "2019-04-05T07:00:00+02:00",
+      "end": "2019-04-05T18:00:00+02:00",
+      "host": {
+        "name": "WürzburgWiki",
+        "infotext": "Das WürzburgWiki ist ein Online-Nachschlagewerk für Würzburg und Umgebung und besteht seit 2009. Als Stadtwiki hat es sich zur Aufgabe gemacht alle Arten von Informationen über Würzburg zu beinhalten und so das Würzburger Wissen zu vereinen. Es entsteht ausschließlich durch die ehrenamtliche Arbeit freiwilliger Autoren. Mittlerweile gehört es zu den größten und erfolgreichsten Stadtwikis im deutschsprachigen Raum."
+      },
+      "title": "WürzburgWiki: Straßenjagd",
+      "location": {
+        "name": "In ganz Würzburg, Abschluss im Ratskeller\n"
+      },
+      "description": {
+        "short": "Erfülle Aufgaben für das WürzburgWiki, für Ruhm und Ehre und mehr Informationen im StadtWiki.",
+        "long": "Am Tag der Straßenjagd bekommen alle Mitspieler vom WürzburgWiki Aufgaben gestellt, die es möglichst gut zu erfüllen gilt. Manche vor dem Rechner, manche auf dem Weg zu Arbeit oder zur Vorlesung. Es geht vor allem um Spaß und natürlich darum, das Wissen über Würzburg ein klein wenig zu erweitern.\n\nMittags gibt es – wer mag – eine Kaffeerunde, abends werden Ruhm, Ehre und ein Schoppen an die erfolgreichsten Mitspieler beim WürzburgWiki-Stammtisch verteilt.\nChallenge accepted?"
+      },
+      "tags": [
+        "Einsteiger"
+      ]
+    },
+    {
       "key": "WUEWW-2019-400",
       "start": "2019-04-05T09:00:00+02:00",
       "end": "2019-04-05T14:30:00+02:00",
@@ -1992,7 +2037,7 @@
       },
       "description": {
         "short": "Wie nutze ich das Web optimal für Bewerbungen? Antworten gibt es in diesem Workshop. ",
-        "long": "Wie betreibe ich mein persönliches Bewerbungsmanagement und wie trete ich proaktiv mit meinem potenziellen Arbeitgeber online in Kontakt? Wie nutze ich das Web optimal für das Thema Bewerbung? \n\nDiese Fragen werdet ihr am Ende des Workshops ganz sicher beantworten können. Wir beleuchten, wie ihr aus Bewerbersicht Jobportale richtig und erfolgreich nutzen könnt, was es auf Xing, Monster, Stepstone und Absolventa alles zu beachten gilt, wie ihr Lebenslaufdatenbanken bedient und was es eigentlich mit Metajobbörsen so auf sich hat.\n\nBitte bringt bei Interesse euren eigenen Laptop mit. Wir werden gemeinsam auf Xing unterwegs sein und das Networken und die Jobsuche auf diesem Business Portal anschaulich erklären."
+        "long": "Wie betreibe ich mein persönliches Bewerbungsmanagement und wie trete ich proaktiv mit meinem potentiellen Arbeitgeber online in Kontakt? Wie nutze ich das Web optimal für das Thema Bewerbung?\n\nDiese Fragen werdet ihr am Ende des Workshops ganz sicher beantworten können. Wir beleuchten, wie ihr aus Bewerbersicht Jobportale richtig und erfolgreich nutzen könnt, was es auf Xing, Monster, Stepstone und Absolventa alles zu beachten gilt, wie ihr Lebenslaufdatenbanken bedient und was es eigentlich mit Metajobbörsen so auf sich hat.\n\nBitte bringt bei Interesse euren eigenen Laptop mit. Wir werden gemeinsam auf Xing unterwegs sein und das Networken und die Jobsuche auf diesem Business-Portal anschaulich erklären.\n\nHinweis: \n\nDie Veranstaltung richtet sich nicht nur an Studierende der Uni Würzburg, alle Interessierten sind herzlich eingeladen.\n\nDer Besuch der Veranstaltung ist auch ohne Anmeldung möglich, allerdings bittet das Career Centre zur besseren Raumplanung um einen kurzen Teilnahmewunsch per E-Mail an direkt@uni-wuerzburg.de. "
       }
     },
     {
@@ -2012,6 +2057,28 @@
       "description": {
         "short": "Wir geben einen Einblick, worum es der digitalen Gesundheitskompetenz geht und wieso das Thema gerade für ältere Menschen so wichtig ist.",
         "long": "Mehr als 50% der Bundesbürger haben eine nicht ausreichende Gesundheitskompetenz. Bei der digitalen Gesundheitskompetenz sieht es noch schlechter aus. Die Digitale Gesundheitskompetenz bezieht sich auf die Fähigkeit, das Internet für das Suchen, Finden, Verstehen und Anwenden von gesundheitsbezogenen Informationen zu verwenden. Das europäische Projekt IC-Health hat eine Online Plattform dafür entwickelt. Dort können ältere Menschen lernen, ihre Gesundheitskompetenz zu entwickeln. Der Kurs besteht aus fünf Themen:\n\n1. Einführung\n2. Finden von Informationen\n3. Verstehen von Informationen\n4. Bewerten von Informationen\n5. Verbesserung von Fähigkeiten zur Anwendung von Informationen\n\nDie Inhalte werden interaktiv vermittelt z. B. mithilfe von Videos. Der Lernfortschritt wird durch Testfragen aufgezeigt."
+      },
+      "tags": [
+        "Einsteiger"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-415",
+      "start": "2019-04-05T10:30:00+02:00",
+      "end": "2019-04-05T12:00:00+02:00",
+      "host": {
+        "name": "Empolis Information Management GmbH",
+        "infotext": "Empolis unterstützt Kunden dabei, die richtigen Entscheidungen zu treffen. Weltweit gibt es derzeit ca. 500 Empolis-Installationen und täglich nutzen rund 700.000 professionelle User unsere Lösungen, um damit etwa 40 Millionen Endkunden zu bedienen. Wir bündeln Technologien der künstlichen Intelligenz für CRM- und Service-Management in Cloudlösungen. Diese ermöglichen eine völlig neue Servicequalität, Kundenansprache und digitale Geschäftsmodelle."
+      },
+      "title": "Digitale Serviceoptimierung",
+      "location": {
+        "name": "Empolis Information Management GmbH\nTechnologiepark\nKettelerstraße 5 - 11, Pavillion 17\n97222 Rimpar",
+        "lat": 49.848653,
+        "lng": 9.964855
+      },
+      "description": {
+        "short": "Serviceoptimierung mit digitalen Kommunikationsassistenten auf Basis Ihrer bestehenden Dokumentation.",
+        "long": "In diesem Tutorial zeigen wir, wie Sie Wissen in Ihrer Dokumentation zur Optimierung Ihres Kundenservice mit digitalen Kommunikationsassistenten nutzen können. Hierfür stellen wir in einem ersten Schritt den Prozess der Modellierung und Erstellung eines Dialogs am Beispiel eines Haushaltsgerätes vor. Dann modellieren wir daraus eine Anleitung für die geführte Fehlersuche und -behebung in Form eines Entscheidungsbaums, der als Wissensbasis für die Kundenkommunikation über zahlreiche Kanäle dient."
       },
       "tags": [
         "Einsteiger"
@@ -2299,7 +2366,7 @@
       },
       "description": {
         "short": "Office 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Mehr dazu in diesem Vortrag.",
-        "long": "Wir von YAVEON gehen mit dem dynamischen Wandel der Digitalisierung und nehmen Sie mit auf eine kleine Reise in die Welt von Office 365. Wir laden Sie herzlich ein zu einem Vortrag zum Thema „Digital Wandeln mit Office 365“. Der Vortrag ist für alle Zielgruppen interessant. Ob Sie als Student/in an Projekten arbeiten und sich dabei intensiv mit Ihren Kommilitonen austauschen müssen oder ob Sie sich als Berufstätige/r den Arbeitsalltag vereinfachen möchten.\n\nNach dem inspirierenden Vortrag stehen wir gerne für einen persönlichen Austausch bereit und beantworten Ihnen Ihre Fragen zu unserem Portfolio, unserem Unternehmen und auch gerne zu einem Einstieg ins YAVEON-Team. Wir freuen uns, Sie in unseren Räumlichkeiten begrüßen zu dürfen.\n\nWas ist Office 365 und was erläutern wir in unserem Vortrag?\n\nOffice 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Die Reise beginnt bei der Integration in Infrastruktur und Informationssicherheit und geht weiter mit der flexiblen Verfügbarkeit und eingebetteten Nutzung von künstlicher Intelligenz. Was bedeutet das für die Anwender, Organisationen und Individuen? Wie müsste eine Transformation gestaltet sein, damit sie gelingt?\n"
+        "long": "Digitalisierung – ist die Sau schon aus dem Dorf gejagt?\n\nImmer diese „Digitalisierung“ …\n\nDie IT-Industrie diskutiert fröhlich über die „Digitalisierung“ – für Unternehmen wie jeden Einzelnen ein schwer greifbarer Begriff. Aus gutem Grund, denn die Digitalisierung hat viele Facetten. Wo stehen Sie? Sie wissen es schon ganz genau oder vielleicht noch gar nicht? Kommen Sie vorbei!\n\nStets zu Diensten – Office 365\n\nWir sprechen mit Ihnen über das Grundlegende, wie die Unterschiede zwischen Office und Office 365. Das alles passiert natürlich anhand von Beispielen aus aller Welt – Office 365 kann hier Ihren privaten und beruflichen Alltag erheblich unterstützen. Melden Sie sich dafür bitte gleich unter dem unten angegebenen Link an. Wir freuen uns auf Sie!\n"
       }
     },
     {
@@ -2422,6 +2489,29 @@
       }
     },
     {
+      "key": "WUEWW-2019-708",
+      "start": "2019-04-08T11:00:00+02:00",
+      "end": "2019-04-08T12:00:00+02:00",
+      "host": {
+        "name": "\nUniversitätsbibliothek Würzburg",
+        "infotext": "Die Universitätsbibliothek Würzburg steht in Unterfranken für Forschung und Lehre sowie als Regionalbibliothek für die Bewahrung und Pflege des literarischen Erbes. Mit über 3,5 Millionen Medien, jährlich über zwei Millionen Bibliotheksbesuchen, einer Vielzahl von Informationsservices, innovativen Angeboten wie dem Digitalisierungszentrum oder dem Universitätsverlag, ist die Universitätsbibliothek die größte Informationsdienstleisterin der Region – nicht nur für Universitätsangehörige, sondern für alle Bürgerinnen und Bürger. \n\n400 Jahre Universitätsbibliothek – Feiern Sie mit uns: www.bibliothek.uni-wuerzburg.de/400/"
+      },
+      "title": "Kulturgut goes digital!",
+      "location": {
+        "name": "Universitätsbibliothek Würzburg\nTreffpunkt: Information\nAm Hubland\n97074 Würzburg",
+        "lat": 49.782566,
+        "lng": 9.9666363
+      },
+      "description": {
+        "short": "Lernen Sie bei einem Rundgang das Digitalisierungszentrum der Unibibliothek Würzburg kennen! Hier werden Handschriften und Druckwerke digitalisiert.",
+        "long": "Wissen zu bewahren und es weltweit über das Internet zur Verfügung zu stellen: Das ist das Hauptaufgabenfeld des Digitalisierungszentrums der Universitätsbibliothek Würzburg. Hier werden Handschriften und Druckwerke aus dem Bestand der Bibliothek in die digitale Welt transformiert. Lernen Sie bei einem Rundgang das Digitalisierungszentrum kennen!"
+      },
+      "tags": [
+        "Einsteiger",
+        "Digitalisierung"
+      ]
+    },
+    {
       "key": "WUEWW-2019-706",
       "start": "2019-04-08T13:00:00+02:00",
       "end": "2019-04-08T17:00:00+02:00",
@@ -2537,6 +2627,28 @@
       },
       "tags": [
         "Software Development"
+      ]
+    },
+    {
+      "key": "WUEWW-2019-709",
+      "start": "2019-04-08T19:00:00+02:00",
+      "end": "2019-04-08T21:30:00+02:00",
+      "host": {
+        "name": "Marketingclub Mainfranken e.V.",
+        "infotext": "Der Marketing-Club Mainfranken e.V. (MCM) ist die regionale Marketing-Community mit Mehrwert und als einer von über 60 Clubs Teil des DMV, der größten Berufsvereinigung des Marketing-Managements in Deutschland. Der MCM bietet Ihnen unter anderem ein attraktives und nutzenbringendes Clubprogramm mit tollen Impulsen, neue Ideen und hilfreiche Anregungen für Ihr Tagesgeschäft. Erweitern Sie Ihr persönliches Netzwerk beim Erfahrungsaustausch mit Marketing- und Vertriebs-Professionals aus der Region."
+      },
+      "title": "Lernen vom Silicon Valley",
+      "location": {
+        "name": "Vogel-Gründerwerkstatt\nSchreinerei\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.795136,
+        "lng": 9.900767
+      },
+      "description": {
+        "short": "Dr. Gunther Wobser verbrachte als Unternehmer ein Jahr im Silicon Valley und teilt seine Erfahrungen.",
+        "long": "Das Silicon Valley gilt als Geburtsstätte der Digitalisierung, Hightech-Standort, Innovationszentrum und Start-up-Mekka an der Westküste der USA. Was wir konkret vom Silicon Valley und seiner innovations- und gründungsorientierten Kultur lernen können, beantwortet Dr. Gunther Wobser. Der geschäftsführende Gesellschafter des Weltmarktführers LAUDA Dr. R. Wobser GmbH & Co. KG lebte und arbeitete ein Jahr in Mountain View und bringt von dort zahlreiche Ideen, Anregungen und Konzepte mit."
+      },
+      "tags": [
+        "Einsteiger"
       ]
     }
   ]
