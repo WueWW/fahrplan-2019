@@ -1,10 +1,11 @@
 {
-  "format": "0.2.0",
+  "format": "0.3.0",
   "sessions": [
     {
       "key": "WUEWW-2019-500",
       "start": "2019-04-06T09:00:00+02:00",
       "end": "2019-04-06T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -18,12 +19,21 @@
       "description": {
         "short": "Das Developer Camp ist ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. ",
         "long": "Bereits zum vierten Mal findet das Developer Camp statt, ein Barcamp für Softwareentwickler. Organisiert von Softwareentwicklern. \n\nWir coden, hacken und tauschen uns im Open-Space-Format aus und versorgen Dich mit allem, was Du für gute zwei Tage Barcamp benötigst. Ansonsten sind wir offen für alle Methoden und Technologien für eine moderne Webentwicklung. Ob PHP, NodeJS/JavaScript, Scala, Java, .NET, Mobile oder DevOps, Agile und Lean Start-up: Wir freuen uns, Entwickler aus unterschiedlichen Disziplinen zusammenzubringen."
+      },
+      "tags": [
+        "DevOps",
+        "Software Development",
+        "UX/UI"
+      ],
+      "link": {
+        "event": "https://developercamp.io/"
       }
     },
     {
       "key": "WUEWW-2019-501",
       "start": "2019-04-06T09:00:00+02:00",
       "end": "2019-04-06T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -41,12 +51,17 @@
       "tags": [
         "Software Development",
         "UX/UI"
-      ]
+      ],
+      "link": {
+        "event": "https://create.developercamp.io/",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-503",
       "start": "2019-04-06T14:00:00+02:00",
       "end": "2019-04-06T15:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "FutureImmersion & Starthouse im Spessart",
         "infotext": "Mit über 10 Jahren Erfahrung in der Konzeption und Umsetzung digitaler Werkzeuge in verschiedenen beruflichen und akademischen Feldern bringt Manuel Mühlbauer eine neue Perspektive in die Architektur. Die Entwicklung von automatisierten und teil-automatisierten Arbeitsweisen Entwurfs- und Planungsprozessen wird die Arbeit in der Architektur nicht nur erleichtern, sondern revolutionieren."
@@ -60,12 +75,17 @@
       "description": {
         "short": "Architektur 4.0 - Digitale Potentiale - Von CAD bis KI: Entwerfen und Konstruieren am Computer",
         "long": "„Architektur 4.0 – Digitale Potentiale – Von CAD bis KI: Entwerfen und Konstruieren am Computer“ birgt eine Antwort auf die Frage der „Digitalisierung“ des Bauwesens und zeigt bewusst gegenwärtige und zukünftige Potentiale auf. Die Erstellung effizienter, stromlinienförmiger Prozesse für den Entwurf und die Abwicklung von Bauvorhaben in der Architektur ermöglicht die schnellere Entwicklung besserer Produkte in der Baubranche.\n\nBeginn ist 14:00 Uhr, Get together ab 13:30 Uhr.\n"
+      },
+      "link": {
+        "event": "https://www.xing.com/events/architektur-4-0-digitale-potentiale-2062561",
+        "host": "http://www.manuelmuehlbauer.com/"
       }
     },
     {
       "key": "WUEWW-2019-502",
       "start": "2019-04-06T15:00:00+02:00",
       "end": "2019-04-06T17:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Daniel Niemczyk",
         "infotext": "Ich bin Informatik Student an der FHWS und vor zwei Jahren über ein paar Freunde auf das Thema Bitcoin gestoßen. Der größte Fluch und Segen meines Lebens zeitgleich, denn seitdem bin ich nicht mehr davon losgekommen und möchte aktuell versuchen, Aufklärungsarbeit in diesem Bereich zu betreiben - fernab von jeglicher Geldspekulation!"
@@ -85,6 +105,7 @@
       "key": "WUEWW-2019-100",
       "start": "2019-04-02T08:00:00+02:00",
       "end": "2019-04-02T12:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Stadtmarketing \"Würzburg macht Spaß“ e.V.",
         "infotext": "Das Stadtmarketing „Würzburg macht Spaß“ ist der starke Partner für Unternehmen: Wir vertreten deren Interessen, organisieren überregional bekannte Events wie Stadtfest oder Mantelsonntag und steigern mit unseren Projekten Bekanntheit und Sympathiewerte Würzburg"
@@ -101,12 +122,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "info@wuems.de",
+        "host": "https://www.wuerzburgmachtspass.de/"
+      }
     },
     {
       "key": "WUEWW-2019-101",
       "start": "2019-04-02T09:00:00+02:00",
       "end": "2019-04-02T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
@@ -118,17 +144,22 @@
         "lng": 9.930355
       },
       "description": {
-        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
-        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
+        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich.",
+        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich."
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "http://www.i4s.de",
+        "host": "http://www.i4s.de"
+      }
     },
     {
       "key": "WUEWW-2019-128",
       "start": "2019-04-02T09:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Starthub²",
         "infotext": "Mit dem Starthub² im Stadtteil Grombühl bietet die Stadt Würzburg seit 2016 einen weiteren Coworking Space an, der sich insbesondere an Jungunternehmen richtet. Start-ups sollen hier die Möglichkeit erhalten, Gründungsideen und Geschäftsmodelle zu entwickeln, ohne gleich einen Großteil des Startkapitals für langfristige Mietverträge aufwenden zu müssen. Aktuell arbeiten im StartHub² z sechs Unternehmen aus der IT-, Kreativ- und Beratungswirtschaft."
@@ -144,6 +175,7 @@
       "key": "WUEWW-2019-129",
       "start": "2019-04-02T09:00:00+02:00",
       "end": "2019-04-02T15:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Handwerkskammer für Unterfranken - Bildungszentrum Schweinfurt",
         "infotext": "Die Handwerkskammer für Unterfranken vertritt rund 18.500 Mitgliedsbetriebe mit etwa 94.000 Beschäftigten im Bezirk Unterfranken. Sie ist Partner im bundesweit ersten Forschungsprojekt, das die Digitalisierung speziell für das Handwerk untersucht. Im Bildungszentrum Schweinfurt der Handwerkskammer für Unterfranken wird das Teilprojekt „Robonet 4.0“ umgesetzt. In dessen Rahmen werden die Einsatzmöglichkeiten von Robotertechnik in kleinen und mittleren Handwerksbetrieben erforscht."
@@ -161,12 +193,45 @@
       "tags": [
         "Digitalisierung",
         "Handwerk"
-      ]
+      ],
+      "link": {
+        "event": "www.bildungszentrum-schweinfurt.de/digitalisierung",
+        "host": "https://www.hwk-ufr.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-135",
+      "start": "2019-04-02T09:00:00+02:00",
+      "end": null,
+      "cancelled": false,
+      "host": {
+        "name": "Theo Prinz",
+        "infotext": "Theo Prinz wird von Entscheidern aus Wirtschaft und Politik zu Rate gezogen, ist darüber hinaus seit über 20 Jahren als Speaker im Themenumfeld „Persönlichkeit, Erfolg und Führung“ gebucht und hat über 500 persönliche Coachings, Projekte und Seminare geleitet."
+      },
+      "title": "Speaking und Storytelling live: für Social Media",
+      "location": {
+        "name": "Kettelerstraße 5-11\nPavillon 7\n97222 Rimpar",
+        "lat": 49.848653,
+        "lng": 9.964855
+      },
+      "description": {
+        "short": "Lernen Sie im Workshop, wie man live und auf Social Media packende Geschichten erzählt.",
+        "long": "Im Rahmen dieses Workshops lernen Sie alle Techniken, um in (Live-)Videos oder bei Präsentationen sicher aufzutreten und das Publikum für Sie einzunehmen. Sie erlernen Techniken zur Themenaufbereitung, zum Training vor der Kamera und vor Publikum. Nach dem Workshop werden Sie sicher und selbstbewusst sprechen können und die Zuhörer mithilfe von Storytelling in Ihren Bann ziehen."
+      },
+      "tags": [
+        "Social Media",
+        "Einsteiger"
+      ],
+      "link": {
+        "event": "anna-pfeiffer@theo-prinz.de",
+        "host": "https://theoprinz.de/"
+      }
     },
     {
       "key": "WUEWW-2019-121",
       "start": "2019-04-02T09:30:00+02:00",
       "end": "2019-04-02T11:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -182,15 +247,18 @@
         "long": "Effiziente Unternehmensplanung – „Exceln“ Sie noch oder planen Sie schon?\n\nDie digitale Transformation verschiebt rasant die Rahmenbedingungen der Unternehmens­steuerung. Neue Anforderungen an Geschwindigkeit, Vorausschau und Agilität bedeuten massive Herausforderungen. Unternehmen sind zunehmend auf eine schnelle, datenzentrierte und vorausschauende Planung und Steuerung angewiesen. Planungen und Forecasts müssen kurzfristiger, automatisierter sowie bei Bedarf rollierend unter Berücksichtigung treiberbasierter Ursache-Wirkungsbeziehungen erfolgen. Ein entscheidender Erfolgsfaktor hierfür ist der Einsatz professioneller Softwarelösungen.\n\nDieser Impulsvortrag gibt einen Einblick in die Möglichkeiten professioneller Softwarewerkzeuge für die Unternehmensplanung, stellt den Softwaremarkt und aktuelle Markttrends vor."
       },
       "tags": [
-        "Einsteiger",
-        "Digitale Transformation",
-        "Digitalisierung"
-      ]
+        "Digitale Transformation"
+      ],
+      "link": {
+        "event": "https://barc.de/events/wueww19",
+        "host": "https://barc.de/"
+      }
     },
     {
       "key": "WUEWW-2019-102",
       "start": "2019-04-02T10:00:00+02:00",
       "end": "2019-04-02T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "UserMind GmbH",
         "infotext": "UserMind GmbH ist eine Agentur mit den Themenschwerpunkten Webentwicklung, Online Marketing und Conversion Optimierung. Als Full-Service-Dienstleister betreut die UserMind GmbH Unternehmen von der Planung und Umsetzung ihres Online-Auftrittes, über die Analyse einer bestehenden Online-Präsenz, bis hin zu effizienten Maßnahmen für mehr Reichweite sowie einen erfolgreichen Conversion-Optimierungs-Prozess. Mit Sitz in Rimpar agiert die UserMind GmbH hauptsächlich in Würzburg und Umgebung, aber auch deutschlandweit."
@@ -204,12 +272,17 @@
       "description": {
         "short": "In diesem Vortrag zeigen wir, wie man Conversion Optimierung als mächtigen Hebel für eine zielgruppenspezifische Ansprache einsetzen kann und sollte. \n\n",
         "long": "In Zeiten der Personalisierung wird es immer wichtiger Website-Nutzer als das zu sehen, was sie sind: einzelne Individuen und nicht nur Impressionen im Analytics-Tool.\n\nDenn nur wer beim gegenüber Resonanz erzeugen kann, wird letztendlich in der Lage sein, erfolgreich zu verkaufen. \n\n🎯 Wie aber entwickelt man einen Draht zu den Nutzern auf der anderen Seite und etabliert eine Kommunikation, die diese erreichen kann? \n\n📝 Unser Fahrplan: \n✔ Zielgruppentechniken\n✔ psychologische Prinzipien \n✔ Hypothesen formulieren und priorisieren\n✔ Hypothesen umsetzten \n✔ Validierung\n✔ ein Optimierungsprozess entsteht \n\nAnmeldung über Facebook oder alternativ eine E-Mail an: events@user-mind.de. \n"
+      },
+      "link": {
+        "event": "https://www.facebook.com/events/790517787981378/",
+        "host": "https://www.user-mind.de/"
       }
     },
     {
       "key": "WUEWW-2019-103",
       "start": "2019-04-02T10:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Computy GmbH & Co. KG",
         "infotext": "Die Computy GmbH & Co. KG entwickelt seit über 15 Jahren Software für individuelle Anforderungen. Die Lösungen werden in enger Zusammenarbeit mit dem Kunden analysiert, definiert und umgesetzt: individuell, durchdacht, innovativ und sicher."
@@ -223,12 +296,17 @@
       "description": {
         "short": "Web-Freaks treffen sich, um Spaß zu haben und gemeinsam über alte und aktuelle Themen zu diskutieren",
         "long": "Wenn ihr privat oder beruflich leidenschaftlich gerne Webseiten oder Web-Apps plant oder baut, werdet ihr euch bei uns unter Gleichgesinnten wohlfühlen. Wir unterhalten uns über längst veraltete Techniken genauso wie über ultramoderne, „geile Scheiße“. Kleine Games wie „Stadt, Land, Fluss“ - in einer Version für Web-Freaks - werden uns herausfordern und für viel Unterhaltung und interessanten Gesprächsstoff sorgen. Wer nicht gern spielt, schaut zu :-). Habt Spaß und genießt das Frühstück!"
+      },
+      "link": {
+        "event": "https://www.computy.de/wueww",
+        "host": "https://www.computy.de/"
       }
     },
     {
       "key": "WUEWW-2019-122",
       "start": "2019-04-02T11:40:00+02:00",
       "end": "2019-04-02T18:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Region Mainfranken GmbH",
         "infotext": "Als Standortagentur der sieben mainfränkischen Landkreise, der beiden kreisfreien Städte Würzburg und Schweinfurt sowie der Wirtschaftskammern bündelt die Region Mainfranken GmbH die regionalen Kräfte in Politik, Wissenschaft und Wirtschaft zur Positionierung Mainfrankens im nationalen und internationalen Standortwettbewerb. Durch zielorientiertes Standortmarketing wird Mainfranken für potenzielle Fachkräfte, Investoren und Interessenten sichtbar."
@@ -239,13 +317,18 @@
       },
       "description": {
         "short": "Auf Jobsuche? Die career tour Mainfranken hilft Dir. Verantwortliche bei s.Oliver und der iWelt AG freuen sich darauf, Dich persönlich kennenzulernen.",
-        "long": "Du bist auf der Suche nach einem Arbeitsplatz in der Region? Dann melde Dich jetzt für die career tour Mainfranken an. Wir bringen Dich zu zwei potenziellen Arbeitgebern. Nutze die Möglichkeit, Personalentscheidern erste Fragen zu Deinen konkreten Karriereperspektiven zu stellen. Erfahre mehr über das Portfolio, die Kernkompetenzen und das angewandte Know-How der Betriebe. Verantwortliche bei s.Oliver und der iWelt AG freuen sich darauf, Dich persönlich kennen zu lernen. Die Teilnehmer-Anzahl ist begrenzt: first come – first serve!\n\n"
+        "long": "Du bist auf der Suche nach einem Arbeitsplatz in der Region? Dann melde Dich jetzt für die career tour Mainfranken an. Wir bringen Dich zu zwei potenziellen Arbeitgebern. Nutze die Möglichkeit, Personalentscheidern erste Fragen zu Deinen konkreten Karriereperspektiven zu stellen. Erfahre mehr über das Portfolio, die Kernkompetenzen und das angewandte Know-How der Betriebe. Verantwortliche bei s.Oliver und der iWelt AG freuen sich darauf, Dich persönlich kennen zu lernen. Die Teilnehmer-Anzahl ist begrenzt: first come – first serve!"
+      },
+      "link": {
+        "event": "http://www.wiefuerdichgemacht.com/unser-service",
+        "host": "http://www.wiefuerdichgemacht.com/unser-service"
       }
     },
     {
       "key": "WUEWW-2019-104",
       "start": "2019-04-02T12:00:00+02:00",
       "end": "2019-04-02T17:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "IHK Würzburg-Schweinfurt",
         "infotext": "Die IHK Würzburg-Schweinfurt ist Erstansprechpartner für Existenzgründer und Start-ups und bietet zahlreiche Unterstützungsangebote (Beratung, Qualifizierung, Mentorenprogramme, Netzwerkplattformen, Stellungnahmen etc.)."
@@ -259,12 +342,16 @@
       "description": {
         "short": "In diesem Workshop bringen wir Crowdfunding als Möglichkeit zur Finanzierung unternehmerischer Entscheidungen näher.",
         "long": "Crowdfunding als moderner Weg, um neue und innovative Geschäftsideen der einzelne Projekte zu finanzieren, gewinnt zunehmend an Bedeutung. Die Idee dahinter: Mit Hilfe von Online-Plattformen finden Unternehmer und Investoren zusammen, um mittels kleiner Beiträge einzelne konkrete Projekte zu finanzieren und diese Realität werden zu lassen. Wir möchten Ihnen gerne das Instrument\nCrowdfunding als Möglichkeit zur Finanzierung unternehmerischer Entscheidungen näherbringen und laden Sie herzlich ein zu unserem Workshop."
+      },
+      "link": {
+        "event": "https://www.wuerzburg.ihk.de/crowdinvesting"
       }
     },
     {
       "key": "WUEWW-2019-105",
       "start": "2019-04-02T13:00:00+02:00",
       "end": "2019-04-02T15:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "UserMind GmbH",
         "infotext": "UserMind GmbH ist eine Agentur mit den Themenschwerpunkten Webentwicklung, Online Marketing und Conversion Optimierung. Als Full-Service-Dienstleister betreut die UserMind GmbH Unternehmen von der Planung und Umsetzung ihres Online-Auftrittes, über die Analyse einer bestehenden Online-Präsenz, bis hin zu effizienten Maßnahmen für mehr Reichweite sowie einen erfolgreichen Conversion-Optimierungs-Prozess. Mit Sitz in Rimpar agiert die UserMind GmbH hauptsächlich in Würzburg und Umgebung, aber auch deutschlandweit."
@@ -277,16 +364,21 @@
       },
       "description": {
         "short": "Phillip Groschup lädt Sie ein, den neuen Gutenberg-Editor kennenzulernen, welche Funktionen es gibt und wie Sie diesen auf Ihrer Website einsetzen können.",
-        "long": "Editierst du noch, oder Gutenbergst du schon?\n\nNutzen Sie WordPress für Ihre Website? Dann haben Sie sicherlich schon auf WordPress 5.0 aktualisiert und den neuen „Gutenberg Editor“ gesehen.\nPhillip Groschup lädt Sie ein, den neuen Gutenberg Editor kennenzulernen und darüber zu diskutieren. Wir zeigen Ihnen die neuen Funktionen, was der neue Gutenberg gegenüber dem alten Editor anders macht und wie Sie diesen auf Ihrer Website einsetzen können.\n\nPhillip Groschup hat 2018 das WordCamp in Würzburg (Co-)Organisiert und ist seitdem aktiv in der WordPress-Community. Außerdem ist er Lehrbeauftragter für WordPress an der Fachhochschule Würzburg-Schweinfurt.\n\nAnmeldung über Facebook oder alternativ eine E-Mail an: events@user-mind.de.\n\n"
+        "long": "Editierst du noch, oder Gutenbergst du schon?Nutzen Sie WordPress für Ihre Website? Dann haben Sie sicherlich schon auf WordPress 5.0 aktualisiert und den neuen „Gutenberg Editor“ gesehen.\nPhillip Groschup lädt Sie ein, den neuen Gutenberg Editor kennenzulernen und darüber zu diskutieren. Wir zeigen Ihnen die neuen Funktionen, was der neue Gutenberg gegenüber dem alten Editor anders macht und wie Sie diesen auf Ihrer Website einsetzen können.\n\nPhillip Groschup hat 2018 das WordCamp in Würzburg (Co-)Organisiert und ist seitdem aktiv in der WordPress-Community. Außerdem ist er Lehrbeauftragter für WordPress an der Fachhochschule Würzburg-Schweinfurt.\n\nAnmeldung über Facebook oder alternativ eine E-Mail an: events@user-mind.de."
       },
       "tags": [
         "WordPress"
-      ]
+      ],
+      "link": {
+        "event": "https://www.facebook.com/events/1032747396912959/",
+        "host": "https://www.user-mind.de/"
+      }
     },
     {
       "key": "WUEWW-2019-132",
       "start": "2019-04-02T13:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "GETECO GmbH\n",
         "infotext": "Als Anbieter von Software für soziale Einrichtungen ist die GETECO GmbH darauf spezialisiert, Kunden bei der Digitalisierung ihrer Prozesse zu begleiten und maßgeschneiderte Lösungen bereitzustellen, die die alltägliche Arbeit erleichtern. Das Leistungsspektrum der GETECO reicht von Software für Dokumentation, Leistungsabrechnung und Buchhaltung bis hin zu Lösungen für Spendenmanagement, Dienstplanung und Controlling."
@@ -304,15 +396,20 @@
       "tags": [
         "Software Development",
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "anna.pfeiffer@geteco.de",
+        "host": "https://geteco.de/"
+      }
     },
     {
       "key": "WUEWW-2019-106",
       "start": "2019-04-02T14:00:00+02:00",
       "end": "2019-04-02T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
-        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
+        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht."
       },
       "title": "Rechtsprobleme mit KI lösen",
       "location": {
@@ -326,14 +423,20 @@
       },
       "tags": [
         "KI"
-      ]
+      ],
+      "link": {
+        "event": "wueww@kanzlei-jun.de",
+        "host": "https://www.junit.de/"
+      }
     },
     {
       "key": "WUEWW-2019-107",
       "start": "2019-04-02T14:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
+      "cancelled": false,
       "host": {
-        "name": "ByteConsult GmbH"
+        "name": "ByteConsult GmbH",
+        "infotext": "ByteConsult begleitet als Unternehmensberatung seit über 18 Jahren mit einer breiten Wertschöpfungskette aus Experten nationale sowie internationale Firmen (Automotive, Finance und Healthcare) von der Strategie bis zur Realisierung konkret messbarer Effekte auf deren Märkte und Kunden. Unser ganzheitlicher Beratungsansatz: RESULTING. Wir packen Projekte genau da an, wo wir am effektivsten dabei unterstützen können, die besten Ergebnisse zu liefern."
       },
       "title": "Smart, digital, zukunftsfähig",
       "location": {
@@ -341,15 +444,24 @@
         "lat": 49.799051,
         "lng": 9.94709
       },
+      "description": {
+        "short": "Smart, digital, zukunftsfähig. Offene Diskussion & Workshops am 2. April, ab 14 Uhr bei ByteConsult.",
+        "long": "Digitalisierung auf Teufel komm raus! Oder sollte der Schuster bei seinen Leisten bleiben? Letztendlich kommt es doch auf den Menschen an, oder? Wir bieten Experten und allen Interessierten eine Plattform, um gemeinsam Fragen wie diese in einer moderierten Diskussionsrunde zu erörtern. Im Anschluss haben Sie zudem die Möglichkeit, im „Zeitreise“- oder „Superheld“-Workshop praxiserprobte Methoden kennenzulernen, mit denen wir Firmen unterstützen, ihre digitalen Potenziale auszuschöpfen."
+      },
       "tags": [
         "Digitale Transformation",
         "Digitalisierung"
-      ]
+      ],
+      "link": {
+        "event": "https://www.byteconsult.de/wuewebweek",
+        "host": "https://www.byteconsult.de"
+      }
     },
     {
       "key": "WUEWW-2019-109",
       "start": "2019-04-02T15:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -362,15 +474,20 @@
       },
       "tags": [
         "Agil"
-      ]
+      ],
+      "link": {
+        "event": "https://www.meetup.com/de-DE/Agile-Usergroup-Unterfranken/",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-108",
       "start": "2019-04-02T15:30:00+02:00",
       "end": "2019-04-02T16:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Generationen-Zentrum Matthias Ehrenfried e. V.",
-        "infotext": "Das Generationen-Zentrum Matthias Ehrenfried e.V. ist ein katholisches Bildungs- und Begegnungszentrum und gehört der Diözesan- und Landesarbeitsgemeinschaft für katholische Erwachsenenbildung an. Unser Haus im Herzen der Stadt lädt Menschen ein, die sich bilden wollen oder Räume der Begegnung suchen. Ziel ist es, dem gesellschaftlichen Trend der Vereinsamung entgegenzuwirken.\n\n"
+        "infotext": "Das Generationen-Zentrum Matthias Ehrenfried e.V. ist ein katholisches Bildungs- und Begegnungszentrum und gehört der Diözesan- und Landesarbeitsgemeinschaft für katholische Erwachsenenbildung an. Unser Haus im Herzen der Stadt lädt Menschen ein, die sich bilden wollen oder Räume der Begegnung suchen. Ziel ist es, dem gesellschaftlichen Trend der Vereinsamung entgegenzuwirken."
       },
       "title": "Technik-Sprechstunde",
       "location": {
@@ -384,12 +501,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "http://www.generationen-zentrum.com",
+        "host": "https://www.me-haus.de"
+      }
     },
     {
       "key": "WUEWW-2019-133",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Bundesverband für agile Unternehmenskultur (BVAGIL)",
         "infotext": "Der Bundesverband für agile Unternehmen (BVAGIL) bietet eine Plattform zum Austausch über agile Unternehmensstrukturen und möchte Unternehmen dabei unterstützen, sich nicht nur auf Veränderungen im Markt vorzubereiten, sondern sie auch aktiv mitzugestalten. Agiles Handeln ist in der heutigen Zeit unabdingbar: Sich stetig verändernde Rahmenbedingungen und sich wandelnde Kundenwünsche erfordern Flexibilität und Engagement jedes Einzelnen."
@@ -403,12 +525,20 @@
       "description": {
         "short": "Der BVAGIL führt die Teilnehmer an das Thema Arbeit 4.0 heran und stellt sich vor.",
         "long": "Im Vortrag wird das Thema „Führung 4.0“ behandelt: eine neue Art der Führung, die schnell reagiert, flexibel agiert und voll auf die Denke des Internetzeitalters ausgelegt ist. Sie die Voraussetzung für eine neue Kultur in den Unternehmen, die sich ganz eng an den Markt binden und die Bedürfnisse der Kunden zu jeder Zeit im Blick haben: Die Unternehmen der Industrie 4.0. Beim anschließenden Come Together ab 17 Uhr können die Teilnehmer den BVAGIL kennenlernen und sich untereinander austauschen."
+      },
+      "tags": [
+        "Einsteiger"
+      ],
+      "link": {
+        "event": "info@bvagil.de",
+        "host": "https://bvagil.de/"
       }
     },
     {
       "key": "WUEWW-2019-114",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Lehrstuhl für BWL und Wirtschaftsinformatik der Universität Würzburg",
         "infotext": "Prof. Winkelmann ist international anerkannter Experte für ERP-Systeme und Betreiber des größten Podcasts über Unternehmenssoftware www.erp-podcast.de. Dieser Workshop wird im Rahmen des EU-geförderten Forschungstransferprojekts Prompt@NET angeboten."
@@ -422,12 +552,20 @@
       "description": {
         "short": "Erhalten Sie Einblicke in das größte Labor für betriebswirtschaftliche Software Deutschlands",
         "long": "Erhalten Sie Einblicke in die moderne, IT-gestützte Unternehmenssteuerung und lernen Sie Unterschiede und Trends (Cloud, Open-Source, Künstliche Intelligenz) mehrerer betriebswirtschaftlicher Software-Lösungen kennen. Weitere Infos: www.erp-labs.de"
+      },
+      "tags": [
+        "AI Business Process Management"
+      ],
+      "link": {
+        "event": "Anmeldung via erp-labor@uni-wuerzburg.de",
+        "host": "http://www.erp-labs.de"
       }
     },
     {
       "key": "WUEWW-2019-130",
       "start": "2019-04-02T16:00:00+02:00",
       "end": "2019-04-02T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "ISO-Gruppe – Standort Würzburg",
         "infotext": "Der Standort Würzburg der ISO-Gruppe ist Digitalisierungspartner für den Mittelstand in der Region Mainfranken. Wir bieten die passenden Lösungen für die großen Herausforderungen - IT-Personal, IT-Infrastrukturen und digitale Lösungen."
@@ -444,15 +582,20 @@
       },
       "tags": [
         "Social Media"
-      ]
+      ],
+      "link": {
+        "event": "Ann-Kathrin.Jacobs@iso-gruppe.com",
+        "host": "https://www.iso-gruppe.com/de/iso-mainfranken.html"
+      }
     },
     {
       "key": "WUEWW-2019-110",
       "start": "2019-04-02T16:30:00+02:00",
       "end": "2019-04-02T17:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "iWelt AG",
-        "infotext": "Als modernes Dienstleistungsunternehmen bietet die iWelt AG maßgeschneiderte und zukunftsweisende Lösungen in den Bereichen Internet- und Informationstechnologie. \n"
+        "infotext": "Als modernes Dienstleistungsunternehmen bietet die iWelt AG maßgeschneiderte und zukunftsweisende Lösungen in den Bereichen Internet- und Informationstechnologie. "
       },
       "title": "2030 – Das Ende der Websites?",
       "location": {
@@ -466,12 +609,17 @@
       },
       "tags": [
         "E-Commerce"
-      ]
+      ],
+      "link": {
+        "event": "http://www.iwelt.de/wueww",
+        "host": "https://www.iwelt.de/"
+      }
     },
     {
       "key": "WUEWW-2019-125",
       "start": "2019-04-02T16:30:00+02:00",
       "end": "2019-04-02T17:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Creditreform Würzburg Bauer & Polyak KG",
         "infotext": "Kurz nach Gründung der ersten Geschäftsstelle öffnete Creditreform Würzburg im Jahr 1882 die Türen und steht Ihnen seitdem als vertrauensvoller Partner zur Seite. Für unsere Kunden sind wir im Wirtschaftsleben der professionelle Partner in der Region mit zuverlässigen Wirtschaftsinformationen für qualifizierte Entscheidungen im Kreditmanagement und zur Sicherung von Geschäftsbeziehungen, mit individuellem, straffem und wirkungsvollem Forderungsmanagement für höhere und bessere Liquidität, mit umfangreichen und kompetenten Service- und Consulting-Leistungen im Risikomanagement."
@@ -489,12 +637,17 @@
       "tags": [
         "Digitalisierung",
         "E-Commerce"
-      ]
+      ],
+      "link": {
+        "event": "http://www.iwelt.de/wueww",
+        "host": "https://www.creditreform-wuerzburg.de\n"
+      }
     },
     {
       "key": "WUEWW-2019-126",
       "start": "2019-04-02T16:30:00+02:00",
       "end": "2019-04-02T17:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "KIM Krick Interactive Media GmbH",
         "infotext": "Die KIM Krick Interactive Media GmbH ist eine Full-Service-Agentur für performanceorientiertes Online-Marketing. Unser Schwerpunkt liegt dabei in den Bereichen Suchmaschinenwerbung und Suchmaschinenoptimierung.\n\nWir entwickeln für Sie leistungsorientierte Marketing-Strategien und stimmen diese auf Ihre individuellen Bedürfnisse ab. Mit erfolgsorientierten Kampagnen und Optimierungsmaßnahmen sorgen wir für Ihre optimale Platzierung bei allen relevanten Suchmaschinen, wie zum Beispiel Google, Yahoo! etc.\n\nDabei garantiert die Zugehörigkeit zur krick.com GmbH + Co. KG den KIM Kunden Beständigkeit, Zuverlässigkeit und Investitionssicherheit. Mit rund 450 Mitarbeiterinnen und Mitarbeiter im Innen- und Außendienst ist krick.com mit Sitz in Eibelstadt und Hamburg bundesweit aktiv.\n\nZusätzlich sind wir vom Bundesministerium für Wirtschaft und Energie autorisiert, im Rahmen des Projektes „go digital“ unabhängige Beratung für unsere Kunden zu leisten im Bereich der digitalen Markterschließung."
@@ -512,12 +665,17 @@
       "tags": [
         "E-Commerce",
         "SEO"
-      ]
+      ],
+      "link": {
+        "event": "http://www.iwelt.de/wueww",
+        "host": "https://www.krick-interactive.com"
+      }
     },
     {
       "key": "WUEWW-2019-115",
       "start": "2019-04-02T17:00:00+02:00",
       "end": "2019-04-02T21:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "scoutbee GmbH",
         "infotext": "scoutbee is a German startup specializing in AI-backed procurement solutions. Founded in 2015, scoutbee offers its clients an extensive data-driven global sourcing platform where fitting suppliers can be found and evaluated effortlessly."
@@ -534,17 +692,22 @@
       },
       "tags": [
         "KI"
-      ]
+      ],
+      "link": {
+        "event": "laura@scoutbee.com",
+        "host": "https://scoutbee.com\n"
+      }
     },
     {
       "key": "WUEWW-2019-124",
       "start": "2019-04-02T17:30:00+02:00",
       "end": "2019-04-02T18:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "REDDOXX GmbH",
         "infotext": "REDDOXX ist mit über 3.500 Installationen in Deutschland einer der führenden Hersteller für IT-Lösungen rund um die E-Mail-Kommunikation. Zu unseren Kunden zählen zahlreiche namhafte Unternehmen, Konzerne und öffentliche Institutionen.\n"
       },
-      "title": "Mail-Archivierung/Verschlüsselung\n",
+      "title": "Mail-Archivierung/Verschlüsselung",
       "location": {
         "name": "REDDOXX – am Campus von iWelt\nMainparkring 4\n97246 Eibelstadt",
         "lat": 49.732625,
@@ -552,22 +715,27 @@
       },
       "description": {
         "short": "Postgeheimnis 2.0 – Wie E-Mail-Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.",
-        "long": "Postgeheimnis 2.0 – Wie E-Mail-Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.\n\nDer Vortrag liefert Antworten auf die folgenden Fragen:\n\nWie sicher sind E-Mails?\nWird E-Mail-Verschlüsselung überschätzt?\nWo liegen die Probleme?\n"
+        "long": "Postgeheimnis 2.0 – Wie E-Mail-Archivierung und E-Mail-Verschlüsselung Ihr Business voranbringen können.\n\nDer Vortrag liefert Antworten auf die folgenden Fragen:\n\nWie sicher sind E-Mails?\nWird E-Mail-Verschlüsselung überschätzt?\nWo liegen die Probleme?"
       },
       "tags": [
         "Digitalisierung",
         "E-Commerce"
-      ]
+      ],
+      "link": {
+        "event": "http://www.iwelt.de/wueww",
+        "host": "https://www.reddoxx.com/"
+      }
     },
     {
       "key": "WUEWW-2019-111",
       "start": "2019-04-02T17:30:00+02:00",
       "end": "2019-04-02T18:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "KIM Krick Interactive Media GmbH",
         "infotext": "Die KIM Krick Interactive Media GmbH ist eine Full-Service-Agentur für performanceorientiertes Online-Marketing. Unser Schwerpunkt liegt dabei in den Bereichen Suchmaschinenwerbung und Suchmaschinenoptimierung.\n\nWir entwickeln für Sie leistungsorientierte Marketing-Strategien und stimmen diese auf Ihre individuellen Bedürfnisse ab. Mit erfolgsorientierten Kampagnen und Optimierungsmaßnahmen sorgen wir für Ihre optimale Platzierung bei allen relevanten Suchmaschinen, wie zum Beispiel Google, Yahoo! etc.\n\nDabei garantiert die Zugehörigkeit zur krick.com GmbH + Co. KG den KIM Kunden Beständigkeit, Zuverlässigkeit und Investitionssicherheit. Mit rund 450 Mitarbeiterinnen und Mitarbeiter im Innen- und Außendienst ist krick.com mit Sitz in Eibelstadt und Hamburg bundesweit aktiv.\n\nZusätzlich sind wir vom Bundesministerium für Wirtschaft und Energie autorisiert, im Rahmen des Projektes „go digital“ unabhängige Beratung für unsere Kunden zu leisten im Bereich der digitalen Markterschließung."
       },
-      "title": "Google is your new homepage\n",
+      "title": "Google is your new homepage",
       "location": {
         "name": "KIM Krick Interactive Media\nMainparkring 4\n97246 Eibelstadt",
         "lat": 49.732625,
@@ -580,12 +748,17 @@
       "tags": [
         "E-Commerce",
         "SEO"
-      ]
+      ],
+      "link": {
+        "event": "http://www.iwelt.de/wueww",
+        "host": "https://www.krick-interactive.com"
+      }
     },
     {
       "key": "WUEWW-2019-127",
       "start": "2019-04-02T17:30:00+02:00",
       "end": "2019-04-02T18:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "iWelt AG",
         "infotext": "Als modernes Dienstleistungsunternehmen bietet die iWelt AG maßgeschneiderte und zukunftsweisende Lösungen in den Bereichen Internet- und Informationstechnologie. \n"
@@ -603,12 +776,40 @@
       "tags": [
         "Mobil",
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "http://www.iwelt.de/wueww",
+        "host": "https://www.iwelt.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-136",
+      "start": "2019-04-02T17:30:00+02:00",
+      "end": "2019-04-02T20:30:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "ZDI Mainfranken mit Transition Würzburg / Repair Cafe & sonith UG"
+      },
+      "title": "Stinkt´s Dir?",
+      "location": {
+        "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
+        "lat": 49.79,
+        "lng": 9.95
+      },
+      "description": {
+        "short": "Wir zeigen in diesem DYI-Workshop, wie du einen Feinstaubsensor auf Basis des Kleinstcomputers Raspberry PI bauen und betreiben kannst.",
+        "long": "Das Zentrum für Digitale Innovationen (ZDI) Mainfranken veranstaltet zusammen mit Dominik Höfling vom Transition Würzburg / Repair Cafe und Dominik Knapp von der sonith UG einen DIY-Workshop zum Thema Bau und Betrieb eines Feinstaubsensors auf Basis des Kleinstcomputers Raspberry PI. Die Veranstaltung ist begrenzt auf 10 Teilnehmer, für die jüngsten 5 Teilnehmer stellt das ZDI die benötigten Bauteile kostenlos zur Verfügung.\n\nWer sicher gehen möchte, dass er/sie alles Nötige hat, kann die Bausätze aber auch beim Workshop selbst zum Selbstkostenpreis von ca. € 50,00 erwerben. Auf Wunsch schicken wir eine Liste zu, auf der steht, was alles mitgebracht werden muss."
+      },
+      "link": {
+        "event": "tilman.hampl@zdi-mainfranken.de",
+        "host": "https://www.zdi-mainfranken.de\nhttps://transition-wuerzburg.de/repaircafe/ \nhttps://sonith.de/"
+      }
     },
     {
       "key": "WUEWW-2019-117",
       "start": "2019-04-02T18:00:00+02:00",
       "end": "2019-04-02T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Mediengruppe Main-Post",
         "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
@@ -622,12 +823,17 @@
       "description": {
         "short": "Beim Insta-Walk können die Teilnehmer das Druckzentrum erkunden, nach Belieben Fotos und Stories machen - vom Papierlager bis zum Versand.",
         "long": "Der Insta-Walk@mainpost führt mitten durch das Würzburger Druckzentrum. Stories erwünscht! Haushoch und hundert Tonnen schwer sind die Maschinen, auf denen bei der Main-Post Nacht für Nacht rund 200.000 Zeitungsexemplare gedruckt werden. Beim Insta-Walk können die Teilnehmer das Druckzentrum erkunden, nach Belieben Fotos und Stories machen – vom Papierlager bis zum Versand.\n\nTreffpunkt ist an der Pforte des Main-Post Verlagsgebäudes in der Berner Straße 2. Eine Anmeldung ist notwendig, die Plätze sind begrenzt."
+      },
+      "link": {
+        "event": "https://www.mainpost.de/wueww2019",
+        "host": "https://www.mediengruppe-mainpost.de/"
       }
     },
     {
       "key": "WUEWW-2019-120",
       "start": "2019-04-02T18:00:00+02:00",
       "end": "2019-04-02T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Vizthink Franken",
         "infotext": "Vizthink Franken ist ein Ableger von Vizthink, einer nicht kommerziellen Organisation, die deutschlandweit visuelles Denken und visuelle Darstellung fördern möchte."
@@ -644,12 +850,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "http://vizthink.de/vizthink-franken-meetup-16-lernsnacks/#more-4928",
+        "host": "http://vizthink.de/ueber-uns/team-franken/"
+      }
     },
     {
       "key": "WUEWW-2019-131",
       "start": "2019-04-02T18:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -661,16 +872,49 @@
         "lng": 9.9331496
       },
       "description": {
-        "long": "Inhalt und Anmeldemöglichkeit folgen in Kürze. Wenn Du informiert werden möchtest, sobald es zu dieser Veranstaltung Neuigkeiten gibt, sende eine E-Mail mit deinen Kontaktdaten und dem Betreff „Meetup Data & Analytics“ an Antje Buss, Event Manager BARC GmbH: abuss@barc.de"
+        "short": "Wir tauschen uns über Erfahrungen und aktuelle Trends zum Einsatz von Business Intelligence und Analytics aus, Thema u. a. KI.",
+        "long": "Wir wollen uns über Erfahrungen und aktuelle Trends zum Einsatz von Business Intelligence und Analytics austauschen und eine mainfränkische Community von Gleichgesinnten starten. Jeder ist willkommen, egal ob Profi oder Neuling in der Materie.\n\nAGENDA\n\n18:00 Uhr – Start & Warm-Up\n\n18:15 Uhr – Welcome & Intro\n\n18:20 Uhr – Impuls 1: Carsten Bange – Artificial Intelligence hebt Business Intelligence auf die nächste Stufe\n\n18:40 Uhr – Impuls 2: Tobias Riedner: „Totale Transparenz durch Daten – am Beispiel eines Mittelständlers“\n\n19:00 Uhr – Impuls 3: tbd (für Vorschläge bitte melden)\n\n19:20 Uhr – Kennenlernen der Teilnehmer (was suche ich, was kann ich geben?)\n\ndanach: Diskussion, Austausch & Networking; Food & Drinks (open end)"
       },
       "tags": [
         "Analytics"
-      ]
+      ],
+      "link": {
+        "event": "https://www.meetup.com/de-DE/Wurzburg-DATA-ANALYTICS-Meetup/events/259575446/",
+        "host": "https://barc.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-137",
+      "start": "2019-04-02T18:00:00+02:00",
+      "end": "2019-04-02T21:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Mayflower GmbH",
+        "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
+      },
+      "title": "WueWW-Spezial: Live-Podcast & Agilien-Duell",
+      "location": {
+        "name": "Mayflower GmbH\nLandsteinerstr. 4\n97074 Würzburg",
+        "lat": 49.787811,
+        "lng": 9.968068
+      },
+      "description": {
+        "short": "meinscrumistkaputt.de moderiert eine Fishbowl-Diskussion und zeichnet das Ganze live auf. Im Anschluss gibt es eine Runde Agilien-Duell.",
+        "long": "Im Rahmen der WueWW beehren uns dieses Mal Sebastian Bauer und Dominik Ehrenberg vom bekannten deutschen Podcast für Agil-Interessierte meinscrumistkaputt.de. Die beiden werden in einer geführten Fishbowl-Diskussion ein kontroverses Thema aus dem agilen Umfeld diskutieren und dabei live einen Podcast mit eurer Beteiligung aufzeichnen.\n\nDoch damit nicht genug: Zum Abschluss des Abends wird das Familienduell ganz im Geiste von Werner Schulze-Erdel in die agile Neuzeit transportiert. Gemeinsam mit den Anwesenden spielen wir ein unterhaltsame Runde Agilien-Duell, um endlich Antworten auf die Fragen zu bekommen, welche die agile Community wirklich beschäftigen: Was macht ein Scrum Master den ganzen Tag? Was ist das Ergebnis eines Sprint Reviews? Und warum liegt hier überhaupt Scrum rum?\n\nSeid dabei, wenn zwei Teams gegeneinander antreten und sich den Antworten der 100 befragten Agilisten stellen."
+      },
+      "tags": [
+        "Agil"
+      ],
+      "link": {
+        "event": "https://www.meetup.com/de-DE/Agile-Usergroup-Unterfranken/events/259735153",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-118",
       "start": "2019-04-02T18:30:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "VINTIN GmbH",
         "infotext": "Wir sind eines der führenden IT-Häuser in DACH für Cloud, IT-Security & Systems sowie Netzwerktechnik und Rechenzentrum. Unser Consulting Team, die „Wolkenmacher“, berät Unternehmen rund um Digital Business Transformation und Cloud Innovation.\n\n"
@@ -687,12 +931,16 @@
       },
       "tags": [
         "Digitale Transformation"
-      ]
+      ],
+      "link": {
+        "host": "https://www.vintin.de/"
+      }
     },
     {
       "key": "WUEWW-2019-123",
       "start": "2019-04-02T18:30:00+02:00",
       "end": "2019-04-02T21:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Tradebyte Software GmbH",
         "infotext": "The /dev/night is powered by Tradebyte: \n\nDas Tradebyte Ökosystem gibt Antworten auf die Herausforderungen der digitalen Transformation im Handel und sorgt für eine nahtlose Vernetzung von Herstellern, Händlern und Retailern im digitalen Supply Chain. Einheitliche und standardisierte Austauschformate und Übertragungswege – end-to-end durch Tradebyte betreut – sorgen für einen voll-automatischen und stets synchronen Datenflow. Auf dem modernen Ökosystem aufbauende, hochskalierbare SaaS-Lösungen liefern benötigte Funktionen out-of-the-box. Das Tradebyte Ökosystem überwindet Barrieren und schont Ressourcen bei kurzer Time-to-Market."
@@ -709,12 +957,17 @@
       },
       "tags": [
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "https://www.meetup.com/de-DE/dev_night/",
+        "host": "https://dev-night.io/"
+      }
     },
     {
       "key": "WUEWW-2019-134",
       "start": "2019-04-02T19:00:00+02:00",
       "end": "2019-04-02T20:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "@ulrike_schaefer & @moggadodde & @herrthees",
         "infotext": "Ulrike Schäfer ist Webdesignerin und für ihre literarische Arbeit als freie Autorin u. a. mit dem Würth-Literaturpreis und dem Leonhard-Frank-Preis für Dramatik ausgezeichnet.\n\nHeidi Luger ist Bloggerin, ihre als „Moggadodde“ geschriebenen Blogbeiträge und Tweets sind auszugsweise auch in dem Buch „Zeichen der Weisheit: 140 oder mehr“ erschienen.\n\nRalf Thees bloggt seit fast 15 Jahren, neben seinem Würzblog über Würzburg führt er auch Blogs über Technik, Kochen und den Weltraum."
@@ -731,12 +984,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "https://wuerzblog.de/2019/03/11/trinaer-die-benefiz-bloggerlesung-zur-wueww2/",
+        "host": "https://wuerzblog.de/2019/03/11/trinaer-die-benefiz-bloggerlesung-zur-wueww2/"
+      }
     },
     {
       "key": "WUEWW-2019-221",
       "start": "2019-04-03T09:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "TOPOINEX",
         "infotext": "TOPOINEX ist ein personendiagnostisches Verfahren, das im Recruiting, im Coaching und in der Persönlichkeitsentwicklung eingesetzt wird. TOPOINEX beantwortet Fragen zur Persönlichkeit, gibt Hinweise für eine bessere Kommunikation und zeigt die eigene Verhaltenskomfortzone auf: Welches Verhalten fällt mir leicht und für welches Verhalten muss ich Energie aufbringen? Welche Stärken und welche Schwächen resultieren daraus?"
@@ -754,12 +1012,17 @@
       "tags": [
         "Einsteiger",
         "Karriere"
-      ]
+      ],
+      "link": {
+        "event": "maike.hochstein@topoinex.de",
+        "host": "https://topoinex.de/"
+      }
     },
     {
       "key": "WUEWW-2019-200",
       "start": "2019-04-03T09:30:00+02:00",
       "end": "2019-04-03T17:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "IHK Würzburg-Schweinfurt",
         "infotext": "Die IHK Würzburg-Schweinfurt ist Erstansprechpartner für Existenzgründer und Start-ups und bietet zahlreiche Unterstützungsangebote (Beratung, Qualifizierung, Mentorenprogramme, Netzwerkplattformen, Stellungnahmen etc.)."
@@ -773,12 +1036,17 @@
       "description": {
         "short": "In unseren kostenfreien Informationsgesprächen prüfen wir Websites und Online-Shops kostenlos auf verschiedene Aspekte.",
         "long": "Gutes Online-Marketing beginnt mit der Optimierung des Web-Auftritts: Kleine Dinge, große Wirkung!\n\nAm Sprechtag prüfen wir Ihre Websites bzw. Online-Shops kostenlos hinsichtlich:\n\n• Layout\n• Design\n• Navigation\n• Inhalt / Content\n• Zielgruppenansprache\n• Rechtliche Aspekte\n• Technische Aspekte\n• Suchmaschinentauglichkeit\n• Barrierefreiheit\n• Datenschutz\n\nAlle Informationsgespräche finden in Form von Einzelgesprächen statt, Dauer ca. 45 bis 60 Minuten.\n\nAnmeldung: per E-Mail oder über www.wuerzburg.ihk.de/wsc."
+      },
+      "link": {
+        "event": "www.wuerzburg.ihk.de/wsc",
+        "host": "http://www.xing.com/net/gruenderszene-mainfranken"
       }
     },
     {
       "key": "WUEWW-2019-201",
       "start": "2019-04-03T09:30:00+02:00",
       "end": "2019-04-03T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "lauterbach kreativbetreuung e.K.",
         "infotext": "Die lauterbach kreativbetreuung e.K. ist eine Marketingagentur für auffällige, authentische Kommunikation. Ihr Leistungsspektrum vereint Design, Strategie und Events unter einem Dach. So kann jedes Detail perfekt aufeinander abgestimmt werden."
@@ -791,13 +1059,21 @@
       },
       "description": {
         "short": "Wie würden Channels der Prominenz von damals heute wohl aussehen? Im Workshop finden wir's heraus!",
-        "long": "Conrad Röntgen, Balthasar Neumann, Josef Neckermann – wie würde Würzburgs Prominenz von damals Ihre Social Media Präsenz heute wohl gestalten? In unserem Workshop analysieren wir die Trends der sozialen Medien und schaffen den Influencern von früher eine Präsenz im heutigen Instagram. Schritt für Schritt kreieren wir Content und geben den Profilen eine eigene Corporate Identity. Am Beispiel der „Influencer“ wird dabei klar, wie aus einem einzelnen Channel eine Marke wird."
+        "long": "Conrad Röntgen, Balthasar Neumann, Josef Neckermann – wie würde Würzburgs Prominenz von damals ihre Social-Media-Präsenz heute wohl gestalten? In unserem Workshop analysieren wir die Trends der sozialen Medien und schaffen den Influencern von früher eine Präsenz im heutigen Instagram. Schritt für Schritt kreieren wir Content und geben den Profilen eine eigene Corporate Identity. Das leckere Frühstück im Martinz versorgt uns dabei mit jeder Menge (kreativer) Energie. Am Beispiel der „Influencer“ wird klar, wie aus einem einzelnen Channel eine Marke wird."
+      },
+      "tags": [
+        "Social Media"
+      ],
+      "link": {
+        "event": "agentur@kreativbetreuung.de",
+        "host": "https://www.kreativbetreuung.de"
       }
     },
     {
       "key": "WUEWW-2019-202",
       "start": "2019-04-03T11:00:00+02:00",
       "end": "2019-04-03T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "FLYERALARM GmbH",
         "infotext": "FLYERALARM zählt zu den führenden Online-Druckereien Europas im B2B-Bereich und ist eines der größten deutschen E-Commerce-Unternehmen. Seit 2002 zeigen die Würzburger Printspezialisten, wie smart die Bestellung und Produktion von Druckprodukten sein kann."
@@ -816,12 +1092,17 @@
         "DevOps",
         "E-Commerce",
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "https://mainxchange.de\n",
+        "host": "https://karriere.flyeralarm.com/"
+      }
     },
     {
       "key": "WUEWW-2019-220",
       "start": "2019-04-03T13:00:00+02:00",
       "end": "2019-04-03T14:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Uniklinikum Würzburg",
         "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt."
@@ -837,13 +1118,18 @@
         "long": "Die Entnahme diagnostischer und forschungsrelevanter Blutproben wird durch eine mobile Applikation digital unterstützt, um die Patientensicherheit zu erhöhen und gleichzeitig die Qualität der Proben und der daraus generierten Befunde zu sichern."
       },
       "tags": [
-        "Digitalisierung"
-      ]
+        "Digitalisierung",
+        "Mobil"
+      ],
+      "link": {
+        "host": "https://www.ukw.de"
+      }
     },
     {
       "key": "WUEWW-2019-217",
       "start": "2019-04-03T13:00:00+02:00",
       "end": "2019-04-03T14:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Uniklinikum Würzburg & Institut Mensch-Computer-Medien",
         "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt.\n\nÜber das Institut Mensch-Computer Medien\n\nDas 2010 gegründete Institut Mensch-Computer Medien versteht sich als modernes, interdisziplinäres Institut an der Schnittstelle von Psychologie, Kommunikationswissenschaft und Informatik und repräsentiert in Forschung und Lehre ein breites Spektrum. Zentrale Themen sind unter anderem Online- und Mobilmedien, soziale Netzwerke, klassische Massenmedien, Marketing und Werbung, virtuelle Realitäten, soziale Roboter, interaktive Schnittstellen, Wirtschaftsjournalismus, Human Factors Design, Usability und User Experience."
@@ -860,12 +1146,16 @@
       },
       "tags": [
         "Digitalisierung"
-      ]
+      ],
+      "link": {
+        "host": "https://www.ukw.de"
+      }
     },
     {
       "key": "WUEWW-2019-218",
       "start": "2019-04-03T13:00:00+02:00",
       "end": "2019-04-03T14:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Uniklinikum Würzburg & Institut Mensch-Computer-Medien",
         "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt.\n\nÜber das Institut Mensch-Computer Medien\n\nDas 2010 gegründete Institut Mensch-Computer Medien versteht sich als modernes, interdisziplinäres Institut an der Schnittstelle von Psychologie, Kommunikationswissenschaft und Informatik und repräsentiert in Forschung und Lehre ein breites Spektrum. Zentrale Themen sind unter anderem Online- und Mobilmedien, soziale Netzwerke, klassische Massenmedien, Marketing und Werbung, virtuelle Realitäten, soziale Roboter, interaktive Schnittstellen, Wirtschaftsjournalismus, Human Factors Design, Usability und User Experience."
@@ -883,12 +1173,16 @@
       "tags": [
         "Digitalisierung",
         "Mobil"
-      ]
+      ],
+      "link": {
+        "host": "https://www.ukw.de"
+      }
     },
     {
       "key": "WUEWW-2019-203",
       "start": "2019-04-03T13:30:00+02:00",
       "end": "2019-04-03T16:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
@@ -900,17 +1194,69 @@
         "lng": 9.930355
       },
       "description": {
-        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n",
-        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich. \n"
+        "short": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich.",
+        "long": "Nichts ist spannender als die Teilnahme an der weltweiten Vernetzung. Kommen Sie vorbei, keine Anmeldung erforderlich."
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "http://www.i4s.de",
+        "host": "http://www.i4s.de"
+      }
+    },
+    {
+      "key": "WUEWW-2019-204",
+      "start": "2019-04-03T14:00:00+02:00",
+      "end": "2019-04-03T15:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
+        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
+      },
+      "title": "DSGVO: War die Panik berechtigt? ",
+      "location": {
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
+        "lat": 49.791984,
+        "lng": 9.953852
+      },
+      "description": {
+        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. ",
+        "long": "Vor einem Jahr haben Datenschützer die Welt in Panik versetzt. Wer nicht rechtzeitig die DSGVO umsetzt, riskiert horrende Bußgelder und Abmahnungen der Mitbewerber. Infolgedessen wurden wir mit Zustimmungserklärungen und AVVs überschüttet. War das alles nötig? Wer bekam die Abmahnungen und Bußgeldbescheide oder ist es Zeit für Entwarnung? Wir werfen einen Blick auf unnötige oder umständliche Datenschutzmaßnahmen und erklären, wann man auf Zustimmungen verzichten kann."
+      },
+      "link": {
+        "host": "https://www.junit.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-205",
+      "start": "2019-04-03T14:00:00+02:00",
+      "end": null,
+      "cancelled": false,
+      "host": {
+        "name": "Würzburger Medienscouts ",
+        "infotext": "Wir sind Software-Hersteller von Websystemen, Apps, Redaktions- und Content Management Systeme. Kunden wie Audi, Porsche, aber auch der Schweizer Kaffeemaschinenhersteller JURA, die KUKA Roboter GmbH und die STIFTUNG WARENTEST nutzen unsere Software-Lösungen."
+      },
+      "title": "AR & Advantages of Programmers",
+      "location": {
+        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97080 Würzburg",
+        "lat": 49.797576,
+        "lng": 9.949834
+      },
+      "description": {
+        "short": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.",
+        "long": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.\n\nAls Programmierer arbeiten wir mit an der Gestaltung der Zukunft.\n\n„The future is already here. It’s just not very evenly distributed.“ William Ford Gibson, US-amerikanischer Science-Fiction-Autor\n\nBei unserer Veranstaltung erklären wir die Technologien Augmented Reality (AR) und Virtual Reality (VR) an Hand von verschiedenen Einsatz-Beispielen. Dabei habt ihr die Gelegenheit, eine Hightech Mixed-Reality-Brille einmal selbst zu testen.\n\nUnter dem Motto „Advantages of Being a Programmer“ zeigen wir anschließend Beispiele von nützlichen und lustigen Projekten, die wir und unsere Kollegen privat umgesetzt haben.\n\nAußerdem stellen wir einfache Spiele vor, die wir entwickelt oder nachgebaut haben. In einem kurzen „Live Coding“ seht ihr dann, wie wir eine Komponente des Spieles verändern."
+      },
+      "link": {
+        "event": "https://www.noxum.com/de/kommunikation/veranstaltungen/wuerzburg-web-week/",
+        "host": "https://www.noxum.com/de/"
+      }
     },
     {
       "key": "WUEWW-2019-219",
       "start": "2019-04-03T14:00:00+02:00",
       "end": "2019-04-03T16:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Uniklinikum Würzburg",
         "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt."
@@ -927,50 +1273,43 @@
       },
       "tags": [
         "Einsteiger"
-      ]
-    },
-    {
-      "key": "WUEWW-2019-204",
-      "start": "2019-04-03T14:00:00+02:00",
-      "end": "2019-04-03T15:00:00+02:00",
-      "host": {
-        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
-        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
-      },
-      "title": "DSGVO: War die Panik berechtigt? ",
-      "location": {
-        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
-        "lat": 49.791984,
-        "lng": 9.953852
-      },
-      "description": {
-        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. ",
-        "long": "Vor einem Jahr haben Datenschützer die Welt in Panik versetzt. Wer nicht rechtzeitig die DSGVO umsetzt, riskiert horrende Bußgelder und Abmahnungen der Mitbewerber. Infolgedessen wurden wir mit Zustimmungserklärungen und AVVs überschüttet. War das alles nötig? Wer bekam die Abmahnungen und Bußgeldbescheide oder ist es Zeit für Entwarnung? Wir werfen einen Blick auf unnötige oder umständliche Datenschutzmaßnahmen und erklären, wann man auf Zustimmungen verzichten kann."
+      ],
+      "link": {
+        "host": "https://www.ukw.de"
       }
     },
     {
-      "key": "WUEWW-2019-205",
+      "key": "WUEWW-2019-222",
       "start": "2019-04-03T14:00:00+02:00",
-      "end": null,
+      "end": "2019-04-03T16:00:00+02:00",
+      "cancelled": false,
       "host": {
-        "name": "Würzburger Medienscouts ",
-        "infotext": "Wir sind Software-Hersteller von Websystemen, Apps, Redaktions- und Content Management Systeme. Kunden wie Audi, Porsche, aber auch der Schweizer Kaffeemaschinenhersteller JURA, die KUKA Roboter GmbH und die STIFTUNG WARENTEST nutzen unsere Software-Lösungen."
+        "name": "Theo Prinz",
+        "infotext": "Theo Prinz wird von Entscheidern aus Wirtschaft und Politik zu Rate gezogen, ist darüber hinaus seit über 20 Jahren als Speaker im Themenumfeld „Persönlichkeit, Erfolg und Führung“ gebucht und hat über 500 persönliche Coachings, Projekte und Seminare geleitet."
       },
-      "title": "AR & Advantages of Programmers",
+      "title": "\nCoachingkompetenz in Teams 4.0",
       "location": {
-        "name": "Noxum GmbH\nBeethovenstraße 5 Eingang A – 3. Stock\n97080 Würzburg",
-        "lat": 49.797576,
-        "lng": 9.949834
+        "name": "Kettelerstraße 5-11\nPavillon 7\n97222 Rimpar",
+        "lat": 49.848653,
+        "lng": 9.964855
       },
       "description": {
-        "short": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.",
-        "long": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.\n\nAls Programmierer arbeiten wir mit an der Gestaltung der Zukunft.\n\n„The future is already here. It’s just not very evenly distributed.“ William Ford Gibson, US-amerikanischer Science-Fiction-Autor\n\nBei unserer Veranstaltung erklären wir die Technologien Augmented Reality (AR) und Virtual Reality (VR) an Hand von verschiedenen Einsatz-Beispielen. Dabei habt ihr die Gelegenheit, eine Hightech Mixed-Reality-Brille einmal selbst zu testen.\n\nUnter dem Motto „Advantages of Being a Programmer“ zeigen wir anschließend Beispiele von nützlichen und lustigen Projekten, die wir und unsere Kollegen privat umgesetzt haben.\n\nAußerdem stellen wir einfache Spiele vor, die wir entwickelt oder nachgebaut haben. In einem kurzen „Live Coding“ seht ihr dann, wie wir eine Komponente des Spieles verändern."
+        "short": "Lernen Sie im Workshop, wie Sie Coaching-Techniken nutzen können, um harmonische Teamarbeit zu unterstützen.",
+        "long": "Coaching ist in aller Munde. In diesem Workshop erhalten Sie einen Einblick in Einsichten und Techniken des Coachings, die Ihnen bei der Arbeit in Teams zugutekommen. Sie lernen, Probleme als Chancen zu erkennen und positive Impulse daraus zu gewinnen. Sie üben, wie man die Körpersprache anderer Menschen wahrnehmen kann und wie man aus jedem gesprochenen Wort versteckte Motive, Selbstoffenbarungen und Appelle entnehmen kann. Sie entwickeln Techniken zur Konfliktlösung, zur Moderation und zur Herbeiführung von Perspektivenwechseln in Teams."
+      },
+      "tags": [
+        "Einsteiger"
+      ],
+      "link": {
+        "event": "anna-pfeiffer@theo-prinz.de",
+        "host": "https://theoprinz.de/"
       }
     },
     {
       "key": "WUEWW-2019-210",
       "start": "2019-04-03T15:00:00+02:00",
       "end": "2019-04-03T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr"
@@ -987,52 +1326,16 @@
       },
       "tags": [
         "Einsteiger"
-      ]
-    },
-    {
-      "key": "WUEWW-2019-216",
-      "start": "2019-04-03T16:00:00+02:00",
-      "end": "2019-04-03T17:00:00+02:00",
-      "host": {
-        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
-        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
-      },
-      "title": "DSGVO: War die Panik berechtigt? ",
-      "location": {
-        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
-        "lat": 49.791984,
-        "lng": 9.953852
-      },
-      "description": {
-        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. ",
-        "long": "Vor einem Jahr haben Datenschützer die Welt in Panik versetzt. Wer nicht rechtzeitig die DSGVO umsetzt, riskiert horrende Bußgelder und Abmahnungen der Mitbewerber. Infolgedessen wurden wir mit Zustimmungserklärungen und AVVs überschüttet. War das alles nötig? Wer bekam die Abmahnungen und Bußgeldbescheide oder ist es Zeit für Entwarnung? Wir werfen einen Blick auf unnötige oder umständliche Datenschutzmaßnahmen und erklären, wann man auf Zustimmungen verzichten kann."
+      ],
+      "link": {
+        "host": "http://www.i4s.de/"
       }
-    },
-    {
-      "key": "WUEWW-2019-206",
-      "start": "2019-04-03T16:00:00+02:00",
-      "end": null,
-      "host": {
-        "name": "hümmer kommunikation",
-        "infotext": "Meine Vision ist es, nachhaltig öffentliche Aufmerksamkeit für meine Kundinnen und Kunden herzustellen. Meine Philosophie ist es, Kommunikation ehrlich zu betreiben: Nur, wenn ich wirklich hinter Projekten, Ideen, Produkten stehe, möchte und kann ich diese glaubhaft kommunizieren."
-      },
-      "title": "Asozial! … ohne soziale Medien",
-      "location": {
-        "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
-        "lat": 49.79,
-        "lng": 9.95
-      },
-      "description": {
-        "short": "ASSOZIAL! Ohne soziale Medien fehlt was."
-      },
-      "tags": [
-        "Social Media"
-      ]
     },
     {
       "key": "WUEWW-2019-207",
       "start": "2019-04-03T16:00:00+02:00",
       "end": "2019-04-03T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Sparkasse Mainfranken Würzburg",
         "infotext": "Die Sparkasse Mainfranken Würzburg betreibt als Sparkasse das Universalbankgeschäft. Sie wies im Geschäftsjahr 2016 eine Bilanzsumme von 8,084 Mrd. Euro aus und verfügte über Kundeneinlagen von 6,661 Mrd. Euro. Sie unterhält 127 Filialen/SB-Standorte und beschäftigt 1.694 Mitarbeiter."
@@ -1048,13 +1351,68 @@
         "long": "Wie verändert sich eine Bank bzw. die Beratung in der Bank im Zeitalter der Digitalisierung? Welche neuen Medien nutzen wir und unsere Kunden, um die Finanzgeschäfte zu erledigen, und welchen Einfluss hat dies auf das Arbeiten in der Sparkasse? Antworten gibt’s am 03.04.2019 in der Sparkasse Mainfranken Würzburg!"
       },
       "tags": [
-        "Digitalisierung"
-      ]
+        "Digitalisierung",
+        "Einsteiger"
+      ],
+      "link": {
+        "event": "https://www.facebook.com/events/371735003418040/",
+        "host": "https://www.sparkasse-mainfranken.de/de/home.html"
+      }
+    },
+    {
+      "key": "WUEWW-2019-206",
+      "start": "2019-04-03T16:00:00+02:00",
+      "end": null,
+      "cancelled": false,
+      "host": {
+        "name": "hümmer kommunikation",
+        "infotext": "Meine Vision ist es, nachhaltig öffentliche Aufmerksamkeit für meine Kundinnen und Kunden herzustellen. Meine Philosophie ist es, Kommunikation ehrlich zu betreiben: Nur, wenn ich wirklich hinter Projekten, Ideen, Produkten stehe, möchte und kann ich diese glaubhaft kommunizieren."
+      },
+      "title": "Asozial! … ohne soziale Medien",
+      "location": {
+        "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
+        "lat": 49.79,
+        "lng": 9.95
+      },
+      "description": {
+        "short": "ASSOZIAL! Ohne soziale Medien fehlt was."
+      },
+      "tags": [
+        "Social Media"
+      ],
+      "link": {
+        "host": "https://huemmer-kommunikation.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-216",
+      "start": "2019-04-03T16:00:00+02:00",
+      "end": "2019-04-03T17:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht",
+        "infotext": "Wir sind Ihre spezialisierte Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht.\n\n"
+      },
+      "title": "DSGVO: War die Panik berechtigt? ",
+      "location": {
+        "name": "JunIT | Kanzlei für IT- und Wirtschaftsrecht\nSalvatorstr. 21\n97074 Würzburg",
+        "lat": 49.791984,
+        "lng": 9.953852
+      },
+      "description": {
+        "short": "DSGVO: War die Panik berechtigt? Wir stellen die verschiedenen Maßnahmen auf den Prüfstand. ",
+        "long": "Vor einem Jahr haben Datenschützer die Welt in Panik versetzt. Wer nicht rechtzeitig die DSGVO umsetzt, riskiert horrende Bußgelder und Abmahnungen der Mitbewerber. Infolgedessen wurden wir mit Zustimmungserklärungen und AVVs überschüttet. War das alles nötig? Wer bekam die Abmahnungen und Bußgeldbescheide oder ist es Zeit für Entwarnung? Wir werfen einen Blick auf unnötige oder umständliche Datenschutzmaßnahmen und erklären, wann man auf Zustimmungen verzichten kann."
+      },
+      "link": {
+        "event": "wueww@kanzlei-jun.de",
+        "host": "https://www.junit.de/"
+      }
     },
     {
       "key": "WUEWW-2019-215",
       "start": "2019-04-03T16:00:00+02:00",
       "end": "2019-04-03T17:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "ISO-Gruppe – Standort Würzburg",
         "infotext": "Der Standort Würzburg der ISO-Gruppe ist Digitalisierungspartner für den Mittelstand in der Region Mainfranken. Wir bieten die passenden Lösungen für die großen Herausforderungen - IT-Personal, IT-Infrastrukturen und digitale Lösungen."
@@ -1071,12 +1429,17 @@
       },
       "tags": [
         "HR"
-      ]
+      ],
+      "link": {
+        "event": "Ann-Kathrin.Jacobs@iso-gruppe.com",
+        "host": "https://www.iso-gruppe.com/de/iso-mainfranken.html"
+      }
     },
     {
       "key": "WUEWW-2019-208",
       "start": "2019-04-03T17:00:00+02:00",
       "end": "2019-04-03T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "WITTENSTEIN SE",
         "infotext": "Die WITTENSTEIN SE entwickelt kundenspezifische Produkte, Systeme und Lösungen für hochdynamische Bewegung, präziseste Positionierung und intelligente Vernetzung in der mechatronischen Antriebstechnik. \n \nIm Zentrum unserer Forschungs- und Entwicklungsaktivitäten steht die digitale Transformation, die Entwicklung von smarten Produkten und Services und einer smarten Produktion mit Hilfe von Softwareentwicklung, Datenanalyse und Sensorik.\n"
@@ -1095,13 +1458,19 @@
         "AI",
         "Digitale Transformation",
         "Digitalisierung",
-        "Software Development"
-      ]
+        "Software Development",
+        "Fortgeschrittener"
+      ],
+      "link": {
+        "event": "https://www.wittenstein.de/wuerzburg-web-week/",
+        "host": "http://www.wittenstein-jobs.de"
+      }
     },
     {
       "key": "WUEWW-2019-211",
       "start": "2019-04-03T17:00:00+02:00",
       "end": "2019-04-03T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "prognostica GmbH\n",
         "infotext": "Wir sind prognostica und unser Geschäft ist die Zukunft. Wir sind Experten für Predictive Analytics und Data Science. Aus Zeitreihen extrahieren wir mit Hilfe von statistischen Methoden und Machine-Learning-Verfahren relevante Strukturen, um die künftigen Entwicklungen sehr genau vorherzusagen. Der präzise Blick in die Zukunft ermöglicht unseren Kunden, ihre Planungen zu optimieren und bessere Entscheidungen zu treffen. Unsere Prognosen verschaffen jeder Branche einen wirtschaftlichen Vorteil."
@@ -1115,12 +1484,23 @@
       "description": {
         "short": "Begleiten Sie eine Data-Science-Idee von der methodischen Umsetzung bis hin zur Operationalisierung.",
         "long": "Begleiten Sie uns von prognostica an diesem Abend auf dem Weg einer initialen Data-Science-Idee über ihre methodische Umsetzung mittels statistischer Verfahren und Machine Learning bis hin zur Implementierung und Operationalisierung. Im Anschluss freuen wir uns auf angeregte Diskussionen mit allen Teilnehmern.\n\nWas Sie erwartet:\n\n3 kurze Vorträge aus dem Bereich “Predictive Analytics”\nDiskussionen und Ideenaustausch\nGetränke und Snacks\n"
+      },
+      "tags": [
+        "AI",
+        "Business Process Management",
+        "Data Science",
+        "Digitalisierung"
+      ],
+      "link": {
+        "event": "https://www.prognostica.de/de/wueww.html",
+        "host": "https://www.prognostica.de"
       }
     },
     {
       "key": "WUEWW-2019-212",
       "start": "2019-04-03T17:00:00+02:00",
       "end": "2019-04-03T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Würzburger Business Coach Akademie",
         "infotext": "Die Würzburger Business Coach Akademie bildet Führungskräfte, Personaler und Unternehmer zu Business Coaches aus - nach den hohen Standards der Coaching-Fachverbände. Unsere Besonderheit: Bereits nach dem ersten Modul können unserer Teilnehmer coachen. Insgesamt geht es in 7 Modulen à 3 Tagen um ganz viel Praxis."
@@ -1134,12 +1514,17 @@
       "description": {
         "short": "Welche Nebenwirkungen treten bei Arbeit 4.0 auf? Worauf müssen Sie als Führungskraft achten?",
         "long": "Die sogenannte „Arbeitswelt 4.0“ ist in aller Munde: Digitalisierung, agile Führung und virtuelle Teams sind nur einige der Themen, denen sich Unternehmen und Führungskräfte stellen müssen. Damit einhergehen Herausforderungen wie zunehmende Komplexität in Beruf und Leben, Unsicherheit und unvollständige Information in Entscheidungssituationen, Rollenveränderungen, unklare Ursache-Wirkungs-Zusammenhänge und Veränderung als Dauerzustand. Kein Wunder also, dass die schöne neue Welt auch Nebenwirkungen hat. Es ist deshalb höchste Zeit, dass Führungskräfte und andere Verantwortliche ihre Führungskompetenzen auf den nächsten Level bringen.\n\nIn diesem Seminar erfahren Sie von Christoph Schalk u. a.:\n\nWelche Nebenwirkungen im Kontext von Arbeit 4.0 auftreten\nWorauf Sie jetzt als Führungskraft, Personaler, Betriebsrat oder Mitarbeiter achten müssen\nWelche Führungskompetenzen jetzt und in Zukunft gebraucht werden\nWie Selbstführung, Mitarbeiterführung und Personalentwicklung in der Arbeitswelt 4.0 gelingen können\nWarum ein „coachender Führungsstil“ Teil der Antwort ist"
+      },
+      "link": {
+        "event": "https://www.business-coach-akademie.de/wue2019/",
+        "host": "http://www.business-coach-akademie.de"
       }
     },
     {
       "key": "WUEWW-2019-214",
       "start": "2019-04-03T17:00:00+02:00",
       "end": "2019-04-03T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "SYSTHEMIS AG",
         "infotext": "Als Dienstleister für die pragmatische Reorganisation und Automation von Geschäftsprozessen, für die Beratung zu IT-Strategien, für die Unterstützung bei herausfordernden IT-Projekten sowie in der Umsetzung von individuellen Softwarelösungen sind wir auf dem Gesundheitsmarkt als wertvoller Partner geschätzt."
@@ -1156,12 +1541,16 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "host": "https://systhemis.de/"
+      }
     },
     {
       "key": "WUEWW-2019-209",
       "start": "2019-04-03T19:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Dr. Tristan Behrens (AI-Guru)",
         "infotext": "Tristan Behrens (AI Guru) ist KI-Experte und zertifizierter Yogalehrer. Sein Ziel ist, die frohe Kunde des Deep Learnings in die Welt zu tragen: Heute ist Künstliche Intelligenz etwas, was beinahe jeder machen kann. Und künstliche Intelligenz wird die Gesellschaft nachhaltig formen."
@@ -1178,12 +1567,41 @@
       },
       "tags": [
         "KI"
-      ]
+      ],
+      "link": {
+        "event": "https://www.meetup.com/de-DE/Wurzburg-Deep-Learning-Meetup/events/259087093",
+        "host": "https://www.meetup.com/de-DE/Wurzburg-Deep-Learning-Meetup/events/259087093"
+      }
+    },
+    {
+      "key": "WUEWW-2019-300",
+      "start": "2019-04-04T09:00:00+02:00",
+      "end": "2019-04-04T17:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Simplifier AG",
+        "infotext": "Als Würzburger Softwarehersteller der Low-Code Plattform Simplifier ermöglicht die Simplifier AG die nachhaltige Digitalisierung von Unternehmensprozessen. Die Kernkompetenz liegt dabei auf der konfigurativen Erstellung (Low-Code) von integrierten Unternehmensanwendungen, die auf modernen und innovativen (Web)-Technologien basieren. Dies ermöglicht integrierte Business und IoT Applikationen nachhaltig zu erstellen, um Digitalisierungsstrategien effizienter umzusetzen. Dabei können nicht nur bestehende Systemlandschaften, Maschinen und Anlagen integriert, sondern auch Applikationen geräte- und betriebssystemunabhängig ohne großen Programmieraufwand erstellt werden. Simplifier eignet sich demnach sowohl für die Digitalisierung interner Geschäftsprozesse, als auch für die Entwicklung neuer digitaler Geschäftsmodelle. Der Hauptsitz in der Universitätsstadt Würzburg ermöglicht es der Simplifier AG, Kunden und Partner aus der DACH-Region optimal zu betreuen und sichert den Zuwachs an ambitionierten Nachwuchskräften."
+      },
+      "title": "Create business apps with Low-Code",
+      "location": {
+        "name": "Simplifier AG\nNürnberger Str. 47A\n97076 Würzburg",
+        "lat": 49.796938,
+        "lng": 9.960413
+      },
+      "description": {
+        "short": "Bei diesem Hackathon möchten wir interessierten IT-Experten das Thema Low-Code und deren Einsatzmöglichkeiten näher bringen.",
+        "long": "Bei diesem Hackathon möchten wir interessierten IT-Experten das Thema Low-Code und deren Einsatzmöglichkeiten näher bringen.\n\nDie Teilnehmer werden dabei in den Prozess eingebunden und erhalten erste Berührungspunkte im Umgang mit einer Low-Code-Plattform. Am Ende des Tages soll jeder Teilnehmer selbst eine App nach Vorgabe erstellt haben."
+      },
+      "link": {
+        "event": "https://www.simplifier.io/wuerzburg-web-week-2019/",
+        "host": "https://www.simplifier.io/"
+      }
     },
     {
       "key": "WUEWW-2019-335",
       "start": "2019-04-04T09:00:00+02:00",
       "end": "2019-04-04T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Bosch Rexroth",
         "infotext": "Bosch Rexroth sorgt als ein weltweit führender Anbieter von Antriebs- und Steuerungstechnologien für effiziente, leistungsstarke und sichere Bewegung in Maschinen und Anlagen jeder Art und Größenordnung. Das Unternehmen bündelt weltweite Anwendungserfahrungen in den Marktsegmenten Mobile Anwendungen, Anlagenbau und Engineering sowie Fabrikautomation. Mit intelligenten Komponenten, maßgeschneiderten Systemlösungen sowie Dienstleistungen schafft Bosch Rexroth die Voraussetzungen für vollständig vernetzbare Anwendungen. Bosch Rexroth bietet seinen Kunden Hydraulik, Elektrische Antriebs- und Steuerungstechnik, Getriebetechnik sowie Linear- und Montagetechnik einschließlich Software und Schnittstellen ins Internet der Dinge. Mit einer Präsenz in mehr als 80 Ländern erwirtschafteten mehr als 30.500 Mitarbeiter 2017 einen Umsatz von 5,5 Milliarden Euro."
@@ -1200,12 +1618,16 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "host": "https://www.boschrexroth.com/de/de/"
+      }
     },
     {
       "key": "WUEWW-2019-319",
       "start": "2019-04-04T09:00:00+02:00",
       "end": "2019-04-04T13:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "eology GmbH",
         "infotext": "eology ist eine auf Suchmaschinenmarketing spezialisierte Online Marketing Agentur. Mit den Kernkompetenzen Search Engine Optimization, Paid Advertising, Content Creation und Content Outreach unterstützt das Experten-Team die Kunden dabei, mit ihren Webseiten oder Onlineshops sichtbarer im Netz zu werden."
@@ -1218,32 +1640,18 @@
       },
       "description": {
         "short": "Wir zeigen euch echte Keyfindings im Bereich SEA und SEO, sowie die aktuellen Trends und Updates für 2019.",
-        "long": "Kurzer Einstieg in die Welt des Online Marketings sowie Vermittlung von Know How im Bereich SEO & SEA\nSEO: Wie betreibt man seriöses SEO im Jahr 2019? Und mit welchen Werkzeugen kann ich mein Ranking bei Google effektiv beeinflussen? Was funktioniert und was funktioniert (nicht) mehr? \nSEA: Tipps und Tricks zur Steigerung der Performance Ihrer SEA-Kampagnen\nInklusive: Frühstück und Mittagessen \n"
-      }
-    },
-    {
-      "key": "WUEWW-2019-300",
-      "start": "2019-04-04T09:00:00+02:00",
-      "end": "2019-04-04T17:00:00+02:00",
-      "host": {
-        "name": "Simplifier AG",
-        "infotext": "Als Würzburger Softwarehersteller der Low-Code Plattform Simplifier ermöglicht die Simplifier AG die nachhaltige Digitalisierung von Unternehmensprozessen. Die Kernkompetenz liegt dabei auf der konfigurativen Erstellung (Low-Code) von integrierten Unternehmensanwendungen, die auf modernen und innovativen (Web)-Technologien basieren. Dies ermöglicht integrierte Business und IoT Applikationen nachhaltig zu erstellen, um Digitalisierungsstrategien effizienter umzusetzen. Dabei können nicht nur bestehende Systemlandschaften, Maschinen und Anlagen integriert, sondern auch Applikationen geräte- und betriebssystemunabhängig ohne großen Programmieraufwand erstellt werden. Simplifier eignet sich demnach sowohl für die Digitalisierung interner Geschäftsprozesse, als auch für die Entwicklung neuer digitaler Geschäftsmodelle. Der Hauptsitz in der Universitätsstadt Würzburg ermöglicht es der Simplifier AG, Kunden und Partner aus der DACH-Region optimal zu betreuen und sichert den Zuwachs an ambitionierten Nachwuchskräften."
+        "long": "Kurzer Einstieg in die Welt des Online Marketings sowie Vermittlung von Know How im Bereich SEO & SEA\nSEO: Wie betreibt man seriöses SEO im Jahr 2019? Und mit welchen Werkzeugen kann ich mein Ranking bei Google effektiv beeinflussen? Was funktioniert und was funktioniert (nicht) mehr? \n\nSEA: Tipps und Tricks zur Steigerung der Performance Ihrer SEA-Kampagnen\nInklusive: Frühstück und Mittagessen "
       },
-      "title": "Create business apps with Low-Code",
-      "location": {
-        "name": "Simplifier AG\nNürnberger Str. 47A\n97076 Würzburg",
-        "lat": 49.796938,
-        "lng": 9.960413
-      },
-      "description": {
-        "short": "Bei diesem Hackathon möchten wir interessierten IT-Experten das Thema Low-Code und deren Einsatzmöglichkeiten näher bringen.",
-        "long": "Bei diesem Hackathon möchten wir interessierten IT-Experten das Thema Low-Code und deren Einsatzmöglichkeiten näher bringen.\n\nDie Teilnehmer werden dabei in den Prozess eingebunden und erhalten erste Berührungspunkte im Umgang mit einer Low-Code-Plattform. Am Ende des Tages soll jeder Teilnehmer selbst eine App nach Vorgabe erstellt haben."
+      "link": {
+        "event": "https://www.eology.de/treffen-sie-uns/wuerzburg-web-week/",
+        "host": "https://www.eology.de/"
       }
     },
     {
       "key": "WUEWW-2019-325",
       "start": "2019-04-04T09:30:00+02:00",
       "end": "2019-04-04T11:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -1260,12 +1668,17 @@
       },
       "tags": [
         "CRM"
-      ]
+      ],
+      "link": {
+        "event": "https://barc.de/events/wueww19",
+        "host": "https://barc.de/"
+      }
     },
     {
       "key": "WUEWW-2019-302",
       "start": "2019-04-04T10:00:00+02:00",
       "end": "2019-04-04T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Career Centre der Universität Würzburg",
         "infotext": "Das Career Centre der Universität Würzburg ist die Schnittstelle zwischen Uni und Berufswelt und unterstützt alle Studierenden bei der Vorbereitung auf den Berufeinstieg mit Beratungen, Vorträgen und Seminaren zu verschiedensten Schlüsselkompetenzen.\n\n"
@@ -1279,12 +1692,17 @@
       "description": {
         "short": "Das Medienrecht wird für die private und öffentliche Information und Kommunikation in digitalen Medien immer wichtiger. Was man beachten muss.",
         "long": "Was muss ich auf Instagram als Werbung kennzeichnen und welche Vorgaben gibt es hierbei? Brauchen Let’s Player eine Rundfunklizenz?\n\nDies sind spannende Fragen zum Thema Medienrecht, das die private und öffentliche Information und Kommunikation regelt. Durch die fortschreitende Digitalisierung werden rechtliche Regelungen immer wichtiger und betreffen immer mehr Menschen. Der Vortrag berücksichtigt dabei Rechtsaspekte der neuen Datenschutzgrundverordnung und des neuen Medienstaatsvertrags und will euch einen Durchblick im digitalen Gesetzesdschungel geben. Nach dem Vortrag bleibt Zeit für eure Fragen und zum Diskutieren.\n\nReferent: Johannes Nehlsen, Universität Würzburg, Jurist im Rechenzentrum in der Stabsstelle IT-Recht, Lizenzmanagement, E-Procurement.\n\nHinweis:\n\nDie Veranstaltung richtet sich nicht nur an Studierende der Uni Würzburg, alle Interessierten sind herzlich eingeladen.\n\nDer Besuch der Veranstaltung ist auch ohne Anmeldung möglich, allerdings bittet das Career Centre zur besseren Raumplanung um einen kurzen Teilnahmewunsch per E-Mail an direkt@uni-wuerzburg.de."
+      },
+      "link": {
+        "event": "http://go.uniwue.de/cc206",
+        "host": "http://www.uni-wuerzburg.de/career"
       }
     },
     {
       "key": "WUEWW-2019-303",
       "start": "2019-04-04T10:00:00+02:00",
       "end": "2019-04-04T13:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "snapADDY GmbH",
         "infotext": "Die snapADDY GmbH ist ein 2015 gegründetes Technik-Startup aus Würzburg und vertreibt Software für Vertriebs- und Marketingmitarbeiter im Innen- und Außendienst. Der snapADDY Grabber unterstützt dabei den Mitarbeiter im Innendienst bei der Adresspflege, -recherche und der Kontaktübernahme in CRM-Systeme. snapADDY VisitReport ist für den Mitarbeiter im Außendienst konzipiert und ersetzt frühere Besuchsbögen."
@@ -1302,12 +1720,17 @@
       "tags": [
         "Start-up",
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "http://www.snapaddy.com/wueww",
+        "host": "https://www.snapaddy.com/de/"
+      }
     },
     {
       "key": "WUEWW-2019-333",
       "start": "2019-04-04T13:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Garmin"
       },
@@ -1319,12 +1742,16 @@
       },
       "description": {
         "long": "Ziehen Sie mit Garmin-Uhren Ihre Bahnen im Sandermare und erleben Sie die vielfältigen Auswertemöglichkeiten. \n\nWie viel Software und Technik aus Würzburg steckt in den Produkten? Unsere Kollegen sind vor Ort und informieren Sie ausführlich. #beat yesterday.\n\nAnmeldungen erbeten an katrin.oppel@garmin.com"
+      },
+      "link": {
+        "event": "katrin.oppel@garmin.com"
       }
     },
     {
       "key": "WUEWW-2019-304",
       "start": "2019-04-04T13:30:00+02:00",
       "end": "2019-04-04T16:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Internet von Senioren für Senioren e. V.",
         "infotext": "\"Wir sind ein gemeinnütziger Verein mit ehrenamtlichen Helfern. Unser Ziel ist es, älteren interessierten Menschen mit angepassten Methoden und zu günstigen Bedingungen den Umgang mit Computer oder smartphone/Tablet und Internet beizubringen und die Medienkompetenz der älteren Menschen zu steigern.\nWir haben ein Internetcafe in Würzburg, Ludwigkai 12 - St. Thekla, das an drei Tagen in der Woche geöffnet hat.\nDienstag: 9 bis 12 Uhr\nMittwoch: 13.30 bis 16.30 Uhr\nDonnerstag: 13.30 bis 16.30 Uhr\""
@@ -1341,12 +1768,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "http://www.i4s.de",
+        "host": "http://www.i4s.de"
+      }
     },
     {
       "key": "WUEWW-2019-305",
       "start": "2019-04-04T14:00:00+02:00",
       "end": "2019-04-04T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Online Rebellion",
         "infotext": "Die Online Rebellion ist als digitale Unternehmensberatung spezialisiert auf das umfassende Online Marketing von kleinen und mittelständischen Unternehmen im Bereich datengetriebenes Performance Marketing."
@@ -1360,12 +1792,20 @@
       "description": {
         "short": "Online Marketing war gestern. Full performance customer journey, Digitalisierung ist heute. ",
         "long": "In unserem kostenlosen Workshop „Full performance customer journey“ bekommst du die wichtigsten Tipps für erfolgreiches Online Marketing an die Hand. Katapultiere dein Business ganz nach oben und zieh an der Konkurrenz vorbei – es wird Zeit!\n\nDu willst 2019 richtig Gas im Online Marketing geben? Perfekt!\n\nIn unserem Workshop im Rahmen der Würzburg Web Week zeigen wir dir, wie modernes Performance Marketing funktioniert. Außerdem bekommst du einen Blick hinter die Kulissen und siehst, wie unser junges Unternehmen funktioniert, wie wir erfolgreich eigene Marken entwickeln und wie wir unser Netz aus Kooperationspartner und Kunden ständig vergrößern."
+      },
+      "tags": [
+        "Einsteiger"
+      ],
+      "link": {
+        "event": "https://www.online-rebellion.de/wuerzburg-web-week/",
+        "host": "https://www.online-rebellion.de/"
       }
     },
     {
       "key": "WUEWW-2019-306",
       "start": "2019-04-04T14:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "TakeNet GmbH",
         "infotext": "Die Firma TAKENET GmbH ist Full-Service-Dienstleister. Wir bieten Lösungen im gesamten IT-Bereich an. Dazu gehören Infrastrukturprojekte, Soft- und Hardware-Lösungen, IT-Outsourcing und Sicherheit."
@@ -1379,12 +1819,60 @@
       "description": {
         "short": "Die Verschlüsselung und Signatur elektronischer Nachrichten ist wichtiger denn je. Wir zeigen, wie das mit SEPPmail einfach und sicher gelingt.",
         "long": "Die Verschlüsselung und Signatur elektronischer Nachrichten ist heutzutage wichtiger denn je. Allerdings erwiesen sich bisherige Lösungen als teuer, unhandlich und aufwändig. So setzen sie beispielsweise eine spezifische Software beim externen Empfänger oder auf jedem Client-PC voraus. Dank SEPPmail gehören diese Hürden der Vergangenheit an. Das Versenden und Empfangen verschlüsselter und signierter E-Mails erfolgt in der gewohnten Mail-Umgebung. Dabei übernimmt die am Gateway installierte Secure E-Mail Appliance von SEPPmail automatisch sämtliche Aufgaben, ohne die User zu belasten. \n\nTakeNet ist IT. Mit Sicherheit!"
+      },
+      "link": {
+        "event": "https://wueww.de/events/2019/4-april/easy-secure-mit-seppmail/",
+        "host": "https://www.takenet.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-311",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "FHWS + krick.com GmbH & Co. KG",
+        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
+      },
+      "title": "Homepage-Battle für Studierende",
+      "location": {
+        "name": "FHWS Campus in der Zellerau\nRaum F 0.11 im EG\nFriedrichstr. 17a\n97082 Würzburg",
+        "lat": 49.796476,
+        "lng": 9.91316
+      },
+      "description": {
+        "short": "Der Homepage-Battle-Workshop für Studenten bietet wieder attraktive Gewinne für die besten Teilnehmer.",
+        "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
+      },
+      "link": {
+        "event": "https://www.iwelt.de/einblicke/veranstaltungen/homepage-battle/",
+        "host": "https://www.fhws.de/fakultaeten/wirtschaftswissenschaften/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-323",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "cancelled": true,
+      "host": {
+        "name": ""
+      },
+      "title": "Das Bürgerbräu bei der Web Week",
+      "location": {
+        "name": "Bürgerbräu\nBox\nFrankfurter Straße 87\n97082 Würzburg",
+        "lat": 49.794177,
+        "lng": 9.894154
+      },
+      "description": {
+        "short": "ABGESAGT",
+        "long": "ABGESAGT"
       }
     },
     {
       "key": "WUEWW-2019-317",
       "start": "2019-04-04T14:00:00+02:00",
       "end": "2019-04-04T15:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Generationen-Zentrum Matthias Ehrenfried e. V.",
         "infotext": "Das Generationen-Zentrum Matthias Ehrenfried e. V. ist ein katholisches Bildungs- und Begegnungszentrum und gehört der Diözesan- und Landesarbeitsgemeinschaft für katholische Erwachsenenbildung an. Unser Haus im Herzen der Stadt lädt Menschen ein, die sich bilden wollen oder Räume der Begegnung suchen. Ziel ist es, dem gesellschaftlichen Trend der Vereinsamung entgegenzuwirken."
@@ -1401,48 +1889,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
-    },
-    {
-      "key": "WUEWW-2019-323",
-      "start": "2019-04-04T14:00:00+02:00",
-      "end": "2019-04-04T18:00:00+02:00",
-      "host": {
-        "name": ""
-      },
-      "title": "Das Bürgerbräu bei der Web Week",
-      "location": {
-        "name": "Bürgerbräu\nBox\nFrankfurter Straße 87\n97082 Würzburg",
-        "lat": 49.794177,
-        "lng": 9.894154
-      },
-      "description": {
-        "long": "Gleich eine Reihe von Innovationsunternehmen, die auf dem Würzburger Bürgerbräu Gelände ihren Sitz haben, stellen Konzepte und Lösungen im Rahmen der Web Week gemeinsam vor. Am Donnerstag, den 4.4. laden die Unternehmen ab 14 Uhr in die „Box“ ein, ein Präsentationszentrum auf dem Gelände. Die einzelnen Vorträge, Workshops und Präsentationen richten sich an Designer, die Automobilbranche und Hotellerie/Gastronomie.\n\nWeitere Details folgen demnächst.\n\nOrt: Box, Bürgebräu\nParkplätze gegenüber\nStraßenbahnhaltestelle „Bürgerbräu“ (Line 2, 4)"
-      }
-    },
-    {
-      "key": "WUEWW-2019-311",
-      "start": "2019-04-04T14:00:00+02:00",
-      "end": "2019-04-04T18:00:00+02:00",
-      "host": {
-        "name": "FHWS + krick.com GmbH & Co. KG",
-        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
-      },
-      "title": "Homepage-Battle für Studierende",
-      "location": {
-        "name": "FHWS Campus in der Zellerau\nRaum F 0.11 im EG\nFriedrichstr. 17a\n97082 Würzburg",
-        "lat": 49.796476,
-        "lng": 9.91316
-      },
-      "description": {
-        "short": "Der Homepage-Battle-Workshop für Studenten bietet wieder attraktive Gewinne für die besten Teilnehmer.",
-        "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
+      ],
+      "link": {
+        "event": "http://www.generationen-zentrum.com",
+        "host": "http://www.generationen-zentrum.com"
       }
     },
     {
       "key": "WUEWW-2019-330",
       "start": "2019-04-04T14:00:00+02:00",
       "end": "2019-04-04T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "webfactor media GmbH",
         "infotext": "webfactor media GmbH ist eine Software-Agentur aus Würzburg mit den Schwerpunkten auf App- und Web-Entwicklung sowie Digitalisierung von Prozessen in Unternehmen (Handwerk, Dienstleistung u.v.m.)."
@@ -1459,12 +1916,17 @@
       },
       "tags": [
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "https://doodle.com/poll/nr9i2gtan3vux7rr",
+        "host": "https://webfactor.de"
+      }
     },
     {
       "key": "WUEWW-2019-307",
       "start": "2019-04-04T16:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "rockenstein AG",
         "infotext": "Die rockenstein AG ist ein Internet-Service-Provider aus Würzburg und bietet Unternehmen seit über 25 Jahren individuelle und leistungsstarke Lösungen rund um ihre Kernkompetenzen Rechenzentren, globale Netzwerke, Cloud Services und IT-Management an."
@@ -1483,12 +1945,17 @@
         "Datenschutz",
         "Digitalisierung",
         "Netzinfrastruktur"
-      ]
+      ],
+      "link": {
+        "event": "https://www.rockenstein.de/wueww",
+        "host": "https://www.rockenstein.de/"
+      }
     },
     {
       "key": "WUEWW-2019-320",
       "start": "2019-04-04T16:00:00+02:00",
       "end": "2019-04-04T19:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "s.Oliver Bernd Freier GmbH & Co. KG",
         "infotext": "Fashion & Tech – das ist die s.Oliver Group. Mit über 300 Tech- und Digital-Experten aus Bereichen wie SAP, DevOps, Web & Mobile Development, IT-Architektur-Management, Innovation und E-Commerce sind wir einer der wichtigsten Treiber im Bereich FashionTech.\n\nDie 1969 von Bernd Freier gegründete s.Oliver Group hat sich innerhalb weniger Jahrzehnte zu einem der führenden europäischen Modeunternehmen entwickelt und begeistert Menschen rund um den Globus mit internationalem Anspruch an Mode. Als große Unternehmensfamilie vereint der Konzern unterschiedliche Lebensstile, die sich in den Marken s.Oliver RED LABEL, s.Oliver BLACK LABEL, Q/S designed by, TRIANGLE, comma, comma CI und LIEBESKIND BERLIN ausdrücken."
@@ -1502,12 +1969,17 @@
       "description": {
         "short": "Erlebe die digitale Welt der s.Oliver Group in Vorträgen und an unseren Tech-Ständen, u. a. zu Web Development, SAP, Cloud, Data Pooling und vielen mehr.",
         "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt. Themen u. a. Innovation & Start-Up-Kooperationen, Docker & Continuous Deployment für Dev & OPs, Cross-Plattform App-Development mit Xamarin, SAP, Cloud & OneDrive, Mac, Data Pooling & Machine Learning.\n\nDas haben wir vor:\n\n16.00 Uhr        Begrüßung\n16.05 Uhr        Kurzvorstellung der Stände\n16.30 Uhr        Cross-Plattform App-Development mit Xamarin\n17.00 Uhr        Docker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr        Wie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr        Innovation@s.Oliver Group\n18.00 Uhr        Der Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr        Apple im Corporate Einsatz\n\nAnmelden: Philipp.Werner@de.soliver.com oder über XING/Meetup:\n\nhttps://www.xing.com/events/fashion-tech-transformation-event-wurzburg-web-week-2058938\nhttps://www.meetup.com/de-DE/Fashion-Tech-Transformation/events/258701418/"
+      },
+      "link": {
+        "event": "Philipp.Werner@de.soliver.com\n",
+        "host": "https://wueww.de/speaker/s-oliver-bernd-freier-gmbh-und-co-kg/"
       }
     },
     {
       "key": "WUEWW-2019-326",
       "start": "2019-04-04T16:00:00+02:00",
       "end": "2019-04-04T17:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -1521,12 +1993,20 @@
       "description": {
         "short": "Erhalten Sie Hintergründe, Tipps und Tricks zu Einsatzgebieten und Vorgehensweisen von Dokumenten- & Prozessmanagement.",
         "long": "Einsatz, Vorgehen und Trends für erfolgreiches Kundenbeziehungsmanagement\n\nGutes CRM ist die Voraussetzung für erfolgreiche Unternehmen – Kundenerwartungen verstehen und erfüllen. Dies stellt hohe Anforderungen an Organisation, Kommunikation und eingesetzte Werkzeuge. Auf der Basis langjähriger Beratungserfahrung werden Einsatzgebiete, Trends und Vorgehensweisen aufgezeigt und ein Marktüberblick gegeben. Im Anschluss bietet sich die Gelegenheit für einen lockeren Austausch."
+      },
+      "tags": [
+        "Business Process Management"
+      ],
+      "link": {
+        "event": "https://barc.de/events/wueww19",
+        "host": "https://barc.de/"
       }
     },
     {
       "key": "WUEWW-2019-327",
       "start": "2019-04-04T16:00:00+02:00",
       "end": "2019-04-04T17:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -1540,12 +2020,21 @@
       "description": {
         "short": "Software kann Business Analysten unterstützen, es gibt aber Grenzen. Wir zeigen, welche und welche Kenntnisse Business Analysten besitzen sollten.",
         "long": "Data Science für Business Analysten – Warum und wie Business Analysten zur Datenanalyse befähigen\n\nImmer mehr Business-Intelligence-Werkzeuge bieten fortgeschrittene Methoden der Datenanalyse sowie Funktionalitäten der Datenaufbereitung. Hinzu kommt, dass Fachanwender zunehmend in einen Dialog mit Data Scientists treten müssen, um Use Cases zu identifizieren und die Ergebnisse mathematischer Analysen zu verstehen. Dies erfordert von Anwendern ein grundlegendes Verständnis der Vorgehensweise der wichtigsten Analysekonzepte sowie die Fähigkeit, den Output fortgeschrittener Analysemethoden richtig interpretieren zu können. Software kann Business Analysten dabei unterstützen, allerdings gibt es dabei Grenzen. Der Vortrag zeigt aktuelle Ansätze der Softwareunterstützung für Business Analysten sowie welche Kenntnisse Business Analysten besitzen sollten, um effektiv in Data-Science-Projekten mitzuarbeiten."
+      },
+      "tags": [
+        "Analytics",
+        "Data Science"
+      ],
+      "link": {
+        "event": "https://barc.de/events/wueww19",
+        "host": "https://barc.de/"
       }
     },
     {
       "key": "WUEWW-2019-308",
       "start": "2019-04-04T16:30:00+02:00",
       "end": "2019-04-04T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "IGZ Würzburg mit ZDI Mainfranken"
       },
@@ -1561,12 +2050,17 @@
       },
       "tags": [
         "Digitalisierung"
-      ]
+      ],
+      "link": {
+        "event": "anmeldung@igz.wuerzburg.de",
+        "host": "http://www.igz.wuerzburg.de/"
+      }
     },
     {
       "key": "WUEWW-2019-309",
       "start": "2019-04-04T16:30:00+02:00",
       "end": "2019-04-04T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "eResearchTechnology GmbH",
         "infotext": "eResearchTechnology (ERT) ist ein globales Daten- und IT-Technologieunternehmen, das die forschende Pharmaindustrie im medizintechnischen Sektor bei der Durchführung klinischer Studien unterstützt. Die Schwerpunkte sind EKG, Lungenfunktion, elektronische Patiententagebücher, Webapplikationen zur Datenauswertung und Imaging. Wir minimieren Risiken und Unsicherheit für die Zulassung neuer Produkte oder Medikamente. Unser Beitrag daran, das Leben von Patienten zu verbessern motiviert uns jeden Tag!"
@@ -1583,12 +2077,17 @@
       },
       "tags": [
         "UX/UI"
-      ]
+      ],
+      "link": {
+        "event": "https://www.xing.com/events/creating-living-ui-ux-styleguide-2074666",
+        "host": "https://www.ert.com/"
+      }
     },
     {
       "key": "WUEWW-2019-310",
       "start": "2019-04-04T17:00:00+02:00",
       "end": "2019-04-04T19:15:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "IHK Würzburg-Schweinfurt",
         "infotext": "Die IHK Würzburg-Schweinfurt ist Erstansprechpartner für Existenzgründer und Start-ups und bietet zahlreiche Unterstützungsangebote (Beratung, Qualifizierung, Mentorenprogramme, Netzwerkplattformen, Stellungnahmen etc.).\n\n"
@@ -1605,12 +2104,17 @@
       },
       "tags": [
         "Start-up"
-      ]
+      ],
+      "link": {
+        "event": "https://events.wuerzburg.ihk.de/fehlerkultur",
+        "host": "http://www.xing.com/net/gruenderszene-mainfranken"
+      }
     },
     {
       "key": "WUEWW-2019-312",
       "start": "2019-04-04T17:00:00+02:00",
       "end": "2019-04-04T18:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "lauterbach kreativbetreuung e.K.",
         "infotext": "Die lauterbach kreativbetreuung e.K. ist eine Marketingagentur für auffällige, authentische Kommunikation. Ihr Leistungsspektrum vereint Design, Strategie und Events unter einem Dach. So kann jedes Detail perfekt aufeinander abgestimmt werden."
@@ -1627,12 +2131,17 @@
       },
       "tags": [
         "Social Media"
-      ]
+      ],
+      "link": {
+        "event": "agentur@kreativbetreuung.de",
+        "host": "https://www.kreativbetreuung.de"
+      }
     },
     {
       "key": "WUEWW-2019-318",
       "start": "2019-04-04T17:00:00+02:00",
       "end": "2019-04-04T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "WITTENSTEIN SE\n",
         "infotext": "Die WITTENSTEIN SE entwickelt kundenspezifische Produkte, Systeme und Lösungen für hochdynamische Bewegung, präziseste Positionierung und intelligente Vernetzung in der mechatronischen Antriebstechnik. Im Zentrum unserer Forschungs- und Entwicklungsaktivitäten steht die digitale Transformation, die Entwicklung von smarten Produkten und Services und einer smarten Produktion mit Hilfe von Softwareentwicklung, Datenanalyse und Sensorik."
@@ -1650,12 +2159,17 @@
       "tags": [
         "HR",
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "keine Anmeldung erforderlich",
+        "host": "http://www.wittenstein-jobs.de"
+      }
     },
     {
       "key": "WUEWW-2019-313",
       "start": "2019-04-04T17:30:00+02:00",
       "end": "2019-04-04T19:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Patrick Hamacher, Lukas Kagerbauer, Ralf Thees",
         "infotext": "Wir betreiben alle einen Podcast – WUEconomics, Versicherungsgeflüster Podcast sowie Würzblog-Podcast – und möchten unsere Erfahrungen gerne mit interessierten Personen teilen."
@@ -1672,12 +2186,16 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "mail@wueconomics.de"
+      }
     },
     {
       "key": "WUEWW-2019-332",
       "start": "2019-04-04T17:00:00+02:00",
       "end": "2019-04-04T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Starthouse Spessart",
         "infotext": "Um an ein Ziel zu kommen, muss man loslaufen. Doch von wo aus, wie und wohin? Bei diesen Fragen unterstützt das Starthouse Spessart. In den neu geschaffenen, modernen Räumlichkeiten finden Gründer ideale Bedingungen vor, um erste Schritte zu gehen. Das Gründerzentrum setzt auf individuelle Hilfestellung, Coaching und Innovationsmethoden. Digitale Pioniere bekommen die notwendigen Werkzeuge an die Hand und werden zusätzlich in ein starkes Netzwerk regionaler Unternehmen aufgenommen. Dadurch entsteht ein Innovations-Ökosystem, das Wirtschaft, Wissenschaft und Gesellschaft vereint."
@@ -1695,12 +2213,16 @@
       "tags": [
         "Digitalisierung",
         "Start-up"
-      ]
+      ],
+      "link": {
+        "event": "LStraub@lohr.de"
+      }
     },
     {
       "key": "WUEWW-2019-334",
       "start": "2019-04-04T17:30:00+02:00",
       "end": "2019-04-04T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "B2B Media Group GmbH",
         "infotext": "Branding, Display, Leads, Content, Social Media und noch viel mehr – über die Jahre hat sich die B2B Media Group europaweit einen Namen als führender B2B-Zielgruppenvermarkter gemacht. Der datengetriebene Ansatz eint unsere Produkte: Eine eigene Datenbank, eigene Technologien und eigene fachspezifische Content-Plattformen ermöglichen die exakte Ansprache hochspezialisierter spitzer B2B-Zielgruppen. Mit Büros in London, Paris, München, Würzburg und Augsburg ist die B2B Media Group europaweit vertreten. Im B2B-Markt gehört sie zu den wachstumsstärksten Unternehmen."
@@ -1714,12 +2236,17 @@
       "description": {
         "short": "Erfahre, wie Daten Dein B2B-Onlinemarketing beflügeln. Komm zu digitalen Brückenschoppen!",
         "long": "Wir freuen uns auf den ersten digitalen Brückenschoppen im Rahmen der WUEWW. Daher laden wir alle ein, die sich mit Onlinemarketing beschäftigen. Bei einem Frankenwein tauschen wir uns zu Trends im datengetriebenen Marketing aus – das Networking soll dabei nicht zu kurz kommen. Geplant ist folgender Ablauf:\n\n- Weinausschank\n- Impulsvortrag „Datengetriebenes B2B-Onlinemarketing“ (max. 10 Min)\n- Vorstellungsrunde Teilnehmer\n- Networking mit Open End\n"
+      },
+      "link": {
+        "event": "mareike.kotscha@b2bmg.net",
+        "host": "http://www.b2bmg.net"
       }
     },
     {
       "key": "WUEWW-2019-314",
       "start": "2019-04-04T18:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Andreas Pabst",
         "infotext": "Andreas ist als Digital Native quasi von kleinauf in der digitalen Welt unterwegs. Dabei stand für ihn von Beginn an die Softwareentwicklung im Vordergrund. Nach einigen Stationen in namhaften globalen Unternehmen und dutzenden Großprojekten lebt er die agilen Methoden sowie Netzwerken und ist bestens vertraut mit Projektmanagementaufgaben und lateralem Führen."
@@ -1731,12 +2258,16 @@
       },
       "tags": [
         "Digitalisierung"
-      ]
+      ],
+      "link": {
+        "host": "https://www.andreaspabst.com/"
+      }
     },
     {
       "key": "WUEWW-2019-315",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "eResearchTechnology GmbH",
         "infotext": "eResearchTechnology (ERT) ist ein globales Daten- und IT-Technologieunternehmen, das die forschende Pharmaindustrie im medizintechnischen Sektor bei der Durchführung klinischer Studien unterstützt. Die Schwerpunkte sind EKG, Lungenfunktion, elektronische Patiententagebücher, Webapplikationen zur Datenauswertung und Imaging. Wir minimieren Risiken und Unsicherheit für die Zulassung neuer Produkte oder Medikamente. Unser Beitrag daran, das Leben von Patienten zu verbessern motiviert uns jeden Tag!"
@@ -1753,12 +2284,17 @@
       },
       "tags": [
         "DevOps"
-      ]
+      ],
+      "link": {
+        "event": "https://www.xing.com/events/devops-for-microservice-platform-2075799",
+        "host": "https://www.ert.com/"
+      }
     },
     {
       "key": "WUEWW-2019-321",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T18:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "schmitt kommuniziert.",
         "infotext": "schmitt kommuniziert versteht sich als vordenkender Partner für strategische Kommunikation. Die PR-Boutique ebnet mittelständischen Unternehmen und Start-ups den Weg, wenn es um ihren Auftritt in den Medien und im Internet geht. Auf Grundlage von Content Strategien schafft schmitt kommuniziert nachhaltigen PR-Erfolg und etabliert Marken. Die Agentur positioniert KMUs in den Medien und unterstützt Vertriebsziele."
@@ -1772,12 +2308,17 @@
       "description": {
         "short": "Klassische und digitale PR ist ein Schlüssel zum Erfolg. Wie ihr vorgeht, erfahrt ihr im Vortrag.",
         "long": "PR ist auch im digitalen Zeitalter ein Schlüssel zum Erfolg: Eine starke Präsenz in Print- und Online-Medien macht Sie am Markt bekannt. Im Vortrag von Michael C. Schmitt, Inhaber der PR-Boutique schmitt kommuniziert, erfahren Sie kurz und kompakt: \n\n- Wie Sie Ihr Unternehmen bekannt machen und sich vom Wettbewerb abheben\n- Wie Sie mit PR Leads generieren \n- Wie PR zur Suchmaschinenoptimierung (SEO) beiträgt\n\nDer Impulsvortrag ist Teil einer Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG). "
+      },
+      "link": {
+        "event": "hello@schmitt-kommuniziert.de",
+        "host": "https://www.schmitt-kommuniziert.de"
       }
     },
     {
       "key": "WUEWW-2019-322",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T21:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Deutsche Public Relations Gesellschaft (DPRG)\n",
         "infotext": "Die Deutsche Public Relations Gesellschaft e.V. (DPRG) ist der Verband der Kommunikations-Professionals in Deutschland. Im Mittelpunkt stehen Networking, Knowledge-Sharing und Austausch. Die DPRG bildet die Vielfalt der Kommunikationsbranche in Deutschland ab: von freien Kommunikationsberatern bis zu Geschäftsführern namhafter Agenturen oder Kommunikationsleitern von börsennotierten Unternehmen. Die Regionalgruppe Würzburg bietet regelmäßige Veranstaltungen an."
@@ -1791,12 +2332,17 @@
       "description": {
         "short": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. In dem Vortrag zeigt Alexander Mereien, wie ein Webcast produziert wird.",
         "long": "Bewegtbild spielt für die Unternehmenskommunikation eine immer wichtigere Rolle. Mit viel Potenzial verbunden sind Web-Casts – eine Live-Übertragung ins Internet und eine besonders dynamische Form von Videos.\n\nIm Rahmen der Veranstaltung der Deutschen Public Relations Gesellschaft (DPRG) zeigt Alexander Mereien, Experte für Projektkommunikation, wie ein Webcast produziert wird. Der Vortrag wird live ins Internet gestreamt. Als Zuschauer wirken Sie aktiv mit an der Übertragung.\n\nDie Teilnahme ist kostenfrei."
+      },
+      "link": {
+        "event": "https://eventtool.outline.de/dprg/events/echtzeit-kommunikation-mit-webcasts-wuerzburg-web-week-am-4-april",
+        "host": "https://dprg-online.de/"
       }
     },
     {
       "key": "WUEWW-2019-328",
       "start": "2019-04-04T18:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -1809,13 +2355,18 @@
       },
       "description": {
         "short": "Das Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken. Wir zeigen, wie es genau funktioniert und was man beachten soll.",
-        "long": "Die zentralen Fragen bei Jobs-to-be-done lauten: Warum kauft ein Kunde dein Produkt/deine Dienstleistung und welche Aufgabe möchte er/sie damit erfüllen?\n\nDas Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken.\n\nWarum ist das überhaupt notwendig?\n\nWir meinen zu wissen, was der Kunde braucht, aber allzu oft basieren die offensichtlichen Antworten auf falschen Annahmen. Mithilfe von sogenannten Job Stories werden die wahren Bedürfnisse des Nutzers festgehalten. Wobei Jobs als Problem oder Bedürfnis zu verstehen sind.\n\nIn diesem Kurz-Workshop werden wir mit einer kurzen Einführung hinter die Ideen und Konzepte von JTBD eintauchen, um anschließend gemeinsam an einem praktischen Beispiel Bedürfnisse und Anforderungen von Nutzern in Job Stories zu formulieren.\n\nSkill-Level: Einsteiger\nVorkenntnisse: Keine\nMin. Teilnehmer: 4\nMax. Teilnehmer: 12\n\n"
+        "long": "Die zentralen Fragen bei Jobs-to-be-done lauten: Warum kauft ein Kunde dein Produkt/deine Dienstleistung und welche Aufgabe möchte er/sie damit erfüllen?\n\nDas Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken.\n\nWarum ist das überhaupt notwendig?\n\nWir meinen zu wissen, was der Kunde braucht, aber allzu oft basieren die offensichtlichen Antworten auf falschen Annahmen. Mithilfe von sogenannten Job Stories werden die wahren Bedürfnisse des Nutzers festgehalten. Wobei Jobs als Problem oder Bedürfnis zu verstehen sind.\n\nIn diesem Kurz-Workshop werden wir mit einer kurzen Einführung hinter die Ideen und Konzepte von JTBD eintauchen, um anschließend gemeinsam an einem praktischen Beispiel Bedürfnisse und Anforderungen von Nutzern in Job Stories zu formulieren.\n\nSkill-Level: Einsteiger\nVorkenntnisse: Keine\nMin. Teilnehmer: 4\nMax. Teilnehmer: 16"
+      },
+      "link": {
+        "event": "https://www.meetup.com/de-DE/UX-Usability-Meetup-Unterfranken/events/259118747/",
+        "host": "https://mayflower.de/"
       }
     },
     {
       "key": "WUEWW-2019-329",
       "start": "2019-04-04T18:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -1827,16 +2378,22 @@
         "lng": 9.968068
       },
       "description": {
-        "long": "Mehr Informationen demnächst"
+        "short": "Refactoring? Wenn Zeit ist oder es gar nicht mehr anders geht. Clean Code? Wäre schön, aber Projektstress ... Zeit für das Brutal Refactoring Game!",
+        "long": "Refactoring? Ja, ist wichtig – wenn Zeit ist oder es gar nicht mehr anders geht. Clean Code? Wäre schön, aber Projektstress ...\n\nKommt dir bekannt vor? Zeit für das Brutal Refactoring Game!\n\nWie bei anderen Coding Dojos oder Katas setzt ihr im Pair-Programming eine Aufgabe um und müsst darauf achten, Code- und Test-Smells wie \"Unnecessary if\", \"Primitive Obsession\", \"No Assert\" oder \"Too many Paths\" zu vermeiden. Falls der Moderator einen (oder mehrere) der 17 Smells entdeckt, muss das erst gefixt werden, bevor ihr weiterentwickeln dürft.\n\nModeriert wird das Brutal Refactoring Game von Mitgliedern der Nürnberger Softwerkskammer. Die Teilnahme ist kostenlos, eine Anmeldung jedoch erforderlich, da wir max. 20 Plätze haben.\n\nRequirements\n\nBitte bringt euren Laptop mit. Erforderlich ist ein bereits vorinstalliertes Unittest-Framework, das mit der präferierten Sprache des Teilnehmers zusammenarbeitet.\n\nTeilnehmer müssen bereits vor der Session in der Lage sein, einen Unittest zu schreiben und auch auszuführen.\n\nRückfragen gerne an tom.wiesseckel@mayflower.de."
       },
       "tags": [
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "https://developercamp.io/vorabendprogramm",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-331",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Main-Post GmbH",
         "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
@@ -1849,13 +2406,18 @@
       },
       "description": {
         "short": "Wie die Zahlen aus dem Netz die Redaktion unterstützen und helfen in Echtzeit zu erkennen, was die Nutzer auf mainpost.de lesen wollen.",
-        "long": "Eine ganze Reihe von Tools helfen der Redaktion in Echtzeit zu erkennen, was die Nutzer auf mainpost.de lesen wollen. Ziel ist es, möglichst relevante Themen zu setzen. Wie die Zahlen aus dem Netz die digitale Themenfindung unterstützen. Präsentation und Diskussion.\n\nVoranmeldung notwendig.\n\n"
+        "long": "Eine ganze Reihe von Tools helfen der Redaktion in Echtzeit zu erkennen, was die Nutzer auf mainpost.de lesen wollen. Ziel ist es, möglichst relevante Themen zu setzen. Wie die Zahlen aus dem Netz die digitale Themenfindung unterstützen. Präsentation und Diskussion.\n\nVoranmeldung notwendig."
+      },
+      "link": {
+        "event": "https://www.mainpost.de/wueww2019",
+        "host": "https://www.mediengruppe-mainpost.de/"
       }
     },
     {
       "key": "WUEWW-2019-324",
       "start": "2019-04-04T18:15:00+02:00",
       "end": "2019-04-04T19:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Masterstudiengang Marken- und Medienmanagement der Hochschule Würzburg-Schweinfurt",
         "infotext": "Marken- und Medienmanagement, kurz M3ve, ist der erfolgreichste Masterstudiengang der Hochschule Würzburg-Schweinfurt mit jährlich 250 bis 300 Bewerbern. Die 30 Studierenden pro Jahrgang erlernen auf Basis des Würzburger Marken-Management-Modells alle Feinheiten der Markenführung und des Medienmanagements. Zwei Praxisprojekte mit Unternehmen aus der Region runden das in Deutschland einzigartige Studienangebot ab.\n\n"
@@ -1873,12 +2435,17 @@
       "tags": [
         "Social Media",
         "E-Commerce"
-      ]
+      ],
+      "link": {
+        "event": "Keine Anmeldung erforderlich; Rückfragen bitte per E-Mail an karsten.kilian@fhws.de",
+        "host": "http://www.m3ve.de"
+      }
     },
     {
       "key": "WUEWW-2019-316",
       "start": "2019-04-04T18:30:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "VINTIN GmbH",
         "infotext": "Wir sind eines der führenden IT-Häuser in DACH für Cloud, IT-Security & Systems sowie Netzwerktechnik und Rechenzentrum. Unser Consulting Team, die „Wolkenmacher“, berät Unternehmen rund um Digital Business Transformation und Cloud Innovation.\n\n"
@@ -1892,12 +2459,19 @@
       "description": {
         "short": "Data Management & Intelligence: Einblicke in die Welt der Daten; bei VINTIN am 4. April 2018 ab 18h30",
         "long": "Matthias Kübert, Cloud Data Pioneer der VINTIN Wolkenmacher demonstriert anhand einer Teststellung, wie wichtig Data Management & Intelligence für neuartige Anwendungen in der Cloud sind. Freuen Sie sich auf tiefe Einblicke in die Welt der Daten!"
+      },
+      "tags": [
+        "Data Science"
+      ],
+      "link": {
+        "host": "https://www.vintin.de/"
       }
     },
     {
       "key": "WUEWW-2019-414",
       "start": "2019-04-05T07:00:00+02:00",
       "end": "2019-04-05T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "WürzburgWiki",
         "infotext": "Das WürzburgWiki ist ein Online-Nachschlagewerk für Würzburg und Umgebung und besteht seit 2009. Als Stadtwiki hat es sich zur Aufgabe gemacht alle Arten von Informationen über Würzburg zu beinhalten und so das Würzburger Wissen zu vereinen. Es entsteht ausschließlich durch die ehrenamtliche Arbeit freiwilliger Autoren. Mittlerweile gehört es zu den größten und erfolgreichsten Stadtwikis im deutschsprachigen Raum."
@@ -1912,12 +2486,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "https://wuerzburgwiki.de/wiki/W%C3%BCrzburgWiki:WueWW-Stra%C3%9Fenjagd",
+        "host": "https://wuerzburgwiki.de"
+      }
     },
     {
       "key": "WUEWW-2019-400",
       "start": "2019-04-05T09:00:00+02:00",
       "end": "2019-04-05T14:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "FHWS ",
         "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
@@ -1934,12 +2513,16 @@
       },
       "tags": [
         "Start-up"
-      ]
+      ],
+      "link": {
+        "host": "https://www.fhws.de/"
+      }
     },
     {
       "key": "WUEWW-2019-401",
       "start": "2019-04-05T09:00:00+02:00",
       "end": "2019-04-05T22:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -1958,12 +2541,17 @@
         "DevOps",
         "Software Development",
         "UX/UI"
-      ]
+      ],
+      "link": {
+        "event": "https://developercamp.io/",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-405",
       "start": "2019-04-05T09:00:00+02:00",
       "end": "2019-04-05T22:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -1981,12 +2569,17 @@
       "tags": [
         "Software Development",
         "UX/UI"
-      ]
+      ],
+      "link": {
+        "event": "https://create.developercamp.io/",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-408",
       "start": "2019-04-05T09:30:00+02:00",
       "end": "2019-04-05T11:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -2000,31 +2593,20 @@
       "description": {
         "short": "Wie kann kreatives, exploratives Arbeiten strukturiert werden? Wir geben einen Überblick, wie man vorgeht und und welche Ergebnisse zu erwarten sind. ",
         "long": "Data Science Prototypen – exploratives Arbeiten strukturieren\n\nData Science Projekte starten üblicherweise mit der Prototypisierung, einem sogenannten Proof of Concept. Hier werden Ideen anhand konkreter Daten erprobt und ein mathematischer Ansatz identifiziert. Die Prototypisierung ist geprägt von iterativer Suche nach Lösungsansätzen für Datenaufbereitung, Modellierung und Ergebnisdarstellung. Wie aber kann kreatives, exploratives Arbeiten strukturiert werden? In welchen Phasen geht man vor und welche Ergebnisse sind zu erwarten? Warum muss das Scheitern Proof of Concepts mit einkalkuliert werden und in welchen Zeiträumen sollte hier gedacht werden?\n\nDer Vortrag gibt einen Überblick über die folgenden Punkte:\n\n- Ablauf analytischer Projekte\n- Rollen & Interaktionen\n- Fallstricke und Ursachen des Scheiterns\n- Schritt in die Operationalisierung"
-      }
-    },
-    {
-      "key": "WUEWW-2019-413",
-      "start": "2019-04-05T10:00:00+02:00",
-      "end": "2019-04-05T12:00:00+02:00",
-      "host": {
-        "name": "SFT der Julius-Maximilians-Universität Würzburg",
-        "infotext": "Das SFT steht für Servicezentrum Forschung und Technologietransfer. Wir sind Ihr Ansprechpartner für Fragen zu Forschungsförderung und Existenzgründung, Patentwesen und Technologietransfer an Julius-Maximilians-Universität Würzburg und Universitätsklinikum. Wir fördern den Wissenstransfer und bauen Brücken in die Wirtschaft."
       },
-      "title": "Ethik am digitalen Arbeitsplatz",
-      "location": {
-        "name": "SFT-Lounge \nJosef-Martin-Weg 54/2\n97074 Würzburg",
-        "lat": 49.7867279,
-        "lng": 9.9721458
-      },
-      "description": {
-        "short": "Philosophie trifft Informatik: Workshop \"Ethik am digitalen Arbeitsplatz\" max 15 kostenfreie Plätze",
-        "long": "Der Arbeitsplatz hat sich mit der Digitalisierung grundsätzlich in vielen Branchen geändert. Es ist vieles Neues hinzugekommen wie Home Office oder Videokonferenzen. Man ist nicht mehr nur persönlich, sondern auch per E-Mail, Twitter, Chat usw. erreichbar. Arbeiten wir durch die Digitalisierung mehr mit- oder gegeneinander? Wie handle ich richtig unter dem Zeitdruck? Dieser und anderen Fragen widmet sich der Workshop „Ethik am digitalen Arbeitsplatz“ der Austauschplattform „Philosophie trifft“."
+      "tags": [
+        "Data Science"
+      ],
+      "link": {
+        "event": "https://barc.de/events/wueww19",
+        "host": "https://barc.de/"
       }
     },
     {
       "key": "WUEWW-2019-402",
       "start": "2019-04-05T10:00:00+02:00",
       "end": "2019-04-05T13:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Career Centre der Universität Würzburg",
         "infotext": "Das Career Centre der Universität Würzburg ist die Schnittstelle zwischen Uni und Berufswelt und unterstützt alle Studierenden bei der Vorbereitung auf den Berufeinstieg mit Beratungen, Vorträgen und Seminaren zu verschiedensten Schlüsselkompetenzen."
@@ -2038,12 +2620,17 @@
       "description": {
         "short": "Wie nutze ich das Web optimal für Bewerbungen? Antworten gibt es in diesem Workshop. ",
         "long": "Wie betreibe ich mein persönliches Bewerbungsmanagement und wie trete ich proaktiv mit meinem potentiellen Arbeitgeber online in Kontakt? Wie nutze ich das Web optimal für das Thema Bewerbung?\n\nDiese Fragen werdet ihr am Ende des Workshops ganz sicher beantworten können. Wir beleuchten, wie ihr aus Bewerbersicht Jobportale richtig und erfolgreich nutzen könnt, was es auf Xing, Monster, Stepstone und Absolventa alles zu beachten gilt, wie ihr Lebenslaufdatenbanken bedient und was es eigentlich mit Metajobbörsen so auf sich hat.\n\nBitte bringt bei Interesse euren eigenen Laptop mit. Wir werden gemeinsam auf Xing unterwegs sein und das Networken und die Jobsuche auf diesem Business-Portal anschaulich erklären.\n\nHinweis: \n\nDie Veranstaltung richtet sich nicht nur an Studierende der Uni Würzburg, alle Interessierten sind herzlich eingeladen.\n\nDer Besuch der Veranstaltung ist auch ohne Anmeldung möglich, allerdings bittet das Career Centre zur besseren Raumplanung um einen kurzen Teilnahmewunsch per E-Mail an direkt@uni-wuerzburg.de. "
+      },
+      "link": {
+        "event": "http://go.uniwue.de/cc804",
+        "host": "https://www.uni-wuerzburg.de/career/startseite/"
       }
     },
     {
       "key": "WUEWW-2019-411",
       "start": "2019-04-05T10:00:00+02:00",
       "end": "2019-04-05T11:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Internetcafe des Seniorenforums in Kooperation mit Nadine Lexa, MAS\n",
         "infotext": "Das Seniorenforum ist eine Gemeinschaftsaktivität der Seniorenvertretung im Seniorenbeirat der Stadt Würzburg sowie dem Internetcafe „Von Senioren für Senioren“ in Zusammenarbeit mit der Beratungsstelle für Senioren der Stadt Würzburg und dem Kommunalunternehmen des Landkreises Würzburg, im Rahmen der Initiative „Alter schafft Neues“ und des Programms „Aktiv im Alter\". \n\nNadine Lexa, MAS ist gelernte Krankenschwester, hat viele Jahre auf einer Palliativstation gearbeitet, einen Master in Palliative Care und studiert seit drei Semestern \"Digitalisierung und Sozialstrukturwandel\" an der Hochschule Neubrandenburg."
@@ -2060,12 +2647,40 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "host": "http://seniorenforum-wuerzburg.de"
+      }
+    },
+    {
+      "key": "WUEWW-2019-413",
+      "start": "2019-04-05T10:00:00+02:00",
+      "end": "2019-04-05T12:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "SFT der Julius-Maximilians-Universität Würzburg",
+        "infotext": "Das SFT steht für Servicezentrum Forschung und Technologietransfer. Wir sind Ihr Ansprechpartner für Fragen zu Forschungsförderung und Existenzgründung, Patentwesen und Technologietransfer an Julius-Maximilians-Universität Würzburg und Universitätsklinikum. Wir fördern den Wissenstransfer und bauen Brücken in die Wirtschaft."
+      },
+      "title": "Ethik am digitalen Arbeitsplatz",
+      "location": {
+        "name": "SFT-Lounge \nJosef-Martin-Weg 54/2\n97074 Würzburg",
+        "lat": 49.7867279,
+        "lng": 9.9721458
+      },
+      "description": {
+        "short": "Philosophie trifft Informatik: Workshop \"Ethik am digitalen Arbeitsplatz\" max 15 kostenfreie Plätze",
+        "long": "Der Arbeitsplatz hat sich mit der Digitalisierung grundsätzlich in vielen Branchen geändert. Es ist vieles Neues hinzugekommen wie Home Office oder Videokonferenzen. Man ist nicht mehr nur persönlich, sondern auch per E-Mail, Twitter, Chat usw. erreichbar. Arbeiten wir durch die Digitalisierung mehr mit- oder gegeneinander? Wie handle ich richtig unter dem Zeitdruck? Dieser und anderen Fragen widmet sich der Workshop „Ethik am digitalen Arbeitsplatz“ der Austauschplattform „Philosophie trifft“."
+      },
+      "link": {
+        "event": "stanislav.pilischenko@uni-wuerzburg.de",
+        "host": "go.uniwue.de/sft"
+      }
     },
     {
       "key": "WUEWW-2019-415",
       "start": "2019-04-05T10:30:00+02:00",
       "end": "2019-04-05T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Empolis Information Management GmbH",
         "infotext": "Empolis unterstützt Kunden dabei, die richtigen Entscheidungen zu treffen. Weltweit gibt es derzeit ca. 500 Empolis-Installationen und täglich nutzen rund 700.000 professionelle User unsere Lösungen, um damit etwa 40 Millionen Endkunden zu bedienen. Wir bündeln Technologien der künstlichen Intelligenz für CRM- und Service-Management in Cloudlösungen. Diese ermöglichen eine völlig neue Servicequalität, Kundenansprache und digitale Geschäftsmodelle."
@@ -2082,12 +2697,17 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "moritz.ollmert@empolis.com",
+        "host": "https://www.empolis.com/"
+      }
     },
     {
       "key": "WUEWW-2019-406",
       "start": "2019-04-05T12:30:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "weXelerate & Starthouse im Spessart",
         "infotext": "Seit 2016 machen Andreas Bachmann und Patrick Fischer mit ihrem Unternehmen weXelerate Menschen und Unternehmen fit für die Digitalisierung. Die Basis ihrer Leistungen sind fünf Jahrzehnte branchenübergreifende Erfahrung in der Unternehmensführung, in Digitalisierungsprojekten sowie in Beratung und Training."
@@ -2104,12 +2724,17 @@
       },
       "tags": [
         "Digitalisierung"
-      ]
+      ],
+      "link": {
+        "event": "https://www.xing.com/events/impulsvortrag-wueww-1-0-welt-4-0-2059933",
+        "host": "https://wexelerate.de/"
+      }
     },
     {
       "key": "WUEWW-2019-412",
       "start": "2019-04-05T13:00:00+02:00",
       "end": "2019-04-05T15:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "inics - daten & prozesse",
         "infotext": "inics - daten & prozesse berät Unternehmen und Organisationen im Bereich Informationsmanagement sowie intelligenter Datenanalyse und realisiert mit modernen Technologien zukunftssichere Analytics-Lösungen."
@@ -2123,15 +2748,24 @@
       "description": {
         "short": "Wie funktioniert das mit Unternehmensdaten? Welche Chancen liegen in Entwicklungen wie Big Data, Cloud oder AI? Dies und mehr gibt es im Vortrag.",
         "long": "Intelligent Analytics – effizientes Arbeiten mit Unternehmensdaten\n\nSuchmaschinen sind Mittel der Wahl für die Beschaffung von Informationen – einfach per Klick. Doch wie funktioniert das mit Unternehmensdaten? Wie kann ein „flexibles Reporting“ aussehen und wie bleiben wachsende Datenmengen beherrschbar? Welche Risiken gilt es zu beachten und welche Chancen liegen in Entwicklungen wie Big Data, Cloud oder AI? Darauf gibt Ralf Säugling in seinem Vortrag „Intelligent Analytics – effizientes Arbeiten mit Unternehmensdaten“ Antwort und diskutiert mit Ihnen über das zukunftskritische Thema Datenkompetenz.\n\nReferent: Ralf Säugling – Geschäftsführer der inics GmbH\n\nDie Veranstaltung richtet sich an alle Interessierten: Vom Unternehmens-Entscheider über „Datenakrobaten“ bis hin zu Studierenden. Die Teilnahme ist kostenfrei, um eine Anmeldung über info@inics.de wird gebeten."
+      },
+      "tags": [
+        "Business Process Management",
+        "Data Science"
+      ],
+      "link": {
+        "event": "info@inics.de",
+        "host": "https://inics.de/"
       }
     },
     {
       "key": "WUEWW-2019-403",
       "start": "2019-04-05T14:00:00+02:00",
       "end": "2019-04-05T16:00:00+02:00",
+      "cancelled": false,
       "host": {
-        "name": "Würzburger Business Coach Akademie & Agentur heldenstreich",
-        "infotext": "Heldenstreich ist eine Agentur für Employer Branding und Unternehmenskommunikation. Die Business Coach Akademie bildet Sie zum Business Coach aus. Die beiden Unternehmen verbindet die Kooperation „Finde deine Könner“."
+        "name": "Agentur heldenstreich mit Würzburger Business Coach Akademie",
+        "infotext": "In unseren Projekten tun wir alles dafür, dass der Will-ich-haben-Effekt im Betrachter entsteht. Wir überlassen nichts dem Zufall. Nicht das kleinste Pixel und nicht das kleinste Wörtchen. Das ist es, was wir so an unserer Arbeit lieben. Wenn sich Schritt für Schritt diese unwiderstehliche Wirkung entfaltet – ob in einer Kampagne, in einer Recruiting-Strategie, auf einer Website oder auf einem Flyer."
       },
       "title": "Pop-up Recruiting Café",
       "location": {
@@ -2145,12 +2779,17 @@
       },
       "tags": [
         "HR"
-      ]
+      ],
+      "link": {
+        "event": "Anmelden unter Tel 0931-465 856 69 oder E-Mail: sf@heldenstreich.com",
+        "host": "http://www.heldenstreich.com\n"
+      }
     },
     {
       "key": "WUEWW-2019-113",
       "start": "2019-04-02T15:00:00+02:00",
       "end": "2019-04-02T17:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Vogel Communications Group"
       },
@@ -2163,12 +2802,16 @@
       "description": {
         "short": "Das Fachmedium \"Next Industry\" lädt zur Diskussion: Digitale Transformation im Mittelstand - was geht? Mit Branchenexperten und Exponanten.",
         "long": "Das Fachmedium „Next Industry“ lädt zur Diskussion: Digitale Transformation im Mittelstand – was geht? Mit Branchenexperten und Exponanten.\n\nEintritt frei, Anmeldung erbeten unter christine.bausenwein@vogel.de"
+      },
+      "link": {
+        "host": "https://www.vogel.de/"
       }
     },
     {
       "key": "WUEWW-2019-404",
       "start": "2019-04-05T16:00:00+02:00",
       "end": "2019-04-05T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "webfellows UG",
         "infotext": "webfellows ist eine auf Shopware und HubSpot spezialisierte Multimedia-Agentur der ersten Stunde mit dem Schwerpunkt auf Konzeption, Realisierung und Weiterentwicklung von Onlineshops sowie deren Vermarktung und Marketing."
@@ -2187,12 +2830,17 @@
         "E-Commerce",
         "CRM",
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "https://www.webfellows.eu/anmeldung-wueww/",
+        "host": "https://www.webfellows.eu"
+      }
     },
     {
       "key": "WUEWW-2019-410",
       "start": "2019-04-05T16:30:00+02:00",
       "end": "2019-04-05T17:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Priotic GmbH",
         "infotext": "Priotic GmbH steht für effiziente und zukunftsorientierte Logistik. Unser Ziel ist es, Unternehmen bei der digitalen Transformation sämtlicher Logistikprozesse zu beraten und zu begleiten. Wir setzen auf die SAP-Lösungen S/4HANA sowie das Lagerverwaltungssystem SAP EWM in Verbindung mit neuen Innovationen. Unser Hauptaugenmerk ist die professionelle und nachhaltige Beratung unserer Kunden sowie die Entwicklung maßgeschneiderter Produkte für die Logistikbranche.\n\n"
@@ -2206,12 +2854,17 @@
       "description": {
         "short": "Sprachassistenten haben seit der Einführung schon viel geplappert und gewaltig viel Neues gelernt.",
         "long": "Der nächste Schritt in der Evolution der Eingabegeräte ist nun also die Sprache. Unterstützt von künstlicher Intelligenz, die im Hintergrund das gesprochene Wort in Befehle für die Maschine umwandelt. Und wir sind mittendrin in dieser Entwicklung, in der sich problemlos das ganze Haus per Sprache fernbedienen lässt. Damit ist für den bequemen Benutzer Zuhause schon viel erledigt worden, aber was macht das Geschäft?"
+      },
+      "link": {
+        "event": "kontakt@priotic.de",
+        "host": "https://www.priotic.de/"
       }
     },
     {
       "key": "WUEWW-2019-409",
       "start": "2019-04-05T17:00:00+02:00",
       "end": "2019-04-05T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Brand & Partner und Würzburger Akademie 4.0 e.V."
       },
@@ -2223,13 +2876,14 @@
       },
       "description": {
         "short": "Zehn Fachleute und Experten formulieren, wie Mobilität - intelligent von A nach B zu kommen - in der digitalen Zukunft aussehen wird (und kann).",
-        "long": "Auto 4.0 bedeutet, vor allem die Zukunft des Verkehrssystems neu zu denken und zu gestalten. Auch in Würzburg und Mainfranken. Alte Denkschablonen zählen nicht mehr - oder nur stark eingeschränkt. Zehn Fachleute und Experten, auch aus Würzburg und Mainfranken, aus der Automobil-Branche, der Hochschule, TESLA-, VW- oder Fahrrad-Fahrer formulieren, wie Mobilität - intelligent von A nach B zu kommen - in der digitalen Zukunft aussehen wird (und kann)."
+        "long": "Auto 4.0 bedeutet, vor allem die Zukunft des Verkehrssystems neu zu denken und zu gestalten. Auch in Würzburg und Mainfranken. Alte Denkschablonen zählen nicht mehr – oder nur stark eingeschränkt. Zehn Fachleute und Experten diskutieren und formulieren, wie Mobilität – intelligent von A nach B zu kommen – in der digitalen Zukunft aussehen wird (und kann).\n\nEs diskutieren im Panel:\n\n1. Moderation: Gerhard Brand, M.Sc.\n\n2. Robert Hämmelmann, Metallbau Hämmelmann, Wü-Heidingsfeld. TESLA-Fahrer, ZOE-Besitzer,Solar-Anlage mit ca. 35 KiloWattPeak (KWP) – Würzburgs „beste“ Ladesäule an der Autobahn A3\n\n3. Nikolaus Woltmann, Stellv. Vorsitzender WÜ-Akademie 4.0, außerdem am Lehrstuhl Prof. Hilgendorf (Roboterrecht) – Künstliche Intelligenz im Auto, rechtlicher Rahmen Roboterrecht – internationale Perspektive\n\n4. Andreas Schubert, Autohaus Echterstraße GmbH – Innovations- und Technologie-Management und Vertrieb von Elektromobilität und Fahrassistenzsystemen – Auto 4.0\n\n5. Dr. Christian Loos, Klima-Allianz Würzburg – Würzburger Akademie 4.0 – Verkehrswende in Würzburg – VCD Deutschland\n\n6. Christian Göpfert, M.Sc. – Stadt Würzburg – Transformation des Würzburger Verkehrssystems – Green City Projekt\n\n7. N.N. Mercedes AG, Stuttgart Zukunftskonzept eines deutschen Autobauers zum Verkehrssystem der globalen Zukunft\n\n8. N.N. Spindler GmbH, Würzburg – Der Golf IQ, AUDI e-tron und …\n\n9. Wolfgang Roth (angefragt) Stadtrat, CSU Würzburg: Seilbahn als urbanes Verkehrsmittel in Würzburg und Bayern\n\n10. Jens Scheiner oder Kollege/Kollegin Fachzeitschrift Automobilindustrie, Vogel Communications Group"
       }
     },
     {
       "key": "WUEWW-2019-407",
       "start": "2019-04-05T17:30:00+02:00",
       "end": "2019-04-05T20:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "STARTUP TEENS mit ZDI Mainfranken & IHK Würzburg-Schweinfurt\n",
         "infotext": "Die Non-Profit-Initiative STARTUP TEENS hat es sich zur Aufgabe gemacht, Schülerinnen und Schülern unternehmerisches Denken und Handeln beizubringen. So sollen in Zukunft mehr Gründer, Unternehmensnachfolger und Intrapreneure hervorgebracht werden. Neben Online-Training, einem großen Mentoren-Netzwerk und dem mit 7 x 10.000 Euro am höchsten dotierten Businessplan-Wettbewerb für Schülerinnen und Schüler in Deutschland, führt STARTUP TEENS auch bundesweit Events und Ideen-Camps durch. Alle Bausteine sind für die Jugendlichen kostenfrei."
@@ -2246,12 +2900,17 @@
       },
       "tags": [
         "Start-up"
-      ]
+      ],
+      "link": {
+        "event": "https://www.startupteens.de/site/event",
+        "host": "https://www.startupteens.de/"
+      }
     },
     {
       "key": "WUEWW-2019-213",
       "start": "2019-04-05T18:00:00+02:00",
       "end": "2019-04-05T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Main-Post GmbH",
         "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie eine ganze Reihe digitaler Angebote."
@@ -2268,12 +2927,17 @@
       },
       "tags": [
         "Digitale Transformation"
-      ]
+      ],
+      "link": {
+        "event": "https://www.mainpost.de/wueww2019",
+        "host": "https://www.mediengruppe-mainpost.de/"
+      }
     },
     {
       "key": "WUEWW-2019-001",
       "start": "2019-04-01T15:00:00+02:00",
       "end": "2019-04-01T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "WueWW",
         "infotext": "Die Wuerzburg Web Week ist eine Dachveranstaltung, die alle gesellschaftlichen Gruppen in Mainfranken zusammenbringt, die mit dem Thema Digitalisierung zu tun haben. Dazu zählen Unternehmen und Selbstständige ebenso wie Schulen, Hochschulen, Netzwerke, Vereine und interessierte Bürger. Das Besondere: Jeder kann eine Veranstaltung anbieten und so das Programm aktiv mitgestalten."
@@ -2285,13 +2949,18 @@
         "lng": 9.900713
       },
       "description": {
+        "short": "Die offizielle Eröffungsveranstaltung der Wuerzburg Web Week 2019 mit Kurzvorstellungen der Meetups, Vorträgen und einer Lesung.",
         "long": "Wir möchten auch in diesem Jahr mit einer Eröffnungsveranstaltung in die Woche starten und euch die Möglichkeit bieten, euch zu vernetzen und auszutauschen.\n\nEs wird ein kleines Rahmenprogramm geben mit einer Kurzvorstellung von Meetups, derer es ja inzwischen zahlreiche gibt. Im Anschluss zeigen Kurzvorträge, was aktuell in Sachen Digitalisierung in Mainfranken passiert. Und auch die Kultur darf nicht zu kurz kommen: Daniel wird aus den Büchern \"Qualityland\" sowie \"NSA\" vorlesen.\n\nGeplanter Ablauf:\n\n15:00 Uhr\tAnkommen\n15:30 Uhr\tVorstellen der Meetups (max. 1 Minute pro Meetup)\n16:00 Uhr\tKurzvorträge\n17:30 Uhr\tLesung aus Qualityland und NSA\nBis ca. 19:00 Uhr\tAusklang und Zeit für Networking\n\n\nEinfach vorbeikommen, eine Anmeldung ist nicht notwendig."
+      },
+      "link": {
+        "host": "https://wueww.de/\n\n"
       }
     },
     {
       "key": "WUEWW-2019-004",
       "start": "2019-04-01T10:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "Deutsche Rentenversicherung Bund",
         "infotext": "An zwei Standorten in Würzburg kümmern wir uns als Datenstelle der Rentenversicherung (DSRV) mit ca. 200 Mitarbeitern seit über 40 Jahren kundenorientiert um zentrale IT-Aufgaben der Rentenversicherung. Dazu zählt neben der Vergabe der Versicherungsnummer auch die elektronische Kommunikation zwischen den Rentenversicherungsträgern untereinander sowie zu den Versicherten und anderen Behörden im In- und Ausland."
@@ -2305,12 +2974,21 @@
       "description": {
         "short": "Wie stellt sich die Datenstelle der Rentenversicherung als Daten-Dienstleister dem digitalen Wandel?",
         "long": "Die Datenstelle der Rentenversicherung ist einer der zentralen Kommunikationspartner innerhalb der Sozialversicherung. Vom Versicherten bis zu Behörden im In- und Ausland werden hier täglich Daten ausgetauscht und weitergeleitet.\n\nWie begegnet man dabei den vielfältigen gesellschaftlichen und technologischen Herausforderungen, die die Digitalisierung mit sich bringt? Mit verschiedenen aktuellen Projekten soll diese Frage beantwortet und ein Einblick in die tägliche Arbeit gegeben werden."
+      },
+      "tags": [
+        "Digitale Transformation",
+        "Digitalisierung"
+      ],
+      "link": {
+        "event": "florian.stratil@drv-bund.de",
+        "host": "https://www.dsrv.info/"
       }
     },
     {
       "key": "WUEWW-2019-008",
       "start": "2019-04-01T10:00:00+02:00",
       "end": "2019-04-01T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -2327,14 +3005,18 @@
       },
       "tags": [
         "Einsteiger",
-        "Entwickler",
-        "Developer"
-      ]
+        "Software Development"
+      ],
+      "link": {
+        "event": "https://www.meetup.com/de-DE/developercampgermany/events/259469178\n",
+        "host": "https://mayflower.de/"
+      }
     },
     {
       "key": "WUEWW-2019-007",
       "start": "2019-04-01T12:00:00+02:00",
       "end": "2019-04-01T14:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "fusic - makes IT work",
         "infotext": "fusic - makes IT work. IT-Lösungsdesigner / Systemhaus / Cloud und Hosting. Seit mehr als 10 Jahren in Würzburg."
@@ -2348,12 +3030,45 @@
       "description": {
         "short": "HyperV / S2D / Hyperconverged / Linux auf Windows - schaut mit uns bei einer Pizza in den Maschinenraum unserer Hostingplattform!",
         "long": "HyperV / S2D / Hyperconverged / Linux auf Windows: Wir laden bei einer leckeren Pizza zu einem exklusiven Blick in den Maschinenraum unserer Hostingplattform ein. Mehr als 115 Linux und Windows Maschinen laufen parallel und hochverfügbar auf einem S2D-System von DellEMC/Microsoft auf einem Dutzend Höheneinheiten.\n\nFür die Pizzabestellung freuen wir uns über eine Anmeldung!"
+      },
+      "link": {
+        "event": "event@fusic.de",
+        "host": "http://www.fusic.de"
+      }
+    },
+    {
+      "key": "WUEWW-2019-009",
+      "start": "2019-04-01T13:30:00+02:00",
+      "end": "2019-04-01T15:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Internationaler Start-up Club @ FHWS",
+        "infotext": "Internationale Studierende aller Fakultäten - unterstützt durch das FHWS Projekt BEST-FIT, PIONIER und Prof. Dr.-Ing. Volker Bräutigam."
+      },
+      "title": "Opening Start-up Club@FHWS",
+      "location": {
+        "name": "FHWS Würzburg-Schweinfurt\nKreativlabor DENK:werk\nGebäude 11\nIgnaz-Schön-Str. 11\n97421 Schweinfurt",
+        "lat": 50.04546,
+        "lng": 10.2185513
+      },
+      "description": {
+        "short": "The Start-Up Club @ FHWS is a weekly meeting of students interested in starting their own business or learning more about start-up world.",
+        "long": "The Start-Up Club @ FHWS is …\n\n… a weekly meeting of students (from both international & German programs) with interest/intention in starting their own business, or simply getting informed about the world of start-ups.\n\nThe club is planned to be a safe environment where students are able to brainstorm & share their ideas within each other, In addition to learning the legal and technical ways of starting a business in Germany.\nClub Founder: student Abdullah Al Rubaye.\n\nFeel welcome to join us!\n\nDer Start-Up Club @ FHWS ist …\n\n… ein wöchentliches Treffen von Studenten (aus internationalen und deutschen Programmen), die Interesse und die Absicht haben, ein eigenes Unternehmen zu gründen oder sich einfach über die Welt der Start-ups zu informieren.\n\nDer Club soll eine sichere Umgebung sein, in der die Studierenden ihre Ideen untereinander austauschen und die rechtlichen und technischen Möglichkeiten zur Unternehmensgründung in Deutschland kennenlernen können. Club-Gründer: Student Abdullah Al Rubaye.\n\nKomm einfach vorbei und lerne uns kennen!"
+      },
+      "tags": [
+        "Einsteiger",
+        "Start-up"
+      ],
+      "link": {
+        "event": "monika.waschik@fhws.de",
+        "host": "http://www.fhws.de/hochschule/best-fit/"
       }
     },
     {
       "key": "WUEWW-2019-006",
       "start": "2019-04-01T15:00:00+02:00",
       "end": "2019-04-01T17:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "YAVEON AG",
         "infotext": "Die YAVEON Gruppe ist ein führendes Beratungs- und IT-Dienstleistungsunternehmen für chargen- und rezepturorientierte Unternehmen aus Chemie, Pharma, Nahrungsmittel und Medizintechnik. Auf der Basis von Microsoft-Technologie entwickeln und implementieren wir Business-Lösungen, die den hohen Anforderungen der Branchen entsprechen. Durch unser umfangreiches Prozesswissen und unsere Methodik schaffen wir das Fundament einer nachhaltigen Prozessoptimierung und erhöhen so den wirtschaftlichen Erfolg unserer Kunden. YAVEON gehört zu den Top 2 % der Microsoft Partner weltweit. "
@@ -2367,12 +3082,17 @@
       "description": {
         "short": "Office 365 bietet eine breite Palette an Funktionen, Möglichkeiten und Potential für Anwender und Unternehmen. Mehr dazu in diesem Vortrag.",
         "long": "Digitalisierung – ist die Sau schon aus dem Dorf gejagt?\n\nImmer diese „Digitalisierung“ …\n\nDie IT-Industrie diskutiert fröhlich über die „Digitalisierung“ – für Unternehmen wie jeden Einzelnen ein schwer greifbarer Begriff. Aus gutem Grund, denn die Digitalisierung hat viele Facetten. Wo stehen Sie? Sie wissen es schon ganz genau oder vielleicht noch gar nicht? Kommen Sie vorbei!\n\nStets zu Diensten – Office 365\n\nWir sprechen mit Ihnen über das Grundlegende, wie die Unterschiede zwischen Office und Office 365. Das alles passiert natürlich anhand von Beispielen aus aller Welt – Office 365 kann hier Ihren privaten und beruflichen Alltag erheblich unterstützen. Melden Sie sich dafür bitte gleich unter dem unten angegebenen Link an. Wir freuen uns auf Sie!\n"
+      },
+      "link": {
+        "event": "https://www.yaveon.de/wuerzburg-web-week-624.html",
+        "host": "https://www.yaveon.de"
       }
     },
     {
       "key": "WUEWW-2019-002",
       "start": "2019-04-01T16:00:00+02:00",
       "end": "2019-04-01T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Stadtbücherei",
         "infotext": "Die Stadtbücherei ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultur- und Bildungseinrichtung der Stadt Würzburg. Wir fördern Lese-, Informations- und Medienkompetenz auf vielseitigen Wegen. Wir stehen allen Interessierten offen."
@@ -2382,12 +3102,20 @@
         "name": "Stadtbücherei Würzburg\nFalkenhaus\nMarktplatz 9\n97070 Würzburg",
         "lat": 49.795041,
         "lng": 9.930244
+      },
+      "description": {
+        "short": "Ein offener Kreativraum, der Zugang zu Geräten und Werkzeugen ermöglicht. Die Stadtbücherei stellt ihren Makerspace und alle Geräte einzeln vor.",
+        "long": "Ein offener Kreativraum, der Zugang zu Geräten und Werkzeugen ermöglicht. Aber was bedeutet das? Die Stadtbücherei stellt ihren Makerspace und alle Geräte einzeln vor."
+      },
+      "link": {
+        "host": "http://stadtbuecherei-wuerzburg.de"
       }
     },
     {
       "key": "WUEWW-2019-005",
       "start": "2019-04-01T16:00:00+02:00",
       "end": "2019-04-01T17:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BARC GmbH",
         "infotext": "BARC ist ein Forschungs- und Beratungsinstitut für Unternehmenssoftware mit Fokus auf die Bereiche BI/Analytics, Big Data, CRM, ECM & ERP.\n\nBARC-Analysten unterstützen seit 20 Jahren Unternehmen bei Strategie, Organisation, Architektur und Evaluationsfragen mit umfassendem Markt-, Produkt- und Einführungswissen. Know-how-Basis bilden beständig durchgeführte Marktanalysen und Produktvergleichsstudien, die ein ausführliches Detailwissen über den Leistungsumfang aller marktrelevanten Softwareanbieter, neueste Entwicklungen und Best Practices sicherstellen. \n\nBARC formt mit den Einheiten Ardour, CXP und PAC die führende europäische Analystengruppe für Unternehmenssoftware und IT-Services „teknowlogy Group“ mit Präsenzen in acht Ländern.\n"
@@ -2403,13 +3131,19 @@
         "long": "Analytics, AI und Big Data - Daten gewinnbringend einsetzen\n\nStetiges Wachstum des Datenvolumens, technologische Trends und neue Anwendungsfälle zwingen Unternehmen zu handeln. Analytics, AI und Big Data bergen großes Potential. Vortrag und Diskussion zeigen Entwicklung und Anwendung moderner Analytics."
       },
       "tags": [
-        "AI"
-      ]
+        "AI",
+        "Analytics"
+      ],
+      "link": {
+        "event": "https://barc.de/events/wueww19",
+        "host": "https://barc.de/"
+      }
     },
     {
       "key": "WUEWW-2019-003",
       "start": "2019-04-01T17:00:00+02:00",
       "end": "2019-04-01T18:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
         "infotext": "technikboerse.com ist ein Online-Marktplatz für Nutzmaschinen aus Landtechnik, Forsttechnik, Kommunaltechnik uvm. 1995 als Faxservice gegründet entwickelte sich technikboerse zu Europas reichweitenstärksten Marktplatz für gebrauchte Nutzmaschinen. Über 2.000 Händler aus 19 europäischen Ländern vertreiben über technikboerse.com einen Bestand mit einem Wert von über 4 Mrd. Euro"
@@ -2422,16 +3156,48 @@
       },
       "description": {
         "short": "Gewinne einen Einblick in die Aufgaben der Mitarbeiter von Unterfrankens größtem Online-Marktplatz",
-        "long": "Auch traditionelle Branchen wie Landwirtschaft und Landtechnikhandel setzen auf E-Commerce. Der Handel von Landtechnik über digitale Marktplätze wie technikboerse.com ist bereits seit 20 Jahren ein lohnendes Geschäft. Erfahren Sie mehr darüber, welche Aufgaben anfallen, um einen der größten Online-Marktplätze mit tausenden Händlern und Millionen Nachfragern zu betreiben. Mitarbeiter aus den verschiedensten Bereichen der technikboerse geben einen Einblick in ihren abwechslungsreichen Arbeitstag.\n\n"
+        "long": "Auch traditionelle Branchen wie Landwirtschaft und Landtechnikhandel setzen auf E-Commerce. Der Handel von Landtechnik über digitale Marktplätze wie technikboerse.com ist bereits seit 20 Jahren ein lohnendes Geschäft. Erfahren Sie mehr darüber, welche Aufgaben anfallen, um einen der größten Online-Marktplätze mit tausenden Händlern und Millionen Nachfragern zu betreiben. Mitarbeiter aus den verschiedensten Bereichen der technikboerse geben einen Einblick in ihren abwechslungsreichen Arbeitstag."
       },
       "tags": [
         "E-Commerce"
-      ]
+      ],
+      "link": {
+        "event": "https://www.xing.com/events/wueww-continuous-integration-jenkins-cloud-2066939",
+        "host": "https://www.technikboerse.com/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-010",
+      "start": "2019-04-01T17:00:00+02:00",
+      "end": "2019-04-01T19:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Daniel Dinnebier",
+        "infotext": "Daniel Dinnebier ist eine Experte für B2B-Vertrieb. Er hilft mittelständischen Unternehmen und Start-ups dabei, Kunden zu gewinnen und dauerhaft am Markt erfolgreich zu sein."
+      },
+      "title": "Vertriebstool Online Marketing",
+      "location": {
+        "name": "Online Rebellion\nSchweinfurter Str. 9\n97080 Würzburg",
+        "lat": 49.7993256,
+        "lng": 9.9448598
+      },
+      "description": {
+        "short": "Erfahren Sie, wie man durch Online Marketing heiße Leads generiert und neue Kunden gewinnt",
+        "long": "Neue Kunden zu gewinnen ist eine Herausforderung für jedes Unternehmen. Auf dieser Veranstaltung erklärt Ihnen ein Experte für B2B-Vertrieb, wie Sie durch Online Marketing heiße Leads generieren und neue Kunden gewinnen."
+      },
+      "tags": [
+        "Einsteiger"
+      ],
+      "link": {
+        "event": "info@thesalesagency.biz",
+        "host": "https://www.thesalesagency.biz/"
+      }
     },
     {
       "key": "WUEWW-2019-600",
       "start": "2019-04-07T14:00:00+02:00",
       "end": null,
+      "cancelled": false,
       "host": {
         "name": "ZDI Mainfranken und Stadtteilbücherei Hubland",
         "infotext": "Die Stadtbücherei ist eine öffentliche, nicht auf Gewinnerzielung gerichtete Kultur- und Bildungseinrichtung der Stadt Würzburg. Wir fördern Lese-, Informations- und Medienkompetenz auf vielseitigen Wegen. Wir stehen allen Interessierten offen. Ab März 2019 gibt es auch eine Zweigstelle am Hubland.\n\nDas ZDI Mainfranken ist das neue digitale Gründerzentrum in der Region, das die Gründungsaktivität von digitalen Start-ups fördert. Gemeinsam mit seinen Kooperationspartnern, den beiden Hochschulen, der IHK und den Gründerzentren in Würzburg, Schweinfurt und Bad Kissingen entsteht ein mainfrankenweites Gründerökosystem an der Schnittstelle zwischen Wissenschaft und Wirtschaft."
@@ -2445,12 +3211,17 @@
       "description": {
         "short": "Fotografierend den Tower und den Cube am Hubland vom Keller bis zur Dachterrasse erkunden.",
         "long": "Fotografierend den Tower und den Cube am Hubland vom Keller bis zur Dachterrasse erkunden. \n\nWir laden euch in die neuen Räume des Zentrums für Digitale Innovationen (ZDI) Mainfranken und der Stadtteilbücherei Hubland ein. Die Gelegenheit, bei einem #instawalk und anschließendem #instaplausch mit #instasnacks andere Instagrammer zu treffen. "
+      },
+      "link": {
+        "event": "instawalk@wuerzburg.de",
+        "host": "http://stadtbuecherei-wuerzburg.de\n\nhttps://www.zdi-mainfranken.de"
       }
     },
     {
       "key": "WUEWW-2019-700",
       "start": "2019-04-08T09:00:00+02:00",
       "end": "2019-04-08T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "ISO-Gruppe – Standort Würzburg",
         "infotext": "Der Standort Würzburg der ISO-Gruppe ist Digitalisierungspartner für den Mittelstand in der Region Mainfranken. Wir bieten die passenden Lösungen für die großen Herausforderungen - IT-Personal, IT-Infrastrukturen und digitale Lösungen."
@@ -2467,12 +3238,17 @@
       },
       "tags": [
         "HR"
-      ]
+      ],
+      "link": {
+        "event": "https://www.xing.com/events/hr-digital-barcamp-mainfranken-2061440",
+        "host": "https://www.iso-gruppe.com/de/iso-mainfranken.html"
+      }
     },
     {
       "key": "WUEWW-2019-701",
       "start": "2019-04-08T09:30:00+02:00",
       "end": "2019-04-08T11:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "BFW Berufsförderungswerk Würzburg gGmbH \ngemeinsam mit rockenstein AG, Internet-Service-Provider",
         "infotext": "Das BFW Würzburg ist ein überregionales Bildungszentrum, spezialisiert auf die berufliche Rehabilitation Erwachsener blinder und sehbehinderter Menschen, lt. §51 SGB IX. Die Umschulungen enden nach zwei Jahren mit qualifizierten Abschlüssen und werden zunehmend von Menschen mit anderen gesundheitlichen Einschränkungen, wie z.B. psychischen Erkrankungen, erfolgreich genutzt. Ziel ist die umfassende Teilhabe und zeitnahe Wiedereingliederung der Teilnehmer in das berufliche, soziale und gesellschaftliche Leben."
@@ -2486,12 +3262,16 @@
       "description": {
         "short": "BFW Orientierungs-App In-Outdoor für Android-, iOS-Smartphones für Menschen mit und ohne Handicap. ",
         "long": "Selbsterfahrung mit Schwarzbrille und BFW SmartInfo, Orientierungs-App In-Outdoor für Android- und iOS-Smartphones für Menschen mit und ohne Handicap. Die App gibt Infos (Text, Fotos, Filme, Sprachen, richtungsbezogene Angaben), sobald Sie sich einem Infopunkt nähern. Einzigartige Technologiekombination (GPS, Beacons, NFC, QR-Code) mit barrierefreier Programmierung, dadurch für behinderte Menschen ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich - inklusive App für Alle.\n\nAchtung: Die Personenzahl ist auf 12 Teilnehmer beschränkt. Eine Anmeldung ist zwingend erforderlich. "
+      },
+      "link": {
+        "event": "veranstaltungen@bfw-wuerzburg.de"
       }
     },
     {
       "key": "WUEWW-2019-708",
       "start": "2019-04-08T11:00:00+02:00",
       "end": "2019-04-08T12:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "\nUniversitätsbibliothek Würzburg",
         "infotext": "Die Universitätsbibliothek Würzburg steht in Unterfranken für Forschung und Lehre sowie als Regionalbibliothek für die Bewahrung und Pflege des literarischen Erbes. Mit über 3,5 Millionen Medien, jährlich über zwei Millionen Bibliotheksbesuchen, einer Vielzahl von Informationsservices, innovativen Angeboten wie dem Digitalisierungszentrum oder dem Universitätsverlag, ist die Universitätsbibliothek die größte Informationsdienstleisterin der Region – nicht nur für Universitätsangehörige, sondern für alle Bürgerinnen und Bürger. \n\n400 Jahre Universitätsbibliothek – Feiern Sie mit uns: www.bibliothek.uni-wuerzburg.de/400/"
@@ -2509,12 +3289,17 @@
       "tags": [
         "Einsteiger",
         "Digitalisierung"
-      ]
+      ],
+      "link": {
+        "event": "digitalisierung@bibliothek.uni-wuerzburg.de",
+        "host": "http://www.bibliothek.uni-wuerzburg.de/400/"
+      }
     },
     {
       "key": "WUEWW-2019-706",
       "start": "2019-04-08T13:00:00+02:00",
       "end": "2019-04-08T17:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "inics - daten & prozesse",
         "infotext": "inics - daten & prozesse berät Unternehmen und Organisationen im Bereich Informationsmanagement sowie intelligenter Datenanalyse und realisiert mit modernen Technologien zukunftssichere Analytics-Lösungen."
@@ -2528,12 +3313,17 @@
       "description": {
         "short": "Im Workshop lernen Sie, Daten schnell aus verschiedenen Informationsquellen in einen flexiblen, anwenderfreundlichen Analyse-Bericht zu bringen.",
         "long": "In unserem halbtägigen Workshop lernen Sie, wie rasch Daten aus unterschiedlichen Informationsquellen in einen flexiblen, anwenderfreundlichen Analyse-Bericht gebracht werden. Selbstständig erstellen Sie anhand eines konkreten Praxisbeispiels eine eigene Applikation und erleben so, wie schnell Sie neue Erkenntnisse aus Ihren Unternehmensdaten gewinnen und wie diese Informationen verteilt werden.\n\nDie Veranstaltung richtet sich an alle Anwender aus Controlling bzw. IT sowie Interessierte für das Thema Data Analytics. Benötigt wird ein eigener Laptop. Die Teilnahme ist kostenfrei, die Anzahl der Teilnehmer jedoch begrenzt. Wir bitten daher um eine Anmeldung über info@inics.de."
+      },
+      "link": {
+        "event": "info@inics.de",
+        "host": "https://inics.de/"
       }
     },
     {
       "key": "WUEWW-2019-707",
       "start": "2019-04-08T15:00:00+02:00",
       "end": "2019-04-08T16:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Uniklinikum Würzburg",
         "infotext": "Das Uniklinikum Würzburg bietet als Klinikum der Maximalversorgung höchstes Qualitätsniveau in der Krankenversorgung, Forschung und Lehre. Für diese innovativen Spitzenleistungen ist eine ausgezeichnete IT-Infrastruktur und eine stetige Digitalisierung der Prozesse erforderlich. Mit über 6500 Mitarbeiter zählt das UKW zu den größten Arbeitgebern der Region und hat allein im Servicezentrum Medizin-Informatik (SMI) über 60 Mitarbeiter angestellt."
@@ -2543,12 +3333,16 @@
         "name": "Das Servicezentrum Medizin-Informatik (SMI)\nSchweinfurter Straße 4\n97080 Würzburg",
         "lat": 49.802107,
         "lng": 9.9547021
+      },
+      "link": {
+        "host": "https://www.ukw.de"
       }
     },
     {
       "key": "WUEWW-2019-704",
       "start": "2019-04-08T16:00:00+02:00",
       "end": "2019-04-08T18:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Haas GmbH",
         "infotext": "Haas Das Sanitätshaus ist der führende Spezialist in den Bereichen Sanitätshaus, Orthopädietechnik, Orthopädieschuhtechnik, Rehatechnik sowie Homecare.\n\n"
@@ -2560,13 +3354,19 @@
         "lng": 10.00861
       },
       "description": {
-        "long": "Als Traditionsunternehmen mit innovativen Lösungen für die individuellen Versorgungen und Dienstleistungen im Handwerk in der Gesundheitsbranche blicken wir seit Jahrzehnten auf eine stetige und stabile Aufwärtsentwicklung zurück.\n\nUnser Anspruch ist, Menschen zu helfen, gesund oder erkrankt, ihre Lebensqualität in Zusammenarbeit mit Ärzten, Therapeuten und Pflegekräften zu verbessern. Wir bieten jungen Menschen in unserem Unternehmen die verschiedensten Ausbildungsmöglichkeiten (siehe Homepage).\n\n"
+        "short": "Wir zeigen an zwei Beispielen, wie uns Digitalisierung im Alltag unterstützt: mikroprozessorgesteuertes Beinprothesen-System und Schuheinlagen.",
+        "long": "Als Traditionsunternehmen mit innovativen Lösungen für die individuellen Versorgungen und Dienstleistungen im Handwerk in der Gesundheitsbranche blicken wir seit Jahrzehnten auf eine stetige und stabile Aufwärtsentwicklung zurück.\n\nUnser Anspruch ist, Menschen zu helfen, gesund oder erkrankt, ihre Lebensqualität in Zusammenarbeit mit Ärzten, Therapeuten und Pflegekräften zu verbessern. Wir bieten jungen Menschen in unserem Unternehmen die verschiedensten Ausbildungsmöglichkeiten (siehe Homepage)."
+      },
+      "link": {
+        "event": "info@haas.life   ",
+        "host": "http://www.haas.life/"
       }
     },
     {
       "key": "WUEWW-2019-705",
       "start": "2019-04-08T16:00:00+02:00",
       "end": "2019-04-08T20:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH",
         "infotext": "Das Technologie- und Gründerzentrum (TGZ) Würzburg ist die Adresse für technologieorientierte Gründer und Start-ups mit Fokus auf Automation und Industrie 4.0. Die Lage am Hubland, die hochwertige Ausstattung mit modernster Technik sowie umfassende Service- und Beratungsleistungen bieten hervorragende Voraussetzungen für Mieter, um mit Gleichgesinnten innovative Geschäftsideen zu entwickeln."
@@ -2583,12 +3383,17 @@
       },
       "tags": [
         "Start-up"
-      ]
+      ],
+      "link": {
+        "event": " info@tgz-wuerzburg.de (keine offizielle Anmeldung notwendig)",
+        "host": "www.tgz-wuerzburg.de"
+      }
     },
     {
       "key": "WUEWW-2019-702",
       "start": "2019-04-08T17:00:00+02:00",
       "end": "2019-04-08T19:00:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "contify GmbH",
         "infotext": "Contify | einfach • besser • texten 15 Menschen, eine Leidenschaft: Das Wort. Mit dem Blick auf klare Sprache, echten Mehrwert und saubere Strukturen fertigen wir Content, der Suchmaschinen hilft Ihre Inhalte zu verstehen und User begeistert.\n\n"
@@ -2605,12 +3410,16 @@
       },
       "tags": [
         "SEO"
-      ]
+      ],
+      "link": {
+        "host": "https://www.contify.de/"
+      }
     },
     {
       "key": "WUEWW-2019-703",
       "start": "2019-04-08T17:00:00+02:00",
       "end": "2019-04-08T18:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
         "infotext": "technikboerse.com ist ein Online-Marktplatz für Nutzmaschinen aus Landtechnik, Forsttechnik, Kommunaltechnik uvm. 1995 als Faxservice gegründet entwickelte sich technikboerse zu Europas reichweitenstärksten Marktplatz für gebrauchte Nutzmaschinen. Über 2.000 Händler aus 19 europäischen Ländern vertreiben über technikboerse.com einen Bestand mit einem Wert von über 4 Mrd. Euro"
@@ -2627,12 +3436,17 @@
       },
       "tags": [
         "Software Development"
-      ]
+      ],
+      "link": {
+        "event": "https://www.xing.com/events/wueww-continuous-integration-jenkins-cloud-2066939",
+        "host": "https://www.technikboerse.com/"
+      }
     },
     {
       "key": "WUEWW-2019-709",
       "start": "2019-04-08T19:00:00+02:00",
       "end": "2019-04-08T21:30:00+02:00",
+      "cancelled": false,
       "host": {
         "name": "Marketingclub Mainfranken e.V.",
         "infotext": "Der Marketing-Club Mainfranken e.V. (MCM) ist die regionale Marketing-Community mit Mehrwert und als einer von über 60 Clubs Teil des DMV, der größten Berufsvereinigung des Marketing-Managements in Deutschland. Der MCM bietet Ihnen unter anderem ein attraktives und nutzenbringendes Clubprogramm mit tollen Impulsen, neue Ideen und hilfreiche Anregungen für Ihr Tagesgeschäft. Erweitern Sie Ihr persönliches Netzwerk beim Erfahrungsaustausch mit Marketing- und Vertriebs-Professionals aus der Region."
@@ -2649,7 +3463,11 @@
       },
       "tags": [
         "Einsteiger"
-      ]
+      ],
+      "link": {
+        "event": "https://marketingclub-mainfranken.de/veranstaltungen/was-wir-vom-silicon-valley-lernen-koennen/",
+        "host": "www.marketingclub-mainfranken.de"
+      }
     }
   ]
 }
