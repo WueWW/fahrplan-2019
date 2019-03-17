@@ -6,13 +6,13 @@
   "properties": {
     "format": {
       "type": "string",
-      "description": "Schema Version number, currently 0.2.0; semantic versioning applies"
+      "description": "Schema Version number, currently 0.3.0; semantic versioning applies"
     },
     "sessions": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["key", "start", "end", "host", "title"],
+        "required": ["key", "start", "end", "cancelled", "host", "title"],
         "properties": {
           "key": {
             "type": "string",
@@ -30,6 +30,10 @@
               },
               { "type": "null", "description": "the session is open-ended" }
             ]
+          },
+          "cancelled": {
+            "type": "boolean",
+            "description": "whether the event has been cancelled explicitly; users may wish to display the information stroked out or else as applicable"
           },
           "host": {
             "type": "object",
@@ -64,6 +68,13 @@
             "properties": {
               "short": { "type": "string" },
               "long": { "type": "string" }
+            }
+          },
+          "links": {
+            "type": "object",
+            "properties": {
+              "event": { "type": "string" },
+              "host": { "type": "string" }
             }
           },
           "tags": {
