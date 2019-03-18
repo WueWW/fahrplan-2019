@@ -461,7 +461,7 @@
       "key": "WUEWW-2019-109",
       "start": "2019-04-02T15:00:00+02:00",
       "end": null,
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "Mayflower GmbH",
         "infotext": "Unsere Kunden bewältigen die drängendsten Herausforderungen auf ihren Märkten. Mayflower unterstützt hier mit individueller IT-Technologie, Um-die-Ecke-Denken und maßgeschneiderter Beratung für passgenaue Lösungen."
@@ -551,13 +551,10 @@
       },
       "description": {
         "short": "Erhalten Sie Einblicke in das größte Labor für betriebswirtschaftliche Software Deutschlands",
-        "long": "Erhalten Sie Einblicke in die moderne, IT-gestützte Unternehmenssteuerung und lernen Sie Unterschiede und Trends (Cloud, Open-Source, Künstliche Intelligenz) mehrerer betriebswirtschaftlicher Software-Lösungen kennen. Weitere Infos: www.erp-labs.de"
+        "long": "„Retail Disruption – Digitalisierung im Handel“\n\nErfahren Sie im Rahmen spannender Kurzvorträge:\n\nWie der Online- mit dem Offline-Handel effizient verknüpft werden kann\nWie Sie ein durchgängiges Kundenerlebnis auf allen Verkaufskanälen schaffen\nWie Sie mit Hilfe IT-gestützter Unternehmenssteuerung erhebliche Kosteneinsparungen erzielen können\nWo Sie Unterstützung und Fördermittel erhalten können\nIm Anschluss haben Sie im Rahmen eines „get together“ die Möglichkeit, sich mit allen Referenten sowie den anderen Teilnehmer auszutauschen und zu vernetzen.\n\nZiel der Veranstaltung ist es, dem regionalen Fach- und Einzelhandel die großen Chancen der Digitalisierung und des damit verbundenen Multichannel-Vertriebs näher zu bringen.\n\nDie Veranstaltung wird im Rahmen des Wissenstransferprojekts PROMPTNET, welches vom Europäischen Sozialfonds (ESF) gefördert wird, für Vertreter kleiner und mittlerer Unternehmen ausgerichtet. ESF in Bayern – Investition in Ihre Zukunft.\n\nMehr zum Programm lesen Sie hier. Die Teilnahme ist kostenfrei. Zur besseren Planung bitten wir um eine kurze Anmeldung per E-Mail an: digitalisierung@uni-wuerzburg.de\n\nWir freuen uns auf Ihr Kommen!"
       },
-      "tags": [
-        "AI Business Process Management"
-      ],
       "link": {
-        "event": "Anmeldung via erp-labor@uni-wuerzburg.de",
+        "event": "digitalisierung@uni-wuerzburg.de",
         "host": "http://www.erp-labs.de"
       }
     },
@@ -3333,6 +3330,10 @@
         "name": "Das Servicezentrum Medizin-Informatik (SMI)\nSchweinfurter Straße 4\n97080 Würzburg",
         "lat": 49.802107,
         "lng": 9.9547021
+      },
+      "description": {
+        "short": "Wir zeigen, wie wir mit Hilfe von IT-Werkzeugen Prozesse des Gesundheitswesens unterstützen und modellieren.",
+        "long": "Das Servicezentrum Medizin-Informatik (SMI) sorgt dafür, dass Soft- und Hardware, Server und Kommunikationssysteme am Universitätsklinikum reibungslos funktionieren.\n\nAußerdem unterstützen und modellieren wir Prozesse des Gesundheitswesens. Dafür verwenden wir verschiedene IT-Werkzeuge. In unseren Bereich fallen somit die Konzeption, Realisierung, Weiterentwicklung und Betreuung der Informationsdienste des Universitätsklinikums."
       },
       "link": {
         "host": "https://www.ukw.de"
