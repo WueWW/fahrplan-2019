@@ -169,6 +169,9 @@
         "name": "Starthub²\nGrombühlstraße 11\n97080 Würzburg",
         "lat": 49.801765,
         "lng": 9.943096
+      },
+      "description": {
+        "short": "Alle, die schon immer mal in ein Starthub, einen Co-Working-Space oder eine Bürogemeinschaft reinschauen wollten, kommt 2.4.19 auf einen Kaffee vorbei."
       }
     },
     {
@@ -803,6 +806,30 @@
       }
     },
     {
+      "key": "WUEWW-2019-138",
+      "start": "2019-04-02T17:30:00+02:00",
+      "end": "2019-04-02T20:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "iac Würzburg e.V",
+        "infotext": "Der iac ist eine Beratung von Studenten für Unternehmen. Durch divergente Strukturen sind wir in der Lage, individuelle Teams nach ihren Anforderungen maßzuschneidern. Diese passen sich Ihrem Unternehmen flexibel an, um Ressourcen zu entdecken und innovative Lösungen zu entwickeln. Seit zwanzig Jahren begeistern wir damit unsere Kunden aus der Region."
+      },
+      "title": "Digitalisierung in der Logistik\n",
+      "location": {
+        "name": "Coworking Würzburg\nVeitshöchheimer Straße 14\n97080 Würzburg",
+        "lat": 49.8019349,
+        "lng": 9.9223838
+      },
+      "description": {
+        "short": "Chatbots, Sensortechnik und IOT in der Logistik - Vortrag und Case Study.",
+        "long": "Chatbots, Sensortechnik und IoT in der Logistik. Ein kurzer Vortrag gibt einen kurzen Einblick in die Thematik. Anschließend wird der gegebener Input anhand von einem Case praktisch trainiert."
+      },
+      "links": {
+        "event": "moritz.beck@iac-wuerzburg.de\n",
+        "host": "http://www.iac-wuerzburg.de/"
+      }
+    },
+    {
       "key": "WUEWW-2019-117",
       "start": "2019-04-02T18:00:00+02:00",
       "end": "2019-04-02T20:00:00+02:00",
@@ -1360,7 +1387,7 @@
       "key": "WUEWW-2019-206",
       "start": "2019-04-03T16:00:00+02:00",
       "end": null,
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "hümmer kommunikation",
         "infotext": "Meine Vision ist es, nachhaltig öffentliche Aufmerksamkeit für meine Kundinnen und Kunden herzustellen. Meine Philosophie ist es, Kommunikation ehrlich zu betreiben: Nur, wenn ich wirklich hinter Projekten, Ideen, Produkten stehe, möchte und kann ich diese glaubhaft kommunizieren."
@@ -1920,6 +1947,57 @@
       }
     },
     {
+      "key": "WUEWW-2019-336",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T16:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
+        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
+      },
+      "title": "Softwareentwicklung erleben mit Lego\n",
+      "location": {
+        "name": "FHWS\nH.1.5\nSanderheinrichsleitenweg 20\n97074 Würzburg",
+        "lat": 49.777391,
+        "lng": 9.96224
+      },
+      "description": {
+        "short": "„Entwickeln“ ohne Code zu schreiben - wir werden gemeinsam als agiles Team mit Lego einen agilen Prozess durchspielen.",
+        "long": "Schon mal was von Agile, Scrum, Kanban und co. gehört? Oder noch nicht? Software wird immer öfter Agil entwickelt, also in kurzen iterativen Entwicklungszyklen mit direktem Feedback. Wer einmal erleben möchte, wie das funktioniert, kann in diesem Workshop selbst „Entwickeln“  ohne Code zu schreiben  - wir werden gemeinsam als agiles Team mit Lego einen agilen Prozess durchspielen und erleben. Es sind keine Programmierkenntnisse notwendig, nur Lust am Lego bauen."
+      },
+      "tags": [
+        "Software Development",
+        "Einsteiger"
+      ],
+      "links": {
+        "event": "isabel.john@fhws.de",
+        "host": "https://www.fhws.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-337",
+      "start": "2019-04-04T15:00:00+02:00",
+      "end": null,
+      "cancelled": false,
+      "host": {
+        "name": "Bosch Rexroth"
+      },
+      "title": "Industrie 4.0 live in der Produktion erleben\n",
+      "location": {
+        "name": "Bosch Rexroth AG\nBürgermeister-Dr.-Nebel-Str. 2\n97816 Lohr am Main",
+        "lat": 49.9773168,
+        "lng": 9.5803876
+      },
+      "description": {
+        "short": "Wir öffnen unser Werk in Lohr am Main für elektrische Antriebe und Steuerungen und zeigen, wie die Digitalisierung unsere Produktion beeinflusst.",
+        "long": "Wir öffnen unser Bosch-Rexroth-Werk in Lohr am Main für elektrische Antriebe und Steuerungen und zeigen live, wie die Digitalisierung unsere Produktion beeinflusst. Die Herausforderung: die Komplexität von 200.000 Produktvarianten und ihre Herstellung in flexiblen Losgrößen. Hohe Transparenz, null Rüstzeiten und papierlose Abläufe sind die Basis für die Umrüstung der Fertigung in eine Industrie-4.0-Umgebung."
+      },
+      "links": {
+        "event": "Lena.Breunig@boschrexroth.de",
+        "host": "Bosch Rexroth sorgt als ein weltweit führender Anbieter von Antriebs- und Steuerungstechnologien für effiziente, leistungsstarke und sichere Bewegung in Maschinen und Anlagen jeder Art und Größenordnung. Das Unternehmen bündelt weltweite Anwendungserfahrungen in den Marktsegmenten Mobile Anwendungen, Anlagenbau und Engineering sowie Fabrikautomation. Mit intelligenten Komponenten, maßgeschneiderten Systemlösungen sowie Dienstleistungen schafft Bosch Rexroth die Voraussetzungen für vollständig vernetzbare Anwendungen. Bosch Rexroth bietet seinen Kunden Hydraulik, Elektrische Antriebs- und Steuerungstechnik, Getriebetechnik sowie Linear- und Montagetechnik einschließlich Software und Schnittstellen ins Internet der Dinge. Mit einer Präsenz in mehr als 80 Ländern erwirtschafteten mehr als 30.500 Mitarbeiter 2017 einen Umsatz von 5,5 Milliarden Euro."
+      }
+    },
+    {
       "key": "WUEWW-2019-307",
       "start": "2019-04-04T16:00:00+02:00",
       "end": null,
@@ -1965,7 +2043,7 @@
       },
       "description": {
         "short": "Erlebe die digitale Welt der s.Oliver Group in Vorträgen und an unseren Tech-Ständen, u. a. zu Web Development, SAP, Cloud, Data Pooling und vielen mehr.",
-        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt. Themen u. a. Innovation & Start-Up-Kooperationen, Docker & Continuous Deployment für Dev & OPs, Cross-Plattform App-Development mit Xamarin, SAP, Cloud & OneDrive, Mac, Data Pooling & Machine Learning.\n\nDas haben wir vor:\n\n16.00 Uhr        Begrüßung\n16.05 Uhr        Kurzvorstellung der Stände\n16.30 Uhr        Cross-Plattform App-Development mit Xamarin\n17.00 Uhr        Docker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr        Wie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr        Innovation@s.Oliver Group\n18.00 Uhr        Der Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr        Apple im Corporate Einsatz\n\nAnmelden: Philipp.Werner@de.soliver.com oder über XING/Meetup:\n\nhttps://www.xing.com/events/fashion-tech-transformation-event-wurzburg-web-week-2058938\nhttps://www.meetup.com/de-DE/Fashion-Tech-Transformation/events/258701418/"
+        "long": "Über 300 Tech- und Digitalexperten machen uns zu einem der wichtigsten Treiber im Fashion- & Tech-Business. Dabei sind DevOps, IT-Architekturmanagement, Web & Mobile Development, SAP, Infrastructure Services und Innovation eine Selbstverständlichkeit auf unserem Weg der digitalen Transformation.\n\nWir laden euch herzlich in unser Headquarter in Rottendorf während der Würzburger Web Week ein. In Impulsvorträgen von unseren Experten geben wir praktische Einblicke in unsere Technologien und Projekte.\n\nAußerdem freuen wir uns über den persönlichen Austausch mit euch an unseren Ständen, an denen ihr unsere Technologien und Innovationen live erleben könnt. Themen u. a. Innovation & Start-Up-Kooperationen, Docker & Continuous Deployment für DevOps, Cross-Plattform App-Development mit Xamarin, SAP, Cloud & OneDrive, Mac, Data Pooling & Machine Learning.\n\nDas haben wir vor:\n\n16.00 Uhr        Begrüßung\n16.05 Uhr        Kurzvorstellung der Stände\n16.30 Uhr        Cross-Plattform App-Development mit Xamarin\n17.00 Uhr        Docker, Kubernetes und Continuous Deployment in der Praxis für Dev&Ops\n17.20 Uhr        Wie sich die Welt im Zeitalter der Digitalisierung verändert\n17.40 Uhr        Innovation@s.Oliver Group\n18.00 Uhr        Der Weg vom On-Premise-Rechenzentrum in die Cloud\n18.20 Uhr        Apple im Corporate Einsatz\n\nAnmelden: Philipp.Werner@de.soliver.com oder über XING/Meetup:\n\nhttps://www.xing.com/events/fashion-tech-transformation-event-wurzburg-web-week-2058938\nhttps://www.meetup.com/de-DE/Fashion-Tech-Transformation/events/258701418/"
       },
       "links": {
         "event": "Philipp.Werner@de.soliver.com\n",
@@ -2043,7 +2121,7 @@
       },
       "description": {
         "short": "Wir wollen Menschen zusammenbringen, die sich für die Digitalisierung im Gesundheitswesen („E-Health“) interessieren, inkl. einen spannenden Kurzvortrag.",
-        "long": "Wir wollen Menschen aus den unterschiedlichsten Bereichen zusammenbringen, die sich für die Digitalisierung im Gesundheitswesen („E-Health“) interessieren, sich bereits damit beschäftigen oder gerne etwas dazu beitragen wollen. \n\nIn kreativer Atmosphäre im Ideenlabor des ZDI Mainfranken starten wir nach einer kurzen Vorstellungsrunde direkt mit einem spannenden Impulsvortrag: Christian Schulz, CEO der Health Hackers e.V. Erlangen, wird uns mit einem kompakten Überblick über das Thema „Digitalisierung im Gesundheitswesen: Chancen, Risiken & Status Quo“ auf den Abend einstimmen. Nach anschließender Diskussionsrunde geht es direkt ans Netzwerken und den Austausch zwischen Wissenschaft, Wirtschaft und allen Interessierten, die das Thema E-Health weiter voranbringen möchten. \n\nEintritt frei, Anmeldung erbeten unter: anmeldung@igz.wuerzburg.de"
+        "long": "Wir wollen Menschen aus den unterschiedlichsten Bereichen zusammenbringen, die sich für die Digitalisierung im Gesundheitswesen („E-Health“) interessieren, sich bereits damit beschäftigen oder gerne etwas dazu beitragen wollen. \n\nIn kreativer Atmosphäre im Ideenlabor des ZDI Mainfranken starten wir nach einer kurzen Vorstellungsrunde direkt mit einem spannenden Impulsvortrag: Christian Schulz, hauptamtlicher Vorstand der Health Hackers e.V. Erlangen, wird uns mit einem kompakten Überblick über das Thema „Digitalisierung im Gesundheitswesen: Chancen, Risiken & Status Quo“ auf den Abend einstimmen. Nach anschließender Diskussionsrunde geht es direkt ans Netzwerken und den Austausch zwischen Wissenschaft, Wirtschaft und allen Interessierten, die das Thema E-Health weiter voranbringen möchten. \n\nEintritt frei, Anmeldung erbeten unter: anmeldung@igz.wuerzburg.de"
       },
       "tags": [
         "Digitalisierung"
@@ -2352,7 +2430,7 @@
       },
       "description": {
         "short": "Das Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken. Wir zeigen, wie es genau funktioniert und was man beachten soll.",
-        "long": "Die zentralen Fragen bei Jobs-to-be-done lauten: Warum kauft ein Kunde dein Produkt/deine Dienstleistung und welche Aufgabe möchte er/sie damit erfüllen?\n\nDas Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken.\n\nWarum ist das überhaupt notwendig?\n\nWir meinen zu wissen, was der Kunde braucht, aber allzu oft basieren die offensichtlichen Antworten auf falschen Annahmen. Mithilfe von sogenannten Job Stories werden die wahren Bedürfnisse des Nutzers festgehalten. Wobei Jobs als Problem oder Bedürfnis zu verstehen sind.\n\nIn diesem Kurz-Workshop werden wir mit einer kurzen Einführung hinter die Ideen und Konzepte von JTBD eintauchen, um anschließend gemeinsam an einem praktischen Beispiel Bedürfnisse und Anforderungen von Nutzern in Job Stories zu formulieren.\n\nSkill-Level: Einsteiger\nVorkenntnisse: Keine\nMin. Teilnehmer: 4\nMax. Teilnehmer: 16"
+        "long": "Die zentralen Fragen bei Jobs-to-be-done lauten: Warum kauft ein Kunde dein Produkt/deine Dienstleistung und welche Aufgabe möchte er/sie damit erfüllen?\n\nDas Jobs-to-be-done-Framework hilft, die echten Bedürfnisse von Nutzern und Kunden aufzudecken.\n\nWarum ist das überhaupt notwendig?\n\nWir meinen zu wissen, was der Kunde braucht, aber allzu oft basieren die offensichtlichen Antworten auf falschen Annahmen. Mithilfe von sogenannten Job Stories werden die wahren Bedürfnisse des Nutzers festgehalten. Wobei Jobs als Problem oder Bedürfnis zu verstehen sind.\n\nIn diesem Kurz-Workshop werden wir mit einer kurzen Einführung hinter die Ideen und Konzepte von JTBD eintauchen, um anschließend gemeinsam an einem praktischen Beispiel Bedürfnisse und Anforderungen von Nutzern in Job Stories zu formulieren.\n\nAufgrund des großen Interesses für den Jobs-to-be-done & Storytelling-Workshop gibt es jetzt noch einen zweiten Termin, Donnerstag, 11. April: https://www.meetup.com/de-DE/UX-Usability-Meetup-Unterfranken/events/259952795/\n\nSkill-Level: Einsteiger\nVorkenntnisse: Keine\nMin. Teilnehmer: 4\nMax. Teilnehmer: 16"
       },
       "links": {
         "event": "https://www.meetup.com/de-DE/UX-Usability-Meetup-Unterfranken/events/259118747/",
@@ -2462,6 +2540,28 @@
       ],
       "links": {
         "host": "https://www.vintin.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-337",
+      "start": "2019-04-04T20:00:00+02:00",
+      "end": null,
+      "cancelled": false,
+      "host": {
+        "name": "Keller Z87"
+      },
+      "title": "Wie Digitalisierung die Kultur verändert",
+      "location": {
+        "name": "Keller Z87\nBürgerbräugelände (neben Central-Kino)\nFrankfurter Straße 87\n97082 Würzburg",
+        "lat": 49.794177,
+        "lng": 9.894154
+      },
+      "description": {
+        "short": "Vertreter des Dachverbands der Freien Kulturträger diskutieren mit Gästen zum Thema \"Wie die Digitalisierung die Kultur verändert ...\"",
+        "long": "Am Donnerstag 4.4. um 20 Uhr lädt der Keller Z87, die neue Kultur- und Eventlocation auf dem Bürgerbräugelände, im Rahmen der Wue Web Week zu einer Podiumsdiskussion. Mit Vertretern des Dachverbands der Freien Kulturträger diskutieren Gäste unter dem Titel: „Wie die Digitalisierung die Kultur verändert …“ Dahinter stehen Fragen zur Veränderung der Kultur selbst, aber auch ihrer Finanzierung und neuer Themen, die durch die Kulturarbeit aufgegriffen werden müssen und andererseits auch die Digitalisierung des Kulturschaffens selbst.\n\nKeller Z87\nBürgerbräugelände (neben Central-Kino)\nBeginn: 20 Uhr\nEintritt frei"
+      },
+      "links": {
+        "host": "http://www.kellerz87.de/"
       }
     },
     {
@@ -2788,7 +2888,8 @@
       "end": "2019-04-02T17:00:00+02:00",
       "cancelled": false,
       "host": {
-        "name": "Vogel Communications Group"
+        "name": "Vogel Communications Group",
+        "infotext": "Jede Ausgabe widmet sich einem herausragenden Thema der digitalen Transformation und beleuchtet dieses aus dem Blickwinkel von Deutschlands wichtigsten Branchen: Automotive, Chemie & Life Sciences, Elektrotechnik, IT und Maschinenbau. Unsere Experten informieren fundiert und praxisnah über wegweisende Technologien, erfolgreiche Anwendungen und untersuchen die kritischen Erfolgsfaktoren. Dabei bereitet Next Industry die Themen so auf, dass sie der strategischen Management-Perspektive der adressierten C-Level-Positionen gerecht werden. Das Kompendium fungiert als Impulssetzer auf Augenhöhe und nutzt die umfassende Expertise des Hauses Vogel, Deutschlands bedeutendster Plattform für kundenspezifische Fachkommunikation."
       },
       "title": "Digitale Transformation im Mittelstand",
       "location": {
@@ -2797,11 +2898,12 @@
         "lng": 9.900767
       },
       "description": {
-        "short": "Das Fachmedium \"Next Industry\" lädt zur Diskussion: Digitale Transformation im Mittelstand - was geht? Mit Branchenexperten und Exponanten.",
-        "long": "Das Fachmedium „Next Industry“ lädt zur Diskussion: Digitale Transformation im Mittelstand – was geht? Mit Branchenexperten und Exponanten.\n\nEintritt frei, Anmeldung erbeten unter christine.bausenwein@vogel.de"
+        "short": "Das Fachmedium \"Next Industry\" lädt zur Diskussion: Digitale Transformation im Mittelstand - was geht?",
+        "long": "Nach dem Kennenlernen mit den „Ideenbrettern“ stellt sich Next Industry, das Kompendium für Vorausdenker, vor.\n\nDie Teilnehmer können am Themenbarometer „Wo steht die Industrie im digitalen Transformationsprozess?“ teilnehmen: www.menti.com/, Code: 383747.\n\nAnschließend werden die live ermittelten Umfrage-Ergebnisse diskutiert und die „5 wichtigsten Themen im digitalen Marketing“ erarbeitet. Mit der Präsentation dieser Workshop-Ergebnisse schließt die Veranstaltung.\n\nEintritt frei, Anmeldung erbeten unter christine.bausenwein@vogel.de\n\n\n"
       },
       "links": {
-        "host": "https://www.vogel.de/"
+        "event": "christine.bausenwein@vogel.de",
+        "host": "https://next-industry.de/"
       }
     },
     {
@@ -2874,6 +2976,9 @@
       "description": {
         "short": "Zehn Fachleute und Experten formulieren, wie Mobilität - intelligent von A nach B zu kommen - in der digitalen Zukunft aussehen wird (und kann).",
         "long": "Auto 4.0 bedeutet, vor allem die Zukunft des Verkehrssystems neu zu denken und zu gestalten. Auch in Würzburg und Mainfranken. Alte Denkschablonen zählen nicht mehr – oder nur stark eingeschränkt. Zehn Fachleute und Experten diskutieren und formulieren, wie Mobilität – intelligent von A nach B zu kommen – in der digitalen Zukunft aussehen wird (und kann).\n\nEs diskutieren im Panel:\n\n1. Moderation: Gerhard Brand, M.Sc.\n\n2. Robert Hämmelmann, Metallbau Hämmelmann, Wü-Heidingsfeld. TESLA-Fahrer, ZOE-Besitzer,Solar-Anlage mit ca. 35 KiloWattPeak (KWP) – Würzburgs „beste“ Ladesäule an der Autobahn A3\n\n3. Nikolaus Woltmann, Stellv. Vorsitzender WÜ-Akademie 4.0, außerdem am Lehrstuhl Prof. Hilgendorf (Roboterrecht) – Künstliche Intelligenz im Auto, rechtlicher Rahmen Roboterrecht – internationale Perspektive\n\n4. Andreas Schubert, Autohaus Echterstraße GmbH – Innovations- und Technologie-Management und Vertrieb von Elektromobilität und Fahrassistenzsystemen – Auto 4.0\n\n5. Dr. Christian Loos, Klima-Allianz Würzburg – Würzburger Akademie 4.0 – Verkehrswende in Würzburg – VCD Deutschland\n\n6. Christian Göpfert, M.Sc. – Stadt Würzburg – Transformation des Würzburger Verkehrssystems – Green City Projekt\n\n7. N.N. Mercedes AG, Stuttgart Zukunftskonzept eines deutschen Autobauers zum Verkehrssystem der globalen Zukunft\n\n8. N.N. Spindler GmbH, Würzburg – Der Golf IQ, AUDI e-tron und …\n\n9. Wolfgang Roth (angefragt) Stadtrat, CSU Würzburg: Seilbahn als urbanes Verkehrsmittel in Würzburg und Bayern\n\n10. Jens Scheiner oder Kollege/Kollegin Fachzeitschrift Automobilindustrie, Vogel Communications Group"
+      },
+      "links": {
+        "event": "ggbrand@hotmail.com"
       }
     },
     {
