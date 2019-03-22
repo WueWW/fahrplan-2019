@@ -1094,6 +1094,30 @@
       }
     },
     {
+      "key": "WUEWW-2019-223",
+      "start": "2019-04-03T09:30:00+02:00",
+      "end": "2019-04-03T15:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Tagueri AG",
+        "infotext": "Die Tagueri AG ist Beratungs- und Umsetzungspartner für Technologie-, Projekt- und Prozessmanagement. Unsere Kunden benötigen mehr als klassische Beratungsleistung und reines Ingenieursdenken. Über die technischen Aufgaben hinaus haben wir stets das Gesamtprojekt sowie den Erfolg unserer Kunden im Blick. Das Erstellen fundierter Analysen, Prozessmodelle und Projektpläne ist für uns nur der erste Schritt - wir setzen diese gemeinsam mit unseren Kunden um!"
+      },
+      "title": "Workshop: Design Thinking",
+      "location": {
+        "name": "Coworking Würzburg\nVeitshöchheimer Straße 14\n97080 Würzburg",
+        "lat": 49.8019349,
+        "lng": 9.9223838
+      },
+      "description": {
+        "short": "Design Thinking - praxisorientiert und kompakt. Bei unserem Workshop und Get-together auf der WüWW. Jetzt noch schnell anmelden.",
+        "long": "Zu voreilige Lösungsvorschläge bei Entwicklungen oder Problemlösungen sind keine Seltenheit: Hohe Änderungskosten, unzufriedene Kunden oder unzureichende Ergebnisse treiben die Macher immer mehr in den Hintergrund. Wir bringen Ihnen Design Thinking praxisorientiert nahe. Sie haben die Möglichkeit, Design Thinking an einem konkreten Beispiel kennen zu lernen und Tipps und Tricks für die Anwendung mitzunehmen. Ein praktischer Workshop mit konkretem Handwerkszeug! Für Mittagessen ist gesorgt."
+      },
+      "links": {
+        "event": "theresa.vogt@tagueri.com",
+        "host": "www.tagueri.com"
+      }
+    },
+    {
       "key": "WUEWW-2019-202",
       "start": "2019-04-03T11:00:00+02:00",
       "end": "2019-04-03T20:00:00+02:00",
