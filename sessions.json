@@ -793,8 +793,8 @@
       "title": "Stinkt´s Dir?",
       "location": {
         "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
-        "lat": 49.79,
-        "lng": 9.95
+        "lat": 49.789851,
+        "lng": 9.96971
       },
       "description": {
         "short": "Wir zeigen in diesem DYI-Workshop, wie du einen Feinstaubsensor auf Basis des Kleinstcomputers Raspberry PI bauen und betreiben kannst.",
@@ -2302,8 +2302,8 @@
       "title": "Podcast: Mit Marke zum Erfolg",
       "location": {
         "name": "ZDI Mainfranken\nGründerlabor im Cube\nHublandplatz 1\n97074 Würzburg",
-        "lat": 49.79,
-        "lng": 9.95
+        "lat": 49.789851,
+        "lng": 9.96971
       },
       "description": {
         "short": "Was ist ein Podcast und wie kann man damit eine Marke aufbauen? Beispiele, Tipps und Netzwerken.",
@@ -2811,8 +2811,8 @@
       "title": "Ethik am digitalen Arbeitsplatz",
       "location": {
         "name": "SFT-Lounge \nJosef-Martin-Weg 54/2\n97074 Würzburg",
-        "lat": 49.7867279,
-        "lng": 9.9721458
+        "lat": 49.786741,
+        "lng": 9.974355
       },
       "description": {
         "short": "Philosophie trifft Informatik: Workshop \"Ethik am digitalen Arbeitsplatz\" max 15 kostenfreie Plätze",
@@ -3303,8 +3303,8 @@
       "title": "Unterfrankens größter Marktplatz",
       "location": {
         "name": "Deutscher Landwirtschaftsverlag\ntechnikboerse.com\nBerliner Platz 9\n97080 Würzburg",
-        "lat": 49.799553,
-        "lng": 9.942485
+        "lat": 49.799649,
+        "lng": 9.942829
       },
       "description": {
         "short": "Gewinne einen Einblick in die Aufgaben der Mitarbeiter von Unterfrankens größtem Online-Marktplatz",
@@ -3330,8 +3330,8 @@
       "title": "Vertriebstool Online Marketing",
       "location": {
         "name": "Online Rebellion\nSchweinfurter Str. 9\n97080 Würzburg",
-        "lat": 49.7993256,
-        "lng": 9.9448598
+        "lat": 49.799051,
+        "lng": 9.94709
       },
       "description": {
         "short": "Erfahren Sie, wie man durch Online Marketing heiße Leads generiert und neue Kunden gewinnt",
@@ -3530,8 +3530,8 @@
       "title": "Start-up Night am TGZ",
       "location": {
         "name": "Technologie- und Gründerzentrum Würzburg (TGZ) GmbH\nMagdalene-Schoch-Straße 5\n97074 Würzburg",
-        "lat": 49.785109,
-        "lng": 9.968089
+        "lat": 49.787052,
+        "lng": 9.968049
       },
       "description": {
         "short": "Start-up Night @ TGZ: Kommt vorbei und lernt die Gründerteams in entspannter Networking-Atmosphäre persönlich kennen.",
@@ -3583,8 +3583,8 @@
       "title": "CI mit Jenkins in der Cloud",
       "location": {
         "name": "Deutscher Landwirtschaftsverlag\ntechnikboerse.com\nBerliner Platz 9\n97080 Würzburg",
-        "lat": 49.799553,
-        "lng": 9.942485
+        "lat": 49.799649,
+        "lng": 9.942829
       },
       "description": {
         "short": "Wir zeigen, wie unser Continuous Integration System funktioniert und was wir dadurch gelernt haben.",
