@@ -1118,10 +1118,36 @@
       }
     },
     {
+      "key": "WUEWW-2019-224",
+      "start": "2019-04-03T11:00:00+02:00",
+      "end": "2019-04-03T18:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "DevOps-Meetup – Andreas Rudat (Mayflower), Sebastian Kremer (Eikona) und Steffen Gebert (EMnify)",
+        "infotext": "So breit wie der Begriff „DevOps“ aufgefasst werden kann, so breit sind die beim monatlich stattfindenden DevOps-Meetup behandelten Themen. Ob Vortrag, Workshop oder Diskussion, in lockerer Atmosphäre tauschen sich ITler rund um moderne Software, IT-Infrastruktur und Kultur aus.\n\nDas Meetup existiert bereits seit 2,5 Jahren und fand bereits 25 Mal statt. Es wird organisiert von Steffen Gebert (EMnify), Andreas Rudat (Mayflower) sowie Sebastian Kremer (EIKONA)."
+      },
+      "title": "DevOps-Meetup XXL - mit Talks und Workshops",
+      "location": {
+        "name": "Vogel Convention Center\nMax-Planck-Straße 7/9\n97082 Würzburg",
+        "lat": 49.795136,
+        "lng": 9.900767
+      },
+      "description": {
+        "short": "Das DevOps-Meetup zur WueWW in extra groß - mit 4 Talks und 2 Workshops - Start schon um 11:00 Uhr.",
+        "long": "Das DevOps-Meetup zur WueWW in extra groß und bereits ab 11:00 Uhr.\n\nRund um moderne Software und IT-Infrastruktursowie die kulturellen Herausforderungen des Entwicklungs- und Betriebsalltags geht es auch dieses mal wieder. Auf euch warten die folgenden zwei Workshops:\n\n- Kubernetes 101 – Ein interaktiver Einstieg für alle Praktiker! (Stefan Siegl, Mayflower)\n- Infrastracture as Code mittels Terraform (Dr. Steffen Gebert, EMnify)\n\nParallel dazu finden die vier folgenden Talks statt:\n\n- Sebastian Schmid (DATEV): Entwickelst du noch oder lieferst du schon?\n- Stefan Siegl (Mayflower): Einführung in Istio\n- Peter Petermann (Flyeralarm): Tools of a Software Craftsman\n- Lienhart Woitok (netlogix): Automatisierung in der Praxis – wo fang ich an, wo hör ich auf?\n\nDie Veranstaltung ist kostenlos."
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "links": {
+        "host": "https://www.meetup.com/DevOps-Wuerzburg-Mainfranken/"
+      }
+    },
+    {
       "key": "WUEWW-2019-202",
       "start": "2019-04-03T11:00:00+02:00",
       "end": "2019-04-03T20:00:00+02:00",
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "FLYERALARM GmbH",
         "infotext": "FLYERALARM zählt zu den führenden Online-Druckereien Europas im B2B-Bereich und ist eines der größten deutschen E-Commerce-Unternehmen. Seit 2002 zeigen die Würzburger Printspezialisten, wie smart die Bestellung und Produktion von Druckprodukten sein kann."
