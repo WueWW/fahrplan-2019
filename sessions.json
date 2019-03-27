@@ -983,7 +983,7 @@
         "Software Development"
       ],
       "links": {
-        "event": "https://www.meetup.com/de-DE/dev_night/",
+        "event": "https://www.meetup.com/de-DE/dev_night/events/260115878/",
         "host": "https://dev-night.io/"
       }
     },
@@ -1140,6 +1140,7 @@
         "DevOps"
       ],
       "links": {
+        "event": "https://www.meetup.com/de-DE/DevOps-Wuerzburg-Mainfranken/events/259984213/",
         "host": "https://www.meetup.com/DevOps-Wuerzburg-Mainfranken/"
       }
     },
@@ -1916,7 +1917,7 @@
       },
       "description": {
         "short": "Der Homepage-Battle-Workshop für Studenten bietet wieder attraktive Gewinne für die besten Teilnehmer.",
-        "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
+        "long": "Wir zeigen euch in einem kurzen Vortrag, worauf es bei einer guten Webseite ankommt, welche Tools im Einsatz sind und geben euch Tipps & Tricks. Danach seid ihr dran und erstellt in kleinen Gruppen eine Webseite nach vorgegebenen Kriterien. Ob Bäckerei, Mode-Unternehmen oder Friseurmeisterin – Ziel des Homepage-Battles ist es, die lokalen Größen Mainfrankens attraktiv zu inszenieren. Am Ende prämieren wir die besten Website-Teams.\n\nVorkenntnisse sind nicht notwendig, eine gewisse „Online-Affinität“ ist aber hilfreich. Impressionen vom letzten Jahr sowie weitere Infos gibt es auf unserer Webseite."
       },
       "links": {
         "event": "https://www.iwelt.de/einblicke/veranstaltungen/homepage-battle/",
@@ -2022,6 +2023,29 @@
       "links": {
         "event": "isabel.john@fhws.de",
         "host": "https://www.fhws.de/"
+      }
+    },
+    {
+      "key": "WUEWW-2019-339",
+      "start": "2019-04-04T14:00:00+02:00",
+      "end": "2019-04-04T18:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "Peter Becker GmbH",
+        "infotext": "Klar, effizient und ästhetisch: So sind wir. Als Medienagentur erzeugen wir hochwertige Medienprodukte für analoge und digitale Welten und steuern komplexe Projekte. Vom Mittelständler bis zum Konzern betreuen wir dabei einen weit gefächerten Kundenkreis – aber immer höchst individuell."
+      },
+      "title": "Open House: Best VR in Town :-)",
+      "location": {
+        "name": "Peter Becker GmbH\nBürgerbräu-Gelände\nHaus 09 – Flaschenfüllerei\nFrankfurter Straße 87\n97082 Würzburg",
+        "lat": 49.794177,
+        "lng": 9.894154
+      },
+      "description": {
+        "short": "Wir arbeiten live an VR-Projekten und lassen unsere Besucher in die Zukunft der digitalen Kommunikation eintauchen. Vorbeikommen, anschauen, staunen.",
+        "long": "Wir arbeiten live an VR-Projekten und lassen unsere Besucher in die Zukunft der digitalen Kommunikation eintauchen. Neue Möglichkeiten für Marketing, Schulungen oder Virtual Engineering sind so erlebbar. Vorbeikommen, anschauen, staunen :-).\n\nWo Du uns findest:\n\nFotostudio der Peter Becker GmbH auf dem Bürgerbräu-Gelände (Haus 09 | Flaschenfüllerei); über dem Central-Kino.\n"
+      },
+      "links": {
+        "host": "http://www.becker-medien.de"
       }
     },
     {
@@ -3086,6 +3110,30 @@
       }
     },
     {
+      "key": "WUEWW-2019-416",
+      "start": "2019-04-05T19:30:00+02:00",
+      "end": "2019-04-05T21:30:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "zukunftshaus Würzburg",
+        "infotext": "Das Zukunftshaus ermöglicht durch die Bündelung umfassender Angebote den nachhaltigen Konsum. Wir schaffen eine echte, alltagstaugliche Alternative. Ein einfacher und zeitgemäßer Zugang zu einem Lebensstil, der Ressourcen schont und die natürlichen Grenzen der Erde respektiert. Das Zukunftshaus wird getragen durch einen Verein und eine Gmbh, dessen Teilgesellschafter der Verein sein wird. Es gibt viele Möglichkeiten sich zu beteiligen!"
+      },
+      "title": "Startschuss zum ersten Zukunftshaus weltweit",
+      "location": {
+        "name": "Buchhandlung Neuer Weg, Sanderstr. 23, Würzburg",
+        "lat": 49.7884523,
+        "lng": 9.9289257
+      },
+      "description": {
+        "short": "Es geht los! Wir schaffen einen Ort für Leihen, Tauschen, nachhaltig Kaufen, Gastro, Co-Working und Reparatur unter einem Dach: das zukunftshaus.",
+        "long": "Neun Monate nach der Vorstellung der Grundidee ist ein wirtschaftlich tragfähiges Konzept für das erste zukunftshaus weltweit – hier in Würzburg! – entstanden und es folgt die Umsetzung. Am 5.4. erfahren Sie, was wir genau vorhaben und wie Sie uns dabei unterstützen können. Denn die Zeit der Insellösungen ist vorbei. Wir brauchen starke Netzwerke, um unseren Lebensstil zu sichern und ihn deswegen zukunftsfähig zu machen. Seien Sie dabei!"
+      },
+      "links": {
+        "event": "info@zukunftshaus-wue.de",
+        "host": "http://www.zukunftshaus-wuerzburg.de/"
+      }
+    },
+    {
       "key": "WUEWW-2019-001",
       "start": "2019-04-01T15:00:00+02:00",
       "end": "2019-04-01T19:00:00+02:00",
@@ -3112,7 +3160,7 @@
       "key": "WUEWW-2019-004",
       "start": "2019-04-01T10:00:00+02:00",
       "end": null,
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "Deutsche Rentenversicherung Bund",
         "infotext": "An zwei Standorten in Würzburg kümmern wir uns als Datenstelle der Rentenversicherung (DSRV) mit ca. 200 Mitarbeitern seit über 40 Jahren kundenorientiert um zentrale IT-Aufgaben der Rentenversicherung. Dazu zählt neben der Vergabe der Versicherungsnummer auch die elektronische Kommunikation zwischen den Rentenversicherungsträgern untereinander sowie zu den Versicherten und anderen Behörden im In- und Ausland."
@@ -3488,9 +3536,10 @@
       },
       "description": {
         "short": "Wir zeigen, wie wir mit Hilfe von IT-Werkzeugen Prozesse des Gesundheitswesens unterstützen und modellieren.",
-        "long": "Das Servicezentrum Medizin-Informatik (SMI) sorgt dafür, dass Soft- und Hardware, Server und Kommunikationssysteme am Universitätsklinikum reibungslos funktionieren.\n\nAußerdem unterstützen und modellieren wir Prozesse des Gesundheitswesens. Dafür verwenden wir verschiedene IT-Werkzeuge. In unseren Bereich fallen somit die Konzeption, Realisierung, Weiterentwicklung und Betreuung der Informationsdienste des Universitätsklinikums."
+        "long": "Das Servicezentrum Medizin-Informatik (SMI) sorgt dafür, dass Soft- und Hardware, Server und Kommunikationssysteme am Universitätsklinikum reibungslos funktionieren.\n\nAußerdem unterstützen und modellieren wir Prozesse des Gesundheitswesens. Dafür verwenden wir verschiedene IT-Werkzeuge. In unseren Bereich fallen somit die Konzeption, Realisierung, Weiterentwicklung und Betreuung der Informationsdienste des Universitätsklinikums.\n\nAufgrund der begrenzten Teilnehmerzahl ist die Anmeldung unter Tel: 0931/201-55522 erforderlich."
       },
       "links": {
+        "event": "Aufgrund der begrenzten Teilnehmerzahl ist die Anmeldung unter Tel: 0931/201-55522 erforderlich.",
         "host": "https://www.ukw.de"
       }
     },
