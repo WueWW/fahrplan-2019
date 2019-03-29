@@ -1015,6 +1015,33 @@
       }
     },
     {
+      "key": "WUEWW-2019-225",
+      "start": "2019-04-03T09:00:00+02:00",
+      "end": "2019-04-03T11:00:00+02:00",
+      "cancelled": false,
+      "host": {
+        "name": "FHWS",
+        "infotext": "Die Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt, kurz FHWS, ist mit über 9.300 eingeschriebenen Studierenden und ca. 200 Professorinnen und Professoren eine der größten Hochschulen für angewandte Wissenschaften in Bayern. Die zehn Fakultäten der FHWS bieten über 40 Bachelor- und Masterstudiengänge an."
+      },
+      "title": "Usability mit Eye-Tracking und Emotionsanalyse",
+      "location": {
+        "name": "FHWS\nLabor I.3.7\nSanderheinrichsleitenweg 20 \n97074 Würzburg",
+        "lat": 49.777391,
+        "lng": 9.96224
+      },
+      "description": {
+        "short": "Wer wissen möchte, wie Eye-tracking und Emotionsmessung funktioniert, kann in diesem Workshop Nutzern über die Schulter schauen.",
+        "long": "Optimierung der User-Experience / Usability unter anderem mit Eye-Tracking und Emotionsanalyse\n\nWissen Sie, wohin der Nutzer / die Nutzerin bei der Benutzung der Website wirklich schaut? Kommt bei der Betrachtung Freude zum Vorschein oder gar Ekel und Verachtung? Können die Seiten auch als Laie wirklich problemlos genutzt werden oder bestehen unüberwindliche Hürden?\n\nWer einmal erleben möchte, wie Eye-tracking und Emotionsmessung funktioniert, kann in diesem Workshop selbst dem Nutzer / der Nutzerin über die Schulter schauen und Impulse zur Webseitenverbesserung bekommen."
+      },
+      "tags": [
+        "UX/UI"
+      ],
+      "links": {
+        "event": "tobias.aubele@fhws.de",
+        "host": "https://www.fhws.de/"
+      }
+    },
+    {
       "key": "WUEWW-2019-221",
       "start": "2019-04-03T09:00:00+02:00",
       "end": null,
