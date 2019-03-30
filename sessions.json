@@ -1347,7 +1347,7 @@
       },
       "description": {
         "short": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.",
-        "long": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.\n\nAls Programmierer arbeiten wir mit an der Gestaltung der Zukunft.\n\n„The future is already here. It’s just not very evenly distributed.“ William Ford Gibson, US-amerikanischer Science-Fiction-Autor\n\nBei unserer Veranstaltung erklären wir die Technologien Augmented Reality (AR) und Virtual Reality (VR) an Hand von verschiedenen Einsatz-Beispielen. Dabei habt ihr die Gelegenheit, eine Hightech Mixed-Reality-Brille einmal selbst zu testen.\n\nUnter dem Motto „Advantages of Being a Programmer“ zeigen wir anschließend Beispiele von nützlichen und lustigen Projekten, die wir und unsere Kollegen privat umgesetzt haben.\n\nAußerdem stellen wir einfache Spiele vor, die wir entwickelt oder nachgebaut haben. In einem kurzen „Live Coding“ seht ihr dann, wie wir eine Komponente des Spieles verändern."
+        "long": "„Augmented Reality and Advantages of Being a Programmer“ – eine Veranstaltung in Kooperation mit dem Stadtjugendring Würzburg und den Würzburger Medienscouts.\n\nAls Programmierer arbeiten wir mit an der Gestaltung der Zukunft.\n\n„The future is already here. It’s just not very evenly distributed.“ William Ford Gibson, US-amerikanischer Science-Fiction-Autor\n\nBei unserer Veranstaltung erklären wir die Technologien Augmented Reality (AR) und Virtual Reality (VR) an Hand von verschiedenen Einsatz-Beispielen. Dabei habt ihr die Gelegenheit, eine Hightech Mixed-Reality-Brille einmal selbst zu testen.\n\nUnter dem Motto „Advantages of Being a Programmer“ zeigen wir anschließend Beispiele von nützlichen und lustigen Projekten, die wir und unsere Kollegen privat umgesetzt haben.\n\nAußerdem stellen wir einfache Spiele vor, die wir entwickelt oder nachgebaut haben. In einem kurzen „Live Coding“ seht ihr dann, wie wir eine Komponente des Spieles verändern.\n\nHier ein kurzes Gespräch mit den Organisatoren, Azubis bei Noxum: http://blog.noxum.com/behind-the-scenes-interview-zum-noxum-beitrag-zur-wuerzburg-web-week-2019/"
       },
       "links": {
         "event": "https://www.noxum.com/de/kommunikation/veranstaltungen/wuerzburg-web-week/",
@@ -2422,7 +2422,7 @@
       "key": "WUEWW-2019-314",
       "start": "2019-04-04T18:00:00+02:00",
       "end": null,
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "Andreas Pabst",
         "infotext": "Andreas ist als Digital Native quasi von kleinauf in der digitalen Welt unterwegs. Dabei stand für ihn von Beginn an die Softwareentwicklung im Vordergrund. Nach einigen Stationen in namhaften globalen Unternehmen und dutzenden Großprojekten lebt er die agilen Methoden sowie Netzwerken und ist bestens vertraut mit Projektmanagementaufgaben und lateralem Führen."
