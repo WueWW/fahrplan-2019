@@ -2470,7 +2470,7 @@
       "key": "WUEWW-2019-321",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T18:30:00+02:00",
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "schmitt kommuniziert.",
         "infotext": "schmitt kommuniziert versteht sich als vordenkender Partner für strategische Kommunikation. Die PR-Boutique ebnet mittelständischen Unternehmen und Start-ups den Weg, wenn es um ihren Auftritt in den Medien und im Internet geht. Auf Grundlage von Content Strategien schafft schmitt kommuniziert nachhaltigen PR-Erfolg und etabliert Marken. Die Agentur positioniert KMUs in den Medien und unterstützt Vertriebsziele."
@@ -2494,7 +2494,7 @@
       "key": "WUEWW-2019-322",
       "start": "2019-04-04T18:00:00+02:00",
       "end": "2019-04-04T21:00:00+02:00",
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "Deutsche Public Relations Gesellschaft (DPRG)\n",
         "infotext": "Die Deutsche Public Relations Gesellschaft e.V. (DPRG) ist der Verband der Kommunikations-Professionals in Deutschland. Im Mittelpunkt stehen Networking, Knowledge-Sharing und Austausch. Die DPRG bildet die Vielfalt der Kommunikationsbranche in Deutschland ab: von freien Kommunikationsberatern bis zu Geschäftsführern namhafter Agenturen oder Kommunikationsleitern von börsennotierten Unternehmen. Die Regionalgruppe Würzburg bietet regelmäßige Veranstaltungen an."
@@ -2878,7 +2878,7 @@
       "key": "WUEWW-2019-415",
       "start": "2019-04-05T10:30:00+02:00",
       "end": "2019-04-05T12:00:00+02:00",
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "Empolis Information Management GmbH",
         "infotext": "Empolis unterstützt Kunden dabei, die richtigen Entscheidungen zu treffen. Weltweit gibt es derzeit ca. 500 Empolis-Installationen und täglich nutzen rund 700.000 professionelle User unsere Lösungen, um damit etwa 40 Millionen Endkunden zu bedienen. Wir bündeln Technologien der künstlichen Intelligenz für CRM- und Service-Management in Cloudlösungen. Diese ermöglichen eine völlig neue Servicequalität, Kundenansprache und digitale Geschäftsmodelle."
