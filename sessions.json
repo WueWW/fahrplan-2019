@@ -2079,7 +2079,7 @@
       "key": "WUEWW-2019-337",
       "start": "2019-04-04T15:00:00+02:00",
       "end": null,
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "Bosch Rexroth"
       },
@@ -3651,7 +3651,7 @@
       "key": "WUEWW-2019-703",
       "start": "2019-04-08T17:00:00+02:00",
       "end": "2019-04-08T18:30:00+02:00",
-      "cancelled": false,
+      "cancelled": true,
       "host": {
         "name": "technikboerse.com - Deutscher Landwirtschaftsverlag GmbH",
         "infotext": "technikboerse.com ist ein Online-Marktplatz für Nutzmaschinen aus Landtechnik, Forsttechnik, Kommunaltechnik uvm. 1995 als Faxservice gegründet entwickelte sich technikboerse zu Europas reichweitenstärksten Marktplatz für gebrauchte Nutzmaschinen. Über 2.000 Händler aus 19 europäischen Ländern vertreiben über technikboerse.com einen Bestand mit einem Wert von über 4 Mrd. Euro"
